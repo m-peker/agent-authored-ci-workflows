@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes and workflow_dispatch, uses the specified OCaml version, installs the required runtime libraries, and creates a scraper-latest release with the binary, while Workflow B does not create a scraper-latest release and uses a different OCaml version."}

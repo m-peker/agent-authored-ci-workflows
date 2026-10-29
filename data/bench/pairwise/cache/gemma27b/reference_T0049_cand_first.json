@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the maintainer-only execution via `workflow_dispatch` and GitHub API check, issue input, and draft PR creation as specified in the request, while workflow A uses event triggers and comment-based activation which is not what was asked for."}

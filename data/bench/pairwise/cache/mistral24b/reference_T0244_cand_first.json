@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary permissions for id-token to access the Jira API, while Workflow B is missing this critical permission."}

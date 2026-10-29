@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on every pull request as requested, while workflow B adds an unnecessary `workflow_dispatch` trigger."}

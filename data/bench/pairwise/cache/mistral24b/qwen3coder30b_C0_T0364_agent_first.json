@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the develop branch and uses the correct ref for checkout, while Workflow B targets the main branch and lacks the ref specification."}

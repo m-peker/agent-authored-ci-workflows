@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pull_request_target event and checks for organization forks and maintainer edit permissions as specified in the request."}

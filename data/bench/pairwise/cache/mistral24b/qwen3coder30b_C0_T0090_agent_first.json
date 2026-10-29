@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including specific triggers, proper job structure, and sensible use of actions for CockroachDB testing with TestContainers."}

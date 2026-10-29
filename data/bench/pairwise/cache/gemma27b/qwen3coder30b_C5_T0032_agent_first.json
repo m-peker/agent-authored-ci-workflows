@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by including steps to build and validate DEB packages without fpm, while workflow A is a CodeQL analysis workflow and doesn't relate to the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to trigger a Vercel rebuild with the deploy hook, while workflow B unnecessarily includes Python setup and metadata fetching steps not mentioned in the requirements."}

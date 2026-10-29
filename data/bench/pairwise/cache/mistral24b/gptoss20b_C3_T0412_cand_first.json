@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a workflow_dispatch trigger, which is useful for manual triggering of the workflow, and it also includes rustfmt in the components, which is useful for maintaining code style consistency."}

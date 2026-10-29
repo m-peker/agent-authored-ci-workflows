@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of moving coverage to scheduled runs and reducing the PR test matrix by leveraging a separate workflow and dynamic configuration, while B attempts to do both in one workflow and doesn't fully implement the matrix reduction."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by setting the Rust toolchain to 1.85.0 and running tests, clippy, and fmt, while A focuses on integration tests and doesn't enforce the MSRV/edition bump."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes, includes necessary Go setup, runs the specified tests, and builds the documentation, while Workflow B uses Node.js and Helm which are not relevant to the request."}

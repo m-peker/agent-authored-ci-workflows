@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly includes installing development dependencies with `uv sync --extra dev` as required for testing, while B only uses `uv sync` which may not install all necessary dependencies."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a matrix strategy for efficient testing across Python versions and includes coverage reporting, while workflow A repeats the same steps for each version, making it less maintainable and lacking coverage."}

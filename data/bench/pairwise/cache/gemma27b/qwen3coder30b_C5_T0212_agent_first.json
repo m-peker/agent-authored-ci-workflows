@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by packaging the binary into a tarball and uploading to releases on a release event, while B only uploads artifacts."}

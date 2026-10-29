@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by building a Docker image, running tests against it, and including the database cleaner script, while workflow B only runs existing tests and validates the script without integrating it into a full build/test cycle."}

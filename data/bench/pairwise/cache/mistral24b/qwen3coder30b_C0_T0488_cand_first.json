@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested validation step and runs it unconditionally for workflow_dispatch events, while Workflow B does not address the validation requirement."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to markdown files in the docs-mslearn directory and updates the ms.date field in the frontmatter, while Workflow B updates all date placeholders in various file types and runs on a schedule."}

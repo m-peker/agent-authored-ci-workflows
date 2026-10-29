@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets environment variables for database connection strings, which is crucial for running integration tests against the services it provisions, while A does not provide these connection details."}

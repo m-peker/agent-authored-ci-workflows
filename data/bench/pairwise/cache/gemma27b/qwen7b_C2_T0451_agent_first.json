@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested `permissions: contents: read` and sets up Node.js/npm which is necessary for a TypeScript project, making it more likely to work out-of-the-box."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on CLI-specific version tags, includes comprehensive quality checks, and handles the npm publication process with provenance and release creation, while Workflow B uses Python setup and lacks CLI-specific version tag handling."}

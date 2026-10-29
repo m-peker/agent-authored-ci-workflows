@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses paths-ignore for push events to avoid triggering on markdown file changes, while Workflow B does not."}

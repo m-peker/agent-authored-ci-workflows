@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the correct triggers, all six requested jobs, and additional sensible steps like copying the CI database configuration and uploading coverage artifacts."}

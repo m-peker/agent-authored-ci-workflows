@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and running the application in a container, including the database cleaner script and tests, while workflow B focuses on a broader test suite and doesn't fully reflect the post-release fix nature of the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the files changed in the PR, includes build steps to validate the changes (typecheck, lint, audit), and notifies code owners as requested."}

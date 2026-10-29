@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more specific and useful Mojo validation checks, including checking for required imports and the @export decorator, aligning better with the request's intent for basic validation."}

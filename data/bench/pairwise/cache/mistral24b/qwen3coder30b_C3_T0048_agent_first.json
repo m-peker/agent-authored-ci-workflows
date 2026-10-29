@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up Python and Node.js environments, installs dependencies, and runs all required checks (pytest, ruff, distribution safety, and path consistency) on every push and pull request, while Workflow B misses the Node.js setup and has additional unnecessary steps."}

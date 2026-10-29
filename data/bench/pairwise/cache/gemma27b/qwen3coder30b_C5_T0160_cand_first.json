@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses caching for faster execution, and focuses on the core checks requested, while A unnecessarily installs a large number of dependencies and clones ydotool which isn't strictly required for the core checks."}

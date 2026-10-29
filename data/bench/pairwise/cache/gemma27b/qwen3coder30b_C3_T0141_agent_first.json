@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified base, extract, and source toolkits, and uses the requested `get-certified-connectors.sh` script to filter connectors, while workflow B uses a different change detection mechanism and test execution approach not aligned with the request."}

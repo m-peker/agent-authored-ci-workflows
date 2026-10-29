@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a dynamic matrix generation from a JSON file as described in the request, while workflow B uses a hardcoded, incomplete matrix and doesn't scale to the 253 configs required for the nightly build."}

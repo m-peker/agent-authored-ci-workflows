@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `cargo install` to install the Sui CLI with a pinned revision, matching the request and existing workflows, while workflow B uses `wget` and manual path manipulation which is less maintainable and deviates from established patterns."}

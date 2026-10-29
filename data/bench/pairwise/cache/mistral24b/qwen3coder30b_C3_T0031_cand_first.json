@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A fulfills all the requirements of the request, including updating contributor docs, mentioning automated sync in README, excluding cloned repo from builds, removing leftover submodule, and cloning open-webui as a shallow copy without .git, while Workflow B misses several key requirements."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the security vulnerability by using a JavaScript implementation and environment variables as requested, while workflow B reintroduces the vulnerability by writing PR title/body to a file and passing it to a script."}

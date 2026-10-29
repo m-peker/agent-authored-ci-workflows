@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B triggers on tag pushes, which is more appropriate for release binaries, and includes a fix for a known issue in the project, while A triggers on release *publication* which is less useful for automated builds."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by correcting the input name for the Claude Code action to 'prompt', while workflow B adds significant unrelated CI/CD functionality not asked for in the request."}

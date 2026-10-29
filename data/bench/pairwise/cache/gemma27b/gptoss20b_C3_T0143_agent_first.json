@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by installing the PoCL runtime and running the specified test command, while B's dependency installation is more general and doesn't explicitly use `requirements-full.txt` as requested."}

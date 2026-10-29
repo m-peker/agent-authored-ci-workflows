@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly validates the PR title against the specified format using a regex, while workflow A attempts to use a conventional commits parser which isn't aligned with the requested format."}

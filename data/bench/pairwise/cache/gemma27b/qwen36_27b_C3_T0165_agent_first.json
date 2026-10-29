@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses 'stable' for the Go version and enables caching, which are best practices for CI/CD, while both workflows otherwise fulfil the request similarly."}

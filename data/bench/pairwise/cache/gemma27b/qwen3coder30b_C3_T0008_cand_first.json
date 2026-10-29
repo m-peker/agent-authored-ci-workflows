@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by creating Gitbook branches and variants on release tags, while workflow B is a general CI gate and doesn't implement the Gitbook automation."}

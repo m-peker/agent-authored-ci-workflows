@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely implements the request by directly generating the coverage badge using a shield URL and handles dependency installation more appropriately for a CI environment."}

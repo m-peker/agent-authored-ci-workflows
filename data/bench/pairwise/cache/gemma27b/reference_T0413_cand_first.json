@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by explicitly installing all dependencies and tools, including handling the firewall issue with `curl` and `cargo-binstall`, while A relies on the `setup-rust` action to install all tools which is not what the request asks for."}

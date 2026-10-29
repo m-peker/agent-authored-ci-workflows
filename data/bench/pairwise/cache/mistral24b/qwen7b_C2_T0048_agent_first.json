@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested checks and uses the correct versions of actions, while Workflow B misses some dependencies and uses outdated action versions."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly generates a matrix of tasks from the JSON file and runs benchmarks in parallel with `max-parallel: 1`, while workflow B incorrectly attempts to generate a JSON array of task IDs and lacks the necessary logic to properly iterate through them, and also doesn't pull the monolith image."}

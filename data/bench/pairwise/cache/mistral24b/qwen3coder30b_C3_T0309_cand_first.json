@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on releases and specifically checks for the instrumentation package, while Workflow A uses a schedule and workflow_dispatch which are not requested."}

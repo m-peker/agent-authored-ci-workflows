@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a release process based on a `nexus` branch and PRs, and includes publishing to npm, aligning with the request's context of a moved package and release workflow, while workflow B deploys to GitHub Pages which is not the request."}

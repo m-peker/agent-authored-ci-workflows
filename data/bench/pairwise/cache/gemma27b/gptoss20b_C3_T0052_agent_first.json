@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` to trigger on PR events and includes a detailed prompt for code review, while workflow B uses a standard `pull_request` trigger and lacks a specific prompt, making it less effective for the stated purpose."}

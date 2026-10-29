@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the Opencode action to run the Copilot agent as requested, while workflow B creates an issue for the agent to pick up, which is a different approach not explicitly asked for."}

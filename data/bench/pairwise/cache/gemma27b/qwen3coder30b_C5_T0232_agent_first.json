@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly creates and then cleans up the `beta` branch as requested, while workflow A uses `--force` which is less ideal and doesn't clean up the branch."}

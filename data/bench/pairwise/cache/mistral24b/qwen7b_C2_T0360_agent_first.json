@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tag pushes, includes multi-platform builds, and uses GitHub auto-generated release notes as requested."}

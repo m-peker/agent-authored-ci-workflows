@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes to specific files, uses appropriate actions, and generates the SBOM as requested, while Workflow B incorrectly triggers on pull requests and uses a different action not specified in the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the core logic of the `draft-release` workflow, including the trigger, input handling, model selection, and release creation steps, while workflow B is empty."}

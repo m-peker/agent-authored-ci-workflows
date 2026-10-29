@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by using a matrix-driven approach with derived build cache keys and image tags, while Workflow B still uses manual cache_scope/base_tag values."}

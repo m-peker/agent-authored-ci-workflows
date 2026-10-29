@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a spellcheck workflow that runs on PRs, while Workflow A implements a code review workflow."}

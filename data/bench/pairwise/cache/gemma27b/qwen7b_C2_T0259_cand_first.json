@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly focuses on publishing the `@hyperlane-xyz/warp-widget` package to npm, which the request indicates has moved to hyperlane-monorepo, while workflow A attempts to build and deploy a widget which is no longer managed in this repository."}

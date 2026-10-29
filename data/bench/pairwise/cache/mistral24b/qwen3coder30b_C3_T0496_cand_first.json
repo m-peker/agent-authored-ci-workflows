@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both CI and release jobs with proper triggers and steps, while Workflow B only includes a release job and lacks CI testing."}

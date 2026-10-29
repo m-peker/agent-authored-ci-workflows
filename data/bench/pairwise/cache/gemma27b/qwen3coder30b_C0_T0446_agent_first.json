@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly reuses a pre-defined devcontainer CI workflow, aligning with the request to make the devcontainer the source of truth and remove the legacy CI setup, while A duplicates logic."}

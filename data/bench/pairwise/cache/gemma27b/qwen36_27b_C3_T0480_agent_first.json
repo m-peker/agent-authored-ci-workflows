@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for DCO checking, simplifying the workflow and leveraging existing, well-maintained tooling, while A implements the check manually with shell scripting."}

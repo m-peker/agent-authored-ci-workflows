@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by using a matrix to build and push images for different variants, simplifying the tagging and caching process without manual intervention, while B is overly complex and doesn't fully achieve the requested simplification."}

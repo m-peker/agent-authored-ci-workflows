@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the main branch and includes a build step specific to Rust, which is necessary for the CodeQL analysis of a Rust project."}

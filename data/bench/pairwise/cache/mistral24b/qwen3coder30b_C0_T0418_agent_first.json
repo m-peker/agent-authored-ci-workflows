@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push/PR, uses a sensible action for Python setup, and runs the scanner on the plugins directory as requested."}

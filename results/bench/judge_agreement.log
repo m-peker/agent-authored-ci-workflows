@@ -1,0 +1,17 @@
+                      pair   n  agreement  kappa
+gptoss20b vs qwen3coder30b 120      0.592  0.132
+
+consensus labels:
+ consensus      FP  TP  disputed
+category                       
+breaking        3  35        22
+security_high  11  22        27
+
+precision (consensus TP / (TP+FP)):
+      category group  n  TP  FP  disputed_or_unsure  precision  ci_low  ci_high
+     breaking   all 60  35   3                  22      0.921   0.792    0.973
+security_high   all 60  22  11                  27      0.667   0.496    0.802
+     breaking agent 30  15   0                  15      1.000   0.796    1.000
+     breaking human 30  20   3                   7      0.870   0.679    0.955
+security_high agent 30  10   9                  11      0.526   0.317    0.727
+security_high human 30  12   2                  16      0.857   0.601    0.960

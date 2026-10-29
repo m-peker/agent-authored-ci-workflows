@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes jobs and steps relevant to the request, such as linting, type checking, testing, and building, while Workflow B focuses on merge queue processing which is not relevant to the request."}

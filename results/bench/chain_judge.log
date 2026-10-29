@@ -1,0 +1,15 @@
+[21:38] download Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8
+30G	/workspace/models/qwen3coder30b
+[21:41] serve
+[21:41] judge smoke (5 items)
+[21:42] judge
+qwen3coder30b {'TP': 96, 'FP': 23, 'UNSURE': 1}
+[21:43] done qwen3coder30b
+[21:43] download openai/gpt-oss-20b
+26G	/workspace/models/gptoss20b
+[21:45] serve
+[21:46] judge smoke (5 items)
+[21:46] judge
+gptoss20b {'TP': 67, 'FP': 52, None: 1}
+[21:51] done gptoss20b
+JUDGE_DONE

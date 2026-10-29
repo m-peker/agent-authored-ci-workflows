@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `contents: read` permission which is required by the scorecard action, and uses a more specific version of the scorecard action, making it more likely to work as intended."}

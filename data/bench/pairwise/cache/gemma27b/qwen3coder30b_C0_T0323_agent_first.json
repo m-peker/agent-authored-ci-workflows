@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Node.js and `npm` to install the Fern CLI, and uses the correct `fern generate --docs` command, while workflow B attempts to install Fern with `cargo` which is incorrect for this tool."}

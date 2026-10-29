@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B leverages a dedicated test reporting action (ctrf-io/github-test-reporter) designed for persisting and analyzing test results across PRs, directly addressing the request's goal, while workflow A implements the logic from scratch."}

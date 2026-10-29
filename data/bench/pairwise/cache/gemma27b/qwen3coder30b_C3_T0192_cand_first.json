@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is a more complete and plausible performance testing workflow, including a dedicated fixture repository, matrix runs, result reporting, and failure gating, while workflow A is a very basic placeholder."}

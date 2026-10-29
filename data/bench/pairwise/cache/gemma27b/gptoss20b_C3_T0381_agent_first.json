@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly moves full coverage to a scheduled job and reuses existing test workflows, addressing the core problem of reducing PR test time, while B still runs a significant matrix on every push."}

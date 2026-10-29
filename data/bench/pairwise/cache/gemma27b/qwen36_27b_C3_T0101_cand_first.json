@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uploads the built VuePress site from `docs/.vuepress/dist`, while Workflow B incorrectly specifies `docs/src/.vuepress/dist`, which doesn't align with the standard VuePress output directory and would likely cause deployment failure."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to use pre-commit for formatting/validation and includes all requested tools, while B relies on requirements files that aren't part of the initial setup and doesn't explicitly run pre-commit."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for refreshing the GlobalLeaks directory listings, including triggering, running the refresh process, creating a summary, and opening a pull request with the updated data."}

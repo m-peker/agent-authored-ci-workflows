@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tag pushes (as requested by separating from crate publish) and builds/pushes a Docker image, while workflow B requires manual dispatch or a call and includes unnecessary Rust build steps."}

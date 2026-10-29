@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested triggers (push, PR, weekly schedule) and uses the latest CodeQL actions with the necessary `build-mode: none` for TypeScript, while workflow B omits the weekly schedule and includes unnecessary Node.js setup."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of building, testing, and installing dependencies for a TypeScript project, while workflow B is overly complex and focused on multi-platform Docker image building which isn't requested."}

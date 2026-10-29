@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (workflow_dispatch) and follows the repository's existing patterns more closely, including using the same action versions and custom actions like oxc-project/setup-rust."}

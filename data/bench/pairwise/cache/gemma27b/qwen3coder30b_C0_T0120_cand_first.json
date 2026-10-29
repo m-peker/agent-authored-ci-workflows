@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request's emphasis on removing aggressive pre-checkout cleanup and implements the suggested Python cache prevention measures, while B reintroduces potentially problematic root-privileged Docker container usage."}

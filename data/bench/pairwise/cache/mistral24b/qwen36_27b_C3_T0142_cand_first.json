@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on workflow_dispatch with the required inputs and runs specific unit tests for the Fleet Custom Integration Upload feature, while Workflow B is designed for a different purpose and doesn't address the request."}

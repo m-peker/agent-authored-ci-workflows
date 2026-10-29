@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a matrix strategy for Node.js versions and specifies a correct build command (rollup:debug) mentioned in the request, while Workflow B uses a fixed Node.js version and an incorrect build command (build)."}

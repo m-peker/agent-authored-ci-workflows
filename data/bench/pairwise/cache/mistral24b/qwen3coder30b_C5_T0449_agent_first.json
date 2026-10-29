@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies and updates the ingestr version in the correct file (pkg/python/uv.go) and creates a PR, while Workflow B checks the wrong file (main.go)."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests, includes the required jobs and steps for TypeScript configuration audit and type checking, and notifies the code owner via Slack when documentation changes are detected."}

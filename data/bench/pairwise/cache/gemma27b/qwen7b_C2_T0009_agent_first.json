@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the official Claude Code GitHub Action and correctly implements the requested triggers and authentication, while workflow B requires a custom script and lacks proper trigger coverage."}

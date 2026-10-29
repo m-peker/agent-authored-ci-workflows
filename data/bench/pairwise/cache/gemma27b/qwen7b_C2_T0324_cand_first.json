@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the path-gated and script-only change guard, while workflow A lacks this crucial filtering, potentially running validation on unrelated changes."}

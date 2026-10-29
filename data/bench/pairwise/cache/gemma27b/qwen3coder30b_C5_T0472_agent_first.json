@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` to trigger on labels added to a pull request by a maintainer, as requested, while B uses `pull_request` which triggers on the PR author's actions."}

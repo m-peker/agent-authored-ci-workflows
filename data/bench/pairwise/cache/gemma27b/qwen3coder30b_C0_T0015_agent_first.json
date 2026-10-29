@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to `bun.lock` which is important for dependency updates, and its submodule update step is more targeted, while B's recursive checkout is less efficient."}

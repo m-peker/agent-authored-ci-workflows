@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is slightly better because it explicitly sets the `DISCOURSE_URL` as an environment variable, which is good practice for secrets and makes the script more configurable."}

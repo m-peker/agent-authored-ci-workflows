@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B simplifies dependency installation with `uv sync --all-extras` and uses a dedicated build script (`uv run python packaging/binary/build.py`) which is a more maintainable approach than directly calling `pyinstaller` in the workflow."}

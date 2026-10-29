@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the devcontainers/ci action as requested and includes multiple jobs for linting, static analysis, backwards compatibility checks, and testing across different PHP versions, while Workflow A only builds and tests the Docker image."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including Python version matrix, pre-commit linting, and testing, while Workflow B misses several requirements."}

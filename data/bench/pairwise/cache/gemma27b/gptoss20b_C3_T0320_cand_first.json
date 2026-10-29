@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the modern GitHub Pages deployment actions (configure-pages, upload-pages-artifact, deploy-pages) and includes concurrency controls, making it a more robust and feature-rich CI/CD pipeline for GitHub Pages than Workflow A."}

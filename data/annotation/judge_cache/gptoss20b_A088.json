@@ -1,0 +1,1 @@
+{"item_id": "A088", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The workflow references an undefined job output property 'clean-branch-name', causing a runtime error.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The workflow references an undefined job output property 'clean-branch-name', causing a runtime error.\"}"}

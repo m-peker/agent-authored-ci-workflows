@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested split into build and deploy workflows, handles both deployment and cleanup, and properly checks for fork PRs."}

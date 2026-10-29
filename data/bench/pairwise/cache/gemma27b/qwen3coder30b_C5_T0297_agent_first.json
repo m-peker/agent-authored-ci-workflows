@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and uploads both source packages and the Windows installer as artifacts, then uses those artifacts to create a GitHub release on tag push, fulfilling all requirements of the request."}

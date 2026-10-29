@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on docs changes and master branch pushes, uses appropriate actions for VitePress deployment, and follows GitHub Pages deployment best practices."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements both the gh-pages deployment on the `ai` branch and the Surge preview deployment on pull requests, while also using the required Node.js 20.x version."}

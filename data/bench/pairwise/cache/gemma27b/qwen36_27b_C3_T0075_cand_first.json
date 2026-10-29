@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly adds Node v24 to the test matrix, while workflow B only sets a fixed Node version of 22 and doesn't address the core request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to main and runs the test suite as requested, while Workflow B introduces unnecessary shellcheck steps not mentioned in the request."}

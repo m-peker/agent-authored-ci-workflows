@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push to main/master and pull requests, includes build and test jobs with proper steps, and uses sensible actions for a C# project."}

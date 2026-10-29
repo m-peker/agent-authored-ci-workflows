@@ -1,0 +1,24 @@
+cat            group
+breaking       agent    30
+               human    30
+security_high  agent    30
+               human    30
+cat            rule                 
+breaking       _input_error              2
+               action                    4
+               events                    4
+               expression               19
+               glob                      2
+               id                        1
+               if-cond                   2
+               job-needs                 1
+               matrix                    1
+               permissions               2
+               syntax-check             22
+security_high  artipacked                1
+               bot-conditions            2
+               dangerous-triggers       21
+               excessive-permissions     7
+               github-app                3
+               template-injection       25
+               unsound-condition         1

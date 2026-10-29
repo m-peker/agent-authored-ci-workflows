@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch commits to the docs directory and uses a single job to trigger the Vercel deploy hook, while Workflow B unnecessarily splits the workflow into two jobs and includes redundant steps."}

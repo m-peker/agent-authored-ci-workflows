@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `github.sha` for the snapshot name and sets the required environment variable, aligning with the request's simplification and deterministic naming goals, while B requires an input for the commit SHA."}

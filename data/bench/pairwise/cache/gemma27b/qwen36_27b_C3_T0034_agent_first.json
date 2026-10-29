@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested version validation on tags, separates Python and SDK publishing into distinct jobs triggered only on tag pushes, and includes the necessary steps for SDK generation and publishing to npm."}

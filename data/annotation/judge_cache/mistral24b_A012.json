@@ -1,0 +1,1 @@
+{"item_id": "A012", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The input is trusted as it comes from a git tag pushed by maintainers.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The input is trusted as it comes from a git tag pushed by maintainers.\"}\n```"}

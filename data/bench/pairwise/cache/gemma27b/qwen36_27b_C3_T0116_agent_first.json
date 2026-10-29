@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `uv` for dependency management which is more modern and aligns with the project's modernization goals, and separates linting into its own job for clarity."}

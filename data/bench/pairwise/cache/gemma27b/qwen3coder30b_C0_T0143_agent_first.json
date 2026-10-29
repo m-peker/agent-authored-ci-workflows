@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs `pyopencl` and uses a specific Python version (3.12) as suggested by the repository's requirements, while B only installs numpy and pytest."}

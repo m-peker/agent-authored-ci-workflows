@@ -1,0 +1,1 @@
+{"item_id": "A037", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The typo \"ame\" is not a valid workflow key, causing the workflow to be rejected by GitHub.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The typo \\\"ame\\\" is not a valid workflow key, causing the workflow to be rejected by GitHub.\"}"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers the Vercel rebuild with the specified ref while Workflow B does not include the ref in the request."}

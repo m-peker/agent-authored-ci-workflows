@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a check for the existence of the required secret, preventing a potentially confusing failure if the secret is not set, while A would fail immediately."}

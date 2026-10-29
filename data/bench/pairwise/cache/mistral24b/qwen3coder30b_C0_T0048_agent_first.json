@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all pushes and pull requests, uses the specified macos-latest runner, and includes all required steps for pytest, ruff, distribution safety, and path consistency checks."}

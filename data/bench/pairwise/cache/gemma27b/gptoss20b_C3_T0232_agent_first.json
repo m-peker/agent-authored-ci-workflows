@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly addresses the CWD issue by using `devbox run` with the correct config and includes the necessary build step, while workflow B doesn't use devbox at all and lacks a build step."}

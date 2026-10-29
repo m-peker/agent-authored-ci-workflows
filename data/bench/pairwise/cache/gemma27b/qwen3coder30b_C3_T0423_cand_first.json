@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested Python version matrix and pre-commit checks on the specified files, while B uses a single Python version and doesn't explicitly run pre-commit on the requested files."}

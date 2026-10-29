@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly passes the necessary commit SHAs to the script, aligning with the request's intention to check the PR's changes, while A doesn't provide any commit information to the script."}

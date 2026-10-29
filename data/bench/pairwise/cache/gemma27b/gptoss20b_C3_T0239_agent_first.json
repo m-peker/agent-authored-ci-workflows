@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets all required environment variables at the job level, includes the requested timeout, and uses more standard actions for Node.js setup and dependency installation."}

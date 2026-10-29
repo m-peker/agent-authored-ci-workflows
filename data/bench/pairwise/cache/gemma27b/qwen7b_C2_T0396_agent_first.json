@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to test Python versions 3.6 through 3.14, including the free-threaded build, while workflow B only tests on pushes to tags and uses a `requirements.txt` which isn't mentioned in the request."}

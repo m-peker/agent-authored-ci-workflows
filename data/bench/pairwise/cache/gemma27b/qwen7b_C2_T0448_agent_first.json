@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a daily schedule and attempts to use a script to fetch the minutes, while workflow B uses a weekly schedule and a brittle curl/jq approach, and also incorrectly assumes Go is needed."}

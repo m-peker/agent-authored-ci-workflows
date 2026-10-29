@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `TUNIT_DISABLE_GITHUB_REPORTER` as an environment variable, while workflow A does not address the request at all."}

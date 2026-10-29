@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds the application before running E2E tests and sets up the isolated environment variables as described in the 'Why' section of the request, while A does not build and only uses `xvfb-run` on Linux."}

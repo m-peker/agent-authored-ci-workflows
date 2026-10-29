@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/deploy-pages` which is designed for deploying to GitHub Pages and handles the necessary setup, while B uses a deprecated action and doesn't configure the base path as requested."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B cleanly separates push and pull request logic, uses a dedicated action for committing and pushing, and directly checks lockfile validity on pull requests as requested."}

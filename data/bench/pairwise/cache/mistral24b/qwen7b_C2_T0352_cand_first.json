@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull requests to main, includes necessary steps for setting up Node.js, installing dependencies, and running the Sentry test task as requested."}

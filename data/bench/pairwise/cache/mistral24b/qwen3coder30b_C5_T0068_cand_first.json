@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both the health check job and the auto-remediation pipeline as requested, while Workflow B only includes the auto-remediation part."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the official `golangci-lint-action`, simplifying the linting setup and avoiding manual installation, and directly uses the action's output for failure, while B's manual installation is less maintainable and the `gofmt` check in A is more robust."}

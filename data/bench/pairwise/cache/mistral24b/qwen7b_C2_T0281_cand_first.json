@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes and pull requests, uses Node.js 24, and includes the necessary steps for building and testing the TypeScript project."}

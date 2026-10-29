@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` as requested, while B uses `pull_request` which would not trigger on PRs authored by bots as intended."}

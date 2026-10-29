@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to address the problem by parsing the terraform plan for 'open' changes and commenting on the PR, while workflow B does not address the request at all."}

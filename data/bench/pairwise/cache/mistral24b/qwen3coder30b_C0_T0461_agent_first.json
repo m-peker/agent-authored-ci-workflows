@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs and steps, including security scanning with bandit, while Workflow B has fewer Python versions and doesn't use the requested uv tool."}

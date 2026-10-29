@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for generating the coverage badge, which is more efficient and reliable than the custom script in Workflow A."}

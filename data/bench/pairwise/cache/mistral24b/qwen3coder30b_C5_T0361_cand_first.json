@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests and pushes to main, uses self-hosted runners, and includes the specific Beyla integration tests as requested."}

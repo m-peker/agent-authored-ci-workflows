@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Node.js 20, deploys to Surge on PRs, and deploys to gh-pages on pushes to `ai` as requested, while workflow B uses Node.js 18 and has an incorrect publish directory."}

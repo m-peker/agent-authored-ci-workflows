@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested dispatch to the cloud repo based on PR events (close/unlabel) with the correct labels, while workflow B attempts a local cleanup which is not the requested functionality."}

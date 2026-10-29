@@ -1,0 +1,1 @@
+{"item_id": "A023", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The YAML syntax error at line 79 prevents the workflow from being parsed and executed, causing a failure.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The YAML syntax error at line 79 prevents the workflow from being parsed and executed, causing a failure.\"}"}

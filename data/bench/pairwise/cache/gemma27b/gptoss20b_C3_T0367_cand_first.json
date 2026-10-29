@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub CLI (`gh`) which simplifies issue creation and checking, and provides more informative output, making it more robust and easier to understand than Workflow A's direct API calls."}

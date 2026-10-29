@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on issue comments and includes a conditional check for '@claude' within the comment body, directly addressing the request, while A's trigger is overly broad and its mention check is less specific."}

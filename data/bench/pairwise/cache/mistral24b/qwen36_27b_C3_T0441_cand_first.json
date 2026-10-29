@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the commit SHA as input and sets the snapshot name accordingly, while Workflow B uses a Doppler config input which is not mentioned in the request."}

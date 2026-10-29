@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to notify a code owner on PRs to `epic` or `develop` and includes a basic test run, while workflow B is triggered by issue comments and appears to be designed for a different purpose."}

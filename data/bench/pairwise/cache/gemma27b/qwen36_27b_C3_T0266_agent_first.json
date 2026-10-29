@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `autobuild` which simplifies the build process and is more aligned with the CodeQL action's intended usage, while A manually restores and builds the project which is unnecessary."}

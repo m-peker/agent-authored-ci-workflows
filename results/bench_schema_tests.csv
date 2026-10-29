@@ -1,0 +1,23 @@
+model,comparison,only_model,only_agent,p,p_holm
+gptoss20b,C0 vs agent,3,62,0.0,0.0
+gptoss20b,C1 vs agent,4,56,0.0,0.0
+gptoss20b,C2 vs agent,4,21,0.0009,0.0018
+gptoss20b,C3 vs agent,4,16,0.0118,0.0118
+gptoss20b_mt4096,C0 vs agent,3,127,0.0,0.0
+gptoss20b_mt4096,C1 vs agent,3,134,0.0,0.0
+gptoss20b_mt4096,C2 vs agent,4,68,0.0,0.0
+gptoss20b_mt4096,C3 vs agent,4,54,0.0,0.0
+qwen36_27b,C0 vs agent,4,23,0.0003,0.0009
+qwen36_27b,C1 vs agent,4,26,0.0001,0.0002
+qwen36_27b,C2 vs agent,4,15,0.0192,0.0384
+qwen36_27b,C3 vs agent,4,13,0.049,0.049
+qwen3coder30b,C0 vs agent,4,27,0.0,0.0002
+qwen3coder30b,C1 vs agent,4,25,0.0001,0.0004
+qwen3coder30b,C2 vs agent,4,21,0.0009,0.0018
+qwen3coder30b,C3 vs agent,4,13,0.049,0.049
+qwen3coder30b,C4 vs agent,4,36,0.0,0.0
+qwen3coder30b,C5 vs agent,4,24,0.0002,0.0005
+qwen7b,C0 vs agent,4,42,0.0,0.0
+qwen7b,C1 vs agent,4,60,0.0,0.0
+qwen7b,C2 vs agent,4,25,0.0001,0.0001
+qwen7b,C3 vs agent,4,49,0.0,0.0

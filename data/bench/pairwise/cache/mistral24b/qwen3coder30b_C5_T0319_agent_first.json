@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes safety checks, linting, and testing before auto-merging, while Workflow B only checks for major version updates."}

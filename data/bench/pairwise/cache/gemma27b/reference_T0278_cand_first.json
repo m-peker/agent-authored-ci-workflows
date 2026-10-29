@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `install.sh` script as intended by the project, while workflow B attempts to recreate the build process within the workflow itself, which is unnecessary and more prone to errors."}

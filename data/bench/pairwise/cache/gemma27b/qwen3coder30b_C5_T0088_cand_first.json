@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `$GITHUB_OUTPUT` to pass the session URL to the next step, handles potential errors in the Devin API response, and constructs a more complete prompt as requested."}

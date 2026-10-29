@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to main and master branches, includes dependency upgrade, and has sensible CI steps for a TypeScript project."}

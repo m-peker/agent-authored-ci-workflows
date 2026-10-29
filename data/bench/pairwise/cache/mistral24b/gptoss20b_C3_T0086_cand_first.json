@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for changes in the dist directory and fails the CI if any are detected, while Workflow B only triggers when dist/ is modified and fails without checking the actual changes."}

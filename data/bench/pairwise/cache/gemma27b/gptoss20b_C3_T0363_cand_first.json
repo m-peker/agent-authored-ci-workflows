@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to best practices by limiting trigger paths to the workflow file itself, and includes an environment variable that is likely beneficial for Turbo builds."}

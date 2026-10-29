@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses jq to read issue metadata from $GITHUB_EVENT_PATH, preventing shell script injection, while Workflow B uses direct interpolation for issue title which is vulnerable to injection."}

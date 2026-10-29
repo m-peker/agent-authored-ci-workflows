@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the path filtering to detect changes in the `docs/` directory before triggering the Vercel deploy, as requested, while workflow B lacks this crucial filtering step."}

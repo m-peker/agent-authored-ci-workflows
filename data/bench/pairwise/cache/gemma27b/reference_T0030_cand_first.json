@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes the branch restriction and bot-authored check as specified in the request, while workflow B omits these crucial elements."}

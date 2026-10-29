@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pnpm-lock.yaml and package.json changes, uses the specified CycloneDX tool, and uploads the artifact with 90-day retention as requested."}

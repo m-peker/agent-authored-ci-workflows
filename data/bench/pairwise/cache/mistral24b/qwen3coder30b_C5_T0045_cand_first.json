@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified PR events and uses the shared composite action as requested, while Workflow B uses a different trigger and action."}

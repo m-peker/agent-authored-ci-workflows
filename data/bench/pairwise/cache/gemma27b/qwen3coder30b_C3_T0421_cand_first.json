@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the issue by creating a reusable workflow that accepts a release tag and a prerelease flag, allowing for draft pre-releases as requested, and handles multiple platforms and binary types."}

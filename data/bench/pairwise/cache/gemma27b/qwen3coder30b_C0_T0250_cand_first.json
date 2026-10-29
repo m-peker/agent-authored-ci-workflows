@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly supports both AMD64 and ARM64 architectures with separate build steps and tags, and allows versioning via workflow input, while A's metadata action might not handle multi-arch tagging correctly."}

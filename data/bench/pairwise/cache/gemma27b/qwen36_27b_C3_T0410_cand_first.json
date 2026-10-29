@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `dependabot/fetch-metadata` to get the dependency names for a more informative commit message, and adds the correct directory `.cargo-vet/` while B adds `supply-chain/` which is incorrect."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's intent by using a changed-file guard to prevent validation on non-script changes and by processing snippets individually with detailed failure reporting, while workflow B's approach is less granular and doesn't provide the same level of detail."}

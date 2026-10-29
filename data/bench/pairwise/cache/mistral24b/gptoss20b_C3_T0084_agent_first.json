@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on fork PRs, includes all requested jobs and steps, and uses sensible actions, while Workflow B does not explicitly mention fork PRs and has some discrepancies in the test paths."}

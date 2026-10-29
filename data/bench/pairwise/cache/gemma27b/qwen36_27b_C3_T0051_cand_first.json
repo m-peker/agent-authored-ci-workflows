@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B demonstrates a more modern package manager (pnpm) with caching, which is best practice, and includes a build step as requested, while A lacks a build step and uses npm."}

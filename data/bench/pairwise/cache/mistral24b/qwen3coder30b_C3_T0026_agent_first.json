@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the action ref and uses the go-version-file input, while Workflow B does not."}

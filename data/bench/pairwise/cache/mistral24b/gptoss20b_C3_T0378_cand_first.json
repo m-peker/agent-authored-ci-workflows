@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly tests the requested CLI changes while Workflow B is unrelated to the request."}

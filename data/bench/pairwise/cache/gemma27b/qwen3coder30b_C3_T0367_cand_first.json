@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub CLI (`gh`) for issue management, which is more idiomatic and avoids the complexity of `actions/github-script` for simple tasks, and includes helpful context in the issue body."}

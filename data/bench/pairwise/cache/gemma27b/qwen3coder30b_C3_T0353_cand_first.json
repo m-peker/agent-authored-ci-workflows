@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes and pull requests to the main branch as requested, while workflow B triggers on all pushes and pull requests which is broader than necessary and workflow B also attempts to use a secret that isn't defined in the request."}

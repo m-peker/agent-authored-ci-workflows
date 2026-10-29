@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all the requested changes to skip Netlify publishing on PRs, while workflow B addresses a completely different task (PR template checking) and doesn't relate to the request at all."}

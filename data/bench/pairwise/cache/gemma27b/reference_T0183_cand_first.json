@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and perform CodeQL analysis, which is unrelated to the request of removing transaction retry functionality and verifying the changes described in the pull request."}

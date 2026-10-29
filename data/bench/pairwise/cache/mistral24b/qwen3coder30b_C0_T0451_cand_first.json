@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the working directory context for the private-location app, which is necessary for the deployment to work correctly."}

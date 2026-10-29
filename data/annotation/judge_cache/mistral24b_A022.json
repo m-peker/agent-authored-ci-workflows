@@ -1,0 +1,1 @@
+{"item_id": "A022", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail because the property 'pr_number' is not defined in the object type.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail because the property 'pr_number' is not defined in the object type.\"}\n```"}

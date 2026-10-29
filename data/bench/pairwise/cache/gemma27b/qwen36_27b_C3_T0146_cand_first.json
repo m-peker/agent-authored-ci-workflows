@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to the relevant directory and uses standard CodeQL actions for TypeScript analysis, while workflow B has a custom runner, complex conditional logic, and incorrectly specifies 'javascript' as the language."}

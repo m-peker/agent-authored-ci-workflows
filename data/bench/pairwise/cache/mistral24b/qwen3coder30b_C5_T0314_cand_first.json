@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered by a successful deployment workflow completion and sends a deployment summary email, which matches the request, while Workflow B is triggered manually and generates a deployment summary for Slack, which doesn't match the request."}

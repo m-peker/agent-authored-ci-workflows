@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by adding a `publish` step to the release workflow, while workflow B is unrelated to release creation."}

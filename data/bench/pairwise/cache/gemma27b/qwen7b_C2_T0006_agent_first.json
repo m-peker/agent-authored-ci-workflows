@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pushes to the relevant branch and includes standard build/test steps (ESLint, build, test) which align with the request's mention of ESLint passing and type safety, while workflow A is for a Claude assistant and unrelated."}

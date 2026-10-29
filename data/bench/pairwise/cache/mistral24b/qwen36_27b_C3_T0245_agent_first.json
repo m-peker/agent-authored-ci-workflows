@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified events and uses a reusable action for running Bun tests, while Workflow B lacks the specific test setup against a local testnet and uses unnecessary steps for a CI/CD pipeline focused on Bun runtime tests."}

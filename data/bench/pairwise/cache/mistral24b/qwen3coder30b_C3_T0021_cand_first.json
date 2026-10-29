@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested jobs and steps for testing on Ruby 3.2/3.3 with both native and pure backends, as well as the Rust scaffold check, while Workflow B focuses more on release validation and publishing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has more comprehensive triggers (including pushes to relevant files and manual dispatch), correctly handles changes and creates a PR for releases, and more closely aligns with the request for automatic updates on both releases and CLI changes."}

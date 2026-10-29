@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses workflow_call trigger and includes all required specs with proper paths, while Workflow A uses incorrect trigger and paths."}

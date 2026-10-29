@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes `rustfmt` as a toolchain component for the `fmt` job, while workflow B does not, and workflow A's trigger is more general as requested."}

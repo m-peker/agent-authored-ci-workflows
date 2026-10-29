@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs (lint, test, security audit) and triggers them on pull requests, while Workflow B only handles the release process."}

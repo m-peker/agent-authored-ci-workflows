@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the matrix-generator.ts script to dynamically generate the matrix for nightly integration tests, while Workflow B hardcodes the matrix indices and only tests a subset of community repos."}

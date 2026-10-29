@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests and uses a more recent version of the lychee action with better configuration for GitHub Actions reporting and broader file coverage."}

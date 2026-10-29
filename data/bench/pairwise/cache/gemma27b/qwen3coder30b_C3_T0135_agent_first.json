@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the requested Sunday 00:00 UTC cron schedule, while workflow B uses a different, unspecified schedule."}

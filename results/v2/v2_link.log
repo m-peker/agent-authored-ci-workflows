@@ -1,0 +1,29 @@
+shas fetched: 32,810 | runs: 151,881
+versions in fetched shas: 77,757 | with a run of that exact file: 16,317 (21.0%)
+
+Run outcomes by agent (versions with runs):
+               versions  startup_failure_pct  failure_pct  success_only_pct
+agent                                                                     
+Claude_Code      10176                  0.2         26.3              63.9
+Copilot           3501                  0.9         33.9              56.1
+Cursor             674                  0.0         24.0              61.3
+Devin              403                  0.2         16.1              79.7
+Google_Jules       115                  0.0         45.2              52.2
+OpenAI_Codex      1448                  0.3         33.1              59.4
+
+Static signal vs observed run outcome:
+         signal          target   tp   fp   fn  precision_pct  recall_pct
+      breaking startup_failure    1 1508   58            0.1         1.7
+      breaking         failure  865  644 3756           57.3        18.7
+ci_correctness startup_failure    1 1508   58            0.1         1.7
+ci_correctness         failure  865  644 3756           57.3        18.7
+   unparseable startup_failure    0   16   59            0.0         0.0
+   unparseable         failure   16    0 4605          100.0         0.3
+ security_high startup_failure   15 4198   44            0.4        25.4
+ security_high         failure 1054 3159 3567           25.0        22.8
+
+Failed-run wall-clock minutes:
+                  count        sum  median
+conclusion                               
+failure          17152  473901.15    2.07
+startup_failure    333    1801.58    0.00

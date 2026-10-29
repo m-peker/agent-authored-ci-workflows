@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the composite action as requested and correctly uses `pull_request_target` for validating PRs, while workflow B attempts to run the action locally after checkout and setup, which is not the intended use."}

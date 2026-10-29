@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs Playwright browsers with dependencies, uses a more recent Node version, and uploads both reports and screenshots as requested, while B lacks browser installation and has a hardcoded timeout."}

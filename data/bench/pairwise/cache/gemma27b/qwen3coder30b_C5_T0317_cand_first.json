@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on all requested events (issue comments, PR review comments, issue opens/assigns, and PR reviews) with the correct exclusion, while workflow A misses issue opens/assigns."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on workflow_dispatch with the required inputs for CDK version and dry run, and includes steps to build and push the CDK base image, while Workflow B is designed for a different purpose and does not match the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to filter Jest output by removing `PASS` lines and uploading filtered logs, while workflow A does not address the request at all."}

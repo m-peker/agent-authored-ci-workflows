@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles the checkbox transition and includes a more detailed prompt for Claude, while also using concurrency to prevent multiple runs."}

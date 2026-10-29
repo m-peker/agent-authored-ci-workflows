@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue/PR comments, as requested, while workflow B triggers on issue/PR events and requires a conditional check which is less direct and potentially less reliable."}

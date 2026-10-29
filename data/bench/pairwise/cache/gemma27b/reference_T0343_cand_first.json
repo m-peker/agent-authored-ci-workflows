@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested macOS ARM PyInstaller build process, including dependency installation, virtual environment setup, PyInstaller execution, artifact creation, and uploading."}

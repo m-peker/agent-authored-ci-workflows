@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A specifically checks for the requested ADR documentation and implementation details, while Workflow B performs a general spec audit that doesn't target the requested features."}

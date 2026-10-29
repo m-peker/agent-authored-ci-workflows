@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the required CLA text check and adds a comment to the PR if the text is missing, while Workflow A does not include the actual check logic."}

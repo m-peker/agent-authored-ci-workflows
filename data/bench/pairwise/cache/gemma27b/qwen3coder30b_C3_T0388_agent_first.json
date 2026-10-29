@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a reusable workflow triggered by `workflow_call` as requested, while B incorrectly uses `pull_request` and `push` triggers and requires Node.js setup."}

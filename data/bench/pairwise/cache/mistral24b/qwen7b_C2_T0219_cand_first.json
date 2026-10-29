@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up the Rust toolchain with the specified MSRV, runs the necessary build, test, and lint steps, and updates the README file as requested, while Workflow B focuses on running integration tests and does not address the MSRV and edition bump requirements."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `setup-uv` as per the repository's tooling, and its trigger is more aligned with the request to run on every PR, while B uses older actions and a less appropriate dependency installation method."}

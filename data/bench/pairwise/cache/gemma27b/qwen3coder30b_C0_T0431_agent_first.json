@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes both deployment and the requested testing suite, while workflow A only covers deployment, missing crucial testing steps outlined in the request."}

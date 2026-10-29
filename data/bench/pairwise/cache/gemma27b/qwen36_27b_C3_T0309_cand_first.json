@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on release events as requested, and focuses specifically on the `openinference-instrumentation` dependency, while A requires manual dispatch and has a broader, potentially less precise sed pattern."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including the matrix generation, running tests with `gotestsum`, coverage reporting, and artifact uploading, while workflow B is significantly simpler and lacks key features."}

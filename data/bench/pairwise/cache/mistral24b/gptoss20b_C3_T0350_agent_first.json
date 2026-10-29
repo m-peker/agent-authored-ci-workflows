@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses npm trusted publishers (OIDC) and includes all necessary steps for versioning and publishing with changesets."}

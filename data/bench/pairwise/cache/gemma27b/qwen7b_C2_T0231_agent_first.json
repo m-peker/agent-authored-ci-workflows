@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a cross-platform build matrix (Ubuntu, macOS, Windows) which is essential for testing the CUDA/MPS/CPU device selection, while workflow A only runs on Ubuntu and explicitly skips GPU tests."}

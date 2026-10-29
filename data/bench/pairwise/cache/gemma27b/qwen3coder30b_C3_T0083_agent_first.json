@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a custom action for path detection and conditional jobs, aligning with the request's emphasis on tooling and conditional gates, while B's path detection is implemented inline and less reusable."}

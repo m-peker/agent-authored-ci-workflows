@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on `release: published` as implied by the fix request, while B triggers on tags which isn't the focus of the PR."}

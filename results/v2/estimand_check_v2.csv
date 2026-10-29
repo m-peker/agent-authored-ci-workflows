@@ -1,0 +1,67 @@
+design,outcome,estimator,est,lo,hi,repos,note,sig
+D1_first_draft,breaking,E2_FE,0.63,-0.75,2.02,765,,False
+D1_first_draft,breaking,E3_ATT_globalQ,3.06,0.42,6.47,605,,True
+D1_first_draft,breaking,E3_ATC_globalQ,0.52,-0.87,1.78,605,,False
+D1_first_draft,breaking,E3_overlap_globalQ,0.61,-0.87,2.0,605,,False
+D1_first_draft,breaking,E3_equal_globalQ,0.51,-0.8,1.8,605,,False
+D1_first_draft,breaking,E3_ATT_drop_top10_repos,1.1,-1.1,3.27,595,top10 repos = 46% of agent weight,False
+D1_first_draft,breaking,E3_ATT_repo_equal,0.72,-0.72,2.1,605,,False
+D1_first_draft,breaking,E3_ATT_withinQ,3.04,0.13,6.0,298,,True
+D1_first_draft,breaking,E3_ATC_withinQ,1.18,-0.92,3.37,298,,False
+D1_first_draft,breaking,E3_overlap_withinQ,1.16,-0.95,3.33,298,,False
+D1_first_draft,breaking,E3_equal_withinQ,1.39,-0.75,3.64,298,,False
+D1_first_draft,security_high,E2_FE,-0.2,-2.78,2.38,765,,False
+D1_first_draft,security_high,E3_ATT_globalQ,0.34,-4.35,5.13,605,,False
+D1_first_draft,security_high,E3_ATC_globalQ,0.56,-1.9,3.16,605,,False
+D1_first_draft,security_high,E3_overlap_globalQ,0.04,-2.31,2.5,605,,False
+D1_first_draft,security_high,E3_equal_globalQ,0.55,-1.88,2.88,605,,False
+D1_first_draft,security_high,E3_ATT_drop_top10_repos,2.23,-1.96,6.92,595,top10 repos = 46% of agent weight,False
+D1_first_draft,security_high,E3_ATT_repo_equal,0.27,-2.42,2.86,605,,False
+D1_first_draft,security_high,E3_ATT_withinQ,1.57,-4.55,5.76,298,,False
+D1_first_draft,security_high,E3_ATC_withinQ,-0.87,-4.81,3.2,298,,False
+D1_first_draft,security_high,E3_overlap_withinQ,-0.87,-4.33,2.79,298,,False
+D1_first_draft,security_high,E3_equal_withinQ,-0.65,-4.48,3.28,298,,False
+D1_first_draft,supply_chain,E2_FE,1.63,-0.66,3.91,765,,False
+D1_first_draft,supply_chain,E3_ATT_globalQ,0.46,-5.14,8.02,605,,False
+D1_first_draft,supply_chain,E3_ATC_globalQ,1.14,-0.8,3.35,605,,False
+D1_first_draft,supply_chain,E3_overlap_globalQ,1.02,-0.95,3.3,605,,False
+D1_first_draft,supply_chain,E3_equal_globalQ,1.73,-0.2,4.0,605,,False
+D1_first_draft,supply_chain,E3_ATT_drop_top10_repos,2.54,-0.67,5.82,595,top10 repos = 46% of agent weight,False
+D1_first_draft,supply_chain,E3_ATT_repo_equal,1.54,-0.47,3.82,605,,False
+D1_first_draft,supply_chain,E3_ATT_withinQ,-1.82,-7.26,4.53,298,,False
+D1_first_draft,supply_chain,E3_ATC_withinQ,-0.97,-4.15,2.23,298,,False
+D1_first_draft,supply_chain,E3_overlap_withinQ,-0.42,-3.64,2.85,298,,False
+D1_first_draft,supply_chain,E3_equal_withinQ,-0.32,-3.59,2.82,298,,False
+D2_final_merged,breaking,E2_FE,0.16,-1.29,1.62,631,,False
+D2_final_merged,breaking,E3_ATT_globalQ,1.62,-1.3,4.46,470,,False
+D2_final_merged,breaking,E3_ATC_globalQ,-0.2,-1.52,1.14,470,,False
+D2_final_merged,breaking,E3_overlap_globalQ,0.01,-1.54,1.48,470,,False
+D2_final_merged,breaking,E3_equal_globalQ,-0.18,-1.69,1.3,470,,False
+D2_final_merged,breaking,E3_ATT_drop_top10_repos,-0.15,-2.96,3.02,460,top10 repos = 21% of agent weight,False
+D2_final_merged,breaking,E3_ATT_repo_equal,-0.11,-1.81,1.46,470,,False
+D2_final_merged,breaking,E3_ATT_withinQ,2.15,-0.94,5.19,191,,False
+D2_final_merged,breaking,E3_ATC_withinQ,0.44,-1.66,2.68,191,,False
+D2_final_merged,breaking,E3_overlap_withinQ,0.56,-1.66,2.99,191,,False
+D2_final_merged,breaking,E3_equal_withinQ,0.53,-1.64,2.77,191,,False
+D2_final_merged,security_high,E2_FE,1.4,-1.43,4.24,631,,False
+D2_final_merged,security_high,E3_ATT_globalQ,5.11,0.07,9.72,470,,True
+D2_final_merged,security_high,E3_ATC_globalQ,0.91,-2.09,3.85,470,,False
+D2_final_merged,security_high,E3_overlap_globalQ,1.59,-1.21,4.23,470,,False
+D2_final_merged,security_high,E3_equal_globalQ,1.44,-1.29,4.27,470,,False
+D2_final_merged,security_high,E3_ATT_drop_top10_repos,1.55,-2.91,5.93,460,top10 repos = 21% of agent weight,False
+D2_final_merged,security_high,E3_ATT_repo_equal,1.77,-1.29,4.84,470,,False
+D2_final_merged,security_high,E3_ATT_withinQ,3.24,-3.49,9.77,191,,False
+D2_final_merged,security_high,E3_ATC_withinQ,-2.92,-7.76,2.09,191,,False
+D2_final_merged,security_high,E3_overlap_withinQ,-1.24,-5.75,3.48,191,,False
+D2_final_merged,security_high,E3_equal_withinQ,-1.72,-6.6,3.38,191,,False
+D2_final_merged,supply_chain,E2_FE,0.92,-1.6,3.45,631,,False
+D2_final_merged,supply_chain,E3_ATT_globalQ,-2.14,-6.72,2.68,470,,False
+D2_final_merged,supply_chain,E3_ATC_globalQ,-0.7,-2.88,1.71,470,,False
+D2_final_merged,supply_chain,E3_overlap_globalQ,-0.82,-3.23,1.86,470,,False
+D2_final_merged,supply_chain,E3_equal_globalQ,-0.01,-2.16,2.3,470,,False
+D2_final_merged,supply_chain,E3_ATT_drop_top10_repos,-0.8,-4.48,3.1,460,top10 repos = 21% of agent weight,False
+D2_final_merged,supply_chain,E3_ATT_repo_equal,0.35,-1.99,2.8,470,,False
+D2_final_merged,supply_chain,E3_ATT_withinQ,-3.54,-8.3,2.53,191,,False
+D2_final_merged,supply_chain,E3_ATC_withinQ,-1.18,-4.89,2.83,191,,False
+D2_final_merged,supply_chain,E3_overlap_withinQ,-1.15,-5.14,3.18,191,,False
+D2_final_merged,supply_chain,E3_equal_withinQ,-0.71,-4.4,3.56,191,,False

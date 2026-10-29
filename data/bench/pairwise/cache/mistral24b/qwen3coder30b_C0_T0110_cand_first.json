@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on relevant changes to the main branch and includes all necessary steps to build and publish frontend types, while Workflow B is overly complex and requires manual input."}

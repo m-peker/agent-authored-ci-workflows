@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A does not include unnecessary environment variables for secrets and URLs that are not part of the bundle analysis request."}

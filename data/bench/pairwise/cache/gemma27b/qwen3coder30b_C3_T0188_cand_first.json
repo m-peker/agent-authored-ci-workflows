@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds and releases the scraper binary as a GitHub release named 'scraper-latest', fulfilling the core request, while workflow A rebuilds the scraper instead of using a pre-built binary."}

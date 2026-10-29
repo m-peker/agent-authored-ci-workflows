@@ -1,0 +1,1 @@
+{"item_id": "A094", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "GitHub Actions permissions cannot use expressions; the expression will cause the workflow to be rejected.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"GitHub Actions permissions cannot use expressions; the expression will cause the workflow to be rejected.\"}"}

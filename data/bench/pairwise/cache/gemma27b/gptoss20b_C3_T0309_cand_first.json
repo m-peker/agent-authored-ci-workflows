@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on release events as requested, focuses specifically on the target package, and uses a more robust sed pattern, while A uses a scheduled trigger and a less precise sed pattern."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the specified CDK toolkits (extract, base) and uses the `get-certified-connectors.sh` script to dynamically generate a matrix of connectors to test, aligning with the request's goal of splitting tests by connector type."}

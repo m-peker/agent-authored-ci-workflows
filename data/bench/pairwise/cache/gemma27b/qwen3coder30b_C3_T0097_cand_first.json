@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a checkout step with `fetch-depth: 0` which is necessary for changelog enforcer to function correctly, and allows skipping enforcement based on labels, while B lacks these crucial elements."}

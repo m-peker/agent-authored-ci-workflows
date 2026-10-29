@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a manual release triggered by `workflow_dispatch` with inputs for tag, name, draft, and prerelease, aligning with the request to create official releases manually, while workflow A attempts to use semantic-release which was explicitly removed."}

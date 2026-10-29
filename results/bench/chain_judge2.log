@@ -1,0 +1,42 @@
+[21:57] download RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8
+25G	/workspace/models/mistral24b
+[22:02] serve
+FAILED serve
+[1;36m(APIServer pid=853774)[0;0m   File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+[1;36m(APIServer pid=853774)[0;0m     return await anext(self.gen)
+[1;36m(APIServer pid=853774)[0;0m            ^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 180, in build_async_engine_client
+[1;36m(APIServer pid=853774)[0;0m     async with build_async_engine_client_from_engine_args(
+[1;36m(APIServer pid=853774)[0;0m   File "/usr/lib/python3.12/contextlib.py", line 210, in __aenter__
+[1;36m(APIServer pid=853774)[0;0m     return await anext(self.gen)
+[1;36m(APIServer pid=853774)[0;0m            ^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/entrypoints/openai/api_server.py", line 225, in build_async_engine_client_from_engine_args
+[1;36m(APIServer pid=853774)[0;0m     async_llm = AsyncLLM.from_vllm_config(
+[1;36m(APIServer pid=853774)[0;0m                 ^^^^^^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/utils/__init__.py", line 1572, in inner
+[1;36m(APIServer pid=853774)[0;0m     return fn(*args, **kwargs)
+[1;36m(APIServer pid=853774)[0;0m            ^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/v1/engine/async_llm.py", line 207, in from_vllm_config
+[1;36m(APIServer pid=853774)[0;0m     return cls(
+[1;36m(APIServer pid=853774)[0;0m            ^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/v1/engine/async_llm.py", line 114, in __init__
+[1;36m(APIServer pid=853774)[0;0m     self.tokenizer = init_tokenizer_from_configs(
+[1;36m(APIServer pid=853774)[0;0m                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/transformers_utils/tokenizer.py", line 286, in init_tokenizer_from_configs
+[1;36m(APIServer pid=853774)[0;0m     return get_tokenizer(
+[1;36m(APIServer pid=853774)[0;0m            ^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/transformers_utils/tokenizer.py", line 256, in get_tokenizer
+[1;36m(APIServer pid=853774)[0;0m     tokenizer = get_cached_tokenizer(tokenizer)
+[1;36m(APIServer pid=853774)[0;0m                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m   File "/workspace/agentci/.venv-llm/lib/python3.12/site-packages/vllm/transformers_utils/tokenizer.py", line 96, in get_cached_tokenizer
+[1;36m(APIServer pid=853774)[0;0m     tokenizer_all_special_ids = tokenizer.all_special_ids
+[1;36m(APIServer pid=853774)[0;0m                                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+[1;36m(APIServer pid=853774)[0;0m AttributeError: 'MistralCommonTokenizer' object has no attribute 'all_special_ids'. Did you mean: '_all_special_ids'?
+[22:02] download RedHatAI/Mistral-Small-3.2-24B-Instruct-2506-FP8
+25G	/workspace/models/mistral24b
+[22:06] serve
+[22:07] judge smoke (5 items)
+[22:07] judge
+mistral24b {'TP': 61, 'FP': 59}
+[22:11] done mistral24b
+JUDGE2_DONE

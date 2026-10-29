@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested parallel test matrix (5 Python versions x 4 test groups) and excludes regression tests as specified, while workflow B is designed specifically for regression tests and doesn't fulfill the broader CI requirements."}

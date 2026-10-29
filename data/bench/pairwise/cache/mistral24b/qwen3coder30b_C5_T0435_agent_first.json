@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a check for the presence of the required secret before attempting to trigger the deploy, making it more robust."}

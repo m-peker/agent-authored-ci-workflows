@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct trigger (pull_request_target) and a more appropriate action (anthropics/claude-code-action) designed for code review, and includes a detailed prompt for the Claude model, while workflow A is empty."}

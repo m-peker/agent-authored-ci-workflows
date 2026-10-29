@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the right branches, includes all necessary jobs and steps to compile, test FATFS support, and verify file contents, while Workflow B misses critical steps like setting up an SSH server and properly testing the wolfsftp client."}

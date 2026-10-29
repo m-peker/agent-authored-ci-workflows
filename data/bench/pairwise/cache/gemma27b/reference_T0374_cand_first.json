@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the necessary steps to run evaluations, install dependencies, and upload results, triggered by PRs to main affecting the specified paths."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested features, such as post-build cleanup, separate build execution and wheel location steps, and uses the specified version of the setup-cuda action with the required flag."}

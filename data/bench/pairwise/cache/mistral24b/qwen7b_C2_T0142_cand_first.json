@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is triggered by a specific comment on an issue, which is more appropriate for triggering flaky tests on demand, while Workflow A runs on every push and pull request, which is not what the request asks for."}

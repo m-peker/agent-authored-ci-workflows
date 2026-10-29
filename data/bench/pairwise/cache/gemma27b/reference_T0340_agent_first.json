@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for independent base publishing, including the correct trigger, steps, and safety checks."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides more detailed and formatted test results directly in the PR comment, including pass/fail counts and coverage percentages, and handles test failures more robustly with parsing and conditional job failure."}

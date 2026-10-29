@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all necessary jobs and steps to track compile time as requested, while Workflow B is incomplete and lacks the actual compile time measurement logic."}

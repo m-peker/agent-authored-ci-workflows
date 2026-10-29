@@ -1,0 +1,73 @@
+D1_first_draft breaking done
+D1_first_draft security_high done
+D1_first_draft supply_chain done
+D2_final_merged breaking done
+D2_final_merged security_high done
+D2_final_merged supply_chain done
+         design       outcome               estimator   est    lo    hi  repos                              note   sig
+ D1_first_draft      breaking                   E2_FE  0.76 -0.61  2.14    758                               NaN False
+ D1_first_draft      breaking          E3_ATT_globalQ  3.28  0.69  6.94    594                               NaN  True
+ D1_first_draft      breaking          E3_ATC_globalQ  0.57 -0.64  1.79    594                               NaN False
+ D1_first_draft      breaking      E3_overlap_globalQ  0.79 -0.49  1.96    594                               NaN False
+ D1_first_draft      breaking        E3_equal_globalQ  0.52 -0.75  1.66    594                               NaN False
+ D1_first_draft      breaking E3_ATT_drop_top10_repos  1.01 -0.92  2.75    584 top10 repos = 49% of agent weight False
+ D1_first_draft      breaking       E3_ATT_repo_equal  0.53 -0.86  1.81    594                               NaN False
+ D1_first_draft      breaking          E3_ATT_withinQ  3.53  0.48  7.07    282                               NaN  True
+ D1_first_draft      breaking          E3_ATC_withinQ  1.58 -0.69  4.05    282                               NaN False
+ D1_first_draft      breaking      E3_overlap_withinQ  1.72 -0.57  4.09    282                               NaN False
+ D1_first_draft      breaking        E3_equal_withinQ  1.97 -0.41  4.55    282                               NaN False
+ D1_first_draft security_high                   E2_FE -0.74 -3.34  1.86    758                               NaN False
+ D1_first_draft security_high          E3_ATT_globalQ  1.91 -1.36  5.86    594                               NaN False
+ D1_first_draft security_high          E3_ATC_globalQ  1.01 -1.66  3.79    594                               NaN False
+ D1_first_draft security_high      E3_overlap_globalQ  0.74 -1.88  3.24    594                               NaN False
+ D1_first_draft security_high        E3_equal_globalQ  1.26 -1.41  3.91    594                               NaN False
+ D1_first_draft security_high E3_ATT_drop_top10_repos  0.89 -2.98  4.86    584 top10 repos = 49% of agent weight False
+ D1_first_draft security_high       E3_ATT_repo_equal  1.03 -1.88  3.70    594                               NaN False
+ D1_first_draft security_high          E3_ATT_withinQ  0.59 -5.30  4.67    282                               NaN False
+ D1_first_draft security_high          E3_ATC_withinQ -2.13 -6.06  2.08    282                               NaN False
+ D1_first_draft security_high      E3_overlap_withinQ -2.30 -5.87  1.37    282                               NaN False
+ D1_first_draft security_high        E3_equal_withinQ -2.49 -6.39  1.56    282                               NaN False
+ D1_first_draft  supply_chain                   E2_FE  2.53  0.32  4.74    758                               NaN  True
+ D1_first_draft  supply_chain          E3_ATT_globalQ -0.03 -4.32  5.21    594                               NaN False
+ D1_first_draft  supply_chain          E3_ATC_globalQ  2.02  0.03  4.15    594                               NaN  True
+ D1_first_draft  supply_chain      E3_overlap_globalQ  1.88 -0.19  4.02    594                               NaN False
+ D1_first_draft  supply_chain        E3_equal_globalQ  2.52  0.51  4.70    594                               NaN  True
+ D1_first_draft  supply_chain E3_ATT_drop_top10_repos  4.66  1.49  8.11    584 top10 repos = 49% of agent weight  True
+ D1_first_draft  supply_chain       E3_ATT_repo_equal  2.39  0.35  4.59    594                               NaN  True
+ D1_first_draft  supply_chain          E3_ATT_withinQ -0.77 -6.00  5.61    282                               NaN False
+ D1_first_draft  supply_chain          E3_ATC_withinQ -0.13 -3.43  2.99    282                               NaN False
+ D1_first_draft  supply_chain      E3_overlap_withinQ  0.13 -3.39  3.52    282                               NaN False
+ D1_first_draft  supply_chain        E3_equal_withinQ  0.37 -2.82  3.59    282                               NaN False
+D2_final_merged      breaking                   E2_FE  0.26 -1.20  1.72    626                               NaN False
+D2_final_merged      breaking          E3_ATT_globalQ  2.27 -0.55  5.21    464                               NaN False
+D2_final_merged      breaking          E3_ATC_globalQ -0.41 -1.64  0.68    464                               NaN False
+D2_final_merged      breaking      E3_overlap_globalQ -0.12 -1.48  1.16    464                               NaN False
+D2_final_merged      breaking        E3_equal_globalQ -0.40 -1.83  0.97    464                               NaN False
+D2_final_merged      breaking E3_ATT_drop_top10_repos  0.53 -1.79  3.28    454 top10 repos = 21% of agent weight False
+D2_final_merged      breaking       E3_ATT_repo_equal -0.40 -1.91  1.04    464                               NaN False
+D2_final_merged      breaking          E3_ATT_withinQ  3.10 -0.19  6.59    178                               NaN False
+D2_final_merged      breaking          E3_ATC_withinQ  1.49 -0.67  3.74    178                               NaN False
+D2_final_merged      breaking      E3_overlap_withinQ  1.69 -0.55  4.01    178                               NaN False
+D2_final_merged      breaking        E3_equal_withinQ  1.77 -0.48  4.13    178                               NaN False
+D2_final_merged security_high                   E2_FE  0.41 -2.43  3.25    626                               NaN False
+D2_final_merged security_high          E3_ATT_globalQ  3.85 -1.72 10.18    464                               NaN False
+D2_final_merged security_high          E3_ATC_globalQ  0.13 -2.95  3.19    464                               NaN False
+D2_final_merged security_high      E3_overlap_globalQ  0.67 -2.05  3.57    464                               NaN False
+D2_final_merged security_high        E3_equal_globalQ  1.24 -1.49  4.19    464                               NaN False
+D2_final_merged security_high E3_ATT_drop_top10_repos  0.25 -4.32  4.75    454 top10 repos = 21% of agent weight False
+D2_final_merged security_high       E3_ATT_repo_equal  1.57 -1.51  4.71    464                               NaN False
+D2_final_merged security_high          E3_ATT_withinQ  2.50 -5.50 10.64    178                               NaN False
+D2_final_merged security_high          E3_ATC_withinQ -2.56 -7.74  2.57    178                               NaN False
+D2_final_merged security_high      E3_overlap_withinQ -1.37 -6.34  3.56    178                               NaN False
+D2_final_merged security_high        E3_equal_withinQ -1.67 -7.07  3.49    178                               NaN False
+D2_final_merged  supply_chain                   E2_FE  1.69 -0.74  4.11    626                               NaN False
+D2_final_merged  supply_chain          E3_ATT_globalQ -2.62 -7.69  2.55    464                               NaN False
+D2_final_merged  supply_chain          E3_ATC_globalQ -0.17 -2.23  1.96    464                               NaN False
+D2_final_merged  supply_chain      E3_overlap_globalQ -0.40 -2.67  1.86    464                               NaN False
+D2_final_merged  supply_chain        E3_equal_globalQ  0.14 -2.16  2.36    464                               NaN False
+D2_final_merged  supply_chain E3_ATT_drop_top10_repos -1.14 -4.93  2.76    454 top10 repos = 21% of agent weight False
+D2_final_merged  supply_chain       E3_ATT_repo_equal  0.26 -2.03  2.51    464                               NaN False
+D2_final_merged  supply_chain          E3_ATT_withinQ -1.81 -6.51  3.65    178                               NaN False
+D2_final_merged  supply_chain          E3_ATC_withinQ -0.62 -4.26  3.10    178                               NaN False
+D2_final_merged  supply_chain      E3_overlap_withinQ -0.33 -3.73  3.23    178                               NaN False
+D2_final_merged  supply_chain        E3_equal_withinQ -0.26 -3.99  3.50    178                               NaN False

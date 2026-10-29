@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly installs the @redocly/cli dependency, which is necessary for the linting step to function, while workflow A attempts to use it without installation."}

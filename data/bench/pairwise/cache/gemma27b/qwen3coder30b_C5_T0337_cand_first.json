@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `cargo` to install the Sui CLI, mirroring the existing contract CI workflows and ensuring a consistent and reproducible installation process, while A uses `wget` which is less ideal."}

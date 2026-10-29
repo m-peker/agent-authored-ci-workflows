@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely matches the request by including dependency restoration and building both the main project and tests, and has a more accurate cron schedule."}

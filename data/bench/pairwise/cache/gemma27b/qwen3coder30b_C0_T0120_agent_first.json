@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to remove aggressive pre-checkout cleanup steps and focuses solely on cleaning the workspace, while B attempts to re-implement a full CI pipeline within the cleanup workflow."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly specifies the pull_request branches trigger and uses consistent indentation in the matrix strategy."}

@@ -1,0 +1,1 @@
+{"item_id": "A018", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The top-level 'description' key is not supported in GitHub Actions workflows, causing the workflow to be rejected.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The top-level 'description' key is not supported in GitHub Actions workflows, causing the workflow to be rejected.\"}"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on a schedule and workflow dispatch, checks for new ingestr releases, and opens a PR to update the version if needed, while Workflow B skips the required test step."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested CI jobs for memory-mcp and wifi-cam-mcp with proper linting and testing steps, while Workflow B misses the test step for wifi-cam-mcp and has an incomplete README link validation."}

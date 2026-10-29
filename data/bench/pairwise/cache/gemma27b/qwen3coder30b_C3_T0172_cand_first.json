@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets the `target-branch` to `main` and includes the `path` to the chart, which are crucial for release-please to function correctly as described in the request, while B omits these."}

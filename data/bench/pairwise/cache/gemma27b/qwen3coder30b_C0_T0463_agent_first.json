@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a complementary stub for `codeql.yml` with appropriate `paths-ignore`, addressing the critical requirement of preventing PR blocking, while workflow B attempts to define a comprehensive `paths` list which is not the correct approach."}

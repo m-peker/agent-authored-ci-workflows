@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the Dockerfile and workflow file, while Workflow B triggers on main branch pushes, which is not what was requested."}

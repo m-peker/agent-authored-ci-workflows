@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting and typechecking steps, providing better quality assurance for the deployed code, while B only deploys."}

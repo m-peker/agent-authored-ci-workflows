@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to the specified branches and includes a job to run tests, which is what the request asks for."}

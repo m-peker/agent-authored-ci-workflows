@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes an additional check to ensure it only runs on issues and not pull requests, and provides a more detailed comment template for better user communication."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and directly addresses the request using `npx @redocly/cli lint` with a minimal extension, avoiding unnecessary file creation and Node.js setup complexity."}

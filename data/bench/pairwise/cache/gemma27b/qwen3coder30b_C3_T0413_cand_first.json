@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows project conventions by using the `oxc-project/setup-rust` action and reading the Node.js version from `.node-version`, and it handles the `just` installation issue more robustly."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PRs where the workflow file is changed and includes the required job name 'copilot-setup-steps' for GitHub Copilot, while Workflow A does not."}

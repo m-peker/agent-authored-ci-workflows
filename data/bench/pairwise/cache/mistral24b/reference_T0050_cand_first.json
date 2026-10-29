@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the defaults.run.working-directory context manager to avoid repeating the cd command in each step."}

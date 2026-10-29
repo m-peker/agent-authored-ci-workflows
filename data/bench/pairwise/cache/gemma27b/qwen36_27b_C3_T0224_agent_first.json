@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A comprehensively addresses the request by including tests, building binaries for multiple platforms, creating a GitHub release with artifacts, and updating the Homebrew formula, while workflow B only publishes the CLI to npm."}

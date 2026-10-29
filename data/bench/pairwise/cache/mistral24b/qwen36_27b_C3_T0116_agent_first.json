@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested testing framework (pytest) and linting (ruff), and runs on the correct Python versions (3.10-3.12) as specified in the request."}

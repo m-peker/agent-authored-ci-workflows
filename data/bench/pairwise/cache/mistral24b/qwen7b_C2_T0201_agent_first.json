@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests and workflow dispatch, includes the osv-scanner setup and scan steps, while Workflow B incorrectly sets up Java and Flutter, and triggers on pushes to main."}

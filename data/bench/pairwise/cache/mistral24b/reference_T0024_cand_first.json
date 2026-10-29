@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all relevant events and checks for Claude mentions in all possible places, while Workflow B only checks issue comments and misses other mention locations."}

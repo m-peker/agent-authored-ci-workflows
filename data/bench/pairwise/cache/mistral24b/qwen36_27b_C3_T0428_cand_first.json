@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is triggered by relevant events (pull request closed or unlabeled) and dispatches a cleanup event to the cloud repository, which aligns with the request to fix the asset sorting issue in the Asset Manager."}

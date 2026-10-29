@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes anti-loop protection and uses more specific triggers for pyproject.toml changes."}

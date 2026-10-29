@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses ghcr.io for image publishing, aligns with the repository's existing setup, and provides a more complete deployment summary with example commands, while workflow B attempts to use DockerHub and lacks deployment steps."}

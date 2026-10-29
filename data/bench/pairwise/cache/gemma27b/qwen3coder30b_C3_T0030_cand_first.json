@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request` trigger and includes the bot author check as requested, while B incorrectly uses `pull_request_target` and lacks the bot author check."}

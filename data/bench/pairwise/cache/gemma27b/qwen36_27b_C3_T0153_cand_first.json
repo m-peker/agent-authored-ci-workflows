@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles both same-repo and fork PRs with appropriate checkout strategies and input parameters, addressing a key security concern and fulfilling the request's intention for broader applicability."}

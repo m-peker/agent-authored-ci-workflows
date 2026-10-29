@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the release-please action with the specified config and manifest files, while Workflow A incorrectly uses a Node.js setup and a custom script."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds and runs the tests, and includes a step to upload the results, while A attempts to install FPCUnit from source which is unnecessary and likely to fail, and doesn't upload results."}

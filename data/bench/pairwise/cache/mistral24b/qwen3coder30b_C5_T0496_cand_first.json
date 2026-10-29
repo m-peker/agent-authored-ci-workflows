@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the requested reusable workflow from the central repository and correctly triggers on workflow_dispatch."}

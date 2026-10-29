@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for deploying MkDocs to GitHub Pages on pushes to the main branch, including necessary permissions and steps."}

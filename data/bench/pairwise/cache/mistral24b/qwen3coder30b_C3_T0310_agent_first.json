@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags matching the MCP version pattern and includes Docker image building and pushing, which is more relevant to the repository's deployment needs."}

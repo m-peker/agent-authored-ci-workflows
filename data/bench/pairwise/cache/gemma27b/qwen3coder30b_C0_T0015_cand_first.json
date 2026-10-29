@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes `bun.lock` in the trigger paths and uses `--frozen-lockfile` for dependency installation, ensuring consistent builds, and explicitly initializes the submodule."}

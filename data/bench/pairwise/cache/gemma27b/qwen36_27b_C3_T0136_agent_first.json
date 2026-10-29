@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes Go setup and a Go-specific security scanner (Gosec) which is more relevant for a Go repository like stacklok/toolhive, while workflow A focuses solely on Trivy and doesn't address the language context."}

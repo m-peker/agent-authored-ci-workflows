@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly configures the stale action with the required parameters and permissions, while Workflow B includes unnecessary steps for a stale PR workflow."}

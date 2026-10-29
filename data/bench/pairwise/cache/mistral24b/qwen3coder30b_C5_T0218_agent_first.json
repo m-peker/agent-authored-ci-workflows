@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes tests for the new default behavior and both flags, while Workflow A only tests the Copilot integration without verifying the requested changes."}

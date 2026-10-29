@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested jobs and steps for Code Formatting (Spotless) and Static Analysis (Detekt), while Workflow B does not."}

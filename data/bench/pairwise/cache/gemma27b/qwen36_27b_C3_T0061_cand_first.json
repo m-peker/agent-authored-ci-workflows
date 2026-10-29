@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant code changes and publishes the remote config to the correct directory, while B has a less sensible trigger and incorrect file path for the config."}

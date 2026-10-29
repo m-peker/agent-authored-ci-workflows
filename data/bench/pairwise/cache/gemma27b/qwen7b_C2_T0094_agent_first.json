@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more complete, using a modern Node version, caching dependencies, and explicitly uploading a coverage report as artifacts, while B is simpler and uses an older Node version."}

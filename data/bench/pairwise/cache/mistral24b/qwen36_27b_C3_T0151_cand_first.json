@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the requested reusable workflow from numbata/danger-pr-comment, while Workflow A attempts to recreate the functionality manually."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and publishing binaries for the specified targets upon release or tag push, while workflow B attempts a rolling release with a more complex branching strategy that isn't explicitly asked for."}

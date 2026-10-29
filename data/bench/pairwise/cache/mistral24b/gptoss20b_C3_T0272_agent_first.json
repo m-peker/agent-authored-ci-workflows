@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on @claude mentions in PRs and has the necessary permissions for Claude to interact with the repository."}

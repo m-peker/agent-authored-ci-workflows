@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies `javascript-typescript` as the language for CodeQL analysis, while workflow B only uses `javascript`, and A's schedule matches the request, whereas B's does not."}

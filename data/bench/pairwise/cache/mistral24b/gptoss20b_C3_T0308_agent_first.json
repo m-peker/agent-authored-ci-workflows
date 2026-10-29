@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested elements: correct triggers, jobs and steps for build, test, and push, and uses actions appropriately for a complete CI/CD pipeline."}

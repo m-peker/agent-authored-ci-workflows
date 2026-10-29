@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses 'stable' for the Go version as requested and includes a checkout step with a more recent action version, while both fulfil the core test execution requirement."}

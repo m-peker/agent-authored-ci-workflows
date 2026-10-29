@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on both issue and pull request comments, uses a dedicated action for Claude, and includes proper permissions."}

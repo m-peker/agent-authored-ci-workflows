@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `actions/stale` action with appropriate configuration for issues and PRs, while workflow B unnecessarily checks out the repository and attempts to run a stale action locally, which is not the intended use."}

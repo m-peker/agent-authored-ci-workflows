@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B addresses the request's emphasis on avoiding root-privileged operations and permission issues by attempting cleanup with user permissions first, and only using Docker with root as a fallback, while also being more robust and configurable."}

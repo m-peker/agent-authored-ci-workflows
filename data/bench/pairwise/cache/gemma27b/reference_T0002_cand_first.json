@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality of updating `uv.lock` weekly and creating a pull request if changes are detected."}

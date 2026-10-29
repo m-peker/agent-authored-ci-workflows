@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `uv sync` as requested, while workflow B incorrectly uses Poetry, deviating from the template's stated migration."}

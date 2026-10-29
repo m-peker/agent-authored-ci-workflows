@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested components (release-please, git-cliff, PR title linting) and has sensible triggers and job dependencies, while Workflow B is missing the release-please and git-cliff functionality."}

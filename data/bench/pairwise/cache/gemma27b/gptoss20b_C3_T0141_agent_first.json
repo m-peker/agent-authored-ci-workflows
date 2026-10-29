@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested triggers and job structure, specifically splitting the tests based on toolkit types and using the `get-certified-connectors.sh` script as intended, while B's triggers are too broad and its test execution is less granular."}

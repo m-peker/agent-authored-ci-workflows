@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push/PR to main, installs uv and verifies pre-commit as requested, while B's trigger is overly specific and uses a less common uv setup action."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by running `dart format` on the specified file, while workflow A tests the install script which is unrelated to the request."}

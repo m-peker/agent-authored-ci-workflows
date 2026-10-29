@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the devcontainers/ci action as requested, while Workflow A manually installs the devcontainer CLI."}

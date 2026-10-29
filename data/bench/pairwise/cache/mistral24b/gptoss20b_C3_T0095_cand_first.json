@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs and steps, with sensible use of actions and correct triggers, while Workflow B is missing some key elements like auto-formatting, code commit, coverage upload, and has a less flexible Go version setup."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly executes the `wp i18n audit` command in the requested formats and attempts to compare the outputs, while workflow A simply reuses another workflow without any specific implementation for the request."}

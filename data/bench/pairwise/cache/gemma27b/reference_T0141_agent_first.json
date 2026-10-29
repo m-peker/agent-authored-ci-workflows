@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A's trigger paths correctly include all requested directories (base, extract, source toolkits) while Workflow B only triggers on changes to version.properties, missing the core trigger requirements."}

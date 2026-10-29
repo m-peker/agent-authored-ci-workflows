@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a main branch build with JDK 21 and concurrency control, while workflow B includes additional complexity and custom actions not specified in the request."}

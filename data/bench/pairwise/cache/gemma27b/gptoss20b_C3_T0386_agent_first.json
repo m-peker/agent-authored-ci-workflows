@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is a complete CI workflow for frontend linting with Biome, including setup, execution, reporting, and failure handling, while workflow B is a minimal linting step without detailed reporting or specific tooling setup."}

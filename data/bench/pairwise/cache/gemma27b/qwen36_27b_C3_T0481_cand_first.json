@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely aligns with the request's intention to fix zizmor findings by using a dedicated script for release checks, while A simply runs a `just` task."}

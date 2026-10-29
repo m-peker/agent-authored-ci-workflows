@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by configuring the Rust toolchain to 1.85.0 and implicitly uses the 2024 edition, while workflow A does not specify a Rust version and therefore doesn't fulfil the MSRV bump."}

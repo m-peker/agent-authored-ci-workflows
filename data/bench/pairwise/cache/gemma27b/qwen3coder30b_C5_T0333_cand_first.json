@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by publishing only the extract package and includes version validation, while workflow B introduces unnecessary complexity with Docker login and caching that aren't required for the stated task."}

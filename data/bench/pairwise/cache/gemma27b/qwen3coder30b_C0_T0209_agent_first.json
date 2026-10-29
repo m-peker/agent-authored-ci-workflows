@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly updates the `flake.nix` file with the new hash, which is the core requirement, and handles the comparison and commit/PR creation more cleanly than Workflow A's diff-based approach."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the pre-built scraper binary and only installs runtime libraries, while Workflow B installs the full OCaml toolchain and opam dependencies."}

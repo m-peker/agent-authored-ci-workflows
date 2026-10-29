@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the node-version-file input to set the Node.js version, which is more maintainable and consistent with the repository's configuration."}

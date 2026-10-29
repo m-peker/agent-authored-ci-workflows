@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request as it correctly triggers on workflow_call, includes the required build, test, and bundle jobs, and uses sensible actions for a Rust project."}

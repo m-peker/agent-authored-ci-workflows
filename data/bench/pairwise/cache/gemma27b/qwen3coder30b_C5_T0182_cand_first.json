@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `publish` input to trigger the release process as described in the request, while workflow B attempts to use `version` which is not the correct input for creating a PR."}

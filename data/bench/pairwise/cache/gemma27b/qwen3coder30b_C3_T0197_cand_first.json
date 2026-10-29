@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely implements the request by adding the `potential-duplicate` label and using a more informative comment format, while also including a check to avoid running on pull requests."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both PR title linting and release-please functionality as requested, while Workflow B only includes PR title linting."}

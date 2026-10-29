@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on merged pull requests and updates the roadmap file as requested, while Workflow B is unrelated to the task."}

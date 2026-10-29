@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly copies `config/database.yml.ci` to `config/database.yml` as requested, and includes more complete setup for the database and dependencies, while A does not copy the file and uses hardcoded credentials."}

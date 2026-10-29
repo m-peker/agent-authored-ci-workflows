@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses performance testing with a dedicated suite run, including recording and reporting, while workflow B is overly complex with change detection and multiple jobs that don't clearly focus on the requested performance regressions."}

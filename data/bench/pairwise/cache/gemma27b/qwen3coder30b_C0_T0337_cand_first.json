@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a pinned Sui CLI revision and sets the working directory explicitly, addressing key points from the review checklist and request, while A uses a less reliable installation method."}

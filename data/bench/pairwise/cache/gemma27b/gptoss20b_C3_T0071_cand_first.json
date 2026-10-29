@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses action version v6 as requested, includes the `pre-job` dependency, and enforces the lowercase subject line with a sensible regex, while workflow B uses v5 and has a more complex (and potentially incorrect) regex for lowercase enforcement."}

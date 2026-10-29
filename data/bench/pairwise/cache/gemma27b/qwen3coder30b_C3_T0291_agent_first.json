@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the matrix strategy with `max-parallel: 1` and uses the `data/v2-top-reward-tasks.json` file as requested, while workflow B uses a custom action and lacks the necessary concurrency control."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on workflow file changes, uses a setup job with paths-filter, and includes all necessary steps for ghalint installation and execution."}

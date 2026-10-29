@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `npm ci` which is best practice for CI environments to ensure a clean and reproducible build, while A uses `npm install` which can lead to inconsistencies."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the `BASE_PATH` environment variable to `/OSS-DocumentScanner/` as requested, while workflow B does not, and also includes asset copying which B omits."}

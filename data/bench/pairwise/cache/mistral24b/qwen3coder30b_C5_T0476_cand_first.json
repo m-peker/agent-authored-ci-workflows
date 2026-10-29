@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events with the slash command and follows the requested pattern of bumping versions with an RC suffix."}

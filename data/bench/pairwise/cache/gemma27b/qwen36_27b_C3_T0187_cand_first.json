@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the path filtering step to only trigger the deploy on changes to the `docs/` directory, as requested, while workflow B lacks this crucial filtering."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary step to install tools and uses kustomize to generate manifests, which is more aligned with the request to push Kubernetes manifests to OCI registry."}

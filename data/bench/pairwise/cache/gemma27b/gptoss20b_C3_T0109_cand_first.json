@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the modern GitHub Pages deployment features (artifact upload and deploy action) which is more robust and recommended than the older peaceiris/actions-gh-pages action used in Workflow A."}

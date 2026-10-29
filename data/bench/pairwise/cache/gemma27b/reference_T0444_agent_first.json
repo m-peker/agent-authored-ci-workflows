@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the request to use a single `pnpm turbo ci` command and provides detailed error reporting with GitHub annotations, while workflow B runs each task individually and doesn't fully leverage the benefits of Turbo's unified execution."}

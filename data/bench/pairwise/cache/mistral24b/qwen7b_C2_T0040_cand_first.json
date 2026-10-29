@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested lint and unit tests, and a deployment job triggered on push to main, while Workflow B does not address the request's requirements."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for the `E2E_FLOWS_ENABLED` variable before running tests, and includes a more robust approach to starting and verifying the application server before running tests, while B has a less reliable server start and doesn't have the check."}

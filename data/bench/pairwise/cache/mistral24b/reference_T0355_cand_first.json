@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly targets only ubuntu-latest and macos-latest as specified in the request, while Workflow A includes an unnecessary Windows runner."}

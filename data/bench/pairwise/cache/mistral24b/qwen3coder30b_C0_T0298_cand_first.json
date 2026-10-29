@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary dependency (bc) for the test suite and runs the correct test script (jury/render-the-verdict.sh)."}

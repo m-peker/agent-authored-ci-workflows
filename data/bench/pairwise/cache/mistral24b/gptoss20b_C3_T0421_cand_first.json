@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements draft pre-releases for dev builds while Workflow B is a reusable workflow for building and releasing binaries but does not specifically address the request for draft pre-releases."}

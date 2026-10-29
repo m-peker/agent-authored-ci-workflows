@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to fulfil all validation steps outlined in the 'Test plan' of the request, while workflow B only validates the corpus, making A a more complete CI workflow."}

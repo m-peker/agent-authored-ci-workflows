@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested build matrix, artifact naming, and bundle job, closely mirroring the python-node CI, while workflow B is a simplified build and test without the requested features."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly removes the dev target and defaults dry-run to true, while also including the necessary triggers and jobs for a release pipeline."}

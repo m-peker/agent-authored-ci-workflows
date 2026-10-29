@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Go versions 1.20, 1.21, and 1.22 as requested, while workflow B uses 1.19, 1.20, and 1.21, and also unnecessarily includes a mock dependency."}

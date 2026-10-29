@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `go.mod` file to determine the Go version, and its GoReleaser configuration is more aligned with the request's need for clean releases, while B's explicit Go version and dependency installation are unnecessary and less focused on the core task."}

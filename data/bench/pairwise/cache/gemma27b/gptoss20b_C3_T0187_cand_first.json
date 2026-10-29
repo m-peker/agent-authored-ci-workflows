@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a `paths-filter` to determine if a deploy is needed, as requested, while workflow B relies on the `paths` trigger which is less flexible and doesn't align with the request's intent."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly builds the manifests from the source using kustomize, while workflow B relies on an external script (`update-manifests.sh`) which isn't provided and introduces an unnecessary dependency."}

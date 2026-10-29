@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly implements the 30-day staleness check within the `gh pr list` and `jq` command, avoiding the need for intermediate files and simplifying the logic."}

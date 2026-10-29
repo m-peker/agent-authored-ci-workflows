@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly combines the website and specification builds into a single deployable artifact and uses the official `actions/deploy-pages` action, while workflow B attempts to deploy the specification's book directory directly, which isn't the request and uses a deprecated deployment action."}

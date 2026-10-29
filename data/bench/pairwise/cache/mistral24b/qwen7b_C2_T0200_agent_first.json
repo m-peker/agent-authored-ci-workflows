@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue comments and specifically requests a code owner review when the comment is from the Codex bot, while Workflow B triggers on pull requests and performs unnecessary setup steps for a documentation-only update."}

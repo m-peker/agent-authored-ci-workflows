@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly runs tests with coverage in a single step, while Workflow B runs tests twice and generates coverage separately, which is redundant."}

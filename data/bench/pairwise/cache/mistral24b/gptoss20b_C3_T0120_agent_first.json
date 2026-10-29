@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the correct triggers for a CI/CD pipeline and targets the Rust language specifically mentioned in the repository, while Workflow A is a reusable cleanup workflow without proper triggers."}

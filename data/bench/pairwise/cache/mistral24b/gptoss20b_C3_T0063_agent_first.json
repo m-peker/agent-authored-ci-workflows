@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps for building and testing Ruby code, which is the primary language of the repository, while Workflow A only builds a bundler ecosystem image."}

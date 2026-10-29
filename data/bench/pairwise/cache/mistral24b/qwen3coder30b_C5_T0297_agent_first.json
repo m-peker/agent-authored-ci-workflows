@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all branches and tags, includes all required jobs and steps, and uses sensible actions for artifact upload and release creation."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core need of testing a Go repository, while workflow B adds linting and a separate build step that aren't explicitly requested and are unnecessary for a documentation-only PR."}

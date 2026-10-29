@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested tests (go vet, unit tests) and correctly specifies the working directory for the CLI, while A only focuses on building the binaries."}

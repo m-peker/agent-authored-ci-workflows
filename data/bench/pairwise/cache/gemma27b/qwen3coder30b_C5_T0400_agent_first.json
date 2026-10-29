@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by querying for pending workflow runs and approving them based on contributor status or the `ok-to-test` label, while workflow B attempts to handle both PR and workflow run events in a complex way and doesn't reliably approve pending workflows."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more specific and efficient Python setup action (astral-sh/setup-uv) and correctly targets the plugins directory for scanning."}

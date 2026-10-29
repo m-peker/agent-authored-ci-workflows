@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested platform matrix and includes the necessary Postgres setup steps, while B simplifies the platform setup and lacks Postgres configuration."}

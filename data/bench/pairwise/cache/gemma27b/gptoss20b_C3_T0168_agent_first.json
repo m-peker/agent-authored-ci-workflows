@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub API directly via `github-script`, which is more robust and idiomatic for GitHub Actions than parsing `gh` output with `jq` as in Workflow A."}

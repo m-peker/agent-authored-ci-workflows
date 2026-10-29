@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly captures the exit code behavior of the scanner to fail the job on BLOCK findings and warn on WARN findings, as specified in the request, while B does not handle exit codes at all."}

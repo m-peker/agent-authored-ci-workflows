@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the composite action as a step, while workflow B attempts to use it as a job and requires secrets/vars not mentioned in the request."}

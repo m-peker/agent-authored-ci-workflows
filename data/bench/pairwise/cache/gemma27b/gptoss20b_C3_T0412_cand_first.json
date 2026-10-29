@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly includes `rustfmt` as a toolchain component, which is implied by 'code quality' and fixing clippy warnings, and has a more explicit structure."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly filters for Dependabot PRs using `github.actor`, while B triggers on any PR to `main` modifying `Cargo.lock` and lacks the necessary permissions setup for pushing changes."}

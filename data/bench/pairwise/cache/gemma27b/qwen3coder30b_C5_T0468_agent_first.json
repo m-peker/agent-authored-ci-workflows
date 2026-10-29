@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `make lint` as requested in the implementation details, while B introduces a separate `make lint-install` step not mentioned in the request."}

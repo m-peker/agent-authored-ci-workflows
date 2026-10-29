@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to the request's trigger conditions (PR changes to the workflow file, and copilot in the default branch via workflow dispatch) and includes the required job name 'copilot-setup-steps'."}

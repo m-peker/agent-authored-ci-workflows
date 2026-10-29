@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's logic of querying PR history and approving pending workflow runs, while B attempts to approve the current workflow run which isn't the intended behavior."}

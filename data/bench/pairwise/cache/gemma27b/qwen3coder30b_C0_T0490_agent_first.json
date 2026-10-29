@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles multiple build variants (threaded/async) and includes specific data/package inclusion for dirsearch, while workflow B lacks variant support and uses a generic '3.x' Python version."}

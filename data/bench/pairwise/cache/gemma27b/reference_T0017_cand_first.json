@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Both workflows are identical and fulfil the core request of deploying MkDocs to GitHub Pages on pushes to main, but workflow A is slightly more complete as it includes necessary permissions."}

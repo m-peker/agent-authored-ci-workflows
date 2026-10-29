@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested features: PR title linting, release-please for version bumping and GitHub Release creation, and git-cliff for changelog generation, while Workflow B only includes PR title linting."}

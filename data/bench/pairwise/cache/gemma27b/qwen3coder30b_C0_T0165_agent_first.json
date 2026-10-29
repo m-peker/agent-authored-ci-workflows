@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the GoReleaser action and Go version, and the tag trigger `*` is more flexible for any tag-based release, aligning better with the request's intent."}

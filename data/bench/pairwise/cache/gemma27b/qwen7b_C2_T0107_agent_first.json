@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and uses appropriate arguments for the lychee action to check markdown and HTML files, while workflow B unnecessarily sets up a Rust toolchain and lacks specific file targeting."}

@@ -1,0 +1,1 @@
+{"action": "rui314/setup-mold", "ref": "v1", "exists": true, "name": "Setup mold", "description": "Install mold as the default linker", "inputs": {"mold-version": {"required": false, "default": "3.0.0", "description": "The mold version to download"}, "make-default": {"required": false, "default": "True", "description": "Make mold the default linker"}}, "outputs": []}

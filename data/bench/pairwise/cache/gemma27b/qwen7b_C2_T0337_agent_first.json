@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the pinned Sui CLI revision specified in the request and other workflows, while workflow B uses a different, unapproved version and unnecessarily installs Node.js."}

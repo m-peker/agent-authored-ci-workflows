@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes linting and has separate test and build jobs, making it more comprehensive for a CI/CD pipeline."}

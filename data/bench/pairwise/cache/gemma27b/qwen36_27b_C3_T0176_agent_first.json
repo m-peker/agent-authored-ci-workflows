@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by building for Windows and restoring the godot/ source, using a matrix strategy for multiple platforms, and building the Godot editor itself, which is a more complete solution for addon development."}

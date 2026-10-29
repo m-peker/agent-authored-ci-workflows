@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements both .NET code analyzers and GitHub CodeQL security scanning with the right triggers and steps."}

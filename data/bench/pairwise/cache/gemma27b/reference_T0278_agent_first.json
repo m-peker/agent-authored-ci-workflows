@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B simplifies the build process by directly leveraging the `install.sh` script, reducing redundancy and potential errors compared to Workflow A's manual provisioning steps."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the described build process and uses existing infrastructure, while B introduces Docker which wasn't mentioned and adds unnecessary complexity."}

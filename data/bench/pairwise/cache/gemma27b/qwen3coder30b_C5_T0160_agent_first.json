@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B attempts to install `ydotool` as a dependency, which is explicitly added in the PR, while workflow A does not, making it more complete for the request."}

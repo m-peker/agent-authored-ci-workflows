@@ -1,0 +1,1 @@
+{"action": "egor-tensin/vs-shell", "ref": "v2", "exists": true, "name": "Visual Studio shell", "description": "Set up Visual Studio paths and environment variables", "inputs": {"arch": {"required": false, "default": "x64", "description": "Target architecture"}}, "outputs": []}

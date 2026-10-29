@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on ARB file changes, includes all requested validation steps, and provides a comprehensive report in the PR, while Workflow B misses some key validations and doesn't integrate results into the PR."}

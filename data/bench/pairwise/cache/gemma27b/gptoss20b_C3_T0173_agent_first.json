@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides the necessary environment setup (Rust, Python, Ruby) to reliably run the check script, while A assumes these are already present."}

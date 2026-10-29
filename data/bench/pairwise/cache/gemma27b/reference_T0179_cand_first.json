@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly retrieves and passes the diff to the Gemini action, which is essential for code review, while workflow B does not and relies on the action to fetch it itself, potentially missing changes."}

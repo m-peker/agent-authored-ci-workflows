@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A reuses an existing Trivy workflow, likely containing best practices and reducing redundancy, while B builds the image unnecessarily and is more verbose."}

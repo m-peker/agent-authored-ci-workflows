@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `repository_dispatch` to handle repo commands as requested, while workflow B attempts to use issue comments and pull request edits which is not what was asked for."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests the entire workspace with both the new MSRV and stable Rust, while Workflow B only uses stable Rust and focuses on specific integration tests."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets the `BASE_URL` environment variable during the build process, which is crucial for Vite's GitHub Pages deployment configuration as requested, while workflow B does not."}

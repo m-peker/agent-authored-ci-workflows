@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requested validation types with dedicated jobs, while workflow B focuses more on general linting, testing, and building, with security scanning as one job."}

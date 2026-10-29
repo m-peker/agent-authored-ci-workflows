@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements triggers for both PRs and issues, including the `/review-issue` command, and attempts to handle issue and PR review separately as requested, while A focuses solely on PRs."}

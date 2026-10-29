@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to push Kubernetes manifests to GHCR using standard Docker actions, while Workflow B introduces Flux and additional scripting that isn't required by the prompt."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the 'run-tests' label for external contributors and includes all necessary steps to run tests, while Workflow B has unnecessary complexity and doesn't properly handle the Google credentials setup."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a matrix strategy to build for all three platforms as requested, while workflow A attempts to do this in a single run step which is less robust and scalable."}

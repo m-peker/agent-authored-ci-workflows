@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `autobuild` action, simplifying the build process and aligning with typical CodeQL usage, while B introduces a non-existent config file."}

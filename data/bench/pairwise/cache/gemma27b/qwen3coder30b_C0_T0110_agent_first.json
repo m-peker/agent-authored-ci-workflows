@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual trigger with inputs for version and dist-tag, includes validation, and handles checking for existing versions on npm, aligning with the request's intent for controlled publishing, while B is triggered on push and lacks version control."}

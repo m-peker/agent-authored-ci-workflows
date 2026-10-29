@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the master branch push, adjusts the VitePress base path, and deploys to gh-pages, while Workflow B uses incorrect branch names and unnecessary steps."}

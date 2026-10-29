@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `make lint` as requested in the implementation details, while B uses `make install-golangci-lint` which isn't specified and adds an unnecessary step."}

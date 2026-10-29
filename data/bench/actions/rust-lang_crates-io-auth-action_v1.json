@@ -1,0 +1,1 @@
+{"action": "rust-lang/crates-io-auth-action", "ref": "v1", "exists": true, "name": "crates-io-auth-action", "description": "Retrieve a temporary crates.io access token using trusted publishing.", "inputs": {"url": {"required": false, "default": "https://crates.io", "description": "cargo registry url, defaults to crates.io"}}, "outputs": ["token"]}

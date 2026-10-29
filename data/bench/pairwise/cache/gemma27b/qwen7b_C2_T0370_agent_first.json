@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `.nvmrc` to specify the Node.js version as requested by the commit message, while B hardcodes it, and A's trigger is more specific."}

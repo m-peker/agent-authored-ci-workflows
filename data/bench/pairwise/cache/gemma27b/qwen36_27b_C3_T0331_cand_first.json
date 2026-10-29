@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both `workflow_dispatch` and `push` events to `current/docs/**`, while B only triggers on `main` branch pushes to `current/docs/**`, missing a key requirement."}

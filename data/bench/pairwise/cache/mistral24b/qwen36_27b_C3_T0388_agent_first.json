@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the correct triggers, validates all specified OpenAPI specs with a matrix strategy, and uses the @redocly/cli with a minimal ruleset as requested."}

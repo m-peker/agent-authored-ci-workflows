@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes version validation, supports multi-architecture builds, and handles all three release types (official, test, and auto test) as specified in the request."}

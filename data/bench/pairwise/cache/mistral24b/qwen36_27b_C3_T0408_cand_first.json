@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins to Python 3.14 and includes all requested steps, while Workflow B uses a non-pinned version of uv and includes an unnecessary branch in the triggers."}

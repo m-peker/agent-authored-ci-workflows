@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested steps (build, test, clippy, and formatting check) and uses more specific and sensible actions for Rust development."}

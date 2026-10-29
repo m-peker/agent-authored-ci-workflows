@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is much more comprehensive, covering multiple runners, a dedicated fixture repository, Rust setup, and a detailed performance suite execution with result reporting and gating, aligning with a robust CI/CD process for performance regressions."}

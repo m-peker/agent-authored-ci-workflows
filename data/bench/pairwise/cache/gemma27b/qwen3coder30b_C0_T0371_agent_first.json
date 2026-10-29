@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by adding a `publish` step (albeit a no-op) to trigger release creation with the changesets action, while workflow A focuses on IPR agreement and is unrelated."}

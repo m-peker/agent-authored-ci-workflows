@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a reusable workflow for Trivy scanning, while Workflow B implements the scan from scratch."}

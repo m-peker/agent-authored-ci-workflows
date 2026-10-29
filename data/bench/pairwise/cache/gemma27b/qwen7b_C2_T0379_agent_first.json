@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A focuses solely on the SBOM generation as requested, using the correct trigger paths and CycloneDX tool, while workflow B attempts to combine CI and SBOM, using an older Node version and a different (less specific) SBOM generation command."}

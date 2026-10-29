@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on relevant changes (package.json, dist/) and publishes to npm and creates a release, while B relies on tags and operates within a 'tools' directory not present in the repo."}

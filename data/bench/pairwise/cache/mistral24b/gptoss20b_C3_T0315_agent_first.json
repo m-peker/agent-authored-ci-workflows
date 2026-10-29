@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes jobs and steps specifically for filtering Jest output as requested, while Workflow A does not address the request at all."}

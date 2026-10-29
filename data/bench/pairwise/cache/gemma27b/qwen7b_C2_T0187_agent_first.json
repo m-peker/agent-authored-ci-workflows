@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes a checkout step and sends a more complete payload to the Vercel deploy hook, while also adhering to the requested permissions and job structure."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is triggered by changes to files relevant to the prompt refactor, while A is a generic CI workflow and doesn't specifically address the request's scope."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by publishing to PyPI on tag push, while workflow B focuses on building and uploading artifacts without a direct publish step, and has a less sensible tag trigger."}

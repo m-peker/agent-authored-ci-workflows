@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all aspects of the request, including type checking, performance tests, documentation build, and merging dev into master, while workflow B only covers type checking and uses a newer Python version than specified."}

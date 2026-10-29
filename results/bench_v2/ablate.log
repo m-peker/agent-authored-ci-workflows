@@ -1,0 +1,114 @@
+           model chain  k  calls  completion_tokens  unresolved_pct  breaking  halluc  clean
+       gptoss20b   rag  0   1.00            3804.74            38.4      17.4    14.6   62.0
+       gptoss20b   rag  1   1.38            5593.68            20.6       7.2     6.0   79.4
+       gptoss20b   rag  2   1.59            6724.43            13.0       5.0     2.8   87.0
+       gptoss20b   rag  3   1.72            7452.28            11.0       3.8     3.0   89.0
+       gptoss20b    zs  0   1.00            3476.73            44.6      15.2    24.0   55.6
+       gptoss20b    zs  1   1.45            5526.84            25.8       8.6    11.2   74.2
+       gptoss20b    zs  2   1.70            6885.95            18.0       6.4     6.4   82.2
+       gptoss20b    zs  3   1.88            7830.60            12.6       4.4     3.6   87.4
+gptoss20b_mt4096   rag  0   1.00            2495.81            51.0      32.2    13.8   49.8
+gptoss20b_mt4096   rag  1   1.51            3847.35            30.0      19.2     6.6   70.0
+gptoss20b_mt4096   rag  2   1.81            4724.58            21.2      14.2     4.0   79.0
+gptoss20b_mt4096   rag  3   2.02            5381.98            18.0      11.4     4.0   82.0
+gptoss20b_mt4096    zs  0   1.00            2401.12            50.8      28.6    19.2   49.2
+gptoss20b_mt4096    zs  1   1.51            3774.85            33.8      20.0    10.0   66.2
+gptoss20b_mt4096    zs  2   1.85            4759.50            25.6      16.4     5.4   74.4
+gptoss20b_mt4096    zs  3   2.10            5551.64            20.8      14.6     3.6   79.2
+      qwen36_27b   rag  0   1.00             627.61            34.4       8.2     6.8   65.8
+      qwen36_27b   rag  1   1.34             911.00            20.8       3.6     3.0   79.2
+      qwen36_27b   rag  2   1.55            1100.22            18.2       3.2     2.8   81.8
+      qwen36_27b   rag  3   1.73            1265.66            17.4       3.0     2.6   82.6
+      qwen36_27b    zs  0   1.00             593.77            35.4       6.8     9.4   64.8
+      qwen36_27b    zs  1   1.35             879.21            22.4       3.8     5.0   77.6
+      qwen36_27b    zs  2   1.58            1085.44            18.2       3.0     2.8   81.8
+      qwen36_27b    zs  3   1.76            1265.38            17.6       3.0     2.6   82.4
+   qwen3coder30b   ctx  0   1.00             685.92            40.0      12.6    14.6   60.2
+   qwen3coder30b   ctx  1   1.40            1085.58            30.6       8.2     6.8   69.4
+   qwen3coder30b   ctx  2   1.71            1401.86            26.4       6.8     4.2   73.6
+   qwen3coder30b   ctx  3   1.97            1670.26            24.6       5.4     3.4   75.4
+   qwen3coder30b   rag  0   1.00             511.27            29.2       9.6    11.0   71.0
+   qwen3coder30b   rag  1   1.29             712.57            19.8       4.0     5.0   80.2
+   qwen3coder30b   rag  2   1.49             858.53            15.8       3.2     2.6   84.2
+   qwen3coder30b   rag  3   1.65             943.41            14.6       3.0     2.2   85.4
+   qwen3coder30b    zs  0   1.00             508.40            31.6       9.2    11.0   68.4
+   qwen3coder30b    zs  1   1.32             734.62            25.2       6.6     7.4   74.8
+   qwen3coder30b    zs  2   1.57             914.99            22.0       5.4     5.4   78.0
+   qwen3coder30b    zs  3   1.79            1047.15            19.6       5.2     4.4   80.4
+          qwen7b   rag  0   1.00             445.05            38.4      22.2    15.0   62.4
+          qwen7b   rag  1   1.38             645.71            31.6      17.2    10.8   68.4
+          qwen7b   rag  2   1.70             822.02            28.8      16.6     9.2   71.2
+          qwen7b   rag  3   1.99             947.22            28.4      16.6     8.6   71.6
+          qwen7b    zs  0   1.00             390.64            35.4      18.4    15.2   65.0
+          qwen7b    zs  1   1.35             550.13            28.2      11.0    11.2   71.8
+          qwen7b    zs  2   1.64             687.22            27.2      10.4    10.6   72.8
+          qwen7b    zs  3   1.91             796.60            25.6      10.0     9.2   74.4
+
+k vs k-1 (breaking, halluc):
+           model chain  outcome comparison  only_prev  only_new      p  p_holm
+       gptoss20b   rag breaking   k1 vs k0         64        13 0.0000  0.0000
+       gptoss20b   rag breaking   k2 vs k1         22        11 0.0801  0.1603
+       gptoss20b   rag breaking   k3 vs k2         10         4 0.1796  0.1796
+       gptoss20b   rag   halluc   k1 vs k0         47         4 0.0000  0.0000
+       gptoss20b   rag   halluc   k2 vs k1         23         7 0.0052  0.0104
+       gptoss20b   rag   halluc   k3 vs k2          6         7 1.0000  1.0000
+       gptoss20b    zs breaking   k1 vs k0         52        19 0.0001  0.0003
+       gptoss20b    zs breaking   k2 vs k1         24        13 0.0989  0.1743
+       gptoss20b    zs breaking   k3 vs k2         19         9 0.0872  0.1743
+       gptoss20b    zs   halluc   k1 vs k0         76        12 0.0000  0.0000
+       gptoss20b    zs   halluc   k2 vs k1         32         8 0.0002  0.0004
+       gptoss20b    zs   halluc   k3 vs k2         21         7 0.0125  0.0125
+gptoss20b_mt4096   rag breaking   k1 vs k0         92        27 0.0000  0.0000
+gptoss20b_mt4096   rag breaking   k2 vs k1         45        20 0.0026  0.0053
+gptoss20b_mt4096   rag breaking   k3 vs k2         29        15 0.0488  0.0488
+gptoss20b_mt4096   rag   halluc   k1 vs k0         49        13 0.0000  0.0000
+gptoss20b_mt4096   rag   halluc   k2 vs k1         25        12 0.0470  0.0941
+gptoss20b_mt4096   rag   halluc   k3 vs k2         14        14 1.0000  1.0000
+gptoss20b_mt4096    zs breaking   k1 vs k0         80        37 0.0001  0.0003
+gptoss20b_mt4096    zs breaking   k2 vs k1         44        26 0.0414  0.0828
+gptoss20b_mt4096    zs breaking   k3 vs k2         30        21 0.2624  0.2624
+gptoss20b_mt4096    zs   halluc   k1 vs k0         69        23 0.0000  0.0000
+gptoss20b_mt4096    zs   halluc   k2 vs k1         40        17 0.0032  0.0064
+gptoss20b_mt4096    zs   halluc   k3 vs k2         18         9 0.1221  0.1221
+      qwen36_27b   rag breaking   k1 vs k0         23         0 0.0000  0.0000
+      qwen36_27b   rag breaking   k2 vs k1          2         0 0.5000  1.0000
+      qwen36_27b   rag breaking   k3 vs k2          1         0 1.0000  1.0000
+      qwen36_27b   rag   halluc   k1 vs k0         19         0 0.0000  0.0000
+      qwen36_27b   rag   halluc   k2 vs k1          1         0 1.0000  1.0000
+      qwen36_27b   rag   halluc   k3 vs k2          1         0 1.0000  1.0000
+      qwen36_27b    zs breaking   k1 vs k0         16         1 0.0003  0.0008
+      qwen36_27b    zs breaking   k2 vs k1          4         0 0.1250  0.2500
+      qwen36_27b    zs breaking   k3 vs k2          0         0 1.0000  1.0000
+      qwen36_27b    zs   halluc   k1 vs k0         22         0 0.0000  0.0000
+      qwen36_27b    zs   halluc   k2 vs k1         11         0 0.0010  0.0020
+      qwen36_27b    zs   halluc   k3 vs k2          1         0 1.0000  1.0000
+   qwen3coder30b   ctx breaking   k1 vs k0         23         1 0.0000  0.0000
+   qwen3coder30b   ctx breaking   k2 vs k1         10         3 0.0923  0.0923
+   qwen3coder30b   ctx breaking   k3 vs k2          7         0 0.0156  0.0312
+   qwen3coder30b   ctx   halluc   k1 vs k0         40         1 0.0000  0.0000
+   qwen3coder30b   ctx   halluc   k2 vs k1         14         1 0.0010  0.0020
+   qwen3coder30b   ctx   halluc   k3 vs k2          5         1 0.2188  0.2188
+   qwen3coder30b   rag breaking   k1 vs k0         28         0 0.0000  0.0000
+   qwen3coder30b   rag breaking   k2 vs k1          4         0 0.1250  0.2500
+   qwen3coder30b   rag breaking   k3 vs k2          2         1 1.0000  1.0000
+   qwen3coder30b   rag   halluc   k1 vs k0         30         0 0.0000  0.0000
+   qwen3coder30b   rag   halluc   k2 vs k1         12         0 0.0005  0.0010
+   qwen3coder30b   rag   halluc   k3 vs k2          2         0 0.5000  0.5000
+   qwen3coder30b    zs breaking   k1 vs k0         15         2 0.0023  0.0070
+   qwen3coder30b    zs breaking   k2 vs k1          7         1 0.0703  0.1406
+   qwen3coder30b    zs breaking   k3 vs k2          1         0 1.0000  1.0000
+   qwen3coder30b    zs   halluc   k1 vs k0         18         0 0.0000  0.0000
+   qwen3coder30b    zs   halluc   k2 vs k1         10         0 0.0020  0.0039
+   qwen3coder30b    zs   halluc   k3 vs k2          5         0 0.0625  0.0625
+          qwen7b   rag breaking   k1 vs k0         26         1 0.0000  0.0000
+          qwen7b   rag breaking   k2 vs k1          3         0 0.2500  0.5000
+          qwen7b   rag breaking   k3 vs k2          0         0 1.0000  1.0000
+          qwen7b   rag   halluc   k1 vs k0         22         1 0.0000  0.0000
+          qwen7b   rag   halluc   k2 vs k1          9         1 0.0215  0.0430
+          qwen7b   rag   halluc   k3 vs k2          3         0 0.2500  0.2500
+          qwen7b    zs breaking   k1 vs k0         39         2 0.0000  0.0000
+          qwen7b    zs breaking   k2 vs k1          5         2 0.4531  0.9062
+          qwen7b    zs breaking   k3 vs k2          2         0 0.5000  0.9062
+          qwen7b    zs   halluc   k1 vs k0         22         2 0.0000  0.0001
+          qwen7b    zs   halluc   k2 vs k1          4         1 0.3750  0.3750
+          qwen7b    zs   halluc   k3 vs k2          7         0 0.0156  0.0312

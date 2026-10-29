@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed to automatically fix CI failures using Claude AI, which aligns with the request to implement email-based agent invocation, while Workflow B is a standard CI/CD pipeline without specific email integration features."}

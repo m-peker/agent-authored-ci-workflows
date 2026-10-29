@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested steps (linting, styling, and testing) with proper configuration for 2-space indentation, while Workflow B only includes linting and lacks the other requested features."}

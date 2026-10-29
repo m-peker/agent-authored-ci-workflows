@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement all the requested CI steps: TypeScript check, ESLint, Prettier, tests with coverage, and build verification, with appropriate caching and setup."}

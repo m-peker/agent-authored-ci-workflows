@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete, including publishing to npm and creating a GitHub release, while A stops at pushing a tag and running a custom script."}

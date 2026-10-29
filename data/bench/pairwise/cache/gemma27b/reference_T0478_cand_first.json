@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and rely on a reusable workflow (`./.github/workflows/_docker-image.yaml`) to perform the actual build, so neither directly addresses the request of adding pigz or applying yamlfmt, but they both trigger on the correct files for those changes."}

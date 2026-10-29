@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by triggering on a dispatch with a PR number, posting start/completion comments, and calling the existing workflow, while B is overly complex and relies on many inputs not directly requested."}

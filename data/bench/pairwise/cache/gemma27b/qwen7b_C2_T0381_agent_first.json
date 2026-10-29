@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of moving coverage collection to a scheduled job, while B still runs coverage on PRs and doesn't implement the reduced PR matrix or path filtering."}

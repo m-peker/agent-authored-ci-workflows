@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly omits the version input and checks for existing candidate branch, aligning better with the request."}

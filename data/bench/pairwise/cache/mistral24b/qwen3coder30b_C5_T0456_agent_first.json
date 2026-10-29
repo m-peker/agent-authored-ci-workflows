@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including the use of the select-opencode-model action and auto-determining the version via release-dry-run logic."}

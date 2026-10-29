@@ -1,0 +1,1 @@
+{"item_id": "A111", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The pages: write permission is required for the deploy-pages action and is not overly broad.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The pages: write permission is required for the deploy-pages action and is not overly broad.\"}"}

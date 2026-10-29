@@ -1,0 +1,1 @@
+{"item_id": "A009", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The YAML is valid; actionlint misinterprets the heredoc content.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The YAML is valid; actionlint misinterprets the heredoc content.\"}"}

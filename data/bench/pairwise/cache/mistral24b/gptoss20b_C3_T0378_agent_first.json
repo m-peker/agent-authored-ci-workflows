@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes tests for the CLI arguments and environment variable fallbacks as specified in the request, while Workflow A does not address the request at all."}

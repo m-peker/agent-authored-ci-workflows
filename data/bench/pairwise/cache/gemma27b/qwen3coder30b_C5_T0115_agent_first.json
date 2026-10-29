@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly derives cache keys and image tags from branch/tag metadata, eliminating the need for manual configuration and the implicit 'latest' tag, as requested."}

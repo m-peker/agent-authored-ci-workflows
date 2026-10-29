@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `setup-uv` to ensure a consistent Python environment, which is best practice for reproducibility and dependency management, while A assumes Python 3 is available."}

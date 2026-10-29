@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes specific steps to validate the removal of fpm and the implementation of native DEB package generation, while Workflow A only performs CodeQL analysis without addressing the packaging changes."}

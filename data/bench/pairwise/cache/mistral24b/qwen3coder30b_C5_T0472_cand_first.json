@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the 'run-tests' label and includes all necessary steps for testing, while Workflow B uses the wrong trigger event type."}

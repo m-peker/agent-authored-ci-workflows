@@ -1,0 +1,1 @@
+{"action": "dsherret/rust-toolchain-file", "ref": "v1", "exists": true, "name": "rust-toolchain.toml install", "description": "Install the Rust toolchain via a rust-toolchain.toml file", "inputs": {}, "outputs": ["cachekey", "name"]}

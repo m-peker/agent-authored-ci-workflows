@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses pull_request_target event, filters branches, and has proper permissions setup for secure fork PR handling."}

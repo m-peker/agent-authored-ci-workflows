@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets up the environment for pre-commit (Python installation) as requested, while A relies on pre-commit being pre-installed, and B also includes the required job name for copilot to function."}

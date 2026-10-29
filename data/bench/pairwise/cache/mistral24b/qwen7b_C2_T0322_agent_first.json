@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers after crates.io publishing via workflow_call and includes all necessary steps for building and pushing a Docker image, while Workflow B triggers on tags and does not integrate with the crate publish workflow."}

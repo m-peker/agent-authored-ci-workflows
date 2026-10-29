@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a step to install pre-commit, which is part of the request, and uses a more specific and appropriate action for installing uv."}

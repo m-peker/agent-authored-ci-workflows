@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the completion of a `Rust Windows` workflow run, downloads artifacts from that workflow, and builds the WASM project as requested, while A triggers on push/pull request."}

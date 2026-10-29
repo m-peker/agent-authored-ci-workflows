@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality, including the schedule, querying the merge queue, dequeuing unmergeable PRs, and posting a comment."}

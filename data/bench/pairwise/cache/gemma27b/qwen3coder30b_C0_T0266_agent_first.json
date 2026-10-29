@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly restores and builds both the main project and the test project, which is more comprehensive and likely to find more issues than Workflow B's single restore/build step."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the stated purpose of checking PR permissions from forks and preventing maintainer edits, while workflow A performs unrelated code quality and test checks."}

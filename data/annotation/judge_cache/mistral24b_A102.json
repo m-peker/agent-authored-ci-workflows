@@ -1,0 +1,1 @@
+{"item_id": "A102", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail because 'paths' filter is not supported for 'pull_request_review' event.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail because 'paths' filter is not supported for 'pull_request_review' event.\"}\n```"}

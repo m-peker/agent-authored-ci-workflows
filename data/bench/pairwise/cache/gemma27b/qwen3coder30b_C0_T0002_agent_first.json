@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly creates a pull request for changes to `uv.lock`, avoiding direct pushes to `main` and providing a review process, while workflow B pushes directly to the branch."}

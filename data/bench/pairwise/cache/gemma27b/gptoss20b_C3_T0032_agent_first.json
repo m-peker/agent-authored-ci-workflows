@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to remove fpm and build DEB packages natively, including installing dpkg and running the packaging and validation scripts, while A focuses on CodeQL analysis."}

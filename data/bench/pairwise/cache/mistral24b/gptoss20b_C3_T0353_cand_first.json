@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes and pull requests to the main branch, includes all necessary steps for mutation testing, and uses sensible actions and configurations specific to the request."}

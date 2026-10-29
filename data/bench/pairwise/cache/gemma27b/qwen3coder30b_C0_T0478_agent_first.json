@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly reuses an existing workflow for the `ci-container` image, as indicated by the project's changes, while workflow B builds and pushes a large number of unrelated images."}

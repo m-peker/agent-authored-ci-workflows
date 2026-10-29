@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has the correct branch trigger (main), while B uses 'master'; both workflows otherwise fulfil the request with correct triggers, jobs, steps, and `continue-on-error`."}

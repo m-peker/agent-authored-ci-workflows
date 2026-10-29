@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a reusable workflow triggered by a workflow call, and uses `npx` to avoid global installation, while A has incorrect triggers and installs globally."}

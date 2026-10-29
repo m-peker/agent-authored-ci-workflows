@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is specifically designed for performance regressions, including running tests on multiple runners, uploading results, and enforcing a suite gate, while workflow A is a general CI workflow with basic tests."}

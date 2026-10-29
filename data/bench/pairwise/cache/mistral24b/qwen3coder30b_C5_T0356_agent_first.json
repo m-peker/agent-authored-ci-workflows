@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested placeholder CI E2E workflow with a manual trigger and a no-op job on macos-latest."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uploads multiple assets (screensaver.sh, README.md, LICENSE) as requested by the PR description, while workflow B only creates the release and doesn't upload any assets."}

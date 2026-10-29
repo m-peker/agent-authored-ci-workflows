@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more modern dependency management (uv) and a dedicated Ruff action, aligning better with current best practices and simplifying the workflow."}

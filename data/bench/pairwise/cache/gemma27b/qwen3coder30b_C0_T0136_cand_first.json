@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B focuses on security scanning with Trivy, including repository and configuration scans, and uploads results to the GitHub Security tab, which is a more relevant and complete approach to security than the broader range of checks in A."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds both wheels and source distributions and uses the official pypa action for publishing, while workflow B only builds from source and relies on twine with potentially insecure token handling."}

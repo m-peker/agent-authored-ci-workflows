@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more accurately implements the 'script-only changes' guard using git diff, avoiding unnecessary runs, while A's approach is simpler but less precise."}

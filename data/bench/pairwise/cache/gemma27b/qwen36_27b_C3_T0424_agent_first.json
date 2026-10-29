@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more robust, handles potential missing files (icon.png, obi-macos.spec), and uses `create-dmg` which is a more modern and flexible approach for DMG creation than `hdiutil`."}

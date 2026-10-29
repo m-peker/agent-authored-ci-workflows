@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `security-and-quality` queries as requested, while B defaults to autobuild which isn't specified and may not provide the desired level of analysis."}

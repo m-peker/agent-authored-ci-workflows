@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests on multiple operating systems (Ubuntu, macOS, Windows) which is crucial for verifying cross-platform device selection, and explicitly sets `CORRIDORKEY_DEVICE: cpu` to test CPU fallback, while workflow B only runs on Ubuntu and attempts to skip GPU tests."}

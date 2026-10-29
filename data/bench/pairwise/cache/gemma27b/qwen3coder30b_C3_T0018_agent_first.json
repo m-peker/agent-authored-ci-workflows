@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes `components: rustfmt` for the fmt job and `components: clippy` for the clippy job, while workflow B does not, making A more complete."}

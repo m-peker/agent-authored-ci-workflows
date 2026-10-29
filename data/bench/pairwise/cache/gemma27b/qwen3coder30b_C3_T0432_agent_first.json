@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `devbox` as requested, while workflow B ignores it and uses standard node/yarn setup, failing to address the core of the request."}

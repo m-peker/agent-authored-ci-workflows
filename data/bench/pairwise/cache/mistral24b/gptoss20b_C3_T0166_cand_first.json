@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request to main, includes all required steps (bundle install, leaderboard generation, Jekyll build, and deployment), and uses sensible actions for each step."}

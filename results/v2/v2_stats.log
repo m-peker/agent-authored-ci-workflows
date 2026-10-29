@@ -1,0 +1,50 @@
+
+== M1_breaking_added_first (n=23,979, repos=3,955)
+                 term     OR  CI_low  CI_high      p
+            Intercept 0.0010  0.0003   0.0040 0.0000
+     agent[T.Copilot] 1.0131  0.7720   1.3295 0.9253
+      agent[T.Cursor] 1.2736  0.9350   1.7350 0.1251
+       agent[T.Devin] 1.0671  0.4195   2.7148 0.8915
+agent[T.Google_Jules] 3.2814  1.0007  10.7606 0.0499
+agent[T.OpenAI_Codex] 1.2655  0.8353   1.9171 0.2666
+             log_size 1.6263  1.3711   1.9289 0.0000
+
+== M2_security_high_added_first (n=23,979, repos=3,955)
+                 term     OR  CI_low  CI_high      p
+            Intercept 0.0028  0.0013   0.0056 0.0000
+     agent[T.Copilot] 0.8279  0.7136   0.9606 0.0128
+      agent[T.Cursor] 0.8939  0.7421   1.0767 0.2374
+       agent[T.Devin] 1.0778  0.6261   1.8553 0.7870
+agent[T.Google_Jules] 0.5605  0.2785   1.1283 0.1049
+agent[T.OpenAI_Codex] 0.7472  0.6228   0.8966 0.0017
+             log_size 1.8956  1.7247   2.0833 0.0000
+
+== M3_merged (n=42,429, repos=8,298)
+                 term     OR  CI_low  CI_high      p
+            Intercept 2.4967  2.3371   2.6672 0.0000
+     agent[T.Copilot] 0.9039  0.8235   0.9922 0.0336
+      agent[T.Cursor] 0.5666  0.4713   0.6811 0.0000
+       agent[T.Devin] 0.9156  0.7547   1.1108 0.3712
+agent[T.Google_Jules] 0.4692  0.3186   0.6909 0.0001
+agent[T.OpenAI_Codex] 0.8356  0.7411   0.9421 0.0034
+             breaking 0.7820  0.6896   0.8868 0.0001
+        security_high 0.8836  0.8377   0.9320 0.0000
+             log_nver 0.8150  0.7761   0.8559 0.0000
+
+chi2 y_break: chi2=47.5 dof=5 p=4.55e-09 Cramer's V=0.044
+agent
+Claude_Code      4.8
+Copilot          5.2
+Cursor           2.2
+Devin            2.9
+Google_Jules    10.2
+OpenAI_Codex     5.4
+
+chi2 y_sec: chi2=162.1 dof=5 p=3.62e-33 Cramer's V=0.082
+agent
+Claude_Code     29.9
+Copilot         28.2
+Cursor          19.6
+Devin           34.9
+Google_Jules    11.9
+OpenAI_Codex    22.5

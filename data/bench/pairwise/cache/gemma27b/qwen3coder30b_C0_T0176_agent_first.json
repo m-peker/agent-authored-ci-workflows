@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses all requirements, including the Windows build and restoring the godot/ source, using a matrix strategy for all three platforms, while workflow A only builds macOS and Linux."}

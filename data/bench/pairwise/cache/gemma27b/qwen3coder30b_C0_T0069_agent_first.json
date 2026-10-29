@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the provided `tool/generate_version.dart` script as requested, while B recreates the version checking and generation logic, and doesn't address the symlink replacement."}

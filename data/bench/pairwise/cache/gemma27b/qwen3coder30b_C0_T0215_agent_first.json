@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both release publishing and tag pushes, builds for all requested targets using a matrix strategy, and creates appropriate archives before uploading to releases, while workflow B only builds for a subset of targets and relies on a release event being present."}

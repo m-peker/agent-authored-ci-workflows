@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by running all specified validation scripts (including `translate_toolkit_check.py` with filters), combining the reports into a single comment, and providing a detailed report as described in the prompt."}

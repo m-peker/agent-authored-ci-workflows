@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running `dart format` on the specified file, while workflow B is focused on testing an install script and is irrelevant to the requested change."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly publishes the @decocms/studio package, while Workflow B attempts to publish 'decocms' which is not the correct package name."}

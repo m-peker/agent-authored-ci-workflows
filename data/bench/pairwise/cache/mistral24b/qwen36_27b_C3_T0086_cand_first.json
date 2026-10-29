@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks if the dist/ directory was modified in the pull request and provides a helpful error message with instructions to rebuild the files, while Workflow B simply fails without checking the actual modifications."}

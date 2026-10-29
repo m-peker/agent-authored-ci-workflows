@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the patterns of existing workflows in the repository, correctly uses the `create-github-app-token` action, and includes a more detailed PR body, while B uses less standard actions and a less clear approach to diffing."}

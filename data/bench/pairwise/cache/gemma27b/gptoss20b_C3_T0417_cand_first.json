@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the GitHub CLI to upload the zip to the release, matches the requested naming convention, and avoids the unnecessary directory creation in B."}

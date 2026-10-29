@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds all projects (library, tests, samples) as described in the implementation details, while workflow B only builds the library and tests, potentially missing vulnerabilities in the samples."}

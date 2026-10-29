@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on tags starting with 'v', which is a common convention for version tags, while Workflow A triggers on all tags."}

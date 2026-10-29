@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the GitHub GraphQL API to interact with the merge queue as requested, while workflow B incorrectly attempts to identify unmergeable PRs via the standard pull request API and then closes them instead of dequeuing."}

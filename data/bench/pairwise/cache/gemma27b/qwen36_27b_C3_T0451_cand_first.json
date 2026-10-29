@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly specifies the app name (`openstatus-private-location`) for deployment, which is a likely requirement given the context, while B does not and would likely fail without it."}

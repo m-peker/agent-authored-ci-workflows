@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is a more complete and plausible deployment workflow for the described application, including building multiple images, pushing them to ACR, and updating the container apps with secrets, while workflow B only builds and pushes a single image and creates a container app."}

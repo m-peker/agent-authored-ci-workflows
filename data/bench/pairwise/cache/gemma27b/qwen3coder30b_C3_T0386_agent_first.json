@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Biome for linting as indicated by the repository's frontend setup, while workflow B attempts to use ESLint, Prettier, and TypeScript which are not the tools used in the repository."}

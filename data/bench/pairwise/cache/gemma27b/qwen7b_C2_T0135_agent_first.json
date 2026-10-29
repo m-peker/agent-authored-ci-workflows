@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix to iterate through the specified languages, while workflow B includes unnecessary steps for Go and QEMU that are not relevant to the CodeQL analysis request."}

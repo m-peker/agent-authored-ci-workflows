@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the benchmark accuracy threshold gate (B5) as requested, while workflow B focuses more on general CI and benchmark dashboarding, lacking the specific accuracy checks."}

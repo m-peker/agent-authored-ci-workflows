@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue and comment events, uses the official ai-moderator action with appropriate permissions and configurations, and does not include unnecessary steps or dependencies."}

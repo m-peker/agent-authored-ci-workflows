@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements all the specified triggers and conditions, including the exclusion of `@claude review`, and uses the correct action with the required secret."}

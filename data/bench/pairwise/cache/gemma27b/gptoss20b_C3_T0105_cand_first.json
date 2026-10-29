@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `pip` with caching for dependencies, which is more standard and efficient than directly using `curl` to install `uv` as in Workflow A."}

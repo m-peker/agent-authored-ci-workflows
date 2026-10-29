@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes both push and pull_request triggers, while Workflow A only includes pull_request."}

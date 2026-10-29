@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all the requested jobs and steps for validating the model data files, Rust library tests, and building akaza-data, while Workflow A only includes the corpus validation."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the requested checks (typecheck, lint, test, build) and is simpler, while workflow B is overly complex for the request and includes unnecessary build caching and Playwright setup not mentioned in the feature description."}

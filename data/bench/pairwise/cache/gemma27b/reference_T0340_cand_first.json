@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `airbyte-cdk/bulk/base-version.properties` in the paths trigger, which is necessary to ensure the workflow runs when only the base version file is changed, as per the request."}

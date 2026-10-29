@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly address the critical need for a `codeql-unmodified.yml` stub with a complementary `paths-ignore` to prevent PRs from being permanently blocked, while also mirroring the job names from the original workflow."}

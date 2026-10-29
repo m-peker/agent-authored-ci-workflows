@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the composite action as requested and triggers on all necessary PR events, while B uses a specific commit and requires potentially missing secrets and variables."}

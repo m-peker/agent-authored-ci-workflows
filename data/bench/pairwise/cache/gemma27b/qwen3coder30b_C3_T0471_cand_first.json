@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and tests the project without any `CI: false` overrides, fulfilling the primary request, while Workflow B includes `CI: false` which directly contradicts the problem statement."}

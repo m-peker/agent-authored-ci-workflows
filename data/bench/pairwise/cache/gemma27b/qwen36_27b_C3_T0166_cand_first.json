@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly integrates the leaderboard generation, commit, and deploy into a single workflow triggered by push to main, while B unnecessarily splits it into build and deploy jobs and includes a `workflow_dispatch` trigger not requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a pull request to update the data, mirroring the SecureDrop refresh flow, and includes a summary output, while workflow B directly pushes to `main` which is less safe and doesn't provide a review step."}

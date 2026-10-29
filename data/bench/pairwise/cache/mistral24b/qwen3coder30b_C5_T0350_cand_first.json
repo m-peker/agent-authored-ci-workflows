@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the use of npm trusted publishers (OIDC) with NPM_CONFIG_PROVENANCE and has a more specific concurrency group definition."}

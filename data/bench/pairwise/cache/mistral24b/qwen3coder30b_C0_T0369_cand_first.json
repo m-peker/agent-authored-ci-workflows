@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested workflow_dispatch trigger and builds Docker images with the specified tagging format, while Workflow B adds unnecessary complexity with service selection and GHCR-specific configurations not mentioned in the request."}

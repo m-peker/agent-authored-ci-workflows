@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets up Node.js version 20, which is good practice and may be required for the `npm` commands to function correctly, while workflow B does not."}

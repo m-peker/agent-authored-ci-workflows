@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on push to main and includes steps to backport the PR to the release/7.0 branch, while Workflow A only checks for milestone settings."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and releasing the CLI, including the requested release notes, while workflow B appears to be building a separate Studio application and has a more complex tag validation and build process not directly related to the core request."}

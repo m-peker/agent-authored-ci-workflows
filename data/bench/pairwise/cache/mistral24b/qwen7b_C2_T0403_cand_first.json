@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfills the request by including all the required steps such as go fix, bumping to Go 1.26, running tests with and without race detector, linting, checking for gofix drift, and running migrations parity checks, while also optimizing the PR checks as requested."}

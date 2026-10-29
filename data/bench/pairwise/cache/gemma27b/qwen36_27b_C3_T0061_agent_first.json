@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a `push` trigger for relevant files, generates the config in a `docs` directory as suggested by the summary, and installs dependencies in a more appropriate way for CI."}

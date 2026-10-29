@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request by consolidating the docker builds into a single matrix, deriving tags and cache keys from branch/tag metadata, and eliminating manual configuration as intended."}

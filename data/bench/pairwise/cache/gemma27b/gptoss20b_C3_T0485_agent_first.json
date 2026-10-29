@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by downloading an export and creating an artifact, while workflow B requires a local script and additional setup not specified in the prompt."}

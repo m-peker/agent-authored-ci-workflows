@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary jobs and steps to rebuild the model site, while Workflow B only triggers a Vercel deploy hook without any rebuilding steps."}

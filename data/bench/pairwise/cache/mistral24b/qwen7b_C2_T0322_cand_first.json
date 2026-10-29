@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers after a workflow call, includes necessary jobs and steps, and uses sensible actions for a Docker release."}

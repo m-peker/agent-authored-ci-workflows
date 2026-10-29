@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes to specific paths, includes all required jobs and steps, and updates the README description as requested."}

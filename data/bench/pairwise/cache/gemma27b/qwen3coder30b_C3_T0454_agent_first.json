@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish `ic-asset` and `icx-asset` with explicit inputs, while B only supports those two crates and lacks OIDC authentication."}

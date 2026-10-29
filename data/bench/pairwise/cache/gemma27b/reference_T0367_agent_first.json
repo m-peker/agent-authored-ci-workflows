@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly scopes permissions to `issues: write` as requested, while workflow A does not, making B more secure and adhering to the principle of least privilege."}

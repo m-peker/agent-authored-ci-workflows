@@ -1,0 +1,7 @@
+agent,versions,startup_failure_pct,failure_pct,success_only_pct
+Claude_Code,10176,0.2,26.3,63.9
+Copilot,3501,0.9,33.9,56.1
+Cursor,674,0.0,24.0,61.3
+Devin,403,0.2,16.1,79.7
+Google_Jules,115,0.0,45.2,52.2
+OpenAI_Codex,1448,0.3,33.1,59.4

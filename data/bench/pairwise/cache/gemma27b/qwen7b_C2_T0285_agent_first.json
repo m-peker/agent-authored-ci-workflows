@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the matrix strategy for all requested platforms and uses the `mozilla-actions/sccache-action` action, while workflow B only runs on ubuntu-latest and attempts a manual sccache installation."}

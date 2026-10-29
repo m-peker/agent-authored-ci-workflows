@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to merge `dev` into `master`, while workflow B focuses on type checking and doesn't perform the merge."}

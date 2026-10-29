@@ -1,0 +1,1 @@
+{"item_id": "A051", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The step has no name, so the reference steps.refresh is undefined and will cause the workflow to fail.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The step has no name, so the reference steps.refresh is undefined and will cause the workflow to fail.\"}"}

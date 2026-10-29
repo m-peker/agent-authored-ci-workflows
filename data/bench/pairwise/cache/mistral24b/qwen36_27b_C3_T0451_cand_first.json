@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies the app name in the deploy command while Workflow B omits it."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including a comprehensive test stage *within* the Docker build process and a more detailed container runtime test, while workflow B relies on pytest running after the build."}

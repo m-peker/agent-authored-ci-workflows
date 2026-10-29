@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is a complete CI/CD pipeline for building and releasing the Rust FFI bindings, including cross-compilation, artifact uploading, and publishing to PyPI, while workflow A only performs basic checks and builds."}

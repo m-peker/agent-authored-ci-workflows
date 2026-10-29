@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the composite action as requested, while workflow B uses a separate action that doesn't appear to be the intended shared composite action."}

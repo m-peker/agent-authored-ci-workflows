@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly configures the Pages deployment with `actions/configure-pages@v4`, which is necessary for proper deployment and permissions, while B omits this step."}

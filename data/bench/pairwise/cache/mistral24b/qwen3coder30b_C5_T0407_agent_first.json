@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps to replace references to the renamed GitHub group in the CODEOWNERS file, which is part of the request, while Workflow A does not."}

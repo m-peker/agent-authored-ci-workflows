@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly enforces the specified PR title format and includes the correct trigger events, while Workflow B includes additional types not mentioned in the request."}

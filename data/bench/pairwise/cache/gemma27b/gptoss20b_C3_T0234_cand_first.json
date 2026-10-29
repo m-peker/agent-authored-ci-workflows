@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested triggers (push/PR to main, weekly schedule) and scans all specified languages, while workflow B incorrectly includes 'master' branch and lacks the schedule."}

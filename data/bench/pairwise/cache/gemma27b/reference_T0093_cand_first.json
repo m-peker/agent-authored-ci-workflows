@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B simplifies the execution by using a `make` target, reducing redundancy and improving readability compared to directly calling the Python script in Workflow A."}

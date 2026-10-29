@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by adding a `publish` step to the release workflow, triggering GitHub release creation as intended, while workflow A focuses on IPR agreement and is unrelated."}

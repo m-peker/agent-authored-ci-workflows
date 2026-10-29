@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers only on `pyproject.toml` changes, includes anti-loop protection, and uses a more modern approach to checking for changes and committing, making it a more robust and efficient solution."}

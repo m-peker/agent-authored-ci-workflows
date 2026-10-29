@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements both deployment triggers (push to ai branch and PRs) with the right jobs and steps, while Workflow A is missing the PR preview functionality and uses an outdated Node.js version."}

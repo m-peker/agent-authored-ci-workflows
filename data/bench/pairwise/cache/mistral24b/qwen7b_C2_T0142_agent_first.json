@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue comments with specific conditions and uses the kibana-operations repository to run flaky tests, while Workflow B is a generic test workflow that doesn't address the specific request."}

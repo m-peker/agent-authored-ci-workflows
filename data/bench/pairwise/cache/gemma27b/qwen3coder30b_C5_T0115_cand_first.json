@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more effectively derives build cache keys and image tags from branch/tag metadata, avoiding hardcoded values and the implicit 'latest' tag as requested."}

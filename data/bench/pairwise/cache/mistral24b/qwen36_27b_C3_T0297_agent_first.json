@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on all branches and tags, while Workflow B only triggers on 'master' and 'main' branches and tags starting with 'v'."}

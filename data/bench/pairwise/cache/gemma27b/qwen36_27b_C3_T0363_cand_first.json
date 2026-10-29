@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to the documentation by triggering only on changes to the workflow file itself, improving efficiency, and explicitly sets the `TURBO_ENV_MODE` environment variable."}

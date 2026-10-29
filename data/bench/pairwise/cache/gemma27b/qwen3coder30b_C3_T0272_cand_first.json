@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request comments and specifically checks for the @claude mention as requested, while workflow B triggers on PR events and uses a direct prompt, deviating from the specified interaction method."}

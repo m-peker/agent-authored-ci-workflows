@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a PR creation step which is more appropriate for a lock file update, while Workflow A attempts to push directly to main."}

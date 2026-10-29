@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the token fallback chain and tests the Go code, while Workflow B uses Node.js and checks unrelated secrets."}

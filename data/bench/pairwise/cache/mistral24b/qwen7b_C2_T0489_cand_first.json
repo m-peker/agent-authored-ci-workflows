@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly configures the stale action with the required parameters and permissions, while Workflow A unnecessarily includes Rust setup steps that are not relevant to the stale action."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to optimize pipeline context objects for module-scoped isolation by including it in the prompt for Claude, while workflow A focuses on TUnit-specific rules and doesn't address the core request."}

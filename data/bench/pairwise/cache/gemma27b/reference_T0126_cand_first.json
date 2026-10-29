@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CI/CD pipeline with multi-version Node.js testing, linting, building, testing, dependency auditing, and CodeQL analysis, triggered on push and pull requests to main and develop branches."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including Python setup and syncing dependencies with extras, while A only installs uv and checks pre-commit."}

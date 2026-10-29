@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by verifying the existence of the ADR files, while workflow B focuses on running a spec audit script and uploading artifacts, lacking the specific ADR check."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to both studio and mesh packages, checks for version existence, bumps version if needed, updates mesh dependency, and publishes to npm with proper tagging and release creation."}

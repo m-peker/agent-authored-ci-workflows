@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the working directory to the CLI package and includes test and vet steps, while Workflow B misses these critical steps and incorrectly assumes the go.mod file is in the root directory."}

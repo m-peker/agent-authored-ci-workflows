@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary build steps for a TypeScript repository and triggers on push and pull requests to the main branch, while Workflow A is a reusable workflow for building multi-platform Docker images which is not what was requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to build CLI archives for multiple platforms as requested, while workflow B is a generic .NET build and doesn't address the specific task of building CLI native archives."}

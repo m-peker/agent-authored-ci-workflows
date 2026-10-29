@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to notify a code owner when a specific bot (chatgpt-codex-connector) requests a review, while workflow B attempts to run checks and notify via Slack, which isn't the core ask."}

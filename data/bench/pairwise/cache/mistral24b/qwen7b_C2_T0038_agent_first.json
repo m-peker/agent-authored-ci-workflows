@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested triggers, jobs, and steps, including the specific use of Turborepo and the 8GB heap limit, while Workflow B misses several key requirements."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix strategy to test multiple Python versions as implied by the request to split CI workflows, while workflow B only tests a single version and relies on a shell script not provided in the repository."}

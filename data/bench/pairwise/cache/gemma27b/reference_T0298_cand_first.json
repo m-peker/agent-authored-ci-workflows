@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on pull requests to main, check out the repository, install dependencies, and run the test script as requested."}

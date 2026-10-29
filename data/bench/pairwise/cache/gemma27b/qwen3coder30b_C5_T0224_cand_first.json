@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements a more complete CI/CD pipeline with testing, building binaries for multiple platforms, creating a GitHub release with artifacts, and updating a Homebrew formula, aligning better with the request's 'Infrastructure & CI/CD' section."}

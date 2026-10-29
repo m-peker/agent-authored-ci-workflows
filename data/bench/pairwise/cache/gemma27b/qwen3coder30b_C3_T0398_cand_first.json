@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested changes, particularly the `if: github.event_name == 'push'` condition and simplified deploy step, while workflow B does not address the Netlify publish request at all."}

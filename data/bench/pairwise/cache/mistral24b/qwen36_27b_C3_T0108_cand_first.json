@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements manual releases with explicit version input and proper permissions, while Workflow B still uses semantic-release which was explicitly removed in the request."}

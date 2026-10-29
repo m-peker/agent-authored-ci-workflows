@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements cross-platform testing with a matrix strategy including macOS and Windows, and attempts to run GPU tests where available, aligning with the request to support CUDA/MPS/CPU."}

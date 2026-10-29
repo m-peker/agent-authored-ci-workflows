@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and pushes to main, while Workflow B incorrectly triggers on PRs to master and develop branches which are not mentioned in the request."}

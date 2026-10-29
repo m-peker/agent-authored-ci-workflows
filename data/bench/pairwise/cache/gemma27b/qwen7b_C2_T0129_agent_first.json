@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the latest CodeQL actions (v3) and includes the necessary permissions and matrix strategy for language selection, while B uses older actions and unnecessarily installs Node.js dependencies."}

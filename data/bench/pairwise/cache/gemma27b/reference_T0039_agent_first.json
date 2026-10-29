@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on tags as requested, while workflow B triggers on release events which is not the primary request, and A includes more OS options."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the Octavia bot for authentication as specified in the request, while workflow B attempts to use a token which isn't mentioned in the request and is likely incorrect."}

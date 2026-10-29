@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more standard and direct approach with `docker/setup-qemu-action` and `addnab/docker-run-action`, while B's QEMU setup is less conventional and potentially more complex, and A correctly runs the tests with the requested flags."}

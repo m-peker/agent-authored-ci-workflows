@@ -1,0 +1,1 @@
+{"action": "rtCamp/action-slack-notify", "ref": "v2", "exists": true, "name": "Slack Notify", "description": "This action will send a notification to Slack", "inputs": {}, "outputs": []}

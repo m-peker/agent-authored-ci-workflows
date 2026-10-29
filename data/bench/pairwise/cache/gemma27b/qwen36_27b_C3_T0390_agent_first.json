@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the fork PR exclusion logic and cleanup job, while A relies on metadata files and a less robust action for removal."}

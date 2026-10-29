@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by testing with the new MSRV (1.85.0) and implicitly the 2024 edition, while workflow B focuses on integration tests and doesn't validate the MSRV/edition bump."}

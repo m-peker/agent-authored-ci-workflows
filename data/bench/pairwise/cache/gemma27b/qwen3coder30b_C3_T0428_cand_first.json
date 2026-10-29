@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly addresses a related but distinct problem of cleaning up preview environments triggered by pull request events, while workflow A attempts a general cleanup unrelated to the reported regression."}

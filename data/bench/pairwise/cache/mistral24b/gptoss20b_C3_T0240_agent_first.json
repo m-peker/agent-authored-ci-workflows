@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue and comment events, includes necessary permissions, and configures the AI moderator action with the required parameters, while Workflow B only triggers manually and lacks necessary configuration."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly commits only the changed leaderboard files, avoiding unnecessary commits, and correctly separates build and deploy jobs for clarity and potential parallelization."}

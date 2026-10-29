@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly runs the database integration tests as requested, while workflow B runs all tests, and doesn't specifically target only the database integration tests."}

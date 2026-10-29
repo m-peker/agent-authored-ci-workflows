@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specified reusable workflow and triggers on Renovate pushes and workflow dispatch, while workflow B does not use the reusable workflow and has an incorrect trigger and commit target."}

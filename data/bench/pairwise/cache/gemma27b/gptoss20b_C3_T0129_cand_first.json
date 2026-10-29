@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `autobuild` which is necessary for JavaScript projects, and the matrix strategy ensures the analysis is correctly scoped to the specified language."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by explicitly installing dependencies needed for DMG creation and verifying the universal binary, while B relies heavily on a Makefile without showing its contents."}

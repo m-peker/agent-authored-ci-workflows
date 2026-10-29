@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly removes the requested jobs and retains the specified remaining jobs, while workflow B introduces Renovate which is the *reason* for the removal, not the implementation of it."}

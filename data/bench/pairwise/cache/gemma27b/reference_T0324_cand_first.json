@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Python to iterate through the JSONL output and validate each snippet with the harness, as implied by the request, while A calls a non-existent `scripts/validate-extracted-javadoc-snippets.sh`."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `uv sync --extra dev` which is more aligned with the request to merge `dev` into `master` by ensuring dependencies are up-to-date from the `dev` branch before type checking."}

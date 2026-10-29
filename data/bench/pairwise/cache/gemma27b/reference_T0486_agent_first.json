@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and do not include any steps to perform the requested validations (Remote URL, JWKS URL, Cedar syntax, ConfigMap/Secret existence), so neither fulfils the request."}

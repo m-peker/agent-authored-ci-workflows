@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary 'contents: write' permission for the release job, which is explicitly required for manual releases."}

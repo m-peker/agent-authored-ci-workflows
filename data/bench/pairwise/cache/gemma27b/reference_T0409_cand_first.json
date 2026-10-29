@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows only check for the presence of the SLO label and fail if it's missing, they do not remove the label as requested."}

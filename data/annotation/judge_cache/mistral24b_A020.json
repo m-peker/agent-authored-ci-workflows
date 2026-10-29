@@ -1,0 +1,1 @@
+{"item_id": "A020", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The inputs are controlled by workflow_dispatch, which is typically restricted to repository collaborators.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The inputs are controlled by workflow_dispatch, which is typically restricted to repository collaborators.\"}\n```"}

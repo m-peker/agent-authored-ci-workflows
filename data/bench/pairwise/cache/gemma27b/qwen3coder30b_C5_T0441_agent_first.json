@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly validates the commit SHA length, fulfilling a key requirement of the request, while A does not, and B's output setting is more explicit."}

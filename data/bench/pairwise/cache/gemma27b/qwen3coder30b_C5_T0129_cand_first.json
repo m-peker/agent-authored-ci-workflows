@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B's cron schedule of '0 0 * * 1' is more accurate for midnight UTC on Mondays, while A's '33 0 * * 1' is invalid."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the requested Go versions (1.20, 1.21, 1.22) and has the explicit permissions block for security."}

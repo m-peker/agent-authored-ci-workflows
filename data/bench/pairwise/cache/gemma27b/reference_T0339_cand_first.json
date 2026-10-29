@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI process: triggering on PRs to `java/**`, using JDK 8 on Ubuntu, building and running the specified Gradle test task."}

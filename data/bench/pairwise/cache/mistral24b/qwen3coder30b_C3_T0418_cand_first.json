@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested steps (ruff check, ruff format check, and the security scanner) while Workflow B only runs the security scanner."}

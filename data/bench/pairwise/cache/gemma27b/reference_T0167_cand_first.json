@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the issue triage request, triggering on issue opening/reopening and using the Claude action with a comprehensive prompt."}

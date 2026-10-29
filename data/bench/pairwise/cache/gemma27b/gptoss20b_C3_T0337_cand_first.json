@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `cargo` to install the Sui CLI, matching the existing workflows in the repository and providing a more robust and reproducible installation process, while A uses `curl` and manual extraction which is less ideal."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles the submodule checkout with a dedicated token, includes checks for token availability and submodule initialization, and runs tests in both core and pro directories as requested."}

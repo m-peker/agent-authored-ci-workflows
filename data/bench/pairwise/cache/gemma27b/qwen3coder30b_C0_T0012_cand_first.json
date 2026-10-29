@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the security concern by using environment variables and running a dedicated JavaScript validator, avoiding the creation of temporary files and potential shell injection vulnerabilities, while B still uses a heredoc and relies on `commit-lint.js`."}

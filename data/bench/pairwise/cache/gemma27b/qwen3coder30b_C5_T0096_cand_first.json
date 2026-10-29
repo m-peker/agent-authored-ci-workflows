@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more targeted trigger based on the files changed in the PR, and uses autobuild which is more appropriate for a Rust project than a manual build step."}

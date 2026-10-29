@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the release request by building and publishing a Python package to PyPI and creating a GitHub release, while workflow B focuses on building and pushing a Docker image which isn't explicitly requested."}

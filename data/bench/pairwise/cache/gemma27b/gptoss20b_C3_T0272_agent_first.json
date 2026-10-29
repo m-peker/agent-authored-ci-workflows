@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the trigger condition of running when @claude is mentioned in a pull request, as specified in the request, while workflow A attempts a direct prompt which isn't the primary use case described."}

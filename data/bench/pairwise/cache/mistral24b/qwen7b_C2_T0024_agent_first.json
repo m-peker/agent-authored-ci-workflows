@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue comments and checks for Claude mentions, while Workflow B triggers on too many irrelevant events and doesn't properly handle comment mentions."}

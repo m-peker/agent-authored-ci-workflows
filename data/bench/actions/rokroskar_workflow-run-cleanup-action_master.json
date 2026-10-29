@@ -1,0 +1,1 @@
+{"action": "rokroskar/workflow-run-cleanup-action", "ref": "master", "exists": true, "name": "Workflow run cleanup action", "description": "Cancel previous runs of a workflow", "inputs": {}, "outputs": []}

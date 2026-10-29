@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a gate to only run backend-specific steps when backend files are changed, while workflow B attempts to use Codex to clean documentation and code, which is not the request."}

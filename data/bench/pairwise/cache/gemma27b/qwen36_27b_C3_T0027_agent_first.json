@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including all specified validation steps and adding extra quality checks like ShellCheck, while workflow A only runs a single upgrade audit."}

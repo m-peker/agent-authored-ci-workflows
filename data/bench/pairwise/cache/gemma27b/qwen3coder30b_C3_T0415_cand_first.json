@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a matrix strategy to specify 'javascript-typescript' as the language for CodeQL analysis, which is necessary for a TypeScript repository, while workflow A only specifies 'javascript'."}

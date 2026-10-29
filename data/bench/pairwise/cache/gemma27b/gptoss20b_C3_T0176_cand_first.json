@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requirements of the request, including the Windows build and restoring the godot/ directory, while workflow B focuses on a tag-based release and uses godot-cpp which isn't requested."}

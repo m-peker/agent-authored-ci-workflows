@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on `docs/**` changes, build VitePress, and deploy to GitHub Pages, fulfilling the core request; the choice of Node version and package manager (npm vs pnpm) are minor differences."}

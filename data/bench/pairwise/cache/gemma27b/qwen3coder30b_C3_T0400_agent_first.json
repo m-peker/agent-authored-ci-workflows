@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` for secure handling of fork PRs as specified in the request, and efficiently filters PRs by creator, while B uses `pull_request` which is less secure and less efficient."}

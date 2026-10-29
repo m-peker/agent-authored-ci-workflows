@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses the lychee action and correctly triggers on pull requests, while A attempts manual configuration and a potentially problematic README update."}

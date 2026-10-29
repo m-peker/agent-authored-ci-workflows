@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including path-gated triggers, changed-file guard, and snippet validation, while Workflow B lacks the changed-file guard and has incorrect trigger conditions."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary jobs and steps to test the Infisical integration, while Workflow B only checks if the triggering user is a repository admin."}

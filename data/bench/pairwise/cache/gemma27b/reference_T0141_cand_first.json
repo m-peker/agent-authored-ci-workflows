@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B's trigger paths more accurately reflect the request to trigger on 'base, extract, source toolkits' changes, while A only triggers on version.properties files."}

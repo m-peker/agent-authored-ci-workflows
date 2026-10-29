@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets permissions at the workflow level for `pages: write` and `id-token: write`, which are required for GitHub Pages deployment, while B only sets them at the deploy job level."}

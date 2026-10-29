@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a step to install dependencies and uses a more specific Python version setup action."}

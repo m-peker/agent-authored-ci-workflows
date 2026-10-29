@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a matrix strategy to build and push both AMD64 and ARM64 images in a single job, making it more efficient and easier to maintain."}

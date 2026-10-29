@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested CLA check with proper triggers, permissions, and a working script to verify the CLA text in PR descriptions."}

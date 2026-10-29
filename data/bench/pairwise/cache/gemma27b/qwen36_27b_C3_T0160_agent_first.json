@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly installs `ydotool`, a key dependency added by the PR for direct text typing, while workflow A only installs audio-related dependencies, making it more aligned with the PR's changes."}

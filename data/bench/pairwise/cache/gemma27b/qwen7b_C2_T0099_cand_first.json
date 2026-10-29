@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses Flux, a tool specifically designed for GitOps and pushing Kubernetes manifests to OCI registries, while Workflow A simply builds a Docker image which isn't the requested behaviour."}

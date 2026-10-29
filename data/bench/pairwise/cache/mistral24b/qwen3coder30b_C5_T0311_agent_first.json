@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a job to test the UI regression coverage for Next 16.2 donor shell and drawer as requested, while Workflow A only notifies code owners."}

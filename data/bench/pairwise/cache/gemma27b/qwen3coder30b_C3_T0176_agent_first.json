@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes Windows as a build target within its matrix strategy and attempts a build using MSVC, while workflow A only builds for macOS and Linux."}

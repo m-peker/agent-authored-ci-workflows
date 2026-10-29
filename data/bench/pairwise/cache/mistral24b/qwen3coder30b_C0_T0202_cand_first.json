@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B dynamically generates the matrix from a JSON file, which is more scalable and aligns better with the request for a nightly integration test pipeline."}

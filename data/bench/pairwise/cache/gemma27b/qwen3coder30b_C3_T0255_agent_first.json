@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the issue number mentioned in the request and attempts to close it based on inactivity, while workflow A is a generic stale issue handler and doesn't target the specific fix."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `dorny/paths-filter` to detect changes in the relevant directories (base, extract, source toolkits) and triggers only when necessary, aligning with the request's intent for focused workflows."}

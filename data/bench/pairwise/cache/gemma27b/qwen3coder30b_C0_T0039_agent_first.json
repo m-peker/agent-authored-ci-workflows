@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses a matrix to define targets and artifacts clearly, and correctly uploads to releases, while A has redundant code and a complex build process."}

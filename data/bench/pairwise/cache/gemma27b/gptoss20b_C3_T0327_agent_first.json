@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets version uploads to Cloudflare as per the request, while workflow B deploys to Azure Static Web Apps which is not the requested functionality."}

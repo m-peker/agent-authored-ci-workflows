@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly follows the pattern of the existing deploy-checker.yml workflow, while Workflow B includes unnecessary steps like setting up Node.js and installing dependencies which are not required for a Fly.io deployment."}

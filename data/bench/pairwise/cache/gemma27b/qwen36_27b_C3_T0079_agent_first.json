@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more appropriate actions for QEMU and Docker, and correctly specifies the test command from the request, while A's QEMU setup is unusual and doesn't use the requested test command flags."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to the main branch and uses the latest stable version of Go, while Workflow B also triggers on pushes to main, which was not requested."}

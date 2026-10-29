@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B tests multiple Python versions and includes all requested steps while Workflow A misses the pre-commit validation for all files."}

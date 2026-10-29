@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a path filter to skip CodeQL analysis on PRs with changes to non-code files, while workflow B incorrectly ignores the entire repository and doesn't address the core problem."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements change detection and conditional execution of jobs based on those changes, fulfilling the request's core requirement, while workflow A only sets a pending status without any change detection or conditional logic."}

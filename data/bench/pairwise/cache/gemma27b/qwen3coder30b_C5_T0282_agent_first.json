@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct action for Claude code review and supports the requested environment variable (and allows for both versions), while workflow B doesn't integrate with Claude and only sets up .NET."}

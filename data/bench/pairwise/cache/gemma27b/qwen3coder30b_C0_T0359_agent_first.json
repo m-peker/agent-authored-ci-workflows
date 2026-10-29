@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the complex logic for milestone assignment based on both branch name and existing milestones, while workflow B only handles the two specific branches and lacks the logic to find the next open milestone for `main`."}

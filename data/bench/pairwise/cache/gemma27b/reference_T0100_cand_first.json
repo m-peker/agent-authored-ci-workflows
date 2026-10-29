@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses Ubuntu 24.04, which is more current than Workflow B's Ubuntu 22.04, and correctly uses `apt-get install -y ./${PKG_NAME}.deb` to test the package installation, while B uses `dpkg -i` which doesn't handle dependencies."}

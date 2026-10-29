@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up the Rust toolchain with the rustfmt component before running the format check, while Workflow B does not."}

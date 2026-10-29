@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets permissions for issues and uses more descriptive messages, and correctly disables PR staleness with negative values, making it a more robust and clear implementation of the request."}

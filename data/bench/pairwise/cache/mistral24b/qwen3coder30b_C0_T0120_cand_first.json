@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request as it includes all the necessary steps for CI/CD pipeline including setup, dependency installation, linting, testing, and security scanning while Workflow B only focuses on cleanup."}

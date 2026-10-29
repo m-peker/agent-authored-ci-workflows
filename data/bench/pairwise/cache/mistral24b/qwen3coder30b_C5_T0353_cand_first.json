@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes multiple PHP versions in the matrix and correctly uploads coverage reports, while Workflow B only tests with one PHP version and doesn't handle coverage reports."}

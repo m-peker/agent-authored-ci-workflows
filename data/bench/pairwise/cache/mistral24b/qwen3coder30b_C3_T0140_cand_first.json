@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes continue-on-error: true as requested, while Workflow A does not."}

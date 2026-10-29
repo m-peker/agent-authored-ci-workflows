@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly states `continue-on-error: true` as requested, and its dev shell test is more robust by verifying successful loading, while A's test is a no-op."}

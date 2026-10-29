@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by using a matrix strategy to handle different variants, preserving branch/tag triggers, and using sensible actions for Docker builds with proper cache management."}

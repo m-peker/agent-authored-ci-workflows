@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a dedicated Gemini code reviewer action with configurable exclusions, while B uses a more generic action requiring a detailed prompt and lacks exclusion options."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a checkout step, which is good practice for any CI workflow and makes it more plausible as a starting point for future E2E tests, while B lacks it."}

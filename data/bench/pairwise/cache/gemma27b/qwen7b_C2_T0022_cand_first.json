@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `pixi r -e gazebo test-gz` which directly addresses the request to test with gz-physics, while workflow A attempts a full build which is not the stated goal."}

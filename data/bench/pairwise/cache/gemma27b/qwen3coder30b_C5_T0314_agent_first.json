@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to generate a comprehensive deployment summary based on recent PRs, addressing the core request, while workflow B only sends a basic deployment success notification and mentions the fix, but doesn't summarize changes."}

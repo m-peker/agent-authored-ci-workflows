@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B attempts to fix the flake on failure as requested, while A only checks it; B also correctly sets up the Rust toolchain as described in the reasoning."}

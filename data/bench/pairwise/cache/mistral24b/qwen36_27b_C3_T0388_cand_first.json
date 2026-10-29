@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, uses a matrix strategy for all 4 OpenAPI specs, and sets up the Redocly CLI with a minimal ruleset as requested."}

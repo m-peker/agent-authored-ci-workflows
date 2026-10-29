@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `cargo` to install the Sui CLI with the pinned revision specified in the request, mirroring existing workflows, while workflow B uses a less reliable `curl` method and a different version."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is triggered on push to main (as requested for debugging push failures) and provides a more focused and structured debugging output, while A is triggered on pull requests and attempts a potentially disruptive push."}

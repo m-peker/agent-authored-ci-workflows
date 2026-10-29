@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the required publish-gh-pages job that runs on release events and uses the specified script to generate and deploy API documentation."}

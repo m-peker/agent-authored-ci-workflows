@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes the explicit permissions block requested and uses the correct Go versions (1.20, 1.21, 1.22) while A includes an unnecessary mock dependency and an outdated Go version."}

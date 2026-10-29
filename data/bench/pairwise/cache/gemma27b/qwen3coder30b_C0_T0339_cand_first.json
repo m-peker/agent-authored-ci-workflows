@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on PRs to `java/**`, use JDK 8 Temurin on Ubuntu, build and test the project as requested, and are plausibly functional."}

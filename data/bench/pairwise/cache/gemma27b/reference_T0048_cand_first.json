@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and uses a `requirements.txt` file for Python dependencies, which is best practice and avoids explicitly listing them in the workflow."}

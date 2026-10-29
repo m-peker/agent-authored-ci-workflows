@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both master and main branches, uses a more recent version of the checkout action, and includes test result artifact upload."}

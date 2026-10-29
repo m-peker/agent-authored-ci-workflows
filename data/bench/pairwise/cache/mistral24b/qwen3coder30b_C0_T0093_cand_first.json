@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests with relevant file changes and includes a direct check for [new] usage in Objective-C files, while Workflow B has unnecessary complexity and triggers on pushes to main branch which is not required."}

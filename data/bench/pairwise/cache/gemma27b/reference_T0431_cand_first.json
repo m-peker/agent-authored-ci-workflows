@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for deploying the lexical search worker, including checkout, node setup, dependency installation, linting, typechecking, testing, and deployment via Wrangler."}

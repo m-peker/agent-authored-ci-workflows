@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push events and includes all requested debugging steps without attempting to push, which could trigger branch protection rules and interfere with debugging."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the free-threaded Python 3.14 build by downloading and installing it, while workflow B attempts to use a non-existent '3.14t' version and relies on a shell script not provided in the repository."}

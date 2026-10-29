@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a check for changes and fails the build if [new] usage is found, while Workflow A only commits changes without enforcing the rule."}

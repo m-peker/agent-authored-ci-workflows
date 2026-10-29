@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the compile time tracking request with a dedicated setup for the tenstorrent environment, including specific build configurations and metric reporting, while workflow B appears to be a more general build and test workflow that lacks the specific tracking and reporting features required."}

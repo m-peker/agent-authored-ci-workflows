@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request with the necessary steps (typecheck, lint, test) and conditional build for the feature branch, while workflow B is overly complex for the task and focuses on a full build/test pipeline not explicitly requested."}

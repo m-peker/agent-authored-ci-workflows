@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds the VuePress site from the docs directory and deploys it to GitHub Pages, while Workflow B attempts to build from an incorrect path (docs/src/.vuepress/dist) which would likely fail."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to install Dart and Flutter and run `dart pub get` without unnecessary actions or complexity, while B adds a Copilot setup step that isn't explicitly requested."}

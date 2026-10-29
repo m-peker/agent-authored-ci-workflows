@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly embeds the script within the workflow and executes it, while workflow B relies on the script existing and being executable without ensuring it's created, and doesn't pass the correct arguments to the script."}

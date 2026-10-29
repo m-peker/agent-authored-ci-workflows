@@ -1,0 +1,35 @@
+human added files: 1,411 | with AI marker in message: 19.8% | author is an agent user: 61.3%
+pre-AI human added files: 2,771 in 1,849 repos
+                 baseline          design       outcome  n_human  rate_human  rate_agent  E1_OR  E1_p  E2_diff_pp   E2_lo  E2_hi  E2_p  E2_repos
+                    H_all  D1_first_draft      breaking     1411       4.181       4.625  1.254 0.195       0.635  -0.754  2.023 0.370       765
+                    H_all  D1_first_draft security_high     1411      29.979      28.479  0.914 0.160      -0.200  -2.784  2.383 0.879       765
+                    H_all  D1_first_draft    ci_failure      534      29.588      31.852  1.300 0.021       3.740  -3.844 11.324 0.334       209
+             H_no_markers  D1_first_draft      breaking     1132       3.622       4.625  1.352 0.087       0.439  -0.923  1.800 0.528       651
+             H_no_markers  D1_first_draft security_high     1132      27.474      28.479  1.038 0.619       1.592  -1.248  4.433 0.272       651
+             H_no_markers  D1_first_draft    ci_failure      433      30.716      31.852  1.203 0.131       2.726  -5.936 11.387 0.537       165
+         H_non_agent_user  D1_first_draft      breaking      546       2.930       4.625  1.647 0.042       0.869  -0.494  2.232 0.211       322
+         H_non_agent_user  D1_first_draft security_high      546      28.205      28.479  0.948 0.616       0.631  -3.861  5.123 0.783       322
+         H_non_agent_user  D1_first_draft    ci_failure      202      26.238      31.852  1.491 0.020       5.823  -6.934 18.580 0.371        77
+             H_agent_user  D1_first_draft      breaking      865       4.971       4.625  1.097 0.683       0.526  -1.487  2.539 0.608       473
+             H_agent_user  D1_first_draft security_high      865      31.098      28.479  0.890 0.140      -0.691  -3.835  2.454 0.667       473
+             H_agent_user  D1_first_draft    ci_failure      332      31.626      31.852  1.192 0.209       1.597  -7.315 10.509 0.726       136
+                    H_all D2_final_merged      breaking     1411       4.181       4.448  1.113 0.534       0.165  -1.295  1.624 0.825       631
+                    H_all D2_final_merged security_high     1411      29.979      30.960  0.987 0.837       1.404  -1.430  4.239 0.332       631
+                    H_all D2_final_merged    ci_failure      534      29.588      24.301  0.855 0.164      -3.678 -11.105  3.749 0.332       175
+             H_no_markers D2_final_merged      breaking     1132       3.622       4.448  1.215 0.296      -0.046  -1.545  1.454 0.952       532
+             H_no_markers D2_final_merged security_high     1132      27.474      30.960  1.134 0.105       3.358   0.162  6.553 0.040       532
+             H_no_markers D2_final_merged    ci_failure      433      30.716      24.301  0.773 0.034      -5.306 -13.749  3.137 0.218       142
+         H_non_agent_user D2_final_merged      breaking      546       2.930       4.448  1.548 0.106       0.887  -1.126  2.900 0.388       236
+         H_non_agent_user D2_final_merged security_high      546      28.205      30.960  1.052 0.657       3.584  -1.981  9.149 0.207       236
+         H_non_agent_user D2_final_merged    ci_failure      202      26.238      24.301  0.960 0.815       1.352 -11.866 14.570 0.841        61
+             H_agent_user D2_final_merged      breaking      865       4.971       4.448  0.949 0.802      -0.128  -2.009  1.754 0.894       418
+             H_agent_user D2_final_merged security_high      865      31.098      30.960  0.943 0.452       0.155  -3.135  3.445 0.926       418
+             H_agent_user D2_final_merged    ci_failure      332      31.626      24.301  0.785 0.071      -6.203 -14.813  2.407 0.158       117
+                  H_preai  D1_first_draft      breaking     2771       5.991       4.625  0.494 0.000      -4.320  -6.312 -2.329 0.000       715
+                  H_preai  D1_first_draft security_high     2771       8.625      28.479  2.346 0.000      10.986   7.720 14.252 0.000       715
+                  H_preai D2_final_merged      breaking     2771       5.991       4.448  0.383 0.000      -5.696  -8.211 -3.180 0.000       476
+                  H_preai D2_final_merged security_high     2771       8.625      30.960  2.474 0.000      10.855   6.756 14.954 0.000       476
+H_preai_no_time_sensitive  D1_first_draft      breaking     2771       5.882       4.612  0.503 0.000      -4.402  -6.388 -2.418 0.000       715
+H_preai_no_time_sensitive  D1_first_draft security_high     2771       8.625      28.479  2.346 0.000      10.986   7.720 14.252 0.000       715
+H_preai_no_time_sensitive D2_final_merged      breaking     2771       5.882       4.430  0.388 0.000      -5.822  -8.324 -3.320 0.000       476
+H_preai_no_time_sensitive D2_final_merged security_high     2771       8.625      30.960  2.474 0.000      10.855   6.756 14.954 0.000       476

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI workflow for PoCL, including the correct trigger, environment setup, dependency installation, and test execution command."}

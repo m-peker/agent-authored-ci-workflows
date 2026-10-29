@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses only on issues by omitting pull request configurations, while Workflow B explicitly sets days-before-pr-stale and days-before-pr-close to -1, which is unnecessary and could be confusing."}

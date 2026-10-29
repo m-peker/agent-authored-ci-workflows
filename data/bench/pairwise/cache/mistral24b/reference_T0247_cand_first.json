@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the generation of build secrets which is required for the build:analyze script to run successfully."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including a CI check that comments on PRs with unused string counts, and provides a detailed comment body with the unused strings, while workflow B lacks the CI check and has a less informative PR description."}

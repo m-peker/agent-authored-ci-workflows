@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the full suite of requested CI checks (lint, typecheck, format, test, audit, publish-dry-run, changeset versioning) and triggers, while workflow B only covers linting and typechecking and lacks crucial elements like the publish dry-run and changeset integration."}

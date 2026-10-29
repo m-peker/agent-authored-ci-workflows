@@ -1,0 +1,15 @@
+origin,author_group,files,repos,breaking_pct,ci_correctness_pct,unparseable_pct,security_high_pct,security_other_pct,ci_noise_pct
+added,Claude_Code,14053,2253,9.7,9.7,1.9,20.2,76.7,7.7
+added,Copilot,4554,1251,14.6,14.5,1.6,19.9,81.7,4.8
+added,Cursor,1647,180,6.1,6.1,0.2,14.1,47.4,2.4
+added,Devin,1527,69,14.7,14.7,0.6,16.6,85.3,8.9
+added,Google_Jules,118,33,39.0,39.0,0.8,11.9,92.4,0.0
+added,Human,1411,904,10.3,10.2,1.8,20.1,81.6,6.2
+added,OpenAI_Codex,2080,607,15.3,13.8,3.7,14.4,82.8,5.6
+modified,Claude_Code,58772,3890,15.1,15.0,0.7,28.4,88.5,16.2
+modified,Copilot,29052,2728,18.4,18.0,1.1,21.0,85.8,9.6
+modified,Cursor,4044,290,12.0,12.0,0.2,19.9,80.0,16.8
+modified,Devin,7020,110,24.3,24.3,3.9,13.7,90.7,7.3
+modified,Google_Jules,1697,82,14.0,14.0,0.3,25.0,31.6,55.6
+modified,Human,15692,2650,18.2,18.1,1.0,25.1,89.1,14.2
+modified,OpenAI_Codex,10722,1129,17.2,16.9,1.8,25.2,88.7,15.6

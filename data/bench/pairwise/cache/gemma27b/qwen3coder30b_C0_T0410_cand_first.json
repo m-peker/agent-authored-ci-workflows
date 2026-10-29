@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more targeted `git add supply-chain/` and a more efficient check for changes with `git diff --staged --quiet`, while also using a dedicated action for installing cargo-vet."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested weekly schedule trigger and attempts to stop runs on the news branch, while Workflow A does not."}

@@ -1,0 +1,1 @@
+{"action": "pytorch/test-infra/.github/actions/teardown-linux", "ref": "main", "exists": true, "name": "Teardown Linux", "description": "Stuff that should always run at the end of a linux job", "inputs": {"skip-wait-ssh": {"required": false, "default": "", "description": "If set, don't wait for ssh to drain before tearing down"}}, "outputs": []}

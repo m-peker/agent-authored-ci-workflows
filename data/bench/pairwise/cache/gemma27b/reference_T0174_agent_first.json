@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are functionally identical and address updating `ms.date` in markdown files, but neither addresses the core request of merging `dev` into `features/hubs-recs`."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request, including pushing results to a 'perf' branch with history, a step summary with JSON results, and handling manual dispatch with configurable iterations."}

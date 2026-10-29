@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements Trusted Publishing with the crates.io environment and permissions, and uses git-cliff for changelog generation, while workflow B requires a secret and doesn't fully integrate Trusted Publishing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (pull_request_target) and the specified shared composite action, while Workflow B uses an incorrect trigger and a different action."}

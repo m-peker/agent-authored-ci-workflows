@@ -1,0 +1,1 @@
+{"item_id": "A010", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "Untrusted PR title is expanded into a comment on the PR, allowing for potential injection attacks.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"Untrusted PR title is expanded into a comment on the PR, allowing for potential injection attacks.\"}\n```"}

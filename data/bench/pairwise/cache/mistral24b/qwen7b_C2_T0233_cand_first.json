@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes additional test flags for better test reliability and uses a specific Go version instead of 'latest'."}

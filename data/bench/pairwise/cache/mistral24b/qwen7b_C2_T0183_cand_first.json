@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting and testing jobs which match the testing plan in the request, while Workflow B only includes static code analysis."}

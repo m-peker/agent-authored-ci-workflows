@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers a Vercel rebuild on release with a single, focused job and step, while Workflow B unnecessarily checks out code, sets up Python, and fetches metadata, which are not required for the request."}

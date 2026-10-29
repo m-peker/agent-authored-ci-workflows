@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the `actions/checkout` action (v5) which is preferable, and explicitly sets the `TURBO_ENV_MODE` environment variable as seen in other workflows in the repository."}

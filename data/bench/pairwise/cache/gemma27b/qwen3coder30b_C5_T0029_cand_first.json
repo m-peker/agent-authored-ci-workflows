@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (`pull_request`) while workflow B uses `pull_request_target`, which is intended for actions on the base branch and is inappropriate for this task."}

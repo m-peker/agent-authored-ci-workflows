@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly addresses the need for a specific JDK (x64 JDK 8 on macOS) and includes necessary Android SDK/NDK setup, while A lacks these crucial elements and runs on Ubuntu."}

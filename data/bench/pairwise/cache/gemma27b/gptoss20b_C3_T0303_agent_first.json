@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly lists all 42 workflows as jobs, while workflow B only lists 38 templated service workflows plus the additional 4, totaling 42, but is less clear about the origin of the service workflows."}

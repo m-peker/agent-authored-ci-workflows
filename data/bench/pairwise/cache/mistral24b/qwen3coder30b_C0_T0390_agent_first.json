@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested split into build and deploy workflows with proper triggers, jobs, and steps, while Workflow B does not fully address the request."}

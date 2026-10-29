@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary build and test steps for the prerelease CLI, while Workflow B is focused on publishing and version bumping."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by having separate jobs for backend and frontend checks, and a final job to confirm all checks passed, while also using more sensible actions and triggers."}

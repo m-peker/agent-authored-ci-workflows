@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull request merges to main and generates a deployment summary, while Workflow A is for generating deployment summaries from recent PRs and sending them to Slack, which is not what was requested."}

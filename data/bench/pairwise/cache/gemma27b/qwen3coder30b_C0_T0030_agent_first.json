@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements all the requested features \u2013 branch scoping, concurrency, bot-authored PR filtering, and uses the action with the correct SHA \u2013 while workflow A misses branch scoping, concurrency and bot filtering."}

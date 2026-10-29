@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by adding a `cz check` step to verify commit message format and installs dependencies including dev dependencies, while workflow A focuses solely on mutation testing."}

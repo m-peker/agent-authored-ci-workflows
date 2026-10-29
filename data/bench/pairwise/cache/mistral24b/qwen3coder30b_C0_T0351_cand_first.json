@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request to main branch and includes steps to run Playwright tests, while Workflow B is focused on documentation generation and doesn't match the request."}

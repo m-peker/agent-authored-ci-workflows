@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows identically implement only the 'OpenSSF Scorecard' task from the request, and do so plausibly as a working CI/CD workflow."}

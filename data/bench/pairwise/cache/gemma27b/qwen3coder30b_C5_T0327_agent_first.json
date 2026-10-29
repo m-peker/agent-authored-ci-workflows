@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets feature branches for version uploads and integrates with Cloudflare as requested, while workflow B is triggered on `main` and uploads a simple version file as an artifact, not fulfilling the gradual rollout requirement."}

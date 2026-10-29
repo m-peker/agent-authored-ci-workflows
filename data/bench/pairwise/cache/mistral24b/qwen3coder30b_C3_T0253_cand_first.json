@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a step to create an issue if drift is detected, which aligns with the request's requirement for a recurring cleanup/reporting loop."}

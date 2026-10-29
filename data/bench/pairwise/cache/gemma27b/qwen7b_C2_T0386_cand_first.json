@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is tailored to the frontend code (as indicated by the request's file path and the use of Biome), while workflow A is a generic Python CI workflow that doesn't address the specific frontend linting needs."}

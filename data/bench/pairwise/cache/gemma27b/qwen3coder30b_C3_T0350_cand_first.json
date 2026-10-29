@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses pnpm, which is the package manager used by the Ripple monorepo, and correctly configures permissions for OIDC authentication, while workflow A uses npm."}

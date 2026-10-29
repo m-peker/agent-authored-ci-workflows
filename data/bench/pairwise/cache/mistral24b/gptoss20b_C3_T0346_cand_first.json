@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull requests to main, includes testing, and has a clear separation between build and deploy jobs."}

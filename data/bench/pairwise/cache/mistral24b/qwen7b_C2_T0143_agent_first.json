@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct branch name (master) and includes a workflow_dispatch trigger, installs all necessary OpenCL packages, and uses the full requirements file."}

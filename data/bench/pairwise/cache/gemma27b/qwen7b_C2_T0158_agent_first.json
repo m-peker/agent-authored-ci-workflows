@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the requested steps, including cloning the compat-table repo to get the SHA, comparing it to the existing SHA, and only creating a PR if changes are detected, while B incorrectly attempts to use the package version as the SHA."}

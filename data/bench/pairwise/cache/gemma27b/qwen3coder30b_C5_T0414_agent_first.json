@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes `|| true` which allows the workflow to continue even if ESLint fails, fulfilling the request to 'report issues' rather than immediately failing the build."}

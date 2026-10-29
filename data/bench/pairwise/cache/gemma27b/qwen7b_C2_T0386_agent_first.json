@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the frontend code with a specific linting tool (Biome) as indicated by the file paths, while workflow B attempts to run Python linters on a JavaScript frontend, making it irrelevant to the repository and request."}

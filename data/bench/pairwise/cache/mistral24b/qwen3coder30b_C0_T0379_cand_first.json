@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses pnpm instead of npm, which is more likely to be used in a TypeScript project, and has a more specific trigger configuration."}

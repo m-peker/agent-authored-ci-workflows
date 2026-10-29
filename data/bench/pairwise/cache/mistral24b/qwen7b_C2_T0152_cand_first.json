@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested parallel CI strategy with 20 concurrent jobs (5 Python versions \u00d7 4 test groups) and separates regression tests as specified."}

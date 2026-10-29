@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a release workflow triggered by tags and creates a release with a sensible name and body, while B attempts to extract information from files which is unnecessary and less reliable."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on a comment from the specific bot containing 'Codex Review' and requests review from the specified code owner, while Workflow B triggers on PR events and notifies all code owners from the CODEOWNERS file."}

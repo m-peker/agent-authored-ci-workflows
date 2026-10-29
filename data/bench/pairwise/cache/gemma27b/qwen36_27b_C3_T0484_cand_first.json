@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses the GraphQL API to dequeue UNMERGEABLE PRs from the merge queue, as intended, and posts the required comment, while workflow A attempts to disable auto-merge which isn't a direct removal and relies on potentially incorrect assumptions about labels."}

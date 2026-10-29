@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and uses the appropriate reusable workflow for posting Danger results as PR comments."}

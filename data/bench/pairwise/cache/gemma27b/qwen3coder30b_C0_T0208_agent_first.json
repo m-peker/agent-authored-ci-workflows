@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `days-before-pr-stale` and `days-before-pr-close` to -1, clearly excluding pull requests as requested, while B doesn't explicitly address PRs."}

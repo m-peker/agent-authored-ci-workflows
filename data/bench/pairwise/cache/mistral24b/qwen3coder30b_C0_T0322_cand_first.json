@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release publishing and focuses solely on Docker build and push, while Workflow B includes unnecessary Rust setup and build steps."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements all requested triggers and restricts access to collaborators, while Workflow A only handles pull requests and lacks the @claude mention functionality."}

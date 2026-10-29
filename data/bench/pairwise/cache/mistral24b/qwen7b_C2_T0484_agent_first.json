@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses GitHub's merge queue API to identify and remove unmergeable entries, while Workflow B incorrectly closes PRs instead of removing them from the merge queue."}

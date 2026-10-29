@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on PRs to main, set up Node.js, install dependencies, and run ESLint using the provided npm script, with B adding a non-failing lint check."}

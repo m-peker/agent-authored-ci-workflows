@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more recent version of the actions and includes `--frozen-lockfile` for more reliable dependency installation, and uses .nvmrc for node version management."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to the main branch and uses the lychee-action with appropriate arguments for link checking."}

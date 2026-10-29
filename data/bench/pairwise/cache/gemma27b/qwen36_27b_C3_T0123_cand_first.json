@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the requested label names ('stale' instead of 'lifecycle/stale') and provides complete messages for all events, while B uses a different label naming scheme and has some redundant settings."}

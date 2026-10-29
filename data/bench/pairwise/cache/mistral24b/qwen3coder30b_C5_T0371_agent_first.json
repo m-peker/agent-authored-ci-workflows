@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the publish step and correct triggers for creating GitHub releases, while Workflow A does not address the release process at all."}

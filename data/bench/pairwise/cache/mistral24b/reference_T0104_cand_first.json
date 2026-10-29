@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A sets up the correct .NET version (10.0.x) as requested, while Workflow B uses an outdated version (6.0.x)."}

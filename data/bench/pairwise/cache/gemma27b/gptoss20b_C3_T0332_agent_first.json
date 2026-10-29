@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely implements the request, including running the `get_changed_docs_urls.py` script to provide links to changed pages in the PR comment, and uses the newer `actions/deploy-pages` action."}

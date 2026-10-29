@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly tests the changed behavior of the `gh aw compile` command, verifying the default instruction file creation and the `--no-instructions` and `--no-emit` flags, while workflow A focuses on Copilot CLI execution and doesn't validate the core request."}

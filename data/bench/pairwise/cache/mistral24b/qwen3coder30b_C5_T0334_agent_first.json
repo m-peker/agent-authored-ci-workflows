@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the right branches, uses the requested Python versions, and efficiently installs and runs tests with uv, while Workflow B unnecessarily sets up Python and pip, and includes linting which was not requested."}

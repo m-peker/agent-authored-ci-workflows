@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered by a merged pull request to main, which is appropriate for a deployment summary, while Workflow B is triggered manually and focuses on AI-generated summaries from recent PRs."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B dynamically detects changed skill files and publishes only those, while A hardcodes specific skill names, making it less maintainable and scalable."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PRs touching java/**, uses JDK 8 (Temurin) on ubuntu-latest, and runs the specific test job :gameserverSDK:test as requested, while also including additional useful steps like publishing test results."}

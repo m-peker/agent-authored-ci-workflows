@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running CodeQL for the specified languages without unnecessary complexity, while B introduces autobuild and SARIF upload which aren't explicitly requested and add potential points of failure."}

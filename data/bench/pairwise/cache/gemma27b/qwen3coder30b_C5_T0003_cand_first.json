@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and implements the requested logic for skipping drafts and dependabot PRs, while workflow B uses an entirely different triggering mechanism based on comments and issue events, failing to meet the core requirements."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely aligns with the request by explicitly targeting ARM64, installing a wider range of potentially necessary Homebrew dependencies, and providing more detailed artifact naming and versioning."}

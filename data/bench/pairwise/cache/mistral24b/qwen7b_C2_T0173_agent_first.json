@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests and pushes to main, includes the required job and step to verify spy version sync, and avoids unnecessary steps."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly reuses an existing workflow for Trivy scanning and includes all required triggers, while Workflow B lacks the manual trigger and reuses steps that could be shared."}

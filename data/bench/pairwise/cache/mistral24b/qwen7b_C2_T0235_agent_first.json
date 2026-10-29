@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the python-sdk directory and uses modern Python tooling, while Workflow B lacks path filtering and uses outdated actions."}

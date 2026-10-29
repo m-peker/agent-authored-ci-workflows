@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more specific triggers, better permissions, and includes autobuild which is more likely to work for a Rust repository."}

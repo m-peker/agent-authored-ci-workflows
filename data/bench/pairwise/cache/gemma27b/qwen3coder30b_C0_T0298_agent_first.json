@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to run the test suite as described in the commit message, while workflow B introduces shellcheck which wasn't requested."}

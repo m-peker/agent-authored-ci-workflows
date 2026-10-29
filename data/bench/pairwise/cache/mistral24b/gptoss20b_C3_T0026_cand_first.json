@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested triggers and uses a pinned version of the govulncheck-action, while Workflow B is missing the manual dispatch trigger and does not pin the action version."}

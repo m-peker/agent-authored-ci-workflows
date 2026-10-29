@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the main branch and includes the requested lint, test, and build steps in the correct order."}

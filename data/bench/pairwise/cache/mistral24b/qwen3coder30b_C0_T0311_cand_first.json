@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested test jobs for regression coverage, while Workflow B only handles notifying the code owner."}

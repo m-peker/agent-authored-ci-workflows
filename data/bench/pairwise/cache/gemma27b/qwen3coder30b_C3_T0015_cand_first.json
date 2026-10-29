@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by explicitly initializing the submodule and using a frozen lockfile, and it separates build and deploy into distinct jobs for clarity and potential optimization."}

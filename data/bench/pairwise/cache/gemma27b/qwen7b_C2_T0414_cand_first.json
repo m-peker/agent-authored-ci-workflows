@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `npm ci` for faster and more reliable dependency installation and a more recent Node.js version, while still fulfilling the core request of running ESLint on PRs."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and uses the danger-pr-comment action directly, while Workflow B depends on another workflow completing first."}

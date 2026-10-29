@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets Cloudflare for version uploads as implied by the repository and uses `wrangler-action`, while workflow B attempts to publish to npm which is not the intended behaviour."}

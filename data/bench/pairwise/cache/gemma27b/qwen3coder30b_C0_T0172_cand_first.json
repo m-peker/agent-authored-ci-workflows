@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `release-please-config.json` and `.release-please-manifest.json` files as specified in the request, while A does not leverage the configuration file."}

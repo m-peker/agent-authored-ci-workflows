@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `uv` as requested in the build system updates, while workflow B uses `pip` which is explicitly being migrated away from."}

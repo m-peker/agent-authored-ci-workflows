@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CI pipeline with the specified jobs, steps, and Node versions, and both trigger on push to main and pull requests."}

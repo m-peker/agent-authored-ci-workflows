@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs pnpm and sets up a cache for it, which is crucial after migrating from yarn, while workflow B assumes pnpm is already available."}

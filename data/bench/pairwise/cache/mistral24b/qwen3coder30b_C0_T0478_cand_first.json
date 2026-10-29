@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more appropriate triggers and uses a reusable workflow for building the Docker image, which is more maintainable."}

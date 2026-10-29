@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for the actor being dependabot[bot] in both the on clause and the job if clause, while Workflow B only checks it in the job if clause."}

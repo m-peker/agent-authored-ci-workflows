@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both Renovate pushes (via `main`/`master` branches) and `workflow_dispatch` with a PR number input, and passes the `force-evaluate` flag as requested, while B's branch filter is incorrect and requires a number input for the dispatch."}

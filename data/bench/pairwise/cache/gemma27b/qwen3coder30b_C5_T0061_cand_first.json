@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly commits and pushes the updated remote config back to the main branch, fulfilling the 'publish serialized config' requirement, while B only uploads to GitHub Pages without updating the repository."}

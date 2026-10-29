@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly deploys the entire repository contents to GitHub Pages, while Workflow B incorrectly specifies a 'docs/' path which doesn't exist in the repository."}

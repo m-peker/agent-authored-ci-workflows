@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a cross-platform test matrix including macOS and Windows, and specifically tests GPU functionality on Linux and macOS, addressing the core request of centralized cross-platform device selection."}

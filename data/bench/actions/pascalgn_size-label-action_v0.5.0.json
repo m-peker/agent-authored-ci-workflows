@@ -1,0 +1,1 @@
+{"action": "pascalgn/size-label-action", "ref": "v0.5.0", "exists": true, "name": "Assign size label", "description": "Assign labels based on pull request change sizes", "inputs": {"sizes": {"required": false, "default": null, "description": "Custom size configuration"}}, "outputs": []}

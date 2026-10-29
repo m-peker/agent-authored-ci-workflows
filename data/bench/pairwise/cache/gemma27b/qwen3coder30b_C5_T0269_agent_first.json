@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly identifies changes in the relevant packages (app and jobs) using `dorny/paths-filter` and conditionally runs subsequent jobs, while workflow A's trigger is too specific and doesn't account for changes in the app package."}

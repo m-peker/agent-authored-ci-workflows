@@ -1,0 +1,1 @@
+{"action": "super-linter/super-linter/slim", "ref": "v8.3.2", "exists": true, "name": "Super-Linter slim", "description": "Super-linter is a ready-to-run collection of linters and code analyzers, to help validate your source code.", "inputs": {}, "outputs": []}

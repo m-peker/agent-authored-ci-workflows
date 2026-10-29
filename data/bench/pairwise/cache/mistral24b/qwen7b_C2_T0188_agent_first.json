@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes, uses the OCaml toolchain to build the scraper binary, and creates a release with the binary, while Workflow B uses Node.js and uploads the binary as an artifact, which does not meet the request's requirements."}

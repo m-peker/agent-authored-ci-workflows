@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested Playwright test jobs and maintains WebdriverIO for IE11 tests, while Workflow A is unrelated to testing and focuses on documentation automation."}

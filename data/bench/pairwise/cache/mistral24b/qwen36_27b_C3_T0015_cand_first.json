@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly initializes the submodule and includes the bun.lock file in the trigger paths, which is essential for dependency management."}

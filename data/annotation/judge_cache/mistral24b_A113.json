@@ -1,0 +1,1 @@
+{"item_id": "A113", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail because the action does not support the specified input.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail because the action does not support the specified input.\"}\n```"}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a separate lint job for formatting checks and uses a more modern dependency management tool (uv) which aligns better with the request to modernize the project."}

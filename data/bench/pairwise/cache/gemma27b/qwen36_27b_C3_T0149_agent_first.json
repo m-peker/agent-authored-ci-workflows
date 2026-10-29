@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the original plan by generating a formatted test count and updating the README with a `sed` command, while workflow B creates a badge URL directly and inserts it, which is less flexible and doesn't match the request's intent as closely."}

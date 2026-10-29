@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly targets macOS 14 (Apple Silicon), installs necessary Homebrew dependencies including Python, and prepares a virtual environment as requested, while workflow A uses macOS-13 and Python 3.9."}

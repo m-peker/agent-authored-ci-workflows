@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent Go version and includes race detection and a test timeout, improving test reliability and coverage, while both workflows correctly trigger on pull requests to main."}

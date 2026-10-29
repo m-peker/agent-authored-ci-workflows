@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the fork PR exclusion logic, while Workflow B does not."}

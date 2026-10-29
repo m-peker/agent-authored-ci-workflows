@@ -1,0 +1,1 @@
+{"action": "gitleaks/gitleaks-action", "ref": "v2", "exists": true, "name": "Gitleaks", "description": "run gitleaks on push and pull-request events", "inputs": {}, "outputs": []}

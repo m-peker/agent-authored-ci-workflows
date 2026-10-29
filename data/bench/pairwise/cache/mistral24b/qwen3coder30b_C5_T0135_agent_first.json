@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the permissions for security-events to write and does not include unnecessary configurations like a config-file or build-mode."}

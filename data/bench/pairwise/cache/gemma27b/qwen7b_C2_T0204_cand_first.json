@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `mkdocs gh-deploy` which is the correct and simplest way to deploy MkDocs to GitHub Pages, and includes a `workflow_dispatch` trigger for manual runs and more specific path triggers."}

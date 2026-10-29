@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes change detection and proper handling of workflow statuses, while Workflow B lacks the requested build and test steps and uses an unspecified custom action."}

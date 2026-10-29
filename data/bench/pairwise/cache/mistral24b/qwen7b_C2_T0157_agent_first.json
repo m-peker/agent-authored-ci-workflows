@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on workflow_dispatch with the required inputs and performs the specific task of regenerating filter examples and safety checks, while Workflow B triggers on push and pull_request events and includes unnecessary steps for the request."}

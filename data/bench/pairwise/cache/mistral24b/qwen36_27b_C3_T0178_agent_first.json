@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested two-workflow pattern with specific label logic for fork PRs, while Workflow B uses a generic labeler action without the required custom logic."}

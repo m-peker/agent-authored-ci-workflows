@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses on setting up Renovate as requested, while Workflow B continues to perform dependency updates that the request explicitly asked to remove."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly removes the dev target and defaults dry-run to true, while Workflow B does not."}

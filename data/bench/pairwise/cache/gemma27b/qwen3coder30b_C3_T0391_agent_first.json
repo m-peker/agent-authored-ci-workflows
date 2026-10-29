@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B comprehensively addresses the request by building for both architectures, creating a universal binary, packaging it into a DMG, and including code signing and notarization, while workflow A only builds a single binary and uploads a DMG."}

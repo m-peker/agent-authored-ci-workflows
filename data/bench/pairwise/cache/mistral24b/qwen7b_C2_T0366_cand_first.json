@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the pull_request event and checks for dependabot[bot], while Workflow A uses pull_request_target and checks for a label that isn't mentioned in the request."}

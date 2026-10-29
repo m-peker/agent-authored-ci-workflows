@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly uses commands for running tests and generating coverage as likely defined in the `package.json` (test:vitest and test:vitest:coverage), and includes uploading the coverage report as an artifact, which is a more complete CI/CD implementation."}

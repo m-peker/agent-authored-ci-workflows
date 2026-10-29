@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and perform CodeQL analysis, but neither addresses the request to remove fpm and implement native DEB package building."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more thoroughly tests the integration with the Copilot server and includes necessary setup/teardown for a realistic integration test, while A only runs basic build and unit tests."}

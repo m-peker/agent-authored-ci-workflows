@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` trigger and checks for the @claude mention as requested, while workflow B uses `pull_request` and a direct prompt, deviating from the core requirement of responding to @claude mentions."}

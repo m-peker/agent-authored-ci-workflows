@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows identically and completely fulfil the request for a placeholder workflow triggered by `workflow_dispatch` with a no-op job on `macos-latest`."}

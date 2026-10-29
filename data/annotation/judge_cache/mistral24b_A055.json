@@ -1,0 +1,1 @@
+{"item_id": "A055", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "A workflow file must contain a 'jobs' section to be valid.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"A workflow file must contain a 'jobs' section to be valid.\"}\n```"}

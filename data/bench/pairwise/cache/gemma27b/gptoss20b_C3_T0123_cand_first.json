@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more sensible labels (lifecycle/stale instead of just stale) and provides more friendly, detailed messages as requested, and includes additional useful configuration options like operations-per-run and removing stale labels on update."}

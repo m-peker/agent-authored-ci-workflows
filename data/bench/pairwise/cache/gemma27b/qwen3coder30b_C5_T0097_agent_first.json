@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more specific in its triggers, limiting enforcement to `master` or `main` branches and allowing skipping with labels, while A's broad trigger set is less practical and could lead to unnecessary runs."}

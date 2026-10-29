@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the `/review-pr-ci` command functionality as described in the request, including handling both PR events and manual dispatch with a PR number, while B provides a general prompt but doesn't directly address the command invocation."}

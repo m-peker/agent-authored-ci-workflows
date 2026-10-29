@@ -1,0 +1,1 @@
+{"item_id": "A008", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "This is a naming convention issue, not a functional problem.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"This is a naming convention issue, not a functional problem.\"}\n```"}

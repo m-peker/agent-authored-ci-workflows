@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's logic of comparing versions before bumping and pushing, and its artifact creation is more aligned with the prompt's description of including the entire `dreo/` directory."}

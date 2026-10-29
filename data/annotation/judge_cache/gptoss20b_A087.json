@@ -1,0 +1,1 @@
+{"item_id": "A087", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The if: false condition is valid and only causes the job to be skipped, not a failure.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The if: false condition is valid and only causes the job to be skipped, not a failure.\"}"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags and builds/pushes the Docker image without unnecessary steps like testing or building Rust binaries."}

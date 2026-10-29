@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A's regex more closely matches the requested format including a wider range of valid types, while B hardcodes a limited set of types and doesn't provide a helpful PR comment."}

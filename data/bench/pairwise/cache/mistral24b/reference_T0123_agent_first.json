@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the 'lifecycle/frozen' label in the exempt labels, which is specified in the request, while Workflow B does not."}

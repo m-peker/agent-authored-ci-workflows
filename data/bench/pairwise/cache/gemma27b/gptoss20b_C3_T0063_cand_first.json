@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A sets up the Ruby and Python environments and runs the tests and linting as would be expected for this repository, while workflow B only builds a bundler ecosystem image and doesn't address the core request of testing the new Pipenv grapher."}

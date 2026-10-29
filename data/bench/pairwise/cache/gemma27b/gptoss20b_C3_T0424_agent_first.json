@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly converts the icon to `.icns` format and uploads the DMG to both an artifact and a release, while workflow B does not convert the icon and assumes the app is named `obi.app` which isn't specified in the request."}

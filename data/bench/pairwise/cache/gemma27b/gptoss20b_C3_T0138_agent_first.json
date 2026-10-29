@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by triggering on changes to the relevant files for system prompts, while workflow B is a more general check and doesn't specifically target the system prompts freshness as requested."}

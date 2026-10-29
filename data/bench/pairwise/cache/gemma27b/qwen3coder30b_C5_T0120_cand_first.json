@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A adheres to the request's explicit instruction to remove ALL aggressive pre-checkout cleanup steps that used root-privileged Docker containers, while workflow B still utilizes Docker with root permissions as a fallback."}

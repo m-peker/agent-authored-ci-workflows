@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers at 4am CST and includes all necessary steps for merging the release branch into main, while Workflow B triggers at 4am UTC and includes unnecessary steps like setting up Rust and checking for open PRs."}

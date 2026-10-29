@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull_request and includes all requested debugging steps plus a test push attempt, while Workflow B triggers on push and lacks the test push step."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses CI needs (lint, test, build) with sensible actions and dependencies, while workflow B is focused on multi-platform Docker image building which is outside the scope of the request."}

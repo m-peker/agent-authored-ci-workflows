@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Buck2 to build the mdbook-spec preprocessor as requested, while workflow B uses cargo build, and also correctly combines the website and spec into a single deployable artifact."}

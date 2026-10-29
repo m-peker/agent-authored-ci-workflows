@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the issue by adding the `--draft` flag to the release creation, and is designed as a reusable workflow as requested, while workflow B focuses on a main branch release and doesn't explicitly address the 'immutable release' problem."}

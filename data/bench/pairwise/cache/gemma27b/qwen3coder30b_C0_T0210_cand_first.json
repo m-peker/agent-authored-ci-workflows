@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running checks relevant to the PR's changes (TypeScript audit, typecheck, documentation check) and notifying a code owner, while workflow B is triggered by a comment and attempts to request a review from a specific user, which isn't the core ask."}

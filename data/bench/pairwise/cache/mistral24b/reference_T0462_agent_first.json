@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary step to re-setup registry authentication before publishing, which is crucial for OIDC support and matches the pattern used in the publish.yml workflow."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly integrates with the existing build process (pnpm, Doppler) and sets the `SANDBOX_ITERATE_REPO_REF` environment variable to the commit SHA, which is crucial for the snapshot build script as described in the request, whereas B lacks this integration and relies on echo statements."}

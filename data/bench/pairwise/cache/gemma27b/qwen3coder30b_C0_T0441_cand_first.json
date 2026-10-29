@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely aligns with the request by including necessary setup steps (Node, pnpm, Doppler) and executing a snapshot build command, while A only simulates the build process."}

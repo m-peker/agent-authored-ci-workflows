@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on string changes in the develop branch and includes all necessary steps to regenerate translations and create a PR, while Workflow A triggers on the main branch and has some redundant steps."}

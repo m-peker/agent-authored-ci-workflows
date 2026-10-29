@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses `github.sha` and integrates with the existing tooling (Doppler, pnpm, and a custom `os snapshot:daytona` script) as implied by the request, while workflow A manually constructs the snapshot name and lacks integration with the broader ecosystem."}

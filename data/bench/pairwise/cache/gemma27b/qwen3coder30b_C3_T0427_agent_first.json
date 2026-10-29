@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including specific npm scripts for different test modes and builds the application before running tests, while workflow B uses a simpler `playwright test` command and lacks the build step."}

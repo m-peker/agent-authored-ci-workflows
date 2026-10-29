@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct toolchain and action for formatting, while Workflow B uses the stable toolchain and a manual command for formatting."}

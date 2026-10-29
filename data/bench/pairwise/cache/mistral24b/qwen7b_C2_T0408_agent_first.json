@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified branches, uses the requested actions, and follows the requested steps, while Workflow B includes unrelated README badges and development section content and uses outdated actions."}

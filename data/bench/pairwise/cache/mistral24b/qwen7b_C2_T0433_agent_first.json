@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps to run and parse the Terraform plan, and comment on the PR, which directly addresses the request."}

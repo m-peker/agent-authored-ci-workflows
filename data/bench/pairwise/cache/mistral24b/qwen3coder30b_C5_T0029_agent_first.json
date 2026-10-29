@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pull_request_target instead of pull_request to prevent permission issues when PRs come from forks."}

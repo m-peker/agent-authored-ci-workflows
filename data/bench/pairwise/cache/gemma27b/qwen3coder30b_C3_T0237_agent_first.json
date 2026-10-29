@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running unit and integration tests, while workflow B adds linting and spellchecking which are not requested and increase complexity."}

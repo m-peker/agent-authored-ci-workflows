@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested functionality of updating browserslist and creating a pull request if changes are detected, differing only in the schedule frequency."}

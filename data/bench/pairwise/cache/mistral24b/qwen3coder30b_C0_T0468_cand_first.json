@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs golangci-lint before running it, while Workflow B assumes it's already installed."}

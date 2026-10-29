@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly runs both tests and coverage, and uploads the coverage report as an artifact, aligning more closely with the request's mention of a 'single coverage run' and documentation of coverage."}

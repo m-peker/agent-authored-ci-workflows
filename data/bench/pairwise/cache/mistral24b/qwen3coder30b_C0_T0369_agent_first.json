@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested features with proper triggers, jobs, and steps, while Workflow B has incorrect Dockerfile paths and uses DockerHub instead of GHCR."}

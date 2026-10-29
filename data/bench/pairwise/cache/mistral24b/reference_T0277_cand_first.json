@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the specified action 'actions-rust-lang/rustfmt@v1' as requested, while Workflow A uses a manual command."}

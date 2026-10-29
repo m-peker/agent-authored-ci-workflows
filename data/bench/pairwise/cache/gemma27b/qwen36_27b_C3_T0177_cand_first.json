@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a dedicated action for semantic pull request validation with a configurable regex that closely matches the requested format, while workflow B has a more limited set of valid types and relies on a custom script."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PRs, includes the necessary jobs and steps to run the test suite, and uses sensible actions for a Shell-based repository."}

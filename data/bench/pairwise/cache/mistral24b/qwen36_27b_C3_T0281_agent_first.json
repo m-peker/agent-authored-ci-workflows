@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary steps to update the Node.js runtime to version 24 and handles the build process, while Workflow A only installs Deno."}

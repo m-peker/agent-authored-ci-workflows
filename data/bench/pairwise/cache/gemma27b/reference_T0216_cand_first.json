@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality, including triggering on main branch pushes, retrieving the latest release, incrementing the .dev tag, and handling potential tag collisions with retries."}

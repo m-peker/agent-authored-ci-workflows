@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets up the environment for Copilot and installs pre-commit, while Workflow A attempts to *create* the AGENTS.md file which is not the request."}

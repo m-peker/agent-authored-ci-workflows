@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates build and deploy jobs, uses the recommended actions for GitHub Pages deployment, and includes testing, while workflow B attempts to do everything in one step and lacks explicit deployment steps."}

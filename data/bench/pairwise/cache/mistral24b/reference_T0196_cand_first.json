@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the global.json file to set the .NET SDK version as requested, while Workflow B hardcodes the version."}

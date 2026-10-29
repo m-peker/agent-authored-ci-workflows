@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles the detection of unused strings and provides a more informative PR, including the output of the detection script, and uses a more appropriate runner for the task."}

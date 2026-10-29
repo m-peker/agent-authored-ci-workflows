@@ -1,0 +1,1 @@
+{"item_id": "A053", "judge": "gptoss20b", "label": "FP", "impact": "LOW", "reason": "Secrets can be used in if expressions; actionlint incorrectly flags this.", "raw": "{\"label\":\"FP\",\"impact\":\"LOW\",\"reason\":\"Secrets can be used in if expressions; actionlint incorrectly flags this.\"}"}

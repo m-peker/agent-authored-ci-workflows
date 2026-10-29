@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a pre-built action for PR title validation with the exact requested format, while Workflow B uses a custom script with a different set of types."}

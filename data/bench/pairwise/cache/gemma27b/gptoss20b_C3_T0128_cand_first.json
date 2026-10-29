@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both tags and releases, includes a build step with tests, and uses a more standard approach to publishing, while B has a restrictive tag trigger and operates within a `tools/cc-sdd` directory that isn't present in the repository."}

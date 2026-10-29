@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the `secrets.GITHUB_TOKEN` which is best practice, and provides a more informative comment with links to the duplicate issues as requested."}

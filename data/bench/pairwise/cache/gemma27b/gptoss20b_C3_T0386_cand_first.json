@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more specific to the frontend, includes path filtering, uses a more modern toolchain (Bun/Biome), and provides a detailed linting report directly in the PR."}

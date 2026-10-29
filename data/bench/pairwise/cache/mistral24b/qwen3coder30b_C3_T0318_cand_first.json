@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes change detection, proper triggers, and all requested jobs (lint, test, build) with sensible use of actions, while Workflow B lacks these elements and focuses on a different approach with PR target and status updates."}

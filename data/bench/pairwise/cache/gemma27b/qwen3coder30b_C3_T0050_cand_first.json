@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested cron schedule, runs the abuse detection script with the specified flags, and includes a commit/push step to apply changes, while workflow B has a strange directory structure and appears to be missing the `apply-abuse-blocks.ts` functionality."}

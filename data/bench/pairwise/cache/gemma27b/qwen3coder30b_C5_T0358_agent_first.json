@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly generates and commits a coverage badge as requested, while workflow B uploads to Codecov and attempts to modify the README, which isn't the primary goal."}

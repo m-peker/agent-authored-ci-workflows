@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets the Go version and includes options for caching and output formatting, making it more reproducible and useful, while B lacks these details."}

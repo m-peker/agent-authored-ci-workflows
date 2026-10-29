@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets up Bun, installs dependencies, sets up a local testnet, and runs tests, while Workflow B relies on an undefined custom action."}

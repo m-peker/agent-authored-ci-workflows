@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on releases and specifically targets the requested packages, while Workflow A uses a schedule trigger and doesn't properly filter for the correct package versions."}

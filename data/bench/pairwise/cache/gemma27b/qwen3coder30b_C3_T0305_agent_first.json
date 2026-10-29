@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `actions/download-artifact` to download the expected artifact, while A attempts a complex and fragile artifact download using `gh api` and `unzip`."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the reusable workflow and passes the PR number as requested, while B incorrectly calls a workflow file instead of a reusable workflow and has incorrect branch triggers."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a single token for all operations, including checkout and PR creation, and explicitly enables auto-merge, while A uses a more complex token generation process and doesn't directly enable auto-merge."}

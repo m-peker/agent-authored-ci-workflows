@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the request to generate and report on drift, including outputting to the step summary and uploading as an artifact, while workflow B attempts to create an issue which wasn't requested and has a different drift check command."}

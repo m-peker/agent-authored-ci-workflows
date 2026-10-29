@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more targeted, triggering only on changes to the relevant ARB files in the `develop` branch, and provides a more detailed PR description and better branch naming."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes steps to persist flaky monitor reports across PRs by using an orphan branch, while Workflow B does not implement this persistence mechanism."}

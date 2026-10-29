@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `--provenance` during publishing and avoids redundant publishing steps, while B duplicates the publish step and doesn't consistently apply provenance."}

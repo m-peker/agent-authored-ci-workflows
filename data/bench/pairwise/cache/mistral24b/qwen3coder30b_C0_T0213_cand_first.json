@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes necessary permissions and explicitly excludes pull requests, while Workflow A has an unnecessary filter for issue labels."}

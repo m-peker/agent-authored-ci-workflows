@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more modern and efficient Python setup with `uv`, and correctly targets the `plugins/` directory as implied by the request to scan imported plugins."}

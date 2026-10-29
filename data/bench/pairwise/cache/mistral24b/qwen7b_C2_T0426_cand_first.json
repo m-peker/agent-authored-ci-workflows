@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on all PRs, uses the script as intended, and doesn't include unnecessary steps like Python setup and linters."}

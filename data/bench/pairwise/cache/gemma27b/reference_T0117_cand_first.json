@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to use GraphQL to find linked issues first, which is more efficient and reliable than text parsing, and then falls back to text parsing if GraphQL fails, making it more robust."}

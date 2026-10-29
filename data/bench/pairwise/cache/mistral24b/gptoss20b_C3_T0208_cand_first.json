@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes necessary permissions for contents: read and uses concurrency to prevent multiple instances from running simultaneously."}

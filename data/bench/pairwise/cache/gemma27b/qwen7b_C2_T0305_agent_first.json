@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the completion of the 'Tests' workflow and uses the specified `publish-unit-test-result-action`, while workflow B triggers on pull requests and uses a different action (codecov) not requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting, testing with FalkorDB service, and release jobs that match the repository's needs better than Workflow B."}

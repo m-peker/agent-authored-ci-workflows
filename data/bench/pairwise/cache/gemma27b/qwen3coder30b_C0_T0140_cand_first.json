@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes caching which improves performance and uses `--show-trace` for more informative flake check output, and explicitly states the job is informational, better reflecting the non-blocking requirement."}

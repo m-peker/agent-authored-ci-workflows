@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers the Vercel rebuild on release with a single step, while Workflow A includes unnecessary steps for a deploy hook."}

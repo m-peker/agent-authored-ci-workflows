@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly passes the base and head SHA to the script, which is necessary for comparing commits as described in the request, while A simply runs the script without arguments."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a modern dependency manager (uv) and focuses specifically on the `python-sdk` directory, while workflow B uses older actions and doesn't specify the SDK directory."}

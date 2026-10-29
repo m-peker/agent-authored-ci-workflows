@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes triggers for push to main and tags, and has separate jobs for building and publishing to both PyPI and TestPyPI, which is more aligned with typical CI/CD practices."}

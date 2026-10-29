@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested lint \u2192 test \u2192 build order and uses the specified yarn commands, while Workflow B includes additional steps not mentioned in the request and uses devbox commands instead of yarn."}

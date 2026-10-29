@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on Renovate pushes and workflow_dispatch, while Workflow B triggers on pull_request and specific file changes, which is not what was requested."}

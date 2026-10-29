@@ -1,0 +1,1 @@
+{"item_id": "A049", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The inputs are supplied by a trusted workflow_call in the same repository, not by an attacker-controlled source.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The inputs are supplied by a trusted workflow_call in the same repository, not by an attacker-controlled source.\"}"}

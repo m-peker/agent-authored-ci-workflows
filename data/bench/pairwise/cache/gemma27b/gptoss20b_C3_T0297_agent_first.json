@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses separate actions for release creation and asset uploading, providing more control and clarity, and triggers on tag pushes as requested."}

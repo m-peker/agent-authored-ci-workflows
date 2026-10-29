@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A sets up the required Python and Ruby environments before running the spy version check script, while Workflow B does not."}

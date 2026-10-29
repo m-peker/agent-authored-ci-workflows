@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `npx vitest` for testing, which is the correct test runner for this project, while A uses `npm test` which may or may not work, and also includes more robust failure handling with `if: always()` and explicit exit codes."}

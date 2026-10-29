@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more modern tooling (pnpm, Node 20), includes caching for faster builds, and more closely aligns with the request's need for a comprehensive CI pipeline with type checking and coverage reporting."}

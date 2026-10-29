@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses semantic-release for automated versioning, changelog generation, and npm publishing, while Workflow A does not."}

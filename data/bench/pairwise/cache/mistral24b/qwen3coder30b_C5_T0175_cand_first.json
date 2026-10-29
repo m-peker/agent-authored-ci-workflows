@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly skips interactive E2E tests on Windows and includes Slack failure notifications as requested."}

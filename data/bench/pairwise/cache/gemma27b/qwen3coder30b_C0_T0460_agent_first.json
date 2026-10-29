@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to improve the Claude prompt within a CI context, while workflow B focuses on standard Rust CI tasks and doesn't involve Claude at all."}

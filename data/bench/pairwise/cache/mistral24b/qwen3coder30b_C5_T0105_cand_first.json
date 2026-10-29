@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push to master branch and includes the required steps for environment setup, while Workflow B has incorrect trigger paths and uses pip instead of uv for some installations."}

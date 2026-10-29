@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the required Doppler configuration input and uses the correct commit SHA for snapshot naming, while also handling the snapshot build and push process."}

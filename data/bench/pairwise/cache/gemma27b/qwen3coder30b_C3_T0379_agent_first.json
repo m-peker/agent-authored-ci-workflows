@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated SBOM action, simplifying the process and directly addressing the request for SBOM generation and artifact upload with retention, while A requires manual command execution and doesn't handle multiple lockfile types."}

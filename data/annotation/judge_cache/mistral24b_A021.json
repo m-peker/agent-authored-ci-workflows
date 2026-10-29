@@ -1,0 +1,1 @@
+{"item_id": "A021", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The template expansion is only used for trusted environment variables and matrix values.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The template expansion is only used for trusted environment variables and matrix values.\"}\n```"}

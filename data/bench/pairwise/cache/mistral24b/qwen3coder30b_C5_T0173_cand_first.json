@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A specifies a more precise runner type and includes explicit toolchain setup for Rust, which is necessary for the repository's language."}

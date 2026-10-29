@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete and robust, including environment variables, a matrix strategy for language selection, and integration with the project's PowerShell build tools, making it more likely to work correctly in a CI/CD environment."}

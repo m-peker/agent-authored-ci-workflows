@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks out the PR's head ref and explicitly updates the lockfile, addressing the core issue of Dependabot not always updating the lockfile in a monorepo, while B's trigger is too restrictive and may miss updates."}

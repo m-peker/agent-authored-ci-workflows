@@ -1,0 +1,5 @@
+design,group,files,repos,active_pct,template_pct_of_active,dup_files_pct_of_active,purpose_build_test,purpose_release_publish,purpose_maintenance,purpose_other,purpose_agent_integration,purpose_lint_format,purpose_security_scan,purpose_deploy,purpose_docs
+D1_first_draft,agent,23979,3955,89.7,6.5,40.8,31.4,21.1,16.6,6.8,6.5,5.2,5.0,4.8,2.7
+D1_first_draft,human,1411,904,99.7,13.6,7.9,25.7,19.2,15.6,7.9,13.6,5.6,5.0,4.9,2.3
+D2_final_merged,agent,11263,2697,88.9,8.2,28.8,30.0,22.0,14.8,7.5,8.2,5.5,4.3,5.1,2.6
+D2_final_merged,human,1411,904,99.7,13.6,7.9,25.7,19.2,15.6,7.9,13.6,5.6,5.0,4.9,2.3

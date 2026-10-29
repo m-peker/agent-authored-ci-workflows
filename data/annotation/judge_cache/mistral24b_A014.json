@@ -1,0 +1,1 @@
+{"item_id": "A014", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The YAML is actually valid and this is a linter limitation.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The YAML is actually valid and this is a linter limitation.\"}\n```"}

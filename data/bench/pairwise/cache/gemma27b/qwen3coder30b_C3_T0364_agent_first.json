@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly addresses the core issue of Dependabot's incomplete pnpm support by attempting to update the lockfile in the affected directory, while A simply runs `pnpm install` from the root which may not fix the problem."}

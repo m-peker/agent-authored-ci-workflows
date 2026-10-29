@@ -1,0 +1,1 @@
+{"item_id": "A066", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The workflow file contains only a comment, making it an empty workflow that GitHub will reject.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The workflow file contains only a comment, making it an empty workflow that GitHub will reject.\"}"}

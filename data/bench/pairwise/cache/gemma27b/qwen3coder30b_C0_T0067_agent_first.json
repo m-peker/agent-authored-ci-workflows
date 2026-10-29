@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the npm dist-tag using a step output and a conditional publish command, while workflow B uses separate `npm publish` steps with conditional execution, which is less clean and doesn't directly address the request's tag requirement."}

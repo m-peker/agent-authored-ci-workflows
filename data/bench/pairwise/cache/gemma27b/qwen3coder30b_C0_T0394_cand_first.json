@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes outputting test results as an artifact, uses a more complete FPC compilation command, and specifies a test runner format, making it a more robust and informative CI workflow."}

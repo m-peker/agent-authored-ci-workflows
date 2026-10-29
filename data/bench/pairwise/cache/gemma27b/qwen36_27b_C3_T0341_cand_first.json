@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more efficient `git diff` command to check for changes, and its PR branch name is simpler and more conventional."}

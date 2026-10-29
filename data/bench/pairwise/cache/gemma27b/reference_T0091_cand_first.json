@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement all aspects of the request, including triggering on PR events, scanning commits with Brin, summarizing findings, updating a PR comment, and failing the check based on the scan results."}

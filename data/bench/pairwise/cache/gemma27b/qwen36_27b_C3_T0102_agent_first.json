@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses a more appropriate tag trigger ('v*'), and provides a meaningful release body based on the PR description, while A's approach to extracting release info from files is fragile and its release body is incomplete."}

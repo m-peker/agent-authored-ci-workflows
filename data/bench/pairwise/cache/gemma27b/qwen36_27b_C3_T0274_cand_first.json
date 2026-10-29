@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes and PRs to the specified branches, while workflow B adds an unnecessary `paths` filter that would prevent it from running on most changes."}

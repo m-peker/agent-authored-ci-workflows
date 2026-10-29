@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides more flexibility with inputs for service and ref, generates tags as requested, and uses standard Docker actions for building and pushing, making it a more complete and usable CI/CD workflow."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by integrating Claude into the CI process after tests run, providing diagnosis and iteration instructions, while A is a manual trigger with a generic prompt."}

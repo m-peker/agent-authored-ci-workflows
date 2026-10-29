@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly installs dependencies and uses a dedicated CycloneDX tool to generate the SBOM, while A relies on a generic action that may not produce the desired format and doesn't handle dependencies."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the asset copying step from `fastlane/metadata/` and the root directory to `public/` as requested, which workflow A does not, and also uses yarn as the package manager which is more common in modern C++ projects."}

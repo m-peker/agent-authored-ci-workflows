@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all necessary steps for building and pushing the Daytona snapshot with the commit hash, while Workflow B only sets the snapshot name and lacks the actual build and push steps."}

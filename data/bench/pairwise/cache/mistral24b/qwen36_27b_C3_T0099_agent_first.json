@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the Flux CLI to push Kubernetes manifests as OCI artifacts, while Workflow B attempts to use Docker build-push-action which is not suitable for this task."}

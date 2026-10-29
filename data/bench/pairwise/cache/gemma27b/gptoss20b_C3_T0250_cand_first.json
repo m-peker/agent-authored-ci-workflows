@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and pushes both AMD64 and ARM64 images in a single step, while workflow B requires separate steps and assumes a separate Dockerfile for ARM64, which isn't stated in the request."}

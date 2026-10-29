@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `uv` to run the script, which is more aligned with the project's Python dependency management and ensures the script is executed in a consistent environment, while B relies on `python3` being available."}

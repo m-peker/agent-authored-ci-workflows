@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary environment variable BASE_URL for Vite configuration while Workflow B does not."}

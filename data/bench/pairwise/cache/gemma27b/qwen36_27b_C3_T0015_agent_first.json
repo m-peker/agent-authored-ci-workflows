@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly deploys the entire `docs` directory, as requested, while workflow B only deploys `docs/swelancer-tasks`, potentially missing other necessary files for the site."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more cleanly addresses all requirements, including Go 1.26 adoption, `go fix` integration, drift checks, race condition control, and migration parity, with a more modular and readable structure."}

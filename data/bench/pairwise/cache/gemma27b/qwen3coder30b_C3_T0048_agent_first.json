@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request by including node setup for potential package.json/CHANGELOG checks and explicitly generating `paths.json`, while B lacks node and doesn't mention paths.json."}

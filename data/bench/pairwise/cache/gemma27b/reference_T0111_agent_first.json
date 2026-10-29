@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are functionally equivalent and correctly implement the requested smoke tests for SQLite and PostgreSQL, including building the image, running containers, health checks, and cleanup."}

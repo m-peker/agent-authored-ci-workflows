@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request events to main branch and includes jobs and steps to generate and commit the Safe Inputs specification and JSON schema as requested."}

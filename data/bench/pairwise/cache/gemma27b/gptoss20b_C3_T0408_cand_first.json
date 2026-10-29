@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/setup-python` to specify Python 3.14 and includes a step to post pytest results, fulfilling the request's requirements more completely than Workflow B."}

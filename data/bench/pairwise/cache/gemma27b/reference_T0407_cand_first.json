@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and only add a comment to PRs based on a very specific file change, completely ignoring the core request of updating group references."}

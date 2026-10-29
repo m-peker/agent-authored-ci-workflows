@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are functionally identical and appear to correctly trigger on push, pull request, and schedule, and attempt to run the 'test-gz' command using pixi as requested."}

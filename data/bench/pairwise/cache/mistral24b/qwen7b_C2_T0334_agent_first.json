@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses uv as requested and tests with the correct Python versions, while Workflow B uses pip and has an incorrect branch name."}

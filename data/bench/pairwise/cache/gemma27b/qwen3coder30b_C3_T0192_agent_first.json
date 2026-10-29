@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed to run performance tests on the CapSoftware/Cap repository itself, using the correct language (Rust) and appears to execute a performance suite, while workflow B is designed for a Python project and uses Pants, which is not the language of the target repository."}

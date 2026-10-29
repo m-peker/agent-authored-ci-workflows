@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more fully implements the request by including auto-formatting with commit, coverage reporting, and dependency caching, while also correctly specifying job dependencies."}

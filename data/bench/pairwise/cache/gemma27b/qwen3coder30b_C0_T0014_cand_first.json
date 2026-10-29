@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to the request's intent by explicitly handling the submodule token and gracefully skipping tests when it's unavailable, and includes more robust submodule verification steps."}

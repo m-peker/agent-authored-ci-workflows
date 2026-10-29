@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `actions/setup-python` to install Python 3.14, includes a pytest results action for dynamic badge updates, and has a more sensible branch trigger using `feature/**`."}

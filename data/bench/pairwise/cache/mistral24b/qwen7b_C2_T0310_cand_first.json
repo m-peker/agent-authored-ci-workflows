@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specific tag v1.0.0 and includes all required jobs for building, testing, and releasing the MCP Server v1.0.0."}

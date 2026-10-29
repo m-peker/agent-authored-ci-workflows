@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has the correct triggers, jobs, and steps for the request, including a detailed prompt for Claude Code Review, while Workflow B is missing key elements like the specific prompt and proper configuration."}

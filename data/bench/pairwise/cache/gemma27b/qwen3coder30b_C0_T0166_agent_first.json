@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly commits the updated leaderboard data back to the repository before building and deploying, while workflow B does not, fulfilling the request to unify the leaderboard update with the deploy."}

@@ -1,0 +1,1 @@
+{"action": "hashicorp/setup-packer", "ref": "main", "exists": true, "name": "Setup HashiCorp Packer", "description": "A GitHub Action to install a specific version of HashiCorp Packer and add it to PATH.", "inputs": {"version": {"required": true, "default": "latest", "description": "The Packer version to install and add to PATH."}}, "outputs": ["version"]}

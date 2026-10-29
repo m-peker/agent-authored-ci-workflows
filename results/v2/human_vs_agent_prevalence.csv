@@ -1,0 +1,15 @@
+origin,author_group,files,repos,breaking_pct,ci_correctness_pct,unparseable_pct,deprecation_pct,untrusted_input_pct,supply_chain_pct,security_high_pct,security_other_pct,ci_noise_pct
+added,Claude_Code,14053,2253,4.7,4.7,0.0,4.7,1.0,74.6,29.9,79.2,6.5
+added,Copilot,4554,1251,5.2,5.2,0.1,7.8,0.8,78.7,28.2,81.6,4.1
+added,Cursor,1647,180,2.2,2.2,0.1,3.7,1.2,47.7,19.6,71.6,2.2
+added,Devin,1527,69,2.9,2.9,0.0,11.5,0.5,72.8,34.9,86.6,8.9
+added,Google_Jules,118,33,10.2,10.2,0.0,27.1,3.4,94.9,11.9,92.4,0.0
+added,Human,1411,904,4.2,4.2,0.1,4.6,0.6,80.9,30.0,82.6,3.5
+added,OpenAI_Codex,2080,607,5.4,5.3,0.1,8.3,0.7,85.2,22.5,82.5,5.3
+modified,Claude_Code,58772,3890,8.1,8.0,0.0,7.1,1.7,74.2,36.3,90.1,14.1
+modified,Copilot,29052,2728,10.3,10.3,0.1,8.7,0.9,69.3,28.7,87.5,6.3
+modified,Cursor,4044,290,5.2,5.2,0.0,7.4,1.4,73.0,26.3,79.9,16.3
+modified,Devin,7020,110,6.9,6.9,0.0,17.0,1.0,75.8,29.7,92.3,7.4
+modified,Google_Jules,1697,82,1.8,1.8,0.1,12.4,0.2,24.9,27.3,93.4,0.2
+modified,Human,15692,2650,8.2,8.2,0.2,9.6,1.3,76.2,31.3,92.7,9.7
+modified,OpenAI_Codex,10722,1129,8.6,8.6,0.1,10.6,1.0,79.5,30.3,90.0,14.4

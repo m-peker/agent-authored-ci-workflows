@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the dedicated `kani-github-action` which is more appropriate and likely to work out-of-the-box, while B requires manual installation and invocation of `cargo kani`."}

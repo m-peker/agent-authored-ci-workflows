@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes a cache for the Next.js build output of `agents-docs` as well as setting the heap size, which is a key part of the request, while A does not."}

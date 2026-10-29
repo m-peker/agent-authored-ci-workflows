@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly checks for the prohibited pattern in changed Objective-C files, aligning with the request's focus on stylistic enforcement without complex tooling, and provides clear error messages."}

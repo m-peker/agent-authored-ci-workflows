@@ -1,0 +1,61 @@
+
+== pooled
+          design       outcome  E2_diff_pp  E2_mde80_pp  E2_tost5_p        E2_verdict  E3_diff_pp  E3_mde80_pp  E3_tost5_p        E3_verdict  E1_mde80_OR
+ D1_first_draft      breaking       0.764        1.965       0.000 equivalent(+-3pp)       3.282        4.470       0.141         different        1.625
+ D1_first_draft security_high      -0.743        3.717       0.001 equivalent(+-3pp)       1.914        5.398       0.055      inconclusive        1.197
+ D1_first_draft  supply_chain       2.528        3.159       0.014         different      -0.026        6.485       0.016 equivalent(+-5pp)        1.476
+ D1_first_draft    ci_failure       3.740       10.840       0.372      inconclusive       3.318       10.891       0.333      inconclusive        1.376
+D2_final_merged      breaking       0.261        2.090       0.000 equivalent(+-3pp)       2.266        4.253       0.036 equivalent(+-5pp)        1.621
+D2_final_merged security_high       0.409        4.058       0.001 equivalent(+-3pp)       3.852        8.070       0.345      inconclusive        1.203
+D2_final_merged  supply_chain       1.685        3.467       0.004 equivalent(+-5pp)      -2.624        7.538       0.189      inconclusive        1.271
+D2_final_merged    ci_failure      -3.678       10.617       0.364      inconclusive      -5.392       11.291       0.539      inconclusive        1.370
+
+== by_agent
+          design       outcome        agent  E2_diff_pp  E2_mde80_pp  E2_tost5_p        E2_verdict  E3_diff_pp  E3_mde80_pp  E3_tost5_p        E3_verdict
+ D1_first_draft      breaking  Claude_Code       0.528        2.607       0.000 equivalent(+-3pp)       3.757        6.240       0.288      inconclusive
+ D1_first_draft      breaking      Copilot       1.312        3.605       0.002 equivalent(+-5pp)       4.930        6.636       0.488         different
+ D1_first_draft      breaking       Cursor       5.625       12.866       0.554      inconclusive      -0.786       13.482       0.191      inconclusive
+ D1_first_draft      breaking        Devin       1.952        5.923       0.075      inconclusive       7.843       11.749       0.751      inconclusive
+ D1_first_draft      breaking Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+ D1_first_draft      breaking OpenAI_Codex       0.751        3.626       0.001 equivalent(+-3pp)       1.786        2.923       0.001 equivalent(+-5pp)
+ D1_first_draft security_high  Claude_Code       0.241        4.881       0.003 equivalent(+-5pp)       3.138        5.334       0.164      inconclusive
+ D1_first_draft security_high      Copilot      -0.060        6.867       0.022 equivalent(+-5pp)       0.393       13.727       0.174      inconclusive
+ D1_first_draft security_high       Cursor      -8.280       15.095       0.729      inconclusive      -4.324       17.245       0.456      inconclusive
+ D1_first_draft security_high        Devin      14.983       24.758       0.871      inconclusive      14.706       23.007       0.881         different
+ D1_first_draft security_high Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+ D1_first_draft security_high OpenAI_Codex      -8.067        8.202       0.853         different     -10.655       13.289       0.883         different
+ D1_first_draft  supply_chain  Claude_Code       0.865        4.023       0.002 equivalent(+-5pp)      -1.312        7.262       0.077      inconclusive
+ D1_first_draft  supply_chain      Copilot       6.819        6.135       0.797         different       7.042       13.974       0.659      inconclusive
+ D1_first_draft  supply_chain       Cursor       8.908       20.258       0.706      inconclusive      -1.101       37.208       0.385      inconclusive
+ D1_first_draft  supply_chain        Devin      -0.658       18.202       0.252      inconclusive      -7.843       17.044       0.680      inconclusive
+ D1_first_draft  supply_chain Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+ D1_first_draft  supply_chain OpenAI_Codex       2.110        7.035       0.125      inconclusive      -1.250       14.183       0.229      inconclusive
+ D1_first_draft    ci_failure  Claude_Code       3.498       15.215       0.391      inconclusive       1.190       14.472       0.230      inconclusive
+ D1_first_draft    ci_failure      Copilot       2.708       15.625       0.341      inconclusive       1.351       22.788       0.327      inconclusive
+ D1_first_draft    ci_failure       Cursor       3.443       42.206       0.459      inconclusive         NaN          NaN         NaN               n/a
+ D1_first_draft    ci_failure        Devin         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+ D1_first_draft    ci_failure Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+ D1_first_draft    ci_failure OpenAI_Codex      15.922       38.301       0.788      inconclusive      33.333       43.676       0.965      inconclusive
+D2_final_merged      breaking  Claude_Code      -0.500        2.602       0.000 equivalent(+-3pp)       0.621        4.974       0.007 equivalent(+-5pp)
+D2_final_merged      breaking      Copilot       1.780        4.993       0.035 equivalent(+-5pp)       6.742        9.984       0.687      inconclusive
+D2_final_merged      breaking       Cursor       5.216       15.561       0.516      inconclusive       0.000       17.300       0.209      inconclusive
+D2_final_merged      breaking        Devin       9.229       16.161       0.768      inconclusive         NaN          NaN         NaN               n/a
+D2_final_merged      breaking Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+D2_final_merged      breaking OpenAI_Codex      -0.321        2.953       0.000 equivalent(+-3pp)       1.053        3.453       0.001 equivalent(+-5pp)
+D2_final_merged security_high  Claude_Code       0.418        5.535       0.010 equivalent(+-5pp)       4.190        8.834       0.399      inconclusive
+D2_final_merged security_high      Copilot       2.768        8.453       0.230      inconclusive       3.997       14.312       0.422      inconclusive
+D2_final_merged security_high       Cursor      -3.971       18.067       0.437      inconclusive      -4.938       19.421       0.496      inconclusive
+D2_final_merged security_high        Devin      18.283       21.460       0.959         different         NaN          NaN         NaN               n/a
+D2_final_merged security_high Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+D2_final_merged security_high OpenAI_Codex      -4.565        8.742       0.445      inconclusive      -5.526       13.095       0.545      inconclusive
+D2_final_merged  supply_chain  Claude_Code       0.622        4.554       0.004 equivalent(+-5pp)      -1.762        7.173       0.103      inconclusive
+D2_final_merged  supply_chain      Copilot       5.037        6.974       0.506         different       4.494       15.264       0.463      inconclusive
+D2_final_merged  supply_chain       Cursor       4.552       24.040       0.479      inconclusive     -17.284       24.972       0.916      inconclusive
+D2_final_merged  supply_chain        Devin      -7.499       23.623       0.617      inconclusive         NaN          NaN         NaN               n/a
+D2_final_merged  supply_chain Google_Jules         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+D2_final_merged  supply_chain OpenAI_Codex       1.993        6.291       0.090      inconclusive      -2.368        9.472       0.218      inconclusive
+D2_final_merged    ci_failure  Claude_Code      -4.239       14.697       0.442      inconclusive      -2.290       14.739       0.303      inconclusive
+D2_final_merged    ci_failure      Copilot      -1.667       17.673       0.299      inconclusive      -7.447       14.418       0.683      inconclusive
+D2_final_merged    ci_failure       Cursor         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+D2_final_merged    ci_failure        Devin         NaN          NaN         NaN               n/a         NaN          NaN         NaN               n/a
+D2_final_merged    ci_failure OpenAI_Codex     -11.598       32.115       0.718      inconclusive      -6.667       33.353       0.556      inconclusive

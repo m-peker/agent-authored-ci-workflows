@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the described setup, including generating Mastodon secrets and running specific setup/migration steps, while B makes assumptions about build processes and healthchecks that aren't explicitly stated in the request."}

@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.gh_token
+.venv*/
+data/raw/
+data/files*/
+data/runs/
+data/human/
+data/bench/context/
+results/tables/
+results/figures/

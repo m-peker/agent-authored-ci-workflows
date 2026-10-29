@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes more robust error handling for the BitwiseCmdTests token and better configuration for running tests in a CI environment, like headless Chrome and xvfb."}

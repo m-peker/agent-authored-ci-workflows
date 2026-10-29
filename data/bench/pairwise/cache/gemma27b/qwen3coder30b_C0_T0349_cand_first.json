@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all checklist items with clear jobs for backend and frontend checks, while workflow B includes unnecessary system dependencies and ESLint/typecheck not requested."}

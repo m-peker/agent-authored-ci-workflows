@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the CUDA 13.0 target for Linux x86_64 as specified in the request, while Workflow A does not."}

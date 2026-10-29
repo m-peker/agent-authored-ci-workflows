@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed to auto-fix CI failures using Claude, directly addressing the request's core functionality, while workflow B is a standard build/test workflow and doesn't address the email agent invocation or auto-fix features."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly enforces the 25k character limit specified in the request, while A uses a 40k limit and provides unnecessary warnings and guidance."}

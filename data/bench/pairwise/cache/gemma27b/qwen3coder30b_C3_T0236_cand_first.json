@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly detects changes to both `.skills/**` and `skill.md` and publishes accordingly, including a force option, while workflow B only explicitly publishes three skills and has a less robust change detection mechanism."}

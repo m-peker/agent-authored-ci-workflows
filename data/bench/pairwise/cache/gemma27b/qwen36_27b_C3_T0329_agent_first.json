@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly updates the existing Homebrew formula using `sed`, while workflow B overwrites the entire file, which is less maintainable and more prone to errors."}

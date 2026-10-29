@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly validates each required output file, while B only checks for the existence of the `dist` directory and that it isn't empty, which is less thorough and doesn't align with the request's validation requirements."}

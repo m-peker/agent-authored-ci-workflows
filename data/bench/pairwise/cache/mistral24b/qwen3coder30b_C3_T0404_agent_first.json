@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes tests and validations specific to the version history and autosave features, while Workflow A only runs the opencode action."}

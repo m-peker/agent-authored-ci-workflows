@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds and releases the scraper binary as requested, while workflow B is empty and does nothing."}

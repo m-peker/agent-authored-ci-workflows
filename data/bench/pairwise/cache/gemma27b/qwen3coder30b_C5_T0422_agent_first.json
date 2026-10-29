@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more directly builds the web assets and uploads them as a new artifact, aligning better with the request to separate the web build and its outputs from the Windows build."}

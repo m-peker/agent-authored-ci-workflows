@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs node and runs `npm ci` as requested by the distribution checks, and includes a step to generate `paths.json` which is likely needed for the path consistency tests."}

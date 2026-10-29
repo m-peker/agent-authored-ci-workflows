@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested triggers and uses the specified /review-pr-ci command, while Workflow B does not include the necessary command and has incorrect triggers."}

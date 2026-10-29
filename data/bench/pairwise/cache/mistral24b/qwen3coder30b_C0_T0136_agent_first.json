@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the specific security scanning jobs requested, while Workflow B does not address the Kubernetes MCPRegistry sync status issue."}

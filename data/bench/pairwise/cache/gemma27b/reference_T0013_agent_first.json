@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a 6-hour sync interval as requested, while workflow B uses 2 hours; both workflows otherwise fulfil the request."}

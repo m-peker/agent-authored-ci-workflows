@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including pylint and pytest, and correctly handles the version comparison and conditional push, while B only runs pylint and lacks a full test suite execution."}

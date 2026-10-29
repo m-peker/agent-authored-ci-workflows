@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by explicitly installing dependencies and building the project, while B relies heavily on the Makefile without detailing dependency installation, and uses `ubuntu-latest` instead of a specific version."}

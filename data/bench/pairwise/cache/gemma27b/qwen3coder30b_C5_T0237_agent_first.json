@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running the standard tests, while workflow B introduces Poetry and a more complex test suite that isn't explicitly required by the feature request."}

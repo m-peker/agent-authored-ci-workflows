@@ -1,0 +1,1 @@
+{"item_id": "A117", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail because the property 'package-version' is not defined in any step.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail because the property 'package-version' is not defined in any step.\"}\n```"}

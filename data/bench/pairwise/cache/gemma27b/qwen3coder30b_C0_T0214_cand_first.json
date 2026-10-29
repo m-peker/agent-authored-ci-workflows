@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `commitlint` as requested, while workflow B uses an external action, deviating from the prompt's instruction to avoid external dependencies."}

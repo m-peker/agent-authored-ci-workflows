@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes the `--features kani` argument as requested, while workflow B omits it, making it incomplete."}

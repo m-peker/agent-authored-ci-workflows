@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly isolates the branches with separate checkouts and implements the warmup/measurement runs and median calculation as requested, while workflow B uses a less reliable worktree approach and relies on an external `bench` script and `results.json` which aren't defined in the request."}

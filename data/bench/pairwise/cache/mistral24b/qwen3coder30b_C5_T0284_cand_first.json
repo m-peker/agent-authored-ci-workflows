@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a trigger on pull requests targeting the workflow file itself, making it more responsive to changes."}

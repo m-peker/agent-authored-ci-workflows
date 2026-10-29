@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets the Node.js version to 22 as requested, while B relies on a .nvmrc file which may not exist or be correctly configured, and A includes the scope for the npm package."}

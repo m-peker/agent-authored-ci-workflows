@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `secrets.GITHUB_TOKEN` for Super Linter, which is best practice, and includes `VALIDATE_ALL_CODEBASE: true` for full repository analysis as implied by the request."}

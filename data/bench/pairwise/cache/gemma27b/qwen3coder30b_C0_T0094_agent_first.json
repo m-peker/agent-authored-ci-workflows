@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly reflects the request for a Vitest workflow and includes coverage upload as an artifact, while B relies on a `coverage` script and uploads to Codecov which isn't explicitly requested."}

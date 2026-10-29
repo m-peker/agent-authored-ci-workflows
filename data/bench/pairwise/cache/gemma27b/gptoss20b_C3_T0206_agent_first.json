@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to build and release FFI bindings for multiple targets, including version parsing and artifact uploading, while workflow B is a general test suite and doesn't implement the requested CI/CD pipeline."}

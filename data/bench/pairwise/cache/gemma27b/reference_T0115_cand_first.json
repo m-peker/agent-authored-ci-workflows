@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more effectively uses a matrix to avoid duplication and correctly derives image tags and cache keys based on branch/tag metadata as requested."}

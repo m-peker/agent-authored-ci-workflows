@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A addresses all aspects of the request, including linting and updating the roadmap, while workflow B only implements linting and uses a different linter than specified in the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by including all specified checks (Clippy, cargo fmt, cargo test, Prettier) and running them on the correct triggers (pull requests and main branch pushes)."}

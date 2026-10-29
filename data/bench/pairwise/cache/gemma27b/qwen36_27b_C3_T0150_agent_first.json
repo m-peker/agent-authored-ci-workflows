@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are functionally identical and correctly implement the request to replace the app with the action, triggering on `main` branch pushes and using the necessary permissions and action."}

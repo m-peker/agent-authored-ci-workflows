@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more recent version of the pnpm/action-setup action and includes a frozen lockfile flag for dependency installation."}

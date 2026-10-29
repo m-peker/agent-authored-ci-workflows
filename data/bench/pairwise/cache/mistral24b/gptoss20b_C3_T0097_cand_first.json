@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to the main branch and uses the specified action with the correct changelog file, while Workflow B has unnecessary triggers and does not specify the changelog file."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a Go security scanner and a Trivy scanner with critical and high severity settings, which are more relevant to the request for a security scan."}

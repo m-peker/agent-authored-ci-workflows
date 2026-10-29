@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested build and e2e test jobs with proper caching and sharding, while Workflow B lacks the build job and proper test execution setup."}

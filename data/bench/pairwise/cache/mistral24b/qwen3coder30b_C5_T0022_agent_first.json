@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all necessary steps to build and test gz-physics with the latest stable version of dart from source, while Workflow A only tests gz-physics without building it."}

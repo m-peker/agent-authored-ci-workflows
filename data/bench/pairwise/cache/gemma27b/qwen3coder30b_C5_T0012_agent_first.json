@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses environment variables and a JavaScript action to avoid the script injection vulnerability described in the request, while workflow A still uses potentially unsafe bash heredocs."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B attempts to address the tasks outlined in the request (documentation, parameters, variables, tests) while workflow A only rebuilds a site on release, unrelated to the backdating work."}

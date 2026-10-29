@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a `skipLabels` configuration, allowing exemptions for certain PRs, which is a sensible addition for a real-world changelog enforcement workflow, while B lacks this flexibility."}

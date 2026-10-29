@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CodeQL scanning with the specified triggers, query suites, and language, and would plausibly work as described."}

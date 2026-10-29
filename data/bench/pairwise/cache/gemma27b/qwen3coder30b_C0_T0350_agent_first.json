@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pnpm, which is the package manager used in the repository, while workflow B uses npm, and also correctly configures OIDC authentication instead of relying on the deprecated NPM_TOKEN."}

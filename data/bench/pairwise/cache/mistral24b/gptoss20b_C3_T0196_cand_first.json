@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested features, such as CodeQL security scanning, explicit permissions, and uses the global.json file for .NET SDK version, while Workflow B is missing several key elements."}

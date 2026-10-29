@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements path filters to skip CI on docs-only and config-only changes, while Workflow A does not address the request at all."}

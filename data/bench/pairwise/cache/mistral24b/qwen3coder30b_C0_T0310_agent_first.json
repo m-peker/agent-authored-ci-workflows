@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags matching 'mcp-v*.*.*' and includes Docker image building/pushing which is relevant for the repository's deployment needs."}

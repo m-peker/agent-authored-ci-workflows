@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested jobs and steps, while Workflow B is missing the test-macOS-windows-binding job and the entrypoints artifact handling."}

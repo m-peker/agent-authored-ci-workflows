@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more thoroughly addresses the request by including validation steps for plugin structure, JSON syntax, and manifest coverage, simulating a more complete installation and testing process, and explicitly checking for symlinks after the build."}

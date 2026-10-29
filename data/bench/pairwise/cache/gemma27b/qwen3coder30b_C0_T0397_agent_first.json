@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is simpler, more direct, and correctly avoids creating a git tag during the version bump, aligning with the request's intent for a manual release triggered from the Actions tab."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `govulncheck-action` with a pinned ref and necessary parameters, while workflow B unnecessarily includes checkout and Go setup steps that are handled implicitly by the action."}

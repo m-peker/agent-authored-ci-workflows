@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a workflow_call trigger to allow it to be triggered after crates.io publishing, while Workflow A only has a manual trigger."}

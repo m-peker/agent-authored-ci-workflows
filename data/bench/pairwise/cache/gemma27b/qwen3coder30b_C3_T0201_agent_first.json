@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested testing steps (`flutter analyze` equivalent and `dart format`) and provides a more complete OSV scan implementation with result uploading, while A only performs the scan."}

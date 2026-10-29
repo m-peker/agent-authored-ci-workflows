@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes publishing test results, which is a good practice for CI and provides more visibility into test failures, while B does not."}

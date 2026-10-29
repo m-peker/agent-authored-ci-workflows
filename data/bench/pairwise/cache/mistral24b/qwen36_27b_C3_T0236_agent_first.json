@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly checks for and publishes each skill individually, matching the request's requirement to detect and publish only changed skills."}

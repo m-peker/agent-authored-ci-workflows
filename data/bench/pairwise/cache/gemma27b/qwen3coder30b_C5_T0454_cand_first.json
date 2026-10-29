@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more flexible input system and the `rust-lang/crates-io-auth-action` for authentication, aligning better with the request for trusted publishing via OIDC and avoiding manual token handling."}

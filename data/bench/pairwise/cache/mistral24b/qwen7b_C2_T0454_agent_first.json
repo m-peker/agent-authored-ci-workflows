@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements trusted publishing via OIDC and includes all necessary inputs for the requested crates, while Workflow B uses a secret token and lacks some required inputs."}

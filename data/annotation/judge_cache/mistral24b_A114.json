@@ -1,0 +1,1 @@
+{"item_id": "A114", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "User-controlled inputs are directly interpolated into shell commands without proper sanitization.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"User-controlled inputs are directly interpolated into shell commands without proper sanitization.\"}\n```"}

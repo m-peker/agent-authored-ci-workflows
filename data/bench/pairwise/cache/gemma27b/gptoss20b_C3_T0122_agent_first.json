@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the design highlights of the request, particularly the idempotent validation and the use of `docker buildx imagetools create` for tag-only operations, and includes more detailed verification steps."}

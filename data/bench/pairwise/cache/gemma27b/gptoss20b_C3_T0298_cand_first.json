@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to run all shell tests in a `tests` directory and publish results, while workflow B only runs a single specific script and lacks result publishing, better aligning with a general test suite execution request."}

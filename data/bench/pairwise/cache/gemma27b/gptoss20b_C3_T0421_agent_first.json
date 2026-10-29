@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the issue by using the `--draft` flag when uploading to the release, while workflow B creates a draft release and then uploads assets to it, which is a more complex approach and doesn't directly fix the original problem as efficiently."}

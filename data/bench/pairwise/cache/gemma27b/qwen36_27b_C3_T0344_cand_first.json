@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary trigger for pull requests on relevant files, as requested, while workflow B only supports being called as a workflow, and doesn't trigger on PRs."}

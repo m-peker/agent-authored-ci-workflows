@@ -1,0 +1,5 @@
+pair,n,agreement,kappa
+gptoss20b vs mistral24b,120,0.558,0.122
+gptoss20b vs qwen3coder30b,120,0.592,0.132
+mistral24b vs qwen3coder30b,120,0.65,0.299
+"fleiss(gptoss20b,mistral24b,qwen3coder30b)",120,,0.157

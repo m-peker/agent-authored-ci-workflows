@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request events for the main branch and has the appropriate conditions and steps for CodeQL analysis."}

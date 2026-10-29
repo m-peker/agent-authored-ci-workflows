@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue and comment events as requested, while workflow B only triggers manually, failing to automate spam detection."}

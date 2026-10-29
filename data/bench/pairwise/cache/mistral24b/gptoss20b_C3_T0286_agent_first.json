@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks out both repositories, properly handles the file copying with a clean sync, and includes all required labels for the PR."}

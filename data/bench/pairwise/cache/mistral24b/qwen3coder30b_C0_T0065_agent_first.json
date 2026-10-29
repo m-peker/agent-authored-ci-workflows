@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the correct triggers for CI/CD (push to main and version tags) while Workflow A is only manually triggered."}

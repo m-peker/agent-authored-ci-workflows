@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on issue and comment events (opened issues, created issue comments, and pull request review comments) and uses the `ai-moderator` action with more of the configurable options specified in the request, including labels and comment minimization."}

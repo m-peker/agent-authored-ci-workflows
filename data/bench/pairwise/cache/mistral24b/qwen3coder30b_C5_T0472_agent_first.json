@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` event to handle external contributors' PRs and only triggers on the `labeled` event, while Workflow B incorrectly uses `pull_request` event and additional unnecessary events."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by using a case statement to handle the selected crates and ensuring the correct order of publishing ic-asset before icx-asset."}

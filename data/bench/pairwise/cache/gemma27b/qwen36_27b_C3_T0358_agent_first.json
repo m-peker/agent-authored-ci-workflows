@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly splits the CI process across multiple Python versions and integrates with Codecov to generate a coverage badge, addressing the core requirements of the request, while A only tests one version and relies on a local script."}

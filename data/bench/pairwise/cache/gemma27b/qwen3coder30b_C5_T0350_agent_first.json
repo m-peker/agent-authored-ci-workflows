@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `setupGitUser: true` and `createGithubReleases: true` which are sensible defaults for a Changesets workflow, and it has a more specific concurrency group, while both workflows correctly implement the core Changesets functionality."}

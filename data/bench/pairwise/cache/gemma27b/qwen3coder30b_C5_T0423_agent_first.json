@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including pre-commit for formatting/validation, testing across multiple Python versions, and a dependency installation method more appropriate for a modern Python project."}

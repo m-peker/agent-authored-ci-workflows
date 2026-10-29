@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on string changes in the specified path and creates a PR with the generated files, while Workflow B triggers on PR events and pushes changes directly."}

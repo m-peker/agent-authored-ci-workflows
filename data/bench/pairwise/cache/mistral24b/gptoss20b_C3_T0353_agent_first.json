@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all pushes and pull requests, uses the correct PHP version (8.4 as per the request), and runs the mutation testing with the specified composer command, while Workflow B has incorrect triggers and PHP version."}

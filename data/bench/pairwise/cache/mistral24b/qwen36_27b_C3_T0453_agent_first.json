@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested commands (check-types, check-format, check-circular, lint, test) and has a more comprehensive trigger setup (all branches for pull requests and workflow_call)."}

@@ -1,0 +1,9 @@
+signal,target,tp,fp,fn,precision_pct,recall_pct
+breaking,startup_failure,3,2122,56,0.1,5.1
+breaking,failure,1069,1056,3552,50.3,23.1
+ci_correctness,startup_failure,3,2114,56,0.1,5.1
+ci_correctness,failure,1068,1049,3553,50.4,23.1
+unparseable,startup_failure,0,343,59,0.0,0.0
+unparseable,failure,329,14,4292,95.9,7.1
+security_high,startup_failure,10,3982,49,0.3,16.9
+security_high,failure,1029,2963,3592,25.8,22.3

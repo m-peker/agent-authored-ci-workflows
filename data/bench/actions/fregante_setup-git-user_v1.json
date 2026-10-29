@@ -1,0 +1,1 @@
+{"action": "fregante/setup-git-user", "ref": "v1", "exists": true, "name": "Setup GIT user", "description": "GitHub Action that sets the git user and email to enable commiting", "inputs": {}, "outputs": []}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets up the Rust toolchain with the requested MSRV (1.85.0) and includes steps to validate the build against it, while Workflow B does not."}

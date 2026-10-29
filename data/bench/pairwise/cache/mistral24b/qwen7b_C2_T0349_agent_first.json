@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested checks (Clippy, cargo fmt, cargo test, Prettier) and runs them on the correct branches, while Workflow B is missing some checks and doesn't cover all the requested branches."}

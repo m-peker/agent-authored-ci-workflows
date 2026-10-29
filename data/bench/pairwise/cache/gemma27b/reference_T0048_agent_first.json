@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly installs the dependencies required by `verify-distribution.sh` (mcp, pyyaml, etc.) which workflow A omits, making it more likely to succeed."}

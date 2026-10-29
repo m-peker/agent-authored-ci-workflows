@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses the intended reusable release workflow and correctly triggers only on manual dispatch, while A attempts to combine CI and release and has unnecessary steps."}

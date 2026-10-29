@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct build command (npm run build) as specified in the request, while Workflow B uses an incorrect command (npm run rollup:debug)."}

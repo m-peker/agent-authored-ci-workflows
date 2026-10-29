@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates build and deploy jobs, explicitly copies the index.html to a 'public' directory, and uses the correct artifact name, while B attempts to deploy the entire repository as-is."}

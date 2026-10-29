@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles the pull request check by explicitly warning and failing, and its change detection step prevents unnecessary commits."}

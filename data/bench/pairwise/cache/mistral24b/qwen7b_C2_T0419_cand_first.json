@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both the CLAUDE.md size check and the Docusaurus build and deployment, while Workflow B only includes the CLAUDE.md size check."}

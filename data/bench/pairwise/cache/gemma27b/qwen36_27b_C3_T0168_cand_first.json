@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and directly uses `jq` to filter PRs based on the criteria, making it more efficient and readable than Workflow A's shell looping and conditional checks."}

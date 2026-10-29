@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a dedicated action for PR size labeling, which is more maintainable and likely to be more reliable than the custom script in Workflow B."}

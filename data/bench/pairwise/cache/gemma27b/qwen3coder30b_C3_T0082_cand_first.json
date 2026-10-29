@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a basic but complete CI pipeline covering test, lint, and build steps for a TypeScript project, aligning with the core request, while workflow B introduces Python dependencies and tests that are not part of the original request and repository's primary language."}

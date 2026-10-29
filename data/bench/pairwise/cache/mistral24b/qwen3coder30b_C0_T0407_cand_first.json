@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant paths and jobs for the request, while Workflow B does not."}

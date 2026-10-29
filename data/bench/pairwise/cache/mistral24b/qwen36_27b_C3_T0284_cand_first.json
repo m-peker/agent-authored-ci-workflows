@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on relevant pull request events and includes all required steps for Copilot setup, while Workflow B has a more restrictive trigger and includes an unnecessary step to install pre-commit."}

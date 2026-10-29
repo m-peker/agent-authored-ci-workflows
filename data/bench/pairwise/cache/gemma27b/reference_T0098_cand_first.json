@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more specific version of the `mise-action`, which is better practice than relying on the latest, and avoids a potentially unnecessary full workspace build."}

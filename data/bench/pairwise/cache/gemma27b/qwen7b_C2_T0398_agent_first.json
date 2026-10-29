@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the core request of skipping Netlify documentation publishing on pull requests by using `if: github.event_name == 'push'` and removing PR-related permissions and steps, while A does not address the request at all."}

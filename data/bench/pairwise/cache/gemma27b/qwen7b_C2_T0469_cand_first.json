@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated stale action with configurable parameters for issue and PR management, directly addressing the request for automated stale issue/PR handling, while workflow A attempts to use a CLI tool which is less suitable for this purpose."}

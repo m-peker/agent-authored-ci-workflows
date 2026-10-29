@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix to handle variants and leverages `docker/metadata-action` to derive tags and labels from metadata, fulfilling the request to avoid manual configuration and the 'latest' tag, while B's conditional logic and complex matrix are less clean and harder to maintain."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_run` trigger and artifact downloading to deploy previews, and includes logic for both deploying and removing previews based on PR status, fulfilling the core request."}

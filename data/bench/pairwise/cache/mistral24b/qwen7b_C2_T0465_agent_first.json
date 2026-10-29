@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified events, uses a sensible action, and has the correct conditional logic for assigning labels, while Workflow B unnecessarily checks out the repository and sets up Node.js, which is not required for the task."}

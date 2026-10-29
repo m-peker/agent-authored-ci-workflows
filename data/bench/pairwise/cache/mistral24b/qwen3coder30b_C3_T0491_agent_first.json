@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the same pinned version of the dependency-review-action as specified in the request, while Workflow B uses a different version."}

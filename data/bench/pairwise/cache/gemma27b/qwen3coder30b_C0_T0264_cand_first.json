@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is specifically tailored to testing the documentation (docs/) as requested, while workflow A runs a broad set of tests that aren't focused on the documentation changes."}

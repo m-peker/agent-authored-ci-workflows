@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the stable Rust toolchain as is generally preferred for CI, while A uses nightly, and both workflows otherwise fulfil the request identically."}

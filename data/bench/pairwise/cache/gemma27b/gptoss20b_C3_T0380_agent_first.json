@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request's steps for regression detection during rebasing, including identifying base-only files, prompting for policy (implicitly through erroring on changes), and performing a post-rebase scan, while workflow A is unrelated to the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more robust tag matching pattern and a dedicated release action with better control over release notes, while A's approach to extracting release info from files is fragile and prone to errors."}

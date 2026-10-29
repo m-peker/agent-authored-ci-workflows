@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly retrieves and lists all ISO artifacts, updates existing comments, and handles cases where no PR is found, while workflow B only downloads a single artifact and has a less robust commenting mechanism."}

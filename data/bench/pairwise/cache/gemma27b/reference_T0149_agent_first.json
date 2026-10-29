@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more robust `sed` regex pattern that correctly handles test counts with 'K' or 'M' suffixes, as demonstrated in the summary, making it more likely to work correctly in all cases."}

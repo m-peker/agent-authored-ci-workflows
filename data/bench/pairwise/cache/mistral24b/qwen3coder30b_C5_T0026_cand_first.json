@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all requested events and uses the pinned action reference, while Workflow B unnecessarily restricts pull requests to the main branch and uses a different Go version specification."}

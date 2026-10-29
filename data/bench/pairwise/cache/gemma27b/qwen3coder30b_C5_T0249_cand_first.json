@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more comprehensively addresses the request, including multi-platform builds, UI testing with a Mosquitto broker, image size reporting, SSO integration tests, and attestation, while B only builds for amd64 and has limited testing."}

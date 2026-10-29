@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly separates gh-pages deployment on push to `ai` and Surge preview deployment on pull requests, and uses Node 20.x as requested, while A uses Node 18.x and doesn't handle PR previews."}

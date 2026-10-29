@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement a multi-platform Docker build, sign, and push pipeline with appropriate actions and configuration for the given repository and request."}

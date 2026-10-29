@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on workflow file changes, uses a dedicated action for ghalint, and includes push events to main branch for continuous security checks."}

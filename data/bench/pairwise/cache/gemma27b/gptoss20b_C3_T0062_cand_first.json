@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses .NET 10.0 as requested, while workflow B uses .NET 5.0, and A is more concise and directly addresses the deployment placeholder requirement."}

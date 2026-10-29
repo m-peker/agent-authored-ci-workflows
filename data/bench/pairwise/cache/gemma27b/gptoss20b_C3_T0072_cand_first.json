@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly executes the `wp i18n audit` command in both JSON and GitHub Actions formats as requested, while workflow B reuses another workflow and doesn't demonstrate the requested functionality."}

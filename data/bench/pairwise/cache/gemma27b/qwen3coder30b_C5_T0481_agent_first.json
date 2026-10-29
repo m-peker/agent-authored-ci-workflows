@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly applies permissions at the workflow level as requested, while A applies them only to the job, and uses a more recent checkout action SHA."}

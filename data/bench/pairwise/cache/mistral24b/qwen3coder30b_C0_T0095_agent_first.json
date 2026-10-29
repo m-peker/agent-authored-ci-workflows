@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct Go version (1.24) and has a non-blocking lint job as requested."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete and likely to work as a CI workflow, including pnpm setup and node version from .nvmrc, while A is a minimal test run and doesn't address the release-it fix request."}

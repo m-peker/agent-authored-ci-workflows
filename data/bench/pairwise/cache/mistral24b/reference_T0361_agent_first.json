@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the additional 'vendor-obi' target in the 'Generate files' step, which is likely necessary for Beyla-specific integration tests."}

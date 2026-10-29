@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles potential Nuitka output name variations and includes a wider range of Python versions in its build matrix, making it a more complete CI/CD solution."}

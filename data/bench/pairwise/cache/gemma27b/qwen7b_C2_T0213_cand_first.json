@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets permissions for issues and pull requests, and uses more descriptive parameter names for the `actions/stale` action, making it clearer and more robust."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested functionality, including triggers, tests, publishing with provenance and public access, and authentication using a secret, with only minor differences in Node.js version specification."}

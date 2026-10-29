@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers after the Tests workflow completes, downloads JUnit XML artifacts, and uses the publish-unit-test-result-action to add test result comments to PRs."}

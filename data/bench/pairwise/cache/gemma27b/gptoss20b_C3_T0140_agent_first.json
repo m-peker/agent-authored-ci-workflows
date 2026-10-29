@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the nix-installer action and correctly checks out the repository without persisting credentials, while both workflows fulfill the core requirements of the request."}

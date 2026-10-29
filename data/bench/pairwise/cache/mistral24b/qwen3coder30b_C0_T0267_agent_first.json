@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (push tags) and sets up Node.js with the version specified in .nvmrc, while Workflow B uses the release trigger and hardcodes the Node.js version."}

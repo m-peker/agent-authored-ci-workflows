@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly configures GitHub Pages with `actions/configure-pages`, which is best practice and ensures proper permissions for deployment, while A lacks this step."}

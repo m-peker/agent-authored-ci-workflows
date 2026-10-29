@@ -1,0 +1,1 @@
+{"action": "julia-actions/julia-processcoverage", "ref": "v1", "exists": true, "name": "Process Julia coverage files", "description": "Convert Julia coverage files into a lcov file", "inputs": {"directories": {"required": false, "default": "src,ext", "description": "Comma-separated list of directories to look for coverage information (e.g. `src,examples`)"}}, "outputs": []}

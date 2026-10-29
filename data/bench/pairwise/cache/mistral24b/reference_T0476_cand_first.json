@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the secrets.GH_PAT_APPROVINGTON_OCTAVIA token, while Workflow B incorrectly references a non-existent get-app-token step."}

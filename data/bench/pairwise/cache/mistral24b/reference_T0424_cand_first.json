@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes workflow_dispatch trigger which allows manual triggering of the workflow, making it more flexible."}

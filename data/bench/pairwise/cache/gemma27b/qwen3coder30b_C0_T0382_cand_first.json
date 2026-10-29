@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push to master and pull request review approval, while B's conditional checkout and job `if` statement are overly complex and potentially incorrect, and B adds unnecessary dependencies."}

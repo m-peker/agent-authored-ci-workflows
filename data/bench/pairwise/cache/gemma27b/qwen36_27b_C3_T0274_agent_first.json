@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `secrets.GITHUB_TOKEN` for the Super Linter action, which is the recommended practice, and includes sensible defaults like validating the entire codebase and excluding markdown files."}

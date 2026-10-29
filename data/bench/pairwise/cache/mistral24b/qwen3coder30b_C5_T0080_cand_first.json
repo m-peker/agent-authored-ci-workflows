@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered by changes to relevant mobile files and the main branch, which is more appropriate for a CI/CD pipeline for mobile releases."}

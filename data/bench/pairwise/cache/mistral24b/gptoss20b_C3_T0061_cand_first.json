@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested testing steps and uses the correct tools (uv, ruff, pyright, pytest) while Workflow A does not."}

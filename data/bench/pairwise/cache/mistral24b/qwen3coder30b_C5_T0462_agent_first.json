@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes specific tests for the batched poll implementation and related changes, while Workflow A is focused on prerelease publishing."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets up Node.js and uses `npm ci` for dependency installation, and crucially, passes all required environment variables to the security scan script, while A misses some and uses an unfamiliar build tool."}

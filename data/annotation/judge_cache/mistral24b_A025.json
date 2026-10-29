@@ -1,0 +1,1 @@
+{"item_id": "A025", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The reported YAML anchor is actually valid markdown formatting in the prompt text.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The reported YAML anchor is actually valid markdown formatting in the prompt text.\"}\n```"}

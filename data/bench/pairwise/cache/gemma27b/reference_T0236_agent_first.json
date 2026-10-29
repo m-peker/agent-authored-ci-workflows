@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are functionally identical and correctly implement the requested CI/CD pipeline for publishing skills to ClawHub, including triggers, authentication, change detection, and the `--accept-license-terms` flag."}

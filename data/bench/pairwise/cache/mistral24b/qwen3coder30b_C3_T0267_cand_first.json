@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pnpm/action-setup to install pnpm and has the correct trigger for publishing to npm."}

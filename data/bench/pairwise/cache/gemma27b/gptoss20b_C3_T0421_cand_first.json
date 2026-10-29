@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the issue by adding the `--draft` flag to the release creation, while workflow B is a more general release workflow and doesn't explicitly focus on fixing the draft release problem."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by checking for the `branch-alias` in `composer.json` on pushes and pull requests to main/master, while workflow B triggers on releases and uses a reusable workflow that isn't relevant to the request."}

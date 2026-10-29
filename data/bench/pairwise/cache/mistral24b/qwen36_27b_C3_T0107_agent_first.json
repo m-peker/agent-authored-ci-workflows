@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR and uses the lychee-action with sensible arguments, while Workflow B has an excessive number of exclusions and may not be as maintainable."}

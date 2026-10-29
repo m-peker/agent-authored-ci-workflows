@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a reusable workflow from contentful/github-workflows designed for devcontainer CI, aligning with the request to make the devcontainer the source of truth, while workflow B attempts to reimplement similar functionality with multiple jobs and custom commands."}

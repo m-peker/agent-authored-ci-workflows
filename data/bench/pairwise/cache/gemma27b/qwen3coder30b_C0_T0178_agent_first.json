@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the two-workflow pattern as requested, triggered by `workflow_run` and handling fork PRs, while workflow B uses `pull_request_target` and focuses on simpler label additions based on PR content."}

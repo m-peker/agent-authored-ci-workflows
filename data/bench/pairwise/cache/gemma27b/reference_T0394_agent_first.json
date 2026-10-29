@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on push/PR to master/main, install FPC, build and run the tests, and upload the results; they are functionally identical."}

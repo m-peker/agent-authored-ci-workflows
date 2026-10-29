@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Python setup and runs the scanner on the entire repository, while Workflow B uses an unnecessary UV setup and only scans the plugins directory."}

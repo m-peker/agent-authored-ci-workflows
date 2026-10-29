@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and PR, includes all necessary jobs and steps for E2E tests, and uses sensible actions."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `uv` throughout, as requested, and has a more concise and modern approach to dependency management and testing, while A uses Poetry."}

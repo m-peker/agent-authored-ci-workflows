@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to use TestContainers by defining a CockroachDB service, while A attempts to run tests against a locally started ojp-server which isn't the requested approach."}

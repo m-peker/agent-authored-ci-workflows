@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes steps to build and validate the DEB package directly, fulfilling the request to remove fpm usage."}

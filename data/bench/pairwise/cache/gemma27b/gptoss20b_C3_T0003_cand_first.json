@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and skips draft PRs as requested, while workflow B uses a completely different triggering mechanism based on comments and labels, not fulfilling the core requirement of automatic review on PR events."}

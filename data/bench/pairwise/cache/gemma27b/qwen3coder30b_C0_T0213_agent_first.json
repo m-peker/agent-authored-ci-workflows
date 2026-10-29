@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `days-before-issue-stale` and `days-before-issue-close` while B uses deprecated `days-before-stale` and `days-before-close`, and A explicitly disables PR processing."}

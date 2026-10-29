@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a standard CI workflow with build, test, linting, and type-checking steps triggered by push or pull request, which is a more plausible and useful workflow for a repository than workflow A's admin-only check."}

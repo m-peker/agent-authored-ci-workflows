@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly includes the `ref: master` payload which is best practice for Vercel deploy hooks, while A lacks this and relies on the hook being configured to expect no ref."}

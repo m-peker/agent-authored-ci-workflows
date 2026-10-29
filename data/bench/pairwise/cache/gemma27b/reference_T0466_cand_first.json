@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the publishing to the FalkorDB/helm-charts GitHub Pages site by updating the repository index, while workflow B attempts to publish to GHCR which is not the requested destination."}

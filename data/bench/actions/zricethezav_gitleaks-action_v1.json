@@ -1,0 +1,1 @@
+{"action": "zricethezav/gitleaks-action", "ref": "v1", "exists": true, "name": "Gitleaks", "description": "Run Gitleaks on Push and PR events", "inputs": {"config-path": {"required": false, "default": ".github/.gitleaks.toml", "description": "Path to config (relative to $GITHUB_WORKSPACE)"}}, "outputs": ["exitcode", "result"]}

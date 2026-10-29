@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags, builds cross-platform binaries, generates release notes from CHANGELOG.md, and creates a GitHub release, while workflow B only builds on main and hardcodes the release version."}

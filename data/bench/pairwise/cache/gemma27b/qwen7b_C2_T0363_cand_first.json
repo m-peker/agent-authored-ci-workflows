@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to the documentation by triggering only on changes to the workflow file itself, and uses a more recent checkout action version."}

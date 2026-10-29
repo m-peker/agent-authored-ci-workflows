@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested PR title format check with the right triggers, jobs, and steps, while Workflow A uses an unnecessary Node.js setup and a less precise validation method."}

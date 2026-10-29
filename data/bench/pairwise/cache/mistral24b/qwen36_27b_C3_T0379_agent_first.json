@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on lockfile and package.json changes, uses a specific action for CycloneDX SBOM generation, and uploads the artifact with 90-day retention as requested."}

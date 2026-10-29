@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly defines `permissions: contents: write`, which is required by the request for manual releases, while A does not."}

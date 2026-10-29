@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested `workflow_dispatch` trigger with the specified inputs and defaults, while Workflow B is triggered on pull requests and attempts to call a workflow in another repo with incorrect parameters."}

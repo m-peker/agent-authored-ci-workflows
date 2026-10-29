@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows address the 'no response' issue by attempting to automatically close stale issues and pull requests, but neither workflow performs any of the code-related tasks outlined in the request (types.ts changes, tests, changelog, docs, etc.)."}

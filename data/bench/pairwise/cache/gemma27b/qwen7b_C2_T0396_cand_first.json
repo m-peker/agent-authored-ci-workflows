@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly tests all requested Python versions, including the free-threaded build, while workflow A uses a matrix approach which is more concise and scalable."}

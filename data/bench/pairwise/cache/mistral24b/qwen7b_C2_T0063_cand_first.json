@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses an ARM64 runner and includes a step to build the bundler ecosystem image, which is more relevant to the request."}

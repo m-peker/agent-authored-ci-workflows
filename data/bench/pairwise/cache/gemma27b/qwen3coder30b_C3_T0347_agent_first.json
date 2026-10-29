@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a devcontainer as requested, while workflow B attempts to install clang within the runner, and doesn't use the provided devcontainer image."}

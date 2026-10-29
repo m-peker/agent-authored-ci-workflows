@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds an arm64 binary using PyInstaller with a spec file, retries downloading the asset for Homebrew, and uses the correct SHA256 calculation, while workflow B builds an x86_64 binary and has a less robust Homebrew update process."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements the requested changes, including skipping -race on pull requests while keeping it on pushes and tags."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs dependencies and runs tests/linting for each Python version, while B lacks dependency installation and relies on a potentially undefined 'dev' extra."}

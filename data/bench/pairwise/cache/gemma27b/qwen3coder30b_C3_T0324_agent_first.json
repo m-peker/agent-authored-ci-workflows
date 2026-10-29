@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the changed-file guard to only validate on script-only edits, as requested, while workflow B's conditional is less precise and doesn't enforce this constraint."}

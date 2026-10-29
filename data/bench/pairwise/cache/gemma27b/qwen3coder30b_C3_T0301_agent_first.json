@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the published Repomix action and produces a `.tar.gz` artifact as expected, while workflow A attempts to use a potentially unstable action directly from a branch and outputs an `.xml` file which isn't ideal for AI analysis."}

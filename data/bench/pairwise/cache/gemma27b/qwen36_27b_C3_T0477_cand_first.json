@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `actions/configure-pages@v5` which is the latest version at the time of review, while B uses v4; A also explicitly sets permissions for the build job, which is good practice."}

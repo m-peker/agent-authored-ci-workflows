@@ -1,0 +1,1 @@
+{"action": "stCarolas/setup-maven", "ref": "v5", "exists": true, "name": "Setup Maven", "description": "Install a specific version of Apache Maven and add it to the PATH", "inputs": {"maven-version": {"required": false, "default": "3.8.2", "description": "Version Spec of the version to use.  Examples: 10.x, 10.15.1, >=10.15.0"}}, "outputs": []}

@@ -1,0 +1,33 @@
+files: 17,103
+chunks 50/86
+chunks 86/86
+DONE findings: 256102
+tool
+actionlint     13577
+zizmor        242525
+tool        rule                  
+zizmor      unpinned-uses             106252
+            artipacked                 37508
+            template-injection         36140
+            excessive-permissions      28645
+            self-repository            17900
+actionlint  runner-label                5514
+zizmor      cache-poisoning             5387
+actionlint  action                      4405
+            expression                  2744
+zizmor      secrets-inherit             2528
+            adhoc-packages              1691
+            superfluous-actions         1442
+            dangerous-triggers          1403
+            unpinned-images              959
+            use-trusted-publishing       728
+            github-app                   494
+            archived-uses                453
+            misfeature                   298
+actionlint  if-cond                      288
+            syntax-check                 284
+zizmor      github-env                   181
+            obfuscation                  138
+actionlint  events                       131
+            deprecated-commands          124
+zizmor      unpinned-tools                97

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `make update-lint-config` as requested, while B re-implements the download functionality and doesn't leverage the existing make target."}

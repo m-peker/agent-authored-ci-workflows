@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running a secrets diagnostics script that likely validates the token fallback chain, while workflow B only checks for the presence of the tokens and runs basic Go tests, not specifically addressing the token precedence issue."}

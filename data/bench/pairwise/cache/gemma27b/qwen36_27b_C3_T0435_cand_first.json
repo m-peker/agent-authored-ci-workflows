@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the secret and sends the required JSON payload to the Vercel hook, while B adds unnecessary complexity with an environment variable and a check that doesn't align with the request's assumption of a configured secret."}

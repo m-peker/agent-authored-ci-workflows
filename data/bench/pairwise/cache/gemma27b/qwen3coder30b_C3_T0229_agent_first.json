@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `uv` throughout, as requested, and its matrix testing is more concise and readable, while also including a dependency sync step."}

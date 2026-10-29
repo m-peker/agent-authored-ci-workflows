@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI process for auto-fixing failures with Claude, including fetching failure details and providing them to the Claude agent."}

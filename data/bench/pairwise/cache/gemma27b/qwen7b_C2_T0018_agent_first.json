@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `dtolnay/rust-toolchain@stable` with components specified for each job, while B does not, and A uses the requested action versions."}

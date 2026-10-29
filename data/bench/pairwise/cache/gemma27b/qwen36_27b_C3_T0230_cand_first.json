@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the trigger condition based on the `@claude` mention and includes the necessary API key, while workflow B lacks the trigger condition and uses an incorrect secret name."}

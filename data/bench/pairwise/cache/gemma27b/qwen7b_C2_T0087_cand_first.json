@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub CLI (`gh`) which is more robust and idiomatic for interacting with the GitHub API, handles cases where no PR number is found, and has better error handling and output formatting."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a release action to upload the pre-built binary as an asset to the `scraper-latest` tag, fulfilling the core request, while workflow A attempts to create a release *from* the binary which is not the intended approach."}

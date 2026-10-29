@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a single token for all actions, simplifying authentication and avoiding the need for `actions/create-github-app-token`, and includes a check for `.md` files before attempting to copy them."}

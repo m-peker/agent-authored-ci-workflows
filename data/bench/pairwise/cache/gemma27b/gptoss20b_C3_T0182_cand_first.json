@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly includes all requested checks (build, test, schema validation) before creating the PR, while workflow B omits them and incorrectly attempts to use `npm run version` as the version input."}

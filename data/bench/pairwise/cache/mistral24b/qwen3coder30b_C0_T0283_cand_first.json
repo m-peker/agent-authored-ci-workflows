@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes additional steps to clone and build wolfSSL, set up an SSH server, and uses an expect script for automated testing, making it more comprehensive for the given request."}

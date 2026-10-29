@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered by workflow_dispatch and includes steps to generate a deployment summary using AI, while Workflow B is triggered by push to main and only sends a basic email with commit information."}

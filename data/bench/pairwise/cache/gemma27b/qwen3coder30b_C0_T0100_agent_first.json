@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds GPAC from source, creates both variants, bundles the library, and handles release uploads, while workflow B is incomplete and lacks the core build logic."}

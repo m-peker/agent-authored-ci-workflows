@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Neither workflow addresses the request to modify the publish_documentation_netlify job or simplify the DRAFT_BUILD env and deploy step."}

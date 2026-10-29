@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to test the CLI arguments and environment variable fallbacks, while workflow B triggers on issue comments and performs a code review using an external Claude workflow."}

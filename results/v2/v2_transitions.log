@@ -1,0 +1,56 @@
+versions: 191,733 | (pr,file) pairs: 135,286 | PRs: 42,429
+
+First-version prevalence (% of files with >=1 finding):
+        agent   origin  files  ci_correctness_pct  unparseable_pct  deprecation_pct  untrusted_input_pct  supply_chain_pct  security_high_pct  security_other_pct  ci_noise_pct
+ Claude_Code    added  14053                 4.8              0.0              4.7                  1.0              74.6               29.9                79.2           6.5
+ Claude_Code modified  58772                 8.1              0.0              7.0                  1.7              74.2               36.3                90.1          14.1
+     Copilot    added   4554                 5.2              0.1              7.8                  0.8              78.7               28.2                81.6           4.1
+     Copilot modified  29052                10.4              0.1              8.5                  0.9              69.3               28.7                87.5           6.3
+      Cursor    added   1647                 2.2              0.1              3.7                  1.2              47.7               19.6                71.6           2.2
+      Cursor modified   4044                 5.2              0.0              7.4                  1.4              73.0               26.3                79.9          16.3
+       Devin    added   1527                 2.9              0.0             11.5                  0.5              72.8               34.9                86.6           8.9
+       Devin modified   7020                 6.9              0.0             17.0                  1.0              75.8               29.7                92.3           7.4
+Google_Jules    added    118                10.2              0.0             27.1                  3.4              94.9               11.9                92.4           0.0
+Google_Jules modified   1697                 1.8              0.1             12.4                  0.2              24.9               27.3                93.4           0.2
+OpenAI_Codex    added   2080                 5.3              0.1              8.3                  0.7              85.2               22.5                82.5           5.3
+OpenAI_Codex modified  10722                 8.6              0.1             10.6                  1.0              79.5               30.3                90.0          14.4
+
+consecutive version pairs: 56,447
+Top rule dynamics:
+ transition                                   introduced  persisted  resolved  resolution_rate_pct
+ftype                                                                                            
+security_other|zizmor:excessive-permissions         296      24127      1157                  4.6
+supply_chain|zizmor:unpinned-uses                   539      42920      1097                  2.5
+security_other|zizmor:artipacked                    451      46167       664                  1.4
+ci_correctness|actionlint:syntax-check              355       1370       443                 24.4
+security_high|zizmor:template-injection             439      10685       415                  3.7
+security_other|zizmor:template-injection            603      14665       406                  2.7
+deprecation|actionlint:action                       113       4894       395                  7.5
+ci_correctness|actionlint:expression                201       2070       336                 14.0
+ci_noise|actionlint:runner-label                    305       5912       326                  5.2
+security_high|zizmor:excessive-permissions          233       5161       154                  2.9
+security_other|zizmor:cache-poisoning               206       5185       153                  2.9
+security_other|zizmor:adhoc-packages                165       3674       135                  3.5
+security_other|zizmor:self-repository               356      13097       131                  1.0
+security_high|zizmor:dangerous-triggers             152       3812       125                  3.2
+ci_correctness|actionlint:action                     44        400        98                 19.7
+supply_chain|zizmor:unpinned-images                  55       1783        77                  4.1
+untrusted_input|actionlint:expression                63        890        77                  8.0
+security_other|zizmor:secrets-inherit                59       2048        75                  3.5
+security_other|zizmor:archived-uses                  28        805        62                  7.2
+ci_correctness|actionlint:if-cond                    79        956        55                  5.4
+
+Last-version findings by merge outcome:
+        agent  merged  files  ci_correctness_pct  unparseable_pct  deprecation_pct  untrusted_input_pct  supply_chain_pct  security_high_pct  security_other_pct  ci_noise_pct
+ Claude_Code   False  30747                 7.0              0.1              5.7                  1.0              69.5               33.2                83.7          13.1
+ Claude_Code    True  42078                 7.5              0.0              6.8                  1.9              76.7               36.6                90.9          12.3
+     Copilot   False  11822                 8.5              0.1              6.8                  1.2              70.3               28.9                86.6           7.2
+     Copilot    True  21784                 9.9              0.0              9.1                  0.7              70.5               28.8                86.7           5.3
+      Cursor   False   3317                 2.8              0.0              4.2                  0.9              52.7               19.0                68.3           8.4
+      Cursor    True   2374                 5.6              0.1              8.5                  1.8              83.4               32.0                90.1          17.5
+       Devin   False   2561                 4.0              0.0             10.7                  0.9              65.6               43.8                91.4          12.7
+       Devin    True   5986                 7.1              0.0             18.2                  0.9              79.3               25.0                91.2           5.6
+Google_Jules   False    979                 1.4              0.0             11.0                  0.5              24.1               26.7                93.3           0.4
+Google_Jules    True    836                 3.0              0.2             15.6                  0.5              35.8               26.3                93.5           0.0
+OpenAI_Codex   False   5057                 8.4              0.2              9.4                  0.7              79.4               26.7                86.0          18.4
+OpenAI_Codex    True   7745                 7.5              0.1             10.6                  1.1              80.7               31.1                90.7           9.3

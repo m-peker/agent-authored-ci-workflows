@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets up and runs the osv-scanner, while Workflow A incorrectly sets up Java and uses pip to install the scanner."}

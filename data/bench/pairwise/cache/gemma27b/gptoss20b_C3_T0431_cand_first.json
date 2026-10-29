@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the official Cloudflare Wrangler action for deployment, which is more robust and idiomatic for Cloudflare Workers, and includes environment and concurrency controls for a production deployment."}

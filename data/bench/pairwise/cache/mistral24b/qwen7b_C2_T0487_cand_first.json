@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specific branch and includes all the requested jobs and steps for type checking, linting, and testing, while also conditionally building the project for the preview branch."}

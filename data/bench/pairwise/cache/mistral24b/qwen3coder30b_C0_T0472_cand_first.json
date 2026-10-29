@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct trigger for external contributors (pull_request_target) and includes necessary steps for the repository's test setup."}

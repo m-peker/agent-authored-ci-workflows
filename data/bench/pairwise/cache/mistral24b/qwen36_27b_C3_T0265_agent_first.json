@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all necessary checks (lint, format, typecheck) and is triggered on pull requests and workflow dispatch, while Workflow B is missing the format check and uses a different node version."}

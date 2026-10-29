@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles all supported targets, uses deno compile as requested, and properly uploads binaries to GitHub releases with appropriate archive formats."}

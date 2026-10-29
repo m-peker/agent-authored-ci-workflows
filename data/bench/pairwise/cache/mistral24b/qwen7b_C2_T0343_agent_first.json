@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses macOS 14 ARM, matches the pyinstaller.sh environment, and properly archives all required artifacts."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the specific directory for the CLI and includes the requested test and vet steps before release."}

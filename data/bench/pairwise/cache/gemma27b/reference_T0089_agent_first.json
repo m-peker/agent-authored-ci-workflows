@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and fulfill the basic requirements of installing pre-commit, but neither actually *runs* pre-commit as a quality gate, nor do they create the requested AGENTS.md file."}

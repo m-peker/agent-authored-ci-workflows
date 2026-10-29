@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the changed-file guard and uses a more robust approach to processing the JSONL output and validating snippets with the harness, while B has issues with parsing and validation logic."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on pull requests, use the Claude code review action, and provide a prompt that generally asks for code review, though it doesn't specifically address the request for comment/documentation consistency."}

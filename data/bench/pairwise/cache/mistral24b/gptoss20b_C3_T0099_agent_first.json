@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly pushes Kubernetes manifests to the OCI registry using Flux CLI, while Workflow B creates a temporary Dockerfile and uses Docker to build and push an OCI artifact, which is not the requested approach."}

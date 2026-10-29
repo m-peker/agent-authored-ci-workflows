@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on `main` branch pushes and includes the requested Docker Hub description update, while B triggers on tags and operates within a `tools/cc-sdd` directory not present in the repository."}

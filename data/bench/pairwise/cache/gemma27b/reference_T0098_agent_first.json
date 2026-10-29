@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B reuses an existing action (`./.github/actions/setup-mise`) which promotes code reuse and maintainability, while workflow A directly specifies the mise version."}

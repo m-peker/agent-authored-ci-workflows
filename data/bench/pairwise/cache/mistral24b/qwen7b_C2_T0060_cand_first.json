@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to main and includes all requested jobs and steps, while Workflow B triggers on additional events and includes unnecessary steps and environment variables."}

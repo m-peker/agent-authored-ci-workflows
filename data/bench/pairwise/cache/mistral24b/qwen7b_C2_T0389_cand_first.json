@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on mesh version bumps and updates the studio package version in lockstep, while Workflow A only triggers on tags and doesn't handle version synchronization."}

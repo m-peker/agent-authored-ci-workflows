@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes commitizen checks and pre-commit hooks as requested, while Workflow B focuses on mutation testing which is not part of the request."}

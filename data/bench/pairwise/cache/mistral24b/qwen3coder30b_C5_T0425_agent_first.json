@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the merge_group trigger and reuses existing workflows, while Workflow B duplicates all jobs and steps."}

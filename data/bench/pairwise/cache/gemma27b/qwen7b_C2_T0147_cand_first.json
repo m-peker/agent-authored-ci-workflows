@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running the specified tests and the database cleaner script, while workflow B is overly complex and focused on building and debugging a Docker image, not directly testing the changes."}

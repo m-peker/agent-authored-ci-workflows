@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements the requested test suite for the new Gluon kernel and validates against existing Triton tests, while workflow A addresses a separate GPU reset issue not related to the kernel addition."}

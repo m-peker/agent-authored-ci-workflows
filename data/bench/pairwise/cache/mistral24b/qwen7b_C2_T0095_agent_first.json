@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses more up-to-date actions and Go version, and correctly implements non-blocking lint job while enforcing build and test success."}

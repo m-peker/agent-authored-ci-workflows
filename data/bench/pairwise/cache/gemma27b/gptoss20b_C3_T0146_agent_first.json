@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly targets TypeScript, includes autobuild which is necessary for a TypeScript project, and has a more sensible base image and action versions, while A is configured for JavaScript and uses a custom `kibana` runner."}

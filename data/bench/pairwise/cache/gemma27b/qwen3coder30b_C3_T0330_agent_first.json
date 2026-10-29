@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specified script path `other/semantic-search/index-youtube-playlist.ts` and includes all necessary environment variables as described in the request, while workflow B uses a different script path and variable names."}

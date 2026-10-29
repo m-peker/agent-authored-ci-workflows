@@ -1,0 +1,1 @@
+{"action": "pypa/hatch", "ref": "257e27e51a6a5616ed08a39a408a21c35c9931bc", "exists": true, "name": "Install Hatch Action", "description": "Install and configure Hatch", "inputs": {"version": {"required": false, "default": "latest", "description": "The version of Hatch to install"}}, "outputs": []}

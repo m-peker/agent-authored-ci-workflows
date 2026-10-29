@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by including a dedicated bandit security scanning job and uploading the report, while workflow B's security scan is less prominent and doesn't explicitly upload the report as an artifact."}

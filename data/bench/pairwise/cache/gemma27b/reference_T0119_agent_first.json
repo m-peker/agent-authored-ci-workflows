@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI checks, including the correct triggers, steps for installing dependencies and running `just check` with a matrix strategy for Rust versions."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses pnpm as the package manager, which is implied by the monorepo structure and the need for a lockfile, and correctly configures OIDC for npm publishing instead of using the deprecated NPM_TOKEN."}

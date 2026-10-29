@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the release request by building and pushing a Docker image upon a tagged release (mcp-v*.*.*), while workflow B focuses on linting, testing, and building a generic image, lacking the specific release trigger and image naming convention requested."}

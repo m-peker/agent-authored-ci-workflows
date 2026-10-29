@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more specific trigger on `docs/**` and uses the official GitHub Actions for Pages deployment, including setup and artifact uploading, making it more robust and aligned with best practices."}

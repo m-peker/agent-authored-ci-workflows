@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes Sentry environment variables, builds the Trigger.dev configuration, and verifies the Sentry integration, which aligns with the request."}

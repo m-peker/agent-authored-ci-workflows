@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly filters for all workflow files, while B incorrectly includes the ghalint workflow itself in the filter, and A's download/execution is simpler and more direct."}

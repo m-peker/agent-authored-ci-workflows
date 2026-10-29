@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both pull requests and issue comments containing the slash commands, fulfilling the core request, while workflow B focuses solely on PRs and lacks the issue command trigger."}

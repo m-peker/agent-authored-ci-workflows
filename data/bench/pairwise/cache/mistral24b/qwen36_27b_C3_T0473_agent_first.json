@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CI/CD pipeline with test and lint jobs, proper triggers, and sensible use of actions."}

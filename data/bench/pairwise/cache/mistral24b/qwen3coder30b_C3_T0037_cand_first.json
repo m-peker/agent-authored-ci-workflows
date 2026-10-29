@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a setup job with paths-filter to only run ghalint when workflow files change, follows existing repository patterns, and has better security practices with explicit permissions and timeouts."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the docs folder and uses the appropriate actions for building and deploying the VuePress documentation to GitHub Pages."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `setup-uv` as requested and passes the PyPI token, while B introduces Nix which isn't mentioned in the request and doesn't provide the token."}

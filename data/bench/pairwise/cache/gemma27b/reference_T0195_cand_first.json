@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a `push` trigger on `main` for `semantic-release` to handle versioning and releases, while workflow B incorrectly triggers on tags, and lacks the semantic-release configuration."}

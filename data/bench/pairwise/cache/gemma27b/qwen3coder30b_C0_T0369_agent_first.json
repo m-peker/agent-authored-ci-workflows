@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses service selection and builds from the correct Dockerfile within each service directory, while B attempts to use a single Dockerfile and requires DockerHub credentials which weren't requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on website changes, includes both artifact upload and optional Cloudflare deployment, and posts a PR comment with the required information."}

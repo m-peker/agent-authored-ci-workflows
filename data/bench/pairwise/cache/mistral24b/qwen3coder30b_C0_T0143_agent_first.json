@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct branch name (master) and includes a workflow_dispatch trigger, while Workflow B uses the incorrect branch name (main) and is missing the trigger."}

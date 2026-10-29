@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for security scanning with Bandit and Trivy, while workflow B only includes Bandit and lacks the comprehensive vulnerability scanning requested."}

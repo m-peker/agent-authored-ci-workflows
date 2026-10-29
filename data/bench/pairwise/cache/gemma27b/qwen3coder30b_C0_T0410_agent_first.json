@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `GITHUB_TOKEN` for checkout and avoids needing a separate `WEBSITE_DISPATCH_TOKEN`, and its change detection is more robust."}

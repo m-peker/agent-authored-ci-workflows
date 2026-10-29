@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on mesh version bumps and publishes the studio package in lockstep with mesh version changes, as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pull_request_target trigger and checks for the correct GitHub Copilot actor."}

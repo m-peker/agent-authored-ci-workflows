@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requirements of the request with a clear separation of frontend and backend checks, while workflow B includes unnecessary system dependencies and additional linting steps not explicitly requested."}

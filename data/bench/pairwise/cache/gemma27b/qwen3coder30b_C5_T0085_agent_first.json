@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies the Copilot agent by `github.actor` while B attempts to match the user login which is less reliable and may change."}

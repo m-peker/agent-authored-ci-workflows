@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes necessary permissions and explicitly handles release publishing to npm, aligning with a complete CI/CD pipeline for changesets, while workflow A only creates a version PR."}

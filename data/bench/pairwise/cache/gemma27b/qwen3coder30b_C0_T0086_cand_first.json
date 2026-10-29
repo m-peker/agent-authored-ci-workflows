@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses an action to identify changes in the `dist/` directory and fails the CI process, while workflow B simply fails without identifying the changed files."}

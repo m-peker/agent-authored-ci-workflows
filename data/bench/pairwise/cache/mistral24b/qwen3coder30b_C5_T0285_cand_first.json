@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes necessary PostgreSQL setup steps for Windows and MacOS, which are crucial for the build process and missing in Workflow A."}

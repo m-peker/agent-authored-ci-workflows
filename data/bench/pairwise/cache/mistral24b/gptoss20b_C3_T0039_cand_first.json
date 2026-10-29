@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release publication and builds binaries for all major operating systems, while Workflow B has unnecessary complexity and doesn't handle Windows builds."}

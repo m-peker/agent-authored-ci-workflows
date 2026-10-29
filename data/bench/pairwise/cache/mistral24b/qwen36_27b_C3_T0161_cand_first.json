@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates the build and deploy jobs, which is a better practice for CI/CD pipelines."}

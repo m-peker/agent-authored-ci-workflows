@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both main and master branches in the push trigger, while Workflow B only includes main."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested weekly schedule and uses `build-mode: none` as specified, and uses more recent versions of the CodeQL actions, while workflow A lacks the schedule and uses older actions."}

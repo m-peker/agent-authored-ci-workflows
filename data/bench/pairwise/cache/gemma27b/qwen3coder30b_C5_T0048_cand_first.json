@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requested checks (pytest, ruff, distribution, path consistency) and includes ShellCheck for the scripts, while workflow B omits some checks and adds unnecessary Node.js setup."}

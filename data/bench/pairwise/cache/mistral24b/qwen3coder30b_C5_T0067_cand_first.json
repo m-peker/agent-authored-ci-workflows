@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a build step and uses pnpm for publishing, which is more consistent with the repository's likely setup."}

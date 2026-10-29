@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly creates the AGENTS.md file as requested and runs pre-commit, while workflow A only sets up the environment for pre-commit but doesn't actually run it or create the documentation."}

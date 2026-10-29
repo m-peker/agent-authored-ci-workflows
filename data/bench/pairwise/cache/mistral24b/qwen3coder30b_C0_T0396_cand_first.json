@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a matrix strategy to test multiple Python versions concisely and includes specific steps for the experimental free-threaded build of Python 3.14, while Workflow B repeats similar steps for each version, making it less efficient."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes `pcov` for code coverage, which is essential for Infection, and uses a more recent PHP version (8.4) while B does not include coverage and uses 8.2."}

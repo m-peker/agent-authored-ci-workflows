@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for building and deploying a Docusaurus website to GitHub Pages, including triggers, jobs, steps, and concurrency control."}

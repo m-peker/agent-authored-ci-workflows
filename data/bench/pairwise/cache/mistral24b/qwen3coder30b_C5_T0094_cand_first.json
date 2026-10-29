@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request to main, includes coverage reporting, and uses sensible actions for the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the config file for release-type and other settings, while Workflow B hardcodes them, making it less flexible and not following the repository's setup."}

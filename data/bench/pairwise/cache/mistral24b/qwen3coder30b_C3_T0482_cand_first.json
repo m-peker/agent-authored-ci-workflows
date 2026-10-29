@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs and steps for CLI distribution, doctor diagnostics, fuzzy search validation, and code coverage, while Workflow B focuses only on publishing and lacks the other requested validations."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses OIDC for npm trusted publishers by omitting the NPM_TOKEN secret, while Workflow B still uses the old NPM_TOKEN secret."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the full CI/CD pipeline with release-please, changelog generation, and Docker build/push, while workflow A only addresses PR title linting."}

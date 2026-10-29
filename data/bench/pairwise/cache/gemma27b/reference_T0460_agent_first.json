@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses checkout@v4 which is closer to the request's instruction to keep the main branch structure, while B uses v5 and both workflows otherwise fulfil the request with a similar Claude prompt."}

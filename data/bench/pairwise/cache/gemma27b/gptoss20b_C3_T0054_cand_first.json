@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows implement a stale issue/PR closer, which is a sensible background task for a documentation-focused PR, and both are plausibly functional with correct triggers and action usage."}

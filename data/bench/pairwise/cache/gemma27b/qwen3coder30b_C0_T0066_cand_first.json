@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly creates the candidate branch and triggers the `release-please` workflow as requested, while A attempts to modify the release-please config which is not part of the requirements."}

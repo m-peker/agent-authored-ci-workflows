@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a paths-filter job to detect changes in the docs directory, ensuring the Vercel deploy hook is only triggered when necessary, while Workflow B triggers the deploy hook on every push to main with changes in the docs directory."}

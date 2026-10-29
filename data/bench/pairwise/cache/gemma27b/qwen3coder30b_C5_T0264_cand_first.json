@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push/PR to main and includes the necessary steps to build and run tests for the entire repository, aligning with the feature's impact across multiple files, while B is overly focused on the `docs` directory."}

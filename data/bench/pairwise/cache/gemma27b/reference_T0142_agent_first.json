@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and neither addresses the request to test the fix for disabling the 'Add to Elastic' button during custom integration package installation; they trigger a flaky test runner based on a comment."}

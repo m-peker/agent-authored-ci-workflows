@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has more specific triggers that align better with the request, and it includes the TURBO_ENV_MODE environment variable which is likely important for the build process."}

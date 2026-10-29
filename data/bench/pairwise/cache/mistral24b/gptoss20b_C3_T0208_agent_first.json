@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the exempt-issue-labels parameter to exclude 'data-issue' labeled issues, while Workflow B incorrectly sets close-issue-label to 'closed' which is not a valid label."}

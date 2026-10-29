@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly follows the existing patterns and uses the same pinned Sui CLI revision, while Workflow B uses a different approach for Sui CLI installation and includes unnecessary Node.js setup."}

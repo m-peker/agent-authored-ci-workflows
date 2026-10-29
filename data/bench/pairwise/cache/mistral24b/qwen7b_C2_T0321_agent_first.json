@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual trigger for GPU reset on self-hosted runners with AMD GPUs, which is relevant to the ROCm/iris repository."}

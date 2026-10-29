@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `actions/github-script` to handle both `pull_request_target` and `workflow_run` events more elegantly, including retrieving PR details and checking CI status, making it more robust and readable than Workflow A's reliance on `curl` and environment variables."}

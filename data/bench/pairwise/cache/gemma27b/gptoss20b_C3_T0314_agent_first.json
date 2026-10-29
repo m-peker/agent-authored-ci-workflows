@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to generate a deployment summary using AI based on recent PRs, while workflow B is a standard build and notification workflow unrelated to the summary generation task."}

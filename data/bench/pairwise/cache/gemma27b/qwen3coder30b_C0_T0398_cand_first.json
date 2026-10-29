@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested changes, specifically the `if: github.event_name == 'push'` condition and removal of PR-related permissions, while workflow B does not address the core request of skipping Netlify publishes on PRs."}

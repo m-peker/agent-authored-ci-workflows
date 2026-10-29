@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and directly leverages the existing `make update-lint-config` target, simplifying the process and reducing redundancy compared to A's manual download and modification."}

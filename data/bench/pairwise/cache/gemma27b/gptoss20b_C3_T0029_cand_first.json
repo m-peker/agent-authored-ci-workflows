@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the logic within the workflow file as requested, while workflow B unnecessarily complicates things by externalizing the script and adds a dependency on a separate JavaScript file."}

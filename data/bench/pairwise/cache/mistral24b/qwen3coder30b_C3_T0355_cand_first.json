@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes artifact uploads and handles headed tests on Linux with xvfb-run, which is more comprehensive."}

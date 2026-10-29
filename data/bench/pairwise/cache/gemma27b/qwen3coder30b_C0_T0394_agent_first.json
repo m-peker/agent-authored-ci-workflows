@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely installs the necessary FPC packages and builds/runs the tests from the `tests` directory as intended, while A unnecessarily changes directories and uploads the entire `bin` directory as an artifact."}

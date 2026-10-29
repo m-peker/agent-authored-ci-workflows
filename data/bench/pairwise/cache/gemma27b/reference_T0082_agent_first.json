@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows provide a basic CI setup for TypeScript and Python, covering the core functionality of checking out code, setting up environments, installing dependencies, and running tests, but neither directly addresses the cleanup tasks outlined in the request."}

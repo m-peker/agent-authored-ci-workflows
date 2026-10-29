@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to address the Jest filtering request, even if with a simplistic grep approach, while workflow B completely ignores the request and focuses on deployment to Fly.io."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features including proper triggers, job steps, and sensible use of actions, while Workflow B misses some key requirements like building GPAC from the correct tag and proper package structure."}

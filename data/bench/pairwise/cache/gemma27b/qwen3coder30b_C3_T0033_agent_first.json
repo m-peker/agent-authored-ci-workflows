@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "The request asked to add Spotless and Detekt checks to the CI/CD, and neither workflow does this, but workflow B is less incorrect as it doesn't attempt to run a release drafter on a dev branch."}

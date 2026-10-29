@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (as specified in the request), includes a quality gate with tests, and creates a GitHub release with detailed information, while workflow B triggers on main branch pushes and lacks a clear versioning strategy tied to tags."}

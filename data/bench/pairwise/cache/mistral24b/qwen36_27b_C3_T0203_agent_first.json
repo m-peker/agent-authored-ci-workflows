@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A checks both for the presence and the open state of a milestone, while Workflow B only checks for the presence of a milestone."}

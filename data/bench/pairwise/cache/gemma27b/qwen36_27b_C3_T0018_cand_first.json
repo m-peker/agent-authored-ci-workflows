@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CI checks (fmt, clippy, test) with the specified actions and triggers, and are functionally identical."}

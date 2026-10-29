@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags and includes all necessary steps for creating a release and uploading the asset, while Workflow B has a more restrictive tag pattern and misses the asset upload step."}

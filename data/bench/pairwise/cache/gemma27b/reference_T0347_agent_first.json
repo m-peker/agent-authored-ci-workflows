@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly captures the analyzer's output for debugging in case of failure and uses a more reliable method for setting the exit code."}

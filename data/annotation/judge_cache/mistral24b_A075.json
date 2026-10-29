@@ -1,0 +1,1 @@
+{"item_id": "A075", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "Untrusted input from workflow_dispatch is used in a git commit message and tag creation.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"Untrusted input from workflow_dispatch is used in a git commit message and tag creation.\"}\n```"}

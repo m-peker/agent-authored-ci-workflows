@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the matrix strategy to test each connector and uses the `get-certified-connectors.sh` script as requested, while workflow B lacks specific connector testing steps and relies on placeholder commands."}

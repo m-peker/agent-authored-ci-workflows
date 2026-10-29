@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested weekly sync and PR creation for the lint config, while Workflow B checks the wrong upstream source and includes unnecessary steps."}

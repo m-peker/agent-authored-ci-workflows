@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly creates a `beta` branch pointing to the current `HEAD` commit, which is essential for semantic-release to produce beta versions, while workflow A creates a separate `beta` branch and then deletes it, which is unnecessary and doesn't align with the request."}

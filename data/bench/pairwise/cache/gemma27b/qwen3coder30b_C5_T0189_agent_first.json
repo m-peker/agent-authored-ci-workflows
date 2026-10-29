@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by explicitly checking for changes to the lockfile before committing, and provides a more informative warning on pull requests."}

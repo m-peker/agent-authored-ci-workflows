@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the core CI checks (linting, testing, codeql) requested by the task description, while workflow B appears to be triggered by comments and runs a separate 'opencode' tool, unrelated to the requested features."}

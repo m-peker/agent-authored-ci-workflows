@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses path classification for conditional gates and includes all required jobs and steps, while Workflow B relies on commit message keywords and misses some requested features like hardening the security gate."}

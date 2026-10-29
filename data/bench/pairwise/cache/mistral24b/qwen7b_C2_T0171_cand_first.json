@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses workflow_run trigger and handles fork contributions by finding the associated PR using commit SHA, while Workflow A does not address the fork PR issue and lacks proper triggering mechanism."}

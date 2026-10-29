@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely implements the request by configuring the `ai-moderator` action with labels and comment minimization, and includes necessary permissions, while A only calls the action with defaults."}

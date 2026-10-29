@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for badge generation and includes pull request triggering, making it a more complete and maintainable solution for the requested CI/CD pipeline."}

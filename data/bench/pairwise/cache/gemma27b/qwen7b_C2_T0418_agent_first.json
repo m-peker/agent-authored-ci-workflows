@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of running the scanner on push/PR with minimal unnecessary steps, while B includes unrelated linting and setup steps and incorrectly attempts to handle exit codes."}

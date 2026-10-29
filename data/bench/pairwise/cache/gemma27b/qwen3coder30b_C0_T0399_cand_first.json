@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's description of building and copying files to `js-dist` for testing, and correctly uploads screenshots from the expected location, while B uses `test-results`."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more comprehensive SDK CI job that validates generation, checks for expected files, and includes size checks, aligning better with the request for SDK validation on every PR."}

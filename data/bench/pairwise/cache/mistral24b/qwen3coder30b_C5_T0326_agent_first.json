@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the KERNEL_VERSION parameter in the test step, while Workflow B does not."}

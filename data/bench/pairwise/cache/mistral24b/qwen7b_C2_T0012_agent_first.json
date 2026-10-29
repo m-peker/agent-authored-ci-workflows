@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses environment variables for PR data as requested, while Workflow A still uses heredocs which were identified as a security vulnerability."}

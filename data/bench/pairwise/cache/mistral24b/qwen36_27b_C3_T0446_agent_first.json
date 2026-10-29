@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the devcontainers/ci action as requested and includes all the necessary jobs and steps for linting, static analysis, backwards compatibility checks, and testing across multiple PHP versions."}

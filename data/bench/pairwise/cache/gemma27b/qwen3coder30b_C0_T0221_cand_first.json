@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the core CI validations and release process for the Go CLI, while workflow B appears to be tailored for building and releasing the Studio application itself, deviating from the request's focus on the CLI."}

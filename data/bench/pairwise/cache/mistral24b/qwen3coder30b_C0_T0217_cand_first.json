@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to docs and the workflow file itself, while Workflow B triggers on pushes to master and has an unnecessary condition."}

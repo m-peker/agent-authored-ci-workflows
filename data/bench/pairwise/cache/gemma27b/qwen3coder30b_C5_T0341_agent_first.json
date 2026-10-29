@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by explicitly downloading the upstream config and committing/pushing changes before creating a PR, while A relies on `make update-lint-config` which isn't defined in the request."}

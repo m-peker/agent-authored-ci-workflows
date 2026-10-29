@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly separates build and deploy jobs, includes `git submodule update --init` as a dedicated step, and uses `--frozen-lockfile` for more reliable dependency installation, aligning better with best practices for CI/CD."}

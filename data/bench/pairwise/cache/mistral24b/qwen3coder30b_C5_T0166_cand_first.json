@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better separates concerns with distinct build and deploy jobs and uses the recommended GitHub Pages deployment action."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the official `golangci-lint-action` which is more maintainable and simpler than B's manual installation, and it correctly implements the lint job as non-blocking while ensuring build and test success."}

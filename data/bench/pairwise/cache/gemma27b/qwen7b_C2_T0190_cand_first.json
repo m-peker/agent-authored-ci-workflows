@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on both push to master (for releases) and workflow_dispatch, includes a more robust Claude Code execution with detailed instructions, and handles PR creation more reliably with branch management and a clear PR body."}

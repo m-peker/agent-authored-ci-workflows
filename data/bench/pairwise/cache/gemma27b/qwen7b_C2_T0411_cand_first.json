@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more recent version of the checkout and setup-node actions and includes npm caching for faster dependency installation."}

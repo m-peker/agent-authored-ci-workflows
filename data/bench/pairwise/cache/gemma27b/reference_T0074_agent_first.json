@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows identically fulfil the request by correctly triggering on manual dispatch, running the specified npm commands, and authenticating to both Docker Hub and GHCR."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a recurring cleanup/reporting loop by creating or updating a GitHub issue with the drift report, while workflow B only outputs the report to the step summary and as an artifact."}

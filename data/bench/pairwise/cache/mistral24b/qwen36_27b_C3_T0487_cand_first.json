@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested jobs and steps (typecheck, lint, unit tests, and build) while Workflow B focuses on e2e tests and build, missing the requested validation steps."}

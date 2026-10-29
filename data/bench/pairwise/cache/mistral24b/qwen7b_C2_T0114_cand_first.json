@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, jobs, and steps for building, testing, and releasing the desktop application, while Workflow B is focused on building unsigned macOS artifacts and does not cover the full CI/CD pipeline requested."}

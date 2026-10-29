@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on `release: published` as requested, while workflow B uses manual dispatch or a call, and doesn't integrate with crates.io publishing."}

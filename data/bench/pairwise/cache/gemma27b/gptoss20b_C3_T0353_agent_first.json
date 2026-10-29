@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `composer mt` as requested, while workflow B directly calls Infection, bypassing the defined composer script and missing the requested trigger for all pushes and pull requests."}

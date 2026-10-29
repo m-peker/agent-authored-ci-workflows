@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push to main and includes the necessary steps for changesets to create a PR and publish to npm, which is what the request asks for."}

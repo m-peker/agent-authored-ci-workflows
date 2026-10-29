@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses more recent versions of the Nix actions, which is generally preferable for security and features, and the dev shell test message is slightly more informative."}

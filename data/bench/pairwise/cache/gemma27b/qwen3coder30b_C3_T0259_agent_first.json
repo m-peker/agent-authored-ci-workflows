@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish the `@hyperlane-xyz/warp-widget` package, including versioning and npm publishing, while workflow B focuses on testing and deployment of a static web app and doesn't include the necessary publishing steps."}

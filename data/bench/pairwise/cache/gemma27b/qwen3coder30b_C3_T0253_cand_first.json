@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely aligns with the request by generating a drift report and making it available as an artifact and in the step summary, while A only creates an issue on failure which isn't the primary goal of a recurring report."}

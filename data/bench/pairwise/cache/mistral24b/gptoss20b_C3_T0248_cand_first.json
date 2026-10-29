@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all requested elements, uses dotslash for reproducible builds, creates a Buck2 target for mdbook-spec, adds the navigation link, and vendors new dependencies."}

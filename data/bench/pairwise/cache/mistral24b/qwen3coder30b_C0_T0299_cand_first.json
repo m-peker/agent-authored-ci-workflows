@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to main and includes all the requested jobs and steps for testing the quick-ingest feature, while Workflow B does not address the specific request."}

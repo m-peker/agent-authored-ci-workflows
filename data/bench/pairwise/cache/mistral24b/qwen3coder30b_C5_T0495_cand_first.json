@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on Renovate pushes and uses the reusable workflow as specified, while Workflow A triggers on main/master pushes which is not requested."}

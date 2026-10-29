@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is slightly better because it triggers on `opened` and `synchronize` PR events, which is sufficient for the request, while B adds `ready_for_review` and file path restrictions that aren't explicitly asked for and could be overly restrictive."}

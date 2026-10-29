@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses GoReleaser to build cross-platform binaries as requested, while workflow B attempts a manual build process that doesn't cover all targets efficiently and lacks the 'clean' build step."}

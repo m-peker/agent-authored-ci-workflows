@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to add a dependency between a create-issue job and the link_sub_issue job, while workflow B focuses on closing old discussions and doesn't relate to the requested changes."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses Biome for linting, which is more modern and efficient than the combination of ESLint, Prettier, and TypeScript checks in Workflow B."}

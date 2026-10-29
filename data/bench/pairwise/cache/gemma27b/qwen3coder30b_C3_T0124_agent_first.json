@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to run `bun test` and adds it to the CI process, while workflow A focuses on profile image promotion which is outside the scope of the request."}

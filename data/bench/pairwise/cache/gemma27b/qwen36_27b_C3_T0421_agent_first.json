@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the issue by adding the `--draft` flag when creating pre-releases, and its structure aligns with the repository's existing reusable workflow pattern, while workflow B's logic for determining pre-release status is more complex and less directly related to the fix."}

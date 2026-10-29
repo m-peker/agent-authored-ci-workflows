@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies the language as 'typescript' and does not unnecessarily use a matrix strategy for a single language."}

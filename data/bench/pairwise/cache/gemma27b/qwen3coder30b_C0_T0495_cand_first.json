@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both `workflow_dispatch` and `push` to master, passing the PR number as requested, while B's branch filter is too specific and requires a number input for `prNumber` when the request states it's optional."}

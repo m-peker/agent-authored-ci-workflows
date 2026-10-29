@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of moving coverage to scheduled runs, while workflow B continues to run coverage on PRs, defeating the primary goal of reducing PR test time."}

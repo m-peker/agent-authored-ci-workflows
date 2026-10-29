@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A checks the invite code from both README.md and src/render-table.js, while Workflow B hardcodes the invite code."}

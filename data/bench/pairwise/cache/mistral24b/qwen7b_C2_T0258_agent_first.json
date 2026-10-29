@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant PR events and checks for CLA text without unnecessary steps or dependencies."}

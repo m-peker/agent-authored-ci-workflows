@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to main and dev branches and includes specific jobs and steps for detecting changes and running backend tests, which aligns with the request for speech hygiene clean."}

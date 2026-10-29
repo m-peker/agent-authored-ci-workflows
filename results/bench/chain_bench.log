@@ -1,0 +1,15 @@
+[16:07] eval agents
+[16:07] download Qwen/Qwen2.5-Coder-7B-Instruct
+15G	/workspace/models/qwen7b
+[16:07] serve
+[16:07] smoke (10 tasks)
+smoke: 20/20 round-0 outputs look like workflows
+[16:09] generate
+1000/1000 chains, 1497s
+GEN_DONE qwen7b
+[16:34] done qwen7b
+[16:34] download openai/gpt-oss-20b
+FAILED download
+[16:37] download Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8
+FAILED download
+BENCH_DONE

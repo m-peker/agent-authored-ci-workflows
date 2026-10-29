@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the `/review-pr` and `/review-pr-ci` commands with a single job and appropriate triggering, while workflow B duplicates the logic into separate jobs and adds unnecessary Python dependencies and setup."}

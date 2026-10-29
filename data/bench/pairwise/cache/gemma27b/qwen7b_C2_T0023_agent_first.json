@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including running property-based tests on all branches/PRs and Atheris fuzzing only on main branches, while workflow B has a very short timeout for Atheris and uses older actions."}

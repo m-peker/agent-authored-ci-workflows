@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of deploying to and cleaning up from `gh-pages` using a standard deploy action, while workflow B introduces unnecessary complexity with metadata and a less common preview action."}

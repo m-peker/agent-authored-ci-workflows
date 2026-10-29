@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish to PyPI on release, while workflow B is overly complex, builds wheels for multiple platforms, and doesn't trigger on release as requested."}

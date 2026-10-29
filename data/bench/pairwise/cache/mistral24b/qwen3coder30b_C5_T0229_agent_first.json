@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses uv as the package manager and includes all the requested jobs and steps, while Workflow A uses Poetry and misses some details."}

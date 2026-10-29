@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request's specification of passing all secrets as environment variables and includes more comprehensive artifact uploading, while B lacks explicit secret passing and has a simpler artifact upload."}

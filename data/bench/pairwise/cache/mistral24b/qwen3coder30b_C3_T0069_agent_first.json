@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all branches, includes version checking, code analysis, and formatting checks as requested, while Workflow B misses some requested checks and only triggers on the main branch."}

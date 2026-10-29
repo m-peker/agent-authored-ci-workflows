@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B focuses on the core TypeScript project and uses standard Node.js tooling as requested, while workflow A unnecessarily includes Python testing which isn't central to the repository's primary language."}

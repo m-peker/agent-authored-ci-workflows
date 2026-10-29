@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `actions/stale` action with appropriate configuration for stale issue/PR management, while workflow B unnecessarily checks out the repository and sets up Node.js, which are not required for this task."}

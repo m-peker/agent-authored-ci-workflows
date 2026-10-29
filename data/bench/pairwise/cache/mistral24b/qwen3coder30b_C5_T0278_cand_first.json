@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes more comprehensive steps for building and packaging the Windows installer, including provisioning the MSYS2 environment, building the OpenPLC Runtime, and creating a proper installer payload."}

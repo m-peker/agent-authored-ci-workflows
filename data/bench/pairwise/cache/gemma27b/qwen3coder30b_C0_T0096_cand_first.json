@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more specific trigger based on the files changed in the request, uses autobuild which is more appropriate for Rust projects, and includes javascript/actions which may be present in the repository."}

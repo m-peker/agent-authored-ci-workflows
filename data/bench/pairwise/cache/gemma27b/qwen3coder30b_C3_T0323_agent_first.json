@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specified `fern generate --docs` command and includes a trigger for pushes to the `docs-website` branch, while workflow B installs fern via cargo and attempts to commit/push changes which is not requested."}

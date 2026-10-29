@@ -1,0 +1,1 @@
+{"item_id": "A055", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The workflow file lacks required top-level keys such as `jobs`, so GitHub Actions will reject it.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The workflow file lacks required top-level keys such as `jobs`, so GitHub Actions will reject it.\"}"}

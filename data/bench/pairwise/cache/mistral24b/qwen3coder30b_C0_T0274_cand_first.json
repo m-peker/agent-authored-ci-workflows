@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes and PRs targeting main/release/v* branches without unnecessary path filtering and uses the requested actions in the correct order."}

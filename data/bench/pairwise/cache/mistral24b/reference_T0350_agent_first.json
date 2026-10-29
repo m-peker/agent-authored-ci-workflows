@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the registry-url in the Setup Node.js step, which is necessary for using npm trusted publishers (OIDC) as requested."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to use a two-workflow pattern and handles fork PRs securely by relying on a separate data capture workflow, while A's logic is complex and less focused on the core task."}

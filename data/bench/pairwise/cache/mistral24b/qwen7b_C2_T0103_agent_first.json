@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the Neon action for branch deletion and provides feedback in the PR, while Workflow B unnecessarily sets up Node.js and installs dependencies for a simple cleanup task."}

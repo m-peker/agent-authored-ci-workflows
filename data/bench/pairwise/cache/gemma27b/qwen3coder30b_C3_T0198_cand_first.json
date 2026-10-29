@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more concise and readable structure with `working-directory` and a more up-to-date `setup-uv` action, while both workflows correctly implement the requested linting and testing steps."}

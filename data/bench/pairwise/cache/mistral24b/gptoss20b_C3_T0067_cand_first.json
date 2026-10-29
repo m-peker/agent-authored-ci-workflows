@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a build step and uses a more secure approach with id-token permissions and provenance for npm publishing."}

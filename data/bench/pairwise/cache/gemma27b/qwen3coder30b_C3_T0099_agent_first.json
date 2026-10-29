@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Flux to push the manifests as OCI artifacts, aligning with the request's intent, while workflow B attempts a more manual approach with `skopeo` and unnecessarily commits an index file."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including the test and build/publish jobs, and correctly handles conditional execution based on event type, while A only addresses the wiki sync portion."}

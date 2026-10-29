@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly excludes agents-docs from main CI, uses pnpm as specified, and includes all necessary caches and steps for a robust CI/CD pipeline."}

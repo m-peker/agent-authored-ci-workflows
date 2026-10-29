@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes additional steps for building the package, deploying the container, and updating the queue configuration, which are essential for the requested FFmpeg processing offload."}

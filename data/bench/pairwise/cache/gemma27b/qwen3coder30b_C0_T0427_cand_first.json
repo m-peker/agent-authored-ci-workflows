@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more specific and sensible trigger, includes a build step as suggested by the request, and uses the `npm run playwright:test` script defined in the request, demonstrating better integration with the project's setup."}

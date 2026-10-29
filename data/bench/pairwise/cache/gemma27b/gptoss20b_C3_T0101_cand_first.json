@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses GitHub Pages directly with actions designed for that purpose, including proper permissions and artifact handling, making it a more robust and modern deployment solution than Workflow A's reliance on peaceiris/actions-gh-pages."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more comprehensively addresses the request by including dedicated jobs for linting, building, security scanning (CodeQL and audit), documentation validation, and running the example, while also providing coverage reporting."}

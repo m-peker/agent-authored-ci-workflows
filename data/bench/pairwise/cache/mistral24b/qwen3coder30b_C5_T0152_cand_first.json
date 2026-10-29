@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested schedule trigger and path-specific push trigger for regression tests, while Workflow A lacks these specific requirements."}

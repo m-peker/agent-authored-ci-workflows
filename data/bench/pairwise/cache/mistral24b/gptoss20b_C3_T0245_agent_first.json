@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all necessary steps to set up the environment, install dependencies, start a local testnet, and run tests in the Bun runtime, while Workflow A only checks out the repository and uses a custom action without detailing the steps."}

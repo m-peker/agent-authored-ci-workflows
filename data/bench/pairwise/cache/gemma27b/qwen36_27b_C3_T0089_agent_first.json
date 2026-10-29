@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly runs `pre-commit run --all-files` as requested, while A only installs pre-commit and doesn't execute it, and B's triggers are closer to the request's specification."}

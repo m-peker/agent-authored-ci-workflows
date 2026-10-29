@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a dedicated action for deleting Neon branches and provides feedback on the PR, while workflow B attempts a more complex and less reliable approach using the Neon CLI."}

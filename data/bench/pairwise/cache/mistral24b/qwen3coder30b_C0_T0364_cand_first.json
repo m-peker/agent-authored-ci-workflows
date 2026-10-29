@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the main branch and updates the pnpm-lock.yaml for Dependabot PRs, while Workflow B triggers on the develop branch and has incorrect permissions setup."}

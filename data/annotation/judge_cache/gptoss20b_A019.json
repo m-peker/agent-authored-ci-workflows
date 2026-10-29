@@ -1,0 +1,1 @@
+{"item_id": "A019", "judge": "gptoss20b", "label": "FP", "impact": "LOW", "reason": "The workflow does not use any secrets or credentials, so artifacts cannot persist credentials.", "raw": "{\"label\":\"FP\",\"impact\":\"LOW\",\"reason\":\"The workflow does not use any secrets or credentials, so artifacts cannot persist credentials.\"}"}

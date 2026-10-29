@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses dependabot metadata to limit auto-merging to minor and patch updates, while B blindly auto-merges all dependabot PRs, and A uses the requested action."}

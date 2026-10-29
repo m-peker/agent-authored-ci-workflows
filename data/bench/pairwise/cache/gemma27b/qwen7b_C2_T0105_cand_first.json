@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly focuses on *only* installing the requested tools (Python, uv, pre-commit, tox) as per the Copilot setup steps guidance, while A unnecessarily runs tests, builds docs, and benchmarks which are not part of the setup request."}

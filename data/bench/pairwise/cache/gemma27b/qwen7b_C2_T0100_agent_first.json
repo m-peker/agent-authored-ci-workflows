@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a complete and plausible implementation of the requested CI/CD pipeline, including building GPAC, creating Debian packages, and uploading them as artifacts, while workflow B is empty."}

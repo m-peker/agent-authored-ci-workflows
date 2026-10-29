@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request by including more configuration options for the action, such as a subject pattern check and a wider range of allowed scopes, and correctly uses `pull_request` trigger."}

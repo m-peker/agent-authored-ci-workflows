@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all the requested validation steps and key wiring changes, while workflow B appears to rely on a custom `al-folio upgrade audit` command and artifact upload, which isn't specified in the request."}

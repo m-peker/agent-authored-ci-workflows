@@ -1,0 +1,1 @@
+{"item_id": "A039", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow uses pull_request_target with write permissions and checks out untrusted PR code.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow uses pull_request_target with write permissions and checks out untrusted PR code.\"}\n```"}

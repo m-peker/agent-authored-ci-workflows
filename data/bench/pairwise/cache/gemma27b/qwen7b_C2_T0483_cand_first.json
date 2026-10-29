@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action (`dorny/paths-filter`) for change detection, which is more robust and maintainable than the shell script in Workflow A, and is designed for reusability as requested."}

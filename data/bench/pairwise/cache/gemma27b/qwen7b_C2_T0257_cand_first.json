@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers more of the requested validation steps and build processes, including cargo tests and `akaza-data` build, while B only runs the python validation script."}

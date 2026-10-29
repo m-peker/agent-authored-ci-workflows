@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a release process triggered by pushes to the `nexus` branch and includes a manual dispatch option, aligning with the monorepo move and the need for controlled publishing, while workflow A simply publishes on tag which is not the correct trigger."}

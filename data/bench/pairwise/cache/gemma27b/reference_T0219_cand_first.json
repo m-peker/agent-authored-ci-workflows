@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and do not address the request to bump the MSRV to 1.85.0 and edition to 2024; they only run existing tests."}

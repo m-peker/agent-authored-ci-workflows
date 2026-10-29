@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on Renovate pushes and workflow_dispatch, while Workflow B incorrectly triggers on pushes to renovate branches and requires a mandatory prNumber input."}

@@ -1,0 +1,1 @@
+{"item_id": "A057", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "An empty string is a valid choice for the agent input.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"An empty string is a valid choice for the agent input.\"}\n```"}

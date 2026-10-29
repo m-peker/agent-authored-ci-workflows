@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly instructs Claude to read and enforce the tone of voice guidance from `reown-tone-of-voice-extract.md`, which is a key requirement of the request, while A does not."}

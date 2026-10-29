@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles committing changes to a new branch and creating a pull request against `main`, while workflow B lacks the commit step and uses a less conventional branch naming scheme."}

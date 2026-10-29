@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly checks for assignment to 'devin' as requested, while workflow B is designed for a different bot and attempts to auto-assign based on email, which is not the stated requirement."}

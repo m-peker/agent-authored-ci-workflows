@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the specified action fastify/github-action-merge-dependabot@v3 with GitHub's native auto-merge, while Workflow B uses a generic GitHub CLI command without the specified action."}

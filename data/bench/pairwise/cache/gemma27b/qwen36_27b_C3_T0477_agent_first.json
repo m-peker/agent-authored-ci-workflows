@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `npm run docs:build` which aligns with the request's implied build process for VitePress, while B uses `npm run build` which is less specific and may not be the correct build command."}

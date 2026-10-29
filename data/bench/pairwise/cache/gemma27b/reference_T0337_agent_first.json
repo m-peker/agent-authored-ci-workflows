@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly follows the request's instruction to use the same pinned revision of the Sui CLI as other workflows, while B attempts to download a prebuilt binary which isn't specified in the request."}

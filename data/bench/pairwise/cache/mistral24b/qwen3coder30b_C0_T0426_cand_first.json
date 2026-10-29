@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all PR events while Workflow B only triggers on branch pushes."}

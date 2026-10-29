@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by running a secrets diagnostic script that likely validates the token fallback chain, while workflow A only runs Go tests which doesn't directly verify the fix."}

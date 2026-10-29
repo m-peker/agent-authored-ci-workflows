@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B improves maintainability by externalizing the Claude prompt into a separate file, making it easier to update and manage without modifying the workflow YAML directly."}

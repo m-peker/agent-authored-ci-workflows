@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers a test workflow on a Copilot PR, which aligns with the request to improve test coverage, while workflow B only auto-approves the PR and doesn't address the testing aspect."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly specifies `rustfmt` and `clippy` as components of the rust toolchain, which is necessary for those tools to be available, while A does not."}

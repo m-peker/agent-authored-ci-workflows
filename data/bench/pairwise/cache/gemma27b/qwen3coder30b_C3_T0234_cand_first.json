@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the weekly schedule and excludes the 'news' branch, while B includes 'master' and lacks the schedule."}

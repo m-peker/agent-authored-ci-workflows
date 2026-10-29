@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `days-before-issue-stale` and `days-before-issue-close` which directly addresses the 6-month and immediate closure requirements, while B uses the less clear `days-before-stale` and `days-before-close`."}

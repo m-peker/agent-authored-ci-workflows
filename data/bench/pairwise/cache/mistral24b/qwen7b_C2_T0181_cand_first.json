@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by modifying the OpenAPI spec to hide the specified header, while Workflow B performs a security audit unrelated to the request."}

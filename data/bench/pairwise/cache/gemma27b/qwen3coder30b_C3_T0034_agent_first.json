@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more thoroughly validates the SDK generation process with file existence checks and size checks, and includes a summary step, while B's validation is minimal and the SDK generation directory is named 'sdk' instead of 'client-sdk' as per the request."}

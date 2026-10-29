@@ -1,0 +1,1 @@
+{"item_id": "A104", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The if condition is intentionally set to false to disable the job, which is a valid use case.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The if condition is intentionally set to false to disable the job, which is a valid use case.\"}\n```"}

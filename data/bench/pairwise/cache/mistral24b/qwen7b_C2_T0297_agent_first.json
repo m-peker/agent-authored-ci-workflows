@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all pushes, pull requests, and tag pushes, while Workflow B only triggers on tag pushes matching 'v*.*.*' and pull requests to main."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs uv using its official installation script while Workflow B incorrectly uses pip to install it."}

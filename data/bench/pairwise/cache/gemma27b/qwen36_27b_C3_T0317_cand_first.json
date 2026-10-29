@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly excludes `@claude review` mentions as specified in the request, and uses the recommended WalletConnect action, while A does not exclude the review mentions."}

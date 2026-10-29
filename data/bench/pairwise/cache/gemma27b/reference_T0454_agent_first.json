@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `actions/checkout@v4` which is more recent than `actions/checkout@v6` in workflow B, and crucially, workflow A does not disable the Rust cache, which is a requirement of the request."}

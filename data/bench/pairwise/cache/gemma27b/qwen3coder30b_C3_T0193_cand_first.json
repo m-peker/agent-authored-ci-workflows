@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a dedicated composer install action which is best practice, and its auto-commit section is more robust and clearly explains its purpose, while B's auto-commit action is less configurable and potentially problematic."}

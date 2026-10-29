@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly uses a matrix strategy to define the Node.js version, making it clearer and more maintainable than B's hardcoded version."}

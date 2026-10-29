@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push to main and workflow_dispatch, includes all required jobs and steps, and uses sensible actions for the requested CI/CD process."}

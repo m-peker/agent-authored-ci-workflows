@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly captures the output of the script and uses it to conditionally fail the workflow, providing helpful instructions to the user, while workflow B simply runs the script without any failure condition or output handling."}

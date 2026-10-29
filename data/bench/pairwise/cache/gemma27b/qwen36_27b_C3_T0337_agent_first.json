@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `cargo install` with a pinned revision, matching the existing workflows and request, while workflow B uses a less reliable download and install method and lacks a pinned revision."}

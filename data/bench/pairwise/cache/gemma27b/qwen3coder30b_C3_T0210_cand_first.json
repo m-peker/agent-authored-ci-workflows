@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to notify the code owner about TypeScript changes within a pull request, while workflow B appears to be triggered by a comment from a bot and attempts to request a review from a hardcoded user."}

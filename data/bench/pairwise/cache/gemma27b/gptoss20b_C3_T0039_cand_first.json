@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building binaries on multiple platforms upon a release, while workflow B is more complex, uses a Docker container unnecessarily for Linux, and has a less clear trigger for building release binaries."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles repository names with uppercase letters by converting them to lowercase for the Docker image tag."}

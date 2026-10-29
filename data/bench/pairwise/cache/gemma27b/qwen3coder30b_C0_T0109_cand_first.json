@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the modern GitHub Pages deployment features (artifact upload and deploy action) and separates build and deploy steps, which is best practice, while A relies on a third-party action and less structured deployment."}

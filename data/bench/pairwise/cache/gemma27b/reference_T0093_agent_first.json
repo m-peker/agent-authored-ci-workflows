@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the decision to avoid tooling and rely on AGENTS.md by using a `make` target, while workflow B re-introduces a Python script which was explicitly rejected."}

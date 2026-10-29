@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds for multiple architectures and tags the image with both SHA and 'latest', which is more robust and aligns better with CI/CD best practices for tracking and deploying images."}

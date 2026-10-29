@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies changes in the `app` and `jobs` packages via its paths filter, while workflow B only triggers on changes to the `db` package, missing the core request of the PR."}

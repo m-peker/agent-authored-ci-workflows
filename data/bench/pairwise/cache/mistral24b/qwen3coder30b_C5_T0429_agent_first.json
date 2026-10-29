@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a separate test job that must pass before publishing, ensuring all tests pass as requested."}

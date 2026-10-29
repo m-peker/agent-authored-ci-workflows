@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly creates a release with the scraper binary, which is then used by the scrape workflows as requested."}

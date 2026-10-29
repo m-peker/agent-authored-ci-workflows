@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested build targets and features, while Workflow B adds an unnecessary `macos-arm64-cpu` target that isn't specified in the requirements."}

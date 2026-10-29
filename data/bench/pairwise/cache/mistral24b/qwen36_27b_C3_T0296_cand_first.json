@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to the dev branch and includes steps to merge dev into master, while Workflow B is focused on type checking and does not address the merge request."}

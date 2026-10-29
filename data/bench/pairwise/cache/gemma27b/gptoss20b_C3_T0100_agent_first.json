@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's instructions for building GPAC from source, bundling it, and using patchelf for rpath, while B uses a simpler installation approach and doesn't bundle GPAC as requested."}

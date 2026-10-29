@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a setup job and paths-filter as requested, and its trigger is more comprehensive, covering both pull requests and merge groups, while B's trigger is overly specific to push events."}

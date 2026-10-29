@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed as a reusable workflow called by other workflows (like `ci.yml` as the request specifies), while workflow B is a standalone workflow triggered by push/pull requests, not fulfilling the request's integration aspect."}

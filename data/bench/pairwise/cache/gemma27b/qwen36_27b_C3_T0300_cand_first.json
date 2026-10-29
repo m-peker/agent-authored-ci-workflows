@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes a benchmark execution step with dependency installation and artifact upload, while workflow B only uploads existing artifacts without running the benchmark."}

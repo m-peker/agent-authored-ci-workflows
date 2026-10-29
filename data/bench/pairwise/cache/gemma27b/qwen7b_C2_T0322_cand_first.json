@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a Docker release triggered by tags, while B is overly complex, uses `workflow_dispatch` and `workflow_call` which aren't requested, and builds a specific binary instead of the whole project."}

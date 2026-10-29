@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix to iterate over languages, which is best practice for CodeQL and allows for future expansion, while B lacks this and may not scale well."}

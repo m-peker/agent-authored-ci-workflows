@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the requested patterns (setup-job, paths-filter) and explicitly handles the case where no changes are made, while B's trigger is less flexible and its output handling is more complex."}

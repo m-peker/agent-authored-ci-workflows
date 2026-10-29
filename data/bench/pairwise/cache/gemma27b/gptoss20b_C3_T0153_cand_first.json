@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a manual trigger with necessary inputs for PR details and handles both same-repo and fork PRs, while A relies on a less secure repository_dispatch trigger."}

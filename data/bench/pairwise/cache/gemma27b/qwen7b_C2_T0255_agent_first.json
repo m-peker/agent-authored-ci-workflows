@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a CI workflow with the requested steps (typecheck, lint, tests, code review, codeql) triggered on push/pull request, while workflow A is for handling stale issues and unrelated to the code changes."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `--logger trx` to generate TRX files and uploads them as artifacts, fulfilling the requirement to publish test results in TRX format, which workflow B does not."}

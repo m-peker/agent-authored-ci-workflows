@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue/PR comments mentioning @claude and restricts execution to authorized users, directly addressing the core request, while workflow B triggers on PR events and attempts an automated review without the required @claude mention."}

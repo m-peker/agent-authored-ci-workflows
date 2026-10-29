@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has more complete and correct triggers, including `workflow_dispatch` and triggering on all `Cargo.toml` files, and uses a more up-to-date Nix installation action."}

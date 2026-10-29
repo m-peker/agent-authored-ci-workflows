@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly specifies the `rustfmt` and `clippy` components when using `dtolnay/rust-toolchain@stable`, which is necessary for those tools to be available, while A does not."}

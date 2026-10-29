@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has a more complete and sensible configuration for the lychee action, including file filtering, format for GitHub Actions, and uses GITHUB_TOKEN, while workflow A's exclusions are less relevant and it lacks file filtering."}

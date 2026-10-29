@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated audit script, which is a more scalable and maintainable approach than the extensive inline checks in Workflow A, and has a more sensible trigger configuration."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the `check-dist.yml` requirement to fail on PRs modifying `dist/`, but neither addresses the `release.yml` workflow dispatch requirement."}

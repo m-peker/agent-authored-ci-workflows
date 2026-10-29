@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is simpler, directly uses the Release Please action with the 'simple' release type as requested, and correctly triggers on push to main and allows manual dispatch."}

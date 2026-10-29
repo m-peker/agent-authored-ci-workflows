@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the 'Codex/docs only' request by verifying only documentation changes, while workflow B is a more general backend CI workflow and doesn't focus on the specific documentation-only requirement."}

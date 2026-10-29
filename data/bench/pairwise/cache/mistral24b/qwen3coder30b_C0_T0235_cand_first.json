@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes unit tests, linting, type checking, and a build job, while Workflow B only tests the python-sdk directory and lacks other requested features."}

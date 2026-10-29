@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` for security when working with forks, and focuses on a custom action as intended by the repository's structure, while workflow B uses a generic labeler action and a standard `pull_request` trigger which isn't relevant to the repository's existing tooling."}

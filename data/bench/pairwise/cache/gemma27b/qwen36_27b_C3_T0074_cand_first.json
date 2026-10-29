@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `github.actor` and `GITHUB_TOKEN` for GHCR authentication as intended, while B uses separate secrets which isn't ideal and may not be set up."}

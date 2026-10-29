@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated QEMU setup action and correctly implements the requested test execution with both requirements files, while A's QEMU setup is less conventional and potentially unreliable."}

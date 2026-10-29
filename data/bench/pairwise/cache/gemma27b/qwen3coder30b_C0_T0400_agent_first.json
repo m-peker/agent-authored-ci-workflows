@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly lists and approves *all* pending workflow runs for a PR, while workflow B only approves the current workflow run, missing the core requirement of auto-approving all pending runs."}

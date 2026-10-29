@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the provided build instructions and creates the expected binaries with the correct naming scheme, while workflow B uses CMake and installs to /usr which isn't the requested behaviour."}

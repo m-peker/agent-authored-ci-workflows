@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks for changes in the dist directory on pull requests to the master branch, while Workflow A only triggers on changes to the dist directory and doesn't verify the target branch."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `-m downstream_compat` marker to selectively run the tests as requested, while workflow B runs all tests in the `tests/downstream_compat/` directory without marker selection."}

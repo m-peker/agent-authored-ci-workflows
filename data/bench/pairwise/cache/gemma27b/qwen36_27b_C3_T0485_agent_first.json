@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by downloading an export from a protected endpoint, while workflow B attempts to create and sanitize a database locally, which isn't what the request asked for and relies on project-specific scripts that may not exist."}

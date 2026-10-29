@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more directly addresses the SOCKS5 UDP support requirement by enabling it in Tavern and verifying it with a dedicated script, while A only runs imix_connect which is expected to use it."}

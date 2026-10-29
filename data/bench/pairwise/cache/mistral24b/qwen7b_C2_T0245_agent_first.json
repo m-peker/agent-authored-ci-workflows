@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified events and uses a reusable action for running Bun tests, while Workflow B includes unnecessary Node.js setup and doesn't properly separate the test environments as requested."}

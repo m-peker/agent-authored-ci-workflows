@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly queries and removes UNMERGEABLE entries from the merge queue using GraphQL API, while Workflow B incorrectly identifies unmergeable PRs by checking if the branch name starts with 'merge-queue/' and attempts to remove them by disabling auto-merge."}

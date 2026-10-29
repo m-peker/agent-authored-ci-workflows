@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags and manual dispatch, uses the specified Homebrew dependencies and virtualenv setup, and properly archives the required artifacts."}

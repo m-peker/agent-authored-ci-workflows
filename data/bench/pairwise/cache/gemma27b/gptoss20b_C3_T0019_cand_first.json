@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request changes and creates a PR with the generated files as requested, while workflow B triggers on a `develop` branch push and requires a `flutter-version.txt` file which isn't part of the request."}

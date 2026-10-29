@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `cargo` to install the Sui CLI, matching the existing patterns in the repository and ensuring a consistent, pinned revision, while workflow A uses `curl` which is less aligned with existing practices."}

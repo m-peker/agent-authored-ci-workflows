@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs Playwright browsers which is necessary for the tests to run, while workflow B does not, and also includes a more sensible artifact upload path."}

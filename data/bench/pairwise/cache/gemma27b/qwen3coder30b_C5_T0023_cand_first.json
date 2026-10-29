@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the request for Atheris fuzzing to run only on main/master branches and uses actions/upload-artifact@v4, while workflow B incorrectly uses v3 and runs Atheris on develop as well."}

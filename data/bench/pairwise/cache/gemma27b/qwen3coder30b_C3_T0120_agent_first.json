@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to remove aggressive pre-checkout cleanup steps and focuses on cleaning Python caches, while B attempts to run a cleanup script and verify permissions, which isn't the core ask and introduces potential issues."}

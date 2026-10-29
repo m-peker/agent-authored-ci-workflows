@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly calls each workflow using `uses`, which is simpler and more reliable than B's dynamic discovery and triggering via the API."}

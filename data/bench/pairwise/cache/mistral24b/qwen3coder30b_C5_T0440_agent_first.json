@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant events, uses the required job name, and installs Dart, Flutter, and dependencies as specified, while Workflow B includes unnecessary steps and doesn't follow the exact request."}

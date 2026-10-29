@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps for checking, linting, testing, and formatting with the updated Rust version and edition, while Workflow A only runs tests without verifying the changes."}

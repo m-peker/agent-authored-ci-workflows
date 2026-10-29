@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the scheduled drift report and workflow_dispatch triggers, includes the required steps for generating and publishing the report, and uses the correct Node.js version as specified in the request."}

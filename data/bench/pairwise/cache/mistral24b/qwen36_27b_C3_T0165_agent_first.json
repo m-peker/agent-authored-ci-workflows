@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more specific tag trigger pattern 'v*' and enables Go caching for faster builds."}

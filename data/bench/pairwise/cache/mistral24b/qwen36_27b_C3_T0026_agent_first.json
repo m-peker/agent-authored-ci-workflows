@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all requested events and uses the pinned action reference, while Workflow B misses the pull request branch filter and uses an unneeded setup-go step."}

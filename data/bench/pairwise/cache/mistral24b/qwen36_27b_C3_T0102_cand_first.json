@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags and includes all the requested enhancements in the release body, while Workflow B has a more restrictive tag pattern and doesn't include all the requested details in the release body."}

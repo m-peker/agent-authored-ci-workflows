@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more appropriate and maintained actions (golangci/golangci-lint-action) and includes a check for gofmt that will fail the workflow if formatting is incorrect, aligning better with the request."}

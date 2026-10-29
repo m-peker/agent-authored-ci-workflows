@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by integrating Claude for code review, while workflow B focuses on general CI tasks like building and linting, and doesn't perform the requested code review."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes testing and Rubocop checks relevant to the Ruby codebase, while Workflow B focuses on mobile app builds which are not relevant to the request."}

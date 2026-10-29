@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses newer versions of actions/checkout and actions/setup-node, and includes submodules in the checkout step."}

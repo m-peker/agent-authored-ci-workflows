@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes and pull requests, includes all required steps (TypeScript check, linting, formatting, tests with coverage, and build), and uses appropriate actions for the repository's needs."}

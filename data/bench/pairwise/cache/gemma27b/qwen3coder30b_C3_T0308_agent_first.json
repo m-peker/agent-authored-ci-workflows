@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's intention of a single reusable workflow with comprehensive testing integrated into the Dockerfile and a clear separation of build/test/push stages, while B's test stage is a separate step."}

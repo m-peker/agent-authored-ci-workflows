@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested CI/CD pipeline for generating and deploying API documentation on release, including the necessary steps for TypeDoc, git worktrees, and GitHub Pages deployment, while workflow B focuses solely on conformance tests."}

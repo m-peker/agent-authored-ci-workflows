@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly installs and runs the Bats test suite as requested, while Workflow B installs an unrelated dependency and runs a script instead."}

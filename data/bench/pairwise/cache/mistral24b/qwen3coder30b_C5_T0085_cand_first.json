@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for PRs from the Copilot agent while Workflow B checks for the wrong actor."}

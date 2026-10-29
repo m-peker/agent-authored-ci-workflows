@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the completion of the 'Tests' workflow and only runs when the tests fail, while Workflow B runs on both success and failure, which is not necessary for monitoring flaky tests."}

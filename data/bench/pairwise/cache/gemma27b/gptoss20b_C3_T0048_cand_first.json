@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the requested toolchain (uv, ruff-action, safety) and directly addresses all requested checks, while B deviates with pip/npm and an unnecessary paths.json generation."}

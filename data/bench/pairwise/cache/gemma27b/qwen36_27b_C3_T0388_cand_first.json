@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a `redocly.yaml` file to define a minimal ruleset as requested, while workflow B relies on the default 'minimal' extension which doesn't allow for customization and doesn't fully meet the requirements."}

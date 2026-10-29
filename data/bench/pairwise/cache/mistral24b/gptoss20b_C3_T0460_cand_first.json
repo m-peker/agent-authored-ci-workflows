@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and includes all requested jobs and steps for CI testing and Claude integration, while Workflow B uses a manual trigger and lacks the necessary CI testing steps."}

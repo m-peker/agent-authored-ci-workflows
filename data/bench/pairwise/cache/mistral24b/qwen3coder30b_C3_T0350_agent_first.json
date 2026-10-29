@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pnpm as specified in the repository's package management and includes OIDC for npm trusted publishers."}

@@ -1,0 +1,1 @@
+{"action": "tenstorrent/tt-metal/.github/actions/cleanup", "ref": "main", "exists": true, "name": "Cleanup Action", "description": "Cleans up the workspace to remove root-owned files on non-ephemeral runners.", "inputs": {"path": {"required": false, "default": "/__w/tt-metal/tt-metal/docker-job", "description": "The directory to clean up"}}, "outputs": []}

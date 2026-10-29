@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the specified base and extract toolkits, uses the `get-certified-connectors.sh` script to filter connectors, and implements a matrix strategy for testing, aligning with the request's goals."}

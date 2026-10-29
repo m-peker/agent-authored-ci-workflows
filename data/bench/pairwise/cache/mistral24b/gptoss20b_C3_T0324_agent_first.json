@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements path-gated triggers and changed-file guards, while Workflow B runs on all changes to main."}

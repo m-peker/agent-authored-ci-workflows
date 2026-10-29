@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to main, installs dependencies, and deploys docs with MkDocs, while Workflow B unnecessarily triggers on pull requests and uses an extra action for deployment."}

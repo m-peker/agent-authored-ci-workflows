@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `fern generate --docs` command and includes a `workflow_dispatch` trigger, while B uses `fern-cli` which isn't the correct tool and doesn't align with the request's command."}

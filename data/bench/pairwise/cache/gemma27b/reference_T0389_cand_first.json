@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks if `@decocms/studio` is already published, while workflow A incorrectly checks for `decocms` which is not the package being published."}

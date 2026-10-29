@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the necessary logic directly in the workflow file, while Workflow B relies on an external script that isn't provided."}

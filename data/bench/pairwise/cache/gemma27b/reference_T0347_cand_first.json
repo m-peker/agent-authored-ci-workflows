@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides more detailed failure information including a snippet of the log and the artifact URL in the error message, while B simply exits, and A correctly uses `PIPESTATUS` to get the exit code."}

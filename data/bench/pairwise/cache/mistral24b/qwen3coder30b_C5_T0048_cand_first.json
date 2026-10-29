@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested checks and uses appropriate actions, while Workflow B omits the ShellCheck step and includes unnecessary Node.js setup."}

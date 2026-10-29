@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the request to run CodeQL analysis on a pull request, while workflow B introduces unnecessary complexity with conditional checks, a matrix strategy for a single language, and a custom runner that isn't required."}

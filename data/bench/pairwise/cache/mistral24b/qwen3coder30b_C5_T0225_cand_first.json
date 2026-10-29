@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes test and lint jobs with Python version matrix and coverage reporting, while Workflow B only handles publishing without any testing."}

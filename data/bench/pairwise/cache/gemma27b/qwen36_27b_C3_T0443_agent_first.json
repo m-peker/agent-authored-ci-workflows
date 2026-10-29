@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested two-step process of running Playwright tests with DOM snapshots and then uploading the results to Chromatic, using the specified Playwright container and flags."}

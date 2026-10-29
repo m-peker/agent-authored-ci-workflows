@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running semantic-release with the `--tag=beta` flag after creating a `beta` branch, while workflow B doesn't explicitly use the beta tag and relies on the `release` script to handle it, which isn't guaranteed."}

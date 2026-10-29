@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by automating versioning and publishing on pushes to main or prerelease branches, while workflow B relies on manual dispatch and offers excessive configuration options not required by the prompt."}

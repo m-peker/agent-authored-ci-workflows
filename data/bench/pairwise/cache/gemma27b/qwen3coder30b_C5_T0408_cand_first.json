@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the Python version as requested (3.14.2) and uses a dedicated action for `uv` setup, while B uses 'latest' and a separate `uv python install` step which is less aligned with the request."}

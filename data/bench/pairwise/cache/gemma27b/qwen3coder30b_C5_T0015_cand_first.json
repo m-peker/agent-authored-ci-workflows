@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the necessary files and deploys the `docs/` directory as requested, while workflow B has an overly broad path trigger and unnecessarily splits the build and deploy into separate jobs."}

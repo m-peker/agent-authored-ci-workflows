@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a manual npm release with the specified input and steps, while workflow B introduces unnecessary complexity with tagging, building, and creating a GitHub release that weren't asked for."}

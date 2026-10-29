@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for changes before attempting to create a PR, while Workflow B always tries to create a PR even if there are no changes."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pull_request_target trigger which is more secure for external PRs and has more comprehensive commit scanning logic."}

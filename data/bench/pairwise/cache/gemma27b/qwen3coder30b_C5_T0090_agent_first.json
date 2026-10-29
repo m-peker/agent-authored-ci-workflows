@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely disables all other database tests as requested, including Oracle, SQL Server, DB2, while A only disables Postgres, MySQL and MariaDB."}

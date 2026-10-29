@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `uses` keyword to call all 42 workflows, fulfilling the request to fan out to all existing workflows, while workflow B only triggers 5."}

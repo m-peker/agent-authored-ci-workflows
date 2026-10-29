@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by automatically creating an issue for the Copilot agent when ADRs are missing, and handles both push and pull request triggers with more robust change detection."}

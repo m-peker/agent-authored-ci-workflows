@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pushes benchmark results to a dedicated 'perf' branch and includes a step summary with JSON results, while workflow B only uploads results as an artifact and lacks the perf branch functionality."}

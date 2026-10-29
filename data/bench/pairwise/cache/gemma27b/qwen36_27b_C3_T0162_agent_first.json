@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request's intent for Mojo linting by checking for specific imports and the `@export` decorator, while B's Mojo check is very basic."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested features, including the weekly sync, updating contributor docs, mentioning automated sync in README, excluding cloned repo from builds, removing leftover submodule, and cloning open-webui as a shallow copy without .git."}

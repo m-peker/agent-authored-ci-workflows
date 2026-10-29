@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant package.json changes and includes a fallback comment if the lockfile update fails, addressing the core problem and test plan, while B triggers on the wrong branch and lacks the fallback."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly disables the Rust cache as requested, while workflow B does not, making A more aligned with the requirements."}

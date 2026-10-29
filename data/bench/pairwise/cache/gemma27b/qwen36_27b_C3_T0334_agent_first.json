@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly installs dependencies using `uv sync` and uses `actions/setup-python` which is more appropriate for managing Python versions in GitHub Actions than directly running with `uv run`."}

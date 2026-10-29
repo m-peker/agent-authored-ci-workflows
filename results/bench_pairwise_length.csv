@@ -1,0 +1,15 @@
+judge,candidate,median_log_ratio,longer_side_wins,n_matched,net_matched,sign_p_matched
+mistral24b,gptoss20b:C3,-0.113,0.724,130,1.538,0.915
+mistral24b,qwen36_27b:C3,0.0,0.703,164,15.244,0.018
+mistral24b,qwen3coder30b:C0,-0.066,0.684,167,-4.79,0.519
+mistral24b,qwen3coder30b:C3,-0.073,0.72,153,-3.268,0.691
+mistral24b,qwen3coder30b:C5,0.016,0.721,177,2.825,0.714
+mistral24b,qwen7b:C2,-0.279,0.709,117,-50.427,0.0
+mistral24b,reference,0.0,0.849,442,10.407,0.0
+gemma27b,gptoss20b:C3,-0.113,0.738,130,9.231,0.235
+gemma27b,qwen36_27b:C3,0.0,0.712,164,23.78,0.0
+gemma27b,qwen3coder30b:C0,-0.066,0.708,167,-1.796,0.851
+gemma27b,qwen3coder30b:C3,-0.073,0.721,153,0.654,1.0
+gemma27b,qwen3coder30b:C5,0.016,0.68,177,10.734,0.059
+gemma27b,qwen7b:C2,-0.279,0.715,117,-47.863,0.0
+gemma27b,reference,0.0,0.8,442,5.204,0.004

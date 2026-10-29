@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a comprehensive test suite with pytest as requested, and covers linting and CI on PRs, while workflow B only focuses on publishing and relies on releases."}

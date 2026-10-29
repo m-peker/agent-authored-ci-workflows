@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `needs: build` to separate build and deploy steps, and includes a concurrency group to prevent multiple deployments, while workflow B combines them into a single job."}

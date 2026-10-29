@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish a serialized config via GitHub Pages and uses `actions/configure-pages` and `actions/upload-pages-artifact` which is the correct approach, while B's approach is less direct and relies on a `scripts` directory not present in the repo."}

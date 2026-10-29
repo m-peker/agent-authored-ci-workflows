@@ -1,0 +1,1 @@
+{"item_id": "A066", "judge": "qwen3coder30b", "label": "FP", "impact": null, "reason": "A single comment line is not an empty workflow and will not cause failures in GitHub Actions.", "raw": "{\"label\": \"FP\", \"impact\": null, \"reason\": \"A single comment line is not an empty workflow and will not cause failures in GitHub Actions.\"}"}

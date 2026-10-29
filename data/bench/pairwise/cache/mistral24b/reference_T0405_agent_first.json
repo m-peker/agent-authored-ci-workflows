@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B specifies the 'src' directory for php-cs-fixer, making it more likely to work as intended for this repository."}

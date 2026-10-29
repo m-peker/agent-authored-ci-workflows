@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a matrix strategy to replace the multiple workflows, derives image tags and cache keys from branch/tag metadata, and avoids manual configuration as requested, while workflow B introduces new configurations and doesn't fully address the request."}

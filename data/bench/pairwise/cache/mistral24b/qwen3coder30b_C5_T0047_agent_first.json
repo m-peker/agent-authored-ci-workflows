@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements version auto-bumping based on the bump type input, while Workflow B does not."}

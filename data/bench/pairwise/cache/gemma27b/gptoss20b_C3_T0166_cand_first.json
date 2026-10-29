@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by consolidating the leaderboard update into the deploy workflow and includes all necessary steps (install dependencies, generate leaderboard, commit changes, build, and deploy), while workflow B has unnecessary complexity with separate build and deploy jobs and a less clear commit strategy."}

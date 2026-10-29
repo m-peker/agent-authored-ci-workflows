@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes all requested languages and uses a standard CodeQL setup, while B only analyzes languages in a matrix and lacks autobuild, potentially missing vulnerabilities."}

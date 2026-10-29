@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more accurately follows the request by explicitly uploading each build artifact as a separate release asset with proper content types."}

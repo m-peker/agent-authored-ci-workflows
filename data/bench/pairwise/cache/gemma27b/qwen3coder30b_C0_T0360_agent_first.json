@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `electron-builder` which is more aligned with building Electron apps and correctly handles platform-specific builds, while B relies on a generic `npm run package` and manually downloads/uploads assets."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly tests the changed default behavior and the `--no-instructions` and `--no-emit` flags as requested, while workflow A focuses on Copilot CLI interaction and doesn't verify the core change."}

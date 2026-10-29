@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the pnpm cache in the Node.js setup, which is more efficient for subsequent runs."}

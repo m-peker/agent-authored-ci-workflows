@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly specifies the Rust toolchain, which is crucial for a Rust project, while B relies on the default which may not be suitable, and A uses a more specific runner."}

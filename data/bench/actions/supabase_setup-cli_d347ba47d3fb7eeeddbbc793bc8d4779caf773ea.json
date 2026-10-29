@@ -1,0 +1,1 @@
+{"action": "supabase/setup-cli", "ref": "d347ba47d3fb7eeeddbbc793bc8d4779caf773ea", "exists": true, "name": "Supabase CLI Action", "description": "Setup Supabase CLI, supabase, on GitHub Actions runners", "inputs": {"version": {"required": false, "default": "2.20.3", "description": "Version of Supabase CLI to install"}}, "outputs": ["version"]}

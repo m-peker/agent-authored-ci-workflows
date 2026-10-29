@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pnpm for all commands, including publishing with the correct tag, while B mixes pnpm install with npm publish and lacks provenance/access flags."}

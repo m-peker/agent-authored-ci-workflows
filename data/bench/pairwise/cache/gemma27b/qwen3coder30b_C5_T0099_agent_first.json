@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses Flux, which is designed for Kubernetes manifest management and pushing to OCI registries, aligning better with the request's intent than Workflow B's more manual approach with kustomize and crane."}

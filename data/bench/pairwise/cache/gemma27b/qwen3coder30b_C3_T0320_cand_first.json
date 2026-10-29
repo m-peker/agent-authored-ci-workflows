@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly copies the necessary files from `src/web/*` to `docs/` for deployment, aligning with the project's structure and the request to deploy the web-based converter, while workflow B lacks this crucial step."}

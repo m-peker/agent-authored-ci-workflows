@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B focuses on CodeQL analysis as a core task, while Workflow A is a massive, generic workflow with many irrelevant inputs and no actual implementation of the requested changes to remove fpm."}

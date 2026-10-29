@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes triggers for push and pull_request events when the workflow file is changed, making it easier to validate changes, while Workflow B only has a manual trigger."}

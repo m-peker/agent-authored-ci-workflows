@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all required triggers (manual, scheduled, PRs, and pushes to main) and uses a reusable workflow for Trivy scanning, which is more maintainable and likely to be well-tested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A addresses the request by using the specified environment variable prefix, while Workflow B does not address the request at all."}

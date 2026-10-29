@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a complete, runnable Trivy scan including building the image, while A relies on a potentially unavailable reusable workflow and lacks necessary build steps."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a pinned ref for the action as requested, while workflow B uses a workaround with a step to set the ref, adding unnecessary complexity."}

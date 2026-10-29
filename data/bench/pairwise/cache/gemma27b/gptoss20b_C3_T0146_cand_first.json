@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and more likely to work out-of-the-box for TypeScript, while B introduces unnecessary complexity with conditional execution, a custom runner, and a potentially missing config file."}

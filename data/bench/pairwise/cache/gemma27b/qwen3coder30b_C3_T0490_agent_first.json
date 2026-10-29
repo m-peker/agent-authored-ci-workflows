@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles multiple Nuitka output names and builds for different variants, while workflow B only addresses the `.exe` extension and lacks variant builds."}

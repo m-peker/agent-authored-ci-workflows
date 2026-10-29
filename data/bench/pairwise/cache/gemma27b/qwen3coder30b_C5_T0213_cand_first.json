@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly disables stale processing for pull requests, aligning with the request to only affect issues, while A doesn't address PRs at all."}

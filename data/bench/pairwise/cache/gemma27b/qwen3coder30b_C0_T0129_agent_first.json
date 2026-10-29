@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses v3 actions, includes both requested query suites, and triggers on both `main` and `develop` branches for PRs as requested, while B uses older v2 actions and only triggers on `main` for PRs."}

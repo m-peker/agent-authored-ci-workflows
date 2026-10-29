@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses the requested `npm run` commands, while A manually constructs the docker build commands, and B uses more up-to-date actions."}

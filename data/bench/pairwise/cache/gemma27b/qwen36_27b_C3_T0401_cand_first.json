@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to address the request by setting up Copilot instructions and committing them, while workflow B only checks out code and installs Chef, missing the core requirement of configuring Copilot."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly prepares and uploads the `index.html` file to a `public` directory, which is necessary for GitHub Pages deployment, while A simply uploads the entire repository."}

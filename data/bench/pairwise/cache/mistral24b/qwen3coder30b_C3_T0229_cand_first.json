@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses uv as the package manager consistently with the template's migration from Poetry to uv, and includes all the requested jobs and steps."}

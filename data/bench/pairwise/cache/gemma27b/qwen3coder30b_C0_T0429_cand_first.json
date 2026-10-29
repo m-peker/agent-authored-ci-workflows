@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses npm provenance with the `--provenance` flag during publish, and avoids redundant publish steps, while A has a redundant step and a separate provenance step."}

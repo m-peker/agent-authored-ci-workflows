@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all required jobs and steps, uses pinned actions for security, and implements the requested Helm chart publishing to the FalkorDB Helm charts repository with proper version management."}

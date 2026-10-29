@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on Renovate PRs based on file changes and `workflow_dispatch` with a PR number, while B only triggers on pushes to renovate branches which isn't the request."}

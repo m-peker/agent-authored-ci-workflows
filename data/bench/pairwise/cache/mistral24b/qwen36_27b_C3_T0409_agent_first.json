@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A fails the job if the SLO label is missing, which aligns with the request to ensure the SLO workflow runs with the label present."}

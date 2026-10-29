@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and pushing images tagged with branch-sha, while workflow B introduces unnecessary complexity with service choices and a different registry, deviating from the core requirement."}

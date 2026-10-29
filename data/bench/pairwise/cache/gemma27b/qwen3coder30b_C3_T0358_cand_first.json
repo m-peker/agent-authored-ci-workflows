@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements coverage calculation for multiple Python versions and uploads to Codecov, while B only tests one version and relies on an external script and JSON coverage report."}

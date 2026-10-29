@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a test workflow, while B adds type checking and formatting which were not requested and introduces potentially risky auto-formatting commits."}

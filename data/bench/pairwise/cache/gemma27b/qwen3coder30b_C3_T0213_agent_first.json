@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly maps the request's parameters to the action's inputs using the correct parameter names, while Workflow B uses deprecated or incorrect parameter names (e.g., `days-before-stale` instead of `days-before-issue-stale`) and includes an unnecessary `ascending` parameter."}

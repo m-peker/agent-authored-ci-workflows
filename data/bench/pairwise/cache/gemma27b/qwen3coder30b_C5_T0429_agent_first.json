@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly separates testing and publishing into distinct jobs with a dependency, ensuring tests pass before publishing, while A runs them sequentially."}

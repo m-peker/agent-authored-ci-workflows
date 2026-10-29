@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on workflow_dispatch and pull_request with path filtering, uses the requested actions for uv setup, and verifies pre-commit installation."}

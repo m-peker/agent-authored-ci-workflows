@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the right paths and branches, uses the correct actor check, and includes a fallback comment if the update fails."}

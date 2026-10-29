@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the official GitHub Pages deploy actions and sets up pages, while B uses a third-party action and an outdated Node.js version, failing to meet the requirement of Node 20.x."}

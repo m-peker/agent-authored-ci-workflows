@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a summary step and creates a pull request for review, while Workflow B directly commits and pushes changes without review."}

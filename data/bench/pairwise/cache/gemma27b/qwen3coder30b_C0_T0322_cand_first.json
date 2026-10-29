@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on crates.io release publishing and focuses solely on the Docker build/push, while workflow B uses manual dispatch or a call and builds a binary unnecessarily."}

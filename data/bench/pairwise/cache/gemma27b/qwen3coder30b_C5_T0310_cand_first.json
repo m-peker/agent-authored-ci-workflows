@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all requested aspects (release creation, Docker build with multi-platform support, PyPI publishing) and uses sensible actions, while workflow B focuses heavily on Docker and lacks PyPI publishing, and uses a less common runner."}

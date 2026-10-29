@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the core request of adding new translations via a workflow dispatch with input parameters, including downloading, indexing, updating the translations file, and committing changes, while A only runs existing tests and checks."}

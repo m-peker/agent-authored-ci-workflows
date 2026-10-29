@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up the necessary toolchains (Rust, Python, Ruby) to execute the check script, while workflow B assumes they are already present, making it less reliable."}

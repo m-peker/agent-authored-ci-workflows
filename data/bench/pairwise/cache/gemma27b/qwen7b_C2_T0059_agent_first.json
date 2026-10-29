@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the PR title linting requirement with a dedicated action and configuration, while workflow B attempts this with a less reliable command-line tool and lacks the specific configuration for allowed types and scopes."}

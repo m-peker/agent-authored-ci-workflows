@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the 'publish-dry-run' step explicitly requested, while A does not, making it more complete for the stated requirements."}

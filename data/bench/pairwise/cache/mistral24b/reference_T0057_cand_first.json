@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the upgraded setup-cuda action and separates build execution and wheel location into distinct steps."}

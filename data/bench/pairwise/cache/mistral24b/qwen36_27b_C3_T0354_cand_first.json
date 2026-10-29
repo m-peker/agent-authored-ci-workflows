@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request events, includes necessary jobs and steps to check the branch alias in composer.json, and uses sensible actions for a PHP project."}

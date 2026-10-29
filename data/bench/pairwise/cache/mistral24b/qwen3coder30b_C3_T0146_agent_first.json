@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request events for the main branch and includes necessary conditions for CodeQL analysis, while Workflow B incorrectly triggers on push events and uses an outdated runner."}

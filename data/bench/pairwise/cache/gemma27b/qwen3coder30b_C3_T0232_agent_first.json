@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly addresses the CWD issue by using `devbox run` with the specified config and includes a build step, while workflow B doesn't account for the devbox environment and relies on a standard Node.js setup."}

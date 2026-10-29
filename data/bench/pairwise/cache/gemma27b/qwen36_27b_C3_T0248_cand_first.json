@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Buck2 for the mdbook-spec preprocessor as requested, while A uses Cargo, and B also appears to handle website building with Zola as well as the spec, combining the outputs correctly."}

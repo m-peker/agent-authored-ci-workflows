@@ -1,0 +1,1 @@
+{"action": "arduino/setup-task", "ref": "v2", "exists": true, "name": "arduino/setup-task", "description": "Download Task and add it to the PATH", "inputs": {"version": {"required": true, "default": "3.x", "description": "Version to use. Example: 3.4.2"}, "repo-token": {"required": false, "default": null, "description": "Token with permissions to do repo things"}}, "outputs": []}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes necessary environment variables, a matrix strategy for language detection, and a more comprehensive build process with environment capture and bootstrap steps."}

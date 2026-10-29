@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes Windows in the build matrix and builds for all three platforms, while workflow B omits Windows entirely."}

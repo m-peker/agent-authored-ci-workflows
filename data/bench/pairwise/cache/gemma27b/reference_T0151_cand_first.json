@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly use the `numbata/danger-pr-comment` reusable workflow triggered by the completion of the 'Danger' workflow, fulfilling the core request."}

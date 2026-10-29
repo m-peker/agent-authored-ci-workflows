@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by using `uv` for dependency management, including security dependencies, and specifically running `bandit` for security scanning, while also providing comprehensive test coverage and build steps."}

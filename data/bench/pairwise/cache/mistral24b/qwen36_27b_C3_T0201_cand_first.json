@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested OSV vulnerability scan with correct triggers, proper jobs and steps, and sensible use of actions, while also including the requested Dart testing steps."}

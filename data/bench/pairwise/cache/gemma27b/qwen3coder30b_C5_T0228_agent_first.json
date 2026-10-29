@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the request to build and push the container image when the Dockerfile changes, while B overcomplicates with metadata and branch-specific tagging not required by the prompt."}

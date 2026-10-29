@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly installs dependencies and runs commitlint directly on the PR title as requested, while workflow A uses an external action that wasn't asked for."}

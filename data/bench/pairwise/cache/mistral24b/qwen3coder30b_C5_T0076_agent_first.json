@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct Go versions (1.20, 1.21, 1.22) as specified in the request and includes an additional verification step for go.mod and go.sum."}

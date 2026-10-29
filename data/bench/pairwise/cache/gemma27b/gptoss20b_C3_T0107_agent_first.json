@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers only on pull requests as requested, while A triggers on push to main and merge groups in addition to PRs, and B's permissions are more appropriate for the action."}

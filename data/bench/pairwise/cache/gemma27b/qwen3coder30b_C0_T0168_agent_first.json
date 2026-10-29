@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more concise and efficient by using a single `gh pr list` and `jq` pipeline, while workflow B makes repeated API calls for each PR, making it slower and more prone to rate limiting."}

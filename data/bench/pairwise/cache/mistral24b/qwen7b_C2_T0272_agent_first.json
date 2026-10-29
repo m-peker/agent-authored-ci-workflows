@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and uses the official Claude Code action, while Workflow B incorrectly triggers on labels and doesn't use the specified action."}

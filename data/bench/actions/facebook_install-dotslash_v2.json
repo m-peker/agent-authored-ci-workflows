@@ -1,0 +1,1 @@
+{"action": "facebook/install-dotslash", "ref": "v2", "exists": true, "name": "install dotslash", "description": "Prebuilt binaries of https://dotslash-cli.com", "inputs": {}, "outputs": []}

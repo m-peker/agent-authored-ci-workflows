@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `uv run` to execute the scanner as intended, while B unnecessarily installs `ruff` and runs it, and scans the entire repository instead of just the plugins directory."}

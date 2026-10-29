@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the requested queries ('security-and-quality') while B uses a config file that isn't provided, and A's permissions are more concise."}

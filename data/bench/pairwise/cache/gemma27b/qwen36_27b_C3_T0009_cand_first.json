@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements conditional execution based on @claude mentions across all specified event types, while A's triggers are broader and less targeted, and B uses the id-token permission which is more secure."}

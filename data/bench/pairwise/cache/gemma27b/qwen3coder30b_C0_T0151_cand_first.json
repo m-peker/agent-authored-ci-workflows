@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to use `numbata/danger-pr-comment` to post results as comments on PRs, while workflow B attempts to trigger a reusable workflow *from* `numbata/danger-pr-comment` which isn't what the request asked for."}

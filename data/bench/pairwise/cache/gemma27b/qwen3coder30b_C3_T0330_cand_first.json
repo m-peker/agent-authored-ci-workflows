@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more specific actions for dependency installation and includes a timeout, and correctly uses variables for configuration, while A lacks a timeout and uses a less specific `npm ci`."}

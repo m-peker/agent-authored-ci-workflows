@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses updating `uv.lock` and creating a PR, while workflow B relies on an external script and pushes directly to main, lacking PR creation and specific `uv.lock` handling."}

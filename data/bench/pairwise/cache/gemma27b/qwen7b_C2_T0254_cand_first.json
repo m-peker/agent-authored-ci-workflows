@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on 'trunk' pushes and manual dispatch, uses a macOS runner, collects and pushes benchmark results to a 'perf' branch, and includes a step summary with JSON results, while also handling branch initialization and commit history more robustly."}

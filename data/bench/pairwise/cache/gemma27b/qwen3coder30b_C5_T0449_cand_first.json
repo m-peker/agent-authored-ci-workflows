@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly identifies the file containing the `ingestrVersion` and modifies it directly, while A attempts to parse it from `main.go` which is incorrect, and B's use of `set -euo pipefail` improves robustness."}

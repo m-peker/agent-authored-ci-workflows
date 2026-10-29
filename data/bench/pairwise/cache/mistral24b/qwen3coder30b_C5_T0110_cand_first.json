@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on relevant file changes and includes all necessary steps for building and publishing frontend types, while Workflow B is designed for manual triggering and has additional complexity not required for the request."}

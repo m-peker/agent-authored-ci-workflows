@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed as a reusable workflow for CodeQL analysis, which is relevant to the repository's CI/CD needs, while Workflow B does not address the specific request of removing fpm for DEB package generation."}

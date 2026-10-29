@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes an autobuild step which is necessary for CodeQL analysis in most repositories."}

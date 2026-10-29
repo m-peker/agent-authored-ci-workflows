@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles the priority of 'bug' over 'feature-request' when both keywords are present, while workflow B does not, and A's label bootstrapping is more robust."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B handles Nuitka output name differences more comprehensively by checking for both 'dirsearch' and 'dirsearch.bin' and includes a test step to verify the binary."}

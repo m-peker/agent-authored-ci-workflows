@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses the `gh` CLI for issue management, including checking for existing issues, which is more concise and idiomatic than Workflow A's GitHub Script approach."}

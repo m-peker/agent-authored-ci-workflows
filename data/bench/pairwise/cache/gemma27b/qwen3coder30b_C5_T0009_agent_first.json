@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested triggers (issue comments, PR review comments, issues, and PR reviews) with the @claude mention check, while B only covers issue and PR review comments."}

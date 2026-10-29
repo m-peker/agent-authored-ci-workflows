@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly install pnpm using the specified action and fulfil the publish request, with B adding a specific version which isn't incorrect."}

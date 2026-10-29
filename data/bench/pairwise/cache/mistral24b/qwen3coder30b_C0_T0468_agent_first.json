@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a specific Ubuntu version (24.04) which is more reliable than 'ubuntu-latest' in Workflow B."}

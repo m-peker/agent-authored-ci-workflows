@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly determines all changed skills and publishes them dynamically, while workflow B hardcodes specific skill publishing and doesn't handle all skills in `.skills/` as requested."}

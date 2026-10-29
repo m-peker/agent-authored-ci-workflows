@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to push Kubernetes manifests as OCI artifacts using Docker Buildx, while workflow B uses Flux and relies on a script and directory structure not explicitly requested."}

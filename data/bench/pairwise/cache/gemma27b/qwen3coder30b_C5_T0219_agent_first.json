@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by setting the toolchain to 1.85.0 and including rustfmt/clippy, while A only uses 'stable' which doesn't guarantee the correct version."}

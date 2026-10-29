@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request events to the main branch, includes the requested check-release job, and uses sensible actions, while Workflow B lacks the push event trigger and uses an unspecified Python script."}

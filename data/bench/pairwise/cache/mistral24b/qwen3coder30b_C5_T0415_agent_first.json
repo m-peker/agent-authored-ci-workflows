@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct language matrix value 'javascript-typescript' for a TypeScript repository while Workflow B incorrectly uses 'typescript'."}

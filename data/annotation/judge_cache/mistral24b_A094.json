@@ -1,0 +1,1 @@
+{"item_id": "A094", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The permission value is invalid and will cause the workflow to fail.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The permission value is invalid and will cause the workflow to fail.\"}\n```"}

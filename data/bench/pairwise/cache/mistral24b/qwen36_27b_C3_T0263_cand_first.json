@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A fulfils the request by including build, lint, and test steps for a TypeScript project, while Workflow B is focused on Docker image building and does not address the requested CI/CD tasks."}

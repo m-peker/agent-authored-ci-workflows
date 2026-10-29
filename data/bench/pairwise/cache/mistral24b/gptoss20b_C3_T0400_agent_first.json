@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses pull_request event, filters by branch, and efficiently checks for returning contributors and ok-to-test label."}

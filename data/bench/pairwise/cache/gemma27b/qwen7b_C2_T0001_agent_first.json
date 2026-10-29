@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds both wheels and source distributions, uploads them as artifacts, and then publishes to PyPI using the appropriate action, while workflow B lacks wheel building and artifact handling."}

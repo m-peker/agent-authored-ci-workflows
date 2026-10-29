@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B, while not addressing the Jest filtering request directly, is a plausible CI/CD workflow for deploying a server application, whereas Workflow A is a standard Rust build/test workflow that completely ignores the request."}

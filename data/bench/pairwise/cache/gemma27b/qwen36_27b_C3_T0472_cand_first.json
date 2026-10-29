@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to run tests when the 'run-tests' label is added, while Workflow B introduces unnecessary complexity with Google credentials that aren't part of the request."}

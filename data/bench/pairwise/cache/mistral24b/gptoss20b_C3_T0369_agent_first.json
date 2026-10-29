@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by allowing selection of the service to build and properly tagging the image with branch and SHA, while Workflow B lacks these specific features."}

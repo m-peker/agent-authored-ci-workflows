@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely implements the request's core feature of detailed error reporting with GitHub annotations and a summary report, while B relies on Turbo's built-in GitHub logging which isn't the same level of detail."}

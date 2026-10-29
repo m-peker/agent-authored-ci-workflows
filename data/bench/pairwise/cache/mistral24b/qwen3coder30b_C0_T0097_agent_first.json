@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the skipLabels option to exclude certain PR labels from the changelog enforcement, making it more flexible and aligned with common CI/CD practices."}

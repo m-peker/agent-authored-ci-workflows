@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested triggers, jobs, and steps for issue triage, including classification, duplicate check, scope fit assessment, label suggestions, and a welcoming comment, while Workflow B misses some details and does not handle reopened issues."}

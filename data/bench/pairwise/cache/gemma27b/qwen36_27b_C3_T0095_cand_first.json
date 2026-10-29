@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements auto-formatting with commit, addresses the non-blocking lint requirement with `continue-on-error`, and requests write permissions for auto-commit, while workflow B fails to auto-commit formatting changes and exits on formatting errors."}

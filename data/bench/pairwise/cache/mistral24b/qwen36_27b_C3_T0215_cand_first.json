@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release events and uses deno compile for all supported targets, while Workflow B has unnecessary triggers and more complex steps."}

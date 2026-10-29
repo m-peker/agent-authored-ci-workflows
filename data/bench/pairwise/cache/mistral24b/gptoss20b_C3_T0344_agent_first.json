@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses workflow_call trigger and a reusable workflow, while Workflow B incorrectly includes push and pull_request triggers."}

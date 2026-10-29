@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A removes the CI: false workaround and directly addresses the request by building the CLI native archives without unnecessary environment variables."}

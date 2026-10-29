@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes Node v24 in the matrix and has the correct triggers and jobs for a CI/CD workflow."}

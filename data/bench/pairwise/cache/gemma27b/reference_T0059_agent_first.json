@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is the only one that implements the PR title linting, which is a core requirement of the request, while workflow B is identical."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the Go version from go.mod and sets the PATH to include the binary directory, ensuring consistent linting as specified in the request."}

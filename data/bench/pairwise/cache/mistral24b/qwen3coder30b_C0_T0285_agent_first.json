@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up sccache in read-write mode for warming up the cache, while Workflow B incorrectly sets it to read-only mode."}

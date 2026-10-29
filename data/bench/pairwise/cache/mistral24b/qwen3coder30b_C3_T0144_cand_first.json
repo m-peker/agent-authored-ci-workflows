@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfills the request by properly handling the ANTHROPIC_API_KEY secret, using a matrix strategy for parallel agent execution, and providing more comprehensive job summaries and check runs."}

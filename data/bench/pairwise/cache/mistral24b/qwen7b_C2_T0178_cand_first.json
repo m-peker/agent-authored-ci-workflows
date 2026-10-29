@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the workflow_run trigger and implements a secure two-workflow pattern for handling fork PRs."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the version bumping logic as described in the request, including handling `patch`, `minor`, and `major` bumps, while workflow B lacks this functionality and relies solely on the latest tag."}

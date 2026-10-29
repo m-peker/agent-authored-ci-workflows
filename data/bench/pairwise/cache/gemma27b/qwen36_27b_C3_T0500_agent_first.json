@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by verifying commitizen configuration, running pre-commit hooks, and checking changelog status, while workflow A focuses solely on mutation testing."}

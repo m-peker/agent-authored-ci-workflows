@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the official GoReleaser action, has more precise tag triggering, and includes necessary permissions for releases."}

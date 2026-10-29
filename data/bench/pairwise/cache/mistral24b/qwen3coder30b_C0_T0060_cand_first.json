@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and pushes to main, uses the specified pytest marker, and includes coverage reporting as implied by the request."}

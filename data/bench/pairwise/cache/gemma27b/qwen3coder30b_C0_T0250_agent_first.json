@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and pushes images for both AMD64 and ARM64 architectures with distinct tags as requested, while workflow B attempts to build both architectures simultaneously and uses a different registry URL and metadata action which isn't directly aligned with the request."}

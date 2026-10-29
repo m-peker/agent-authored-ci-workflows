@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by adding a Super Linter job, while Workflow B includes unrelated CodeQL analysis and a schedule trigger not asked for."}

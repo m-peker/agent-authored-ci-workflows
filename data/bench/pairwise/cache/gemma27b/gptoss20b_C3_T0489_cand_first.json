@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly defines both stale and close messages for PRs, fulfilling the request's requirements more completely than Workflow B which only provides a stale message."}

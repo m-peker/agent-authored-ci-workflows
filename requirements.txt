@@ -1,0 +1,13 @@
+# Analysis environment (Python 3.11). The benchmark host additionally used vllm==0.11.0 (see scripts/setup_llm_env.sh).
+pandas==2.0.3
+numpy==1.26.4
+scipy==1.11.1
+statsmodels==0.14.0
+pyarrow==11.0.0
+matplotlib==3.7.2
+requests==2.34.2
+PyYAML==6.0.2
+jsonschema==4.17.3
+openpyxl==3.0.10
+huggingface_hub==0.28.1
+duckdb

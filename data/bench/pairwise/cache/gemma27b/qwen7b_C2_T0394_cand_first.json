@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds the tests with the necessary include paths and runs all tests with a clear format, and includes artifact upload for results, while A lacks include paths and doesn't specify running all tests."}

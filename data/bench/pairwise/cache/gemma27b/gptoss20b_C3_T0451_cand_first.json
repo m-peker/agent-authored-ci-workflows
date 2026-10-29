@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `fetch-depth: 0` which is necessary for `flyctl` to correctly detect changes, and is a pattern present in the linked example workflow."}

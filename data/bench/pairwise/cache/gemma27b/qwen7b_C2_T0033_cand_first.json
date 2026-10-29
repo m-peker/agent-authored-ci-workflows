@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to add Spotless and Detekt checks, while workflow B focuses solely on release drafting and ignores the code quality tools."}

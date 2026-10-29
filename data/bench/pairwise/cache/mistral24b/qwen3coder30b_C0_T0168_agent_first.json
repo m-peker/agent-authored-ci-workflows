@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly filters PRs by author and label in a single jq command, making it more efficient and concise."}

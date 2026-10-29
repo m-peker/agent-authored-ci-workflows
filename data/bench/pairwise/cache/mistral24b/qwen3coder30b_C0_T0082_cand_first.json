@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A focuses on TypeScript, matches the repository's language, and includes all required jobs (test, lint, type-check) while Workflow B includes unnecessary Python jobs."}

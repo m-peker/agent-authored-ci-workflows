@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `make update-lint-config` as requested and creates a PR using a dedicated action, while B attempts to download the config directly and uses less reliable git commands for PR creation."}

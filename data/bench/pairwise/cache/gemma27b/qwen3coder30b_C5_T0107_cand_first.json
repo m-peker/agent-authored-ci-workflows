@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs as requested, while workflow B has unnecessary triggers and a broader file scope than implied by the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests against multiple PHP versions as requested, while workflow B only tests against 8.4, and also includes code coverage reporting which is a sensible addition."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements semantic-release on push to main and updates the sync workflow to Node.js 22, while workflow B focuses solely on npm publishing triggered by tags and doesn't address the core request."}

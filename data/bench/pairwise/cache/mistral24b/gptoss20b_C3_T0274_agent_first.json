@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes the paths filter in the push trigger and uses the correct secrets for the instrumentation step."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles versioning from both release tags and manual dispatch inputs, while A's version extraction is less robust and relies on a shell script."}

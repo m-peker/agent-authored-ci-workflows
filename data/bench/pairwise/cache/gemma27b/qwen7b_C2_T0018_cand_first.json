@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly specifies components for rustfmt and clippy in the rust-toolchain action, which is best practice, and uses a more recent checkout action."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses path filtering to confirm changes in the `docs/` directory before triggering the Vercel deploy, making it more robust and aligned with the request's intent, while A simply triggers on any push to main with a matching path."}

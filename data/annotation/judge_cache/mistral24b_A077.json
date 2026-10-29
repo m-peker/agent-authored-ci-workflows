@@ -1,0 +1,1 @@
+{"item_id": "A077", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail when called without the required input.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail when called without the required input.\"}\n```"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the matrix strategy for cross-platform builds and isolates NuGet publishing to Windows, while B attempts all steps on a single Ubuntu runner and lacks the requested matrix build."}

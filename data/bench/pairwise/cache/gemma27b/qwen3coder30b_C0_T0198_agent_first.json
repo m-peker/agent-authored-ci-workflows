@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the lint and test steps for both `memory-mcp` and `wifi-cam-mcp` as requested, while workflow B only lints `wifi-cam-mcp` and lacks the pytest step for `memory-mcp`."}

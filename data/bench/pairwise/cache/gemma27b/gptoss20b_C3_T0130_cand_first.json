@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly requests write permissions for issues, which is necessary to fulfil the request of opening issues, and uses a more descriptive script name."}

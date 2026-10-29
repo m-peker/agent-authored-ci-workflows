@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a step to cancel previous runs, which is a good practice for release workflows, and uses the go-version-file option to automatically determine the Go version from go.mod."}

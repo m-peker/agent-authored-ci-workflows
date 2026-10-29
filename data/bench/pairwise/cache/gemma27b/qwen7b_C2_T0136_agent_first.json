@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A performs a security scan using Trivy, which is a relevant security tool, while workflow B performs a Go linting check which doesn't address the security concerns implied by the request."}

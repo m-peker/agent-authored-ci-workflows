@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly skips the autobuild step which is unnecessary for this repository."}

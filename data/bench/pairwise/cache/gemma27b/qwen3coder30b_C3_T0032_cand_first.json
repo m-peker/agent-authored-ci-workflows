@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps to bootstrap the environment and build the project, which are necessary to test the changes related to removing fpm and implementing native DEB packaging, while workflow A only performs a CodeQL analysis."}

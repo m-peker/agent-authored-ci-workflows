@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a dedicated cache for the Next.js build output of `agents-docs`, which is crucial for faster builds and aligns with the request to move the build cache to this workflow."}

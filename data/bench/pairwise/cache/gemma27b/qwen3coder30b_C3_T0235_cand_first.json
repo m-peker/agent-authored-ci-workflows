@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a more complete CI solution with matrix builds for multiple Python versions, dependency management, coverage reporting, and test result publishing, while B is narrowly scoped and uses a less common toolchain."}

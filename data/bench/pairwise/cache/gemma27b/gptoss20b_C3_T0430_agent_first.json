@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the `release` step with `pnpm run release` as requested, while workflow A does not address the request at all."}

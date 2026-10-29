@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more specific in its linting checks, including version pinning for Python tools and more detailed Mojo validation, and it correctly limits the scope of formatting to the relevant directories."}

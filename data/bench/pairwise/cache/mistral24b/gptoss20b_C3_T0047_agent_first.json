@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the version tag in git-cliff and handles the commit and push steps more carefully."}

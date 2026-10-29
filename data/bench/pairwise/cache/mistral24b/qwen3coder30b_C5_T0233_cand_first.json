@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the latest stable version of Go and runs tests on both pull requests and pushes to the main branch, while Workflow B uses a specific version of Go and only runs tests on pull requests."}

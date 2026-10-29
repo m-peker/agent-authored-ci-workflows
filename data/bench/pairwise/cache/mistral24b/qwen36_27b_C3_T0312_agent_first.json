@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the label logic where a bug label takes precedence over a feature-request label when both keywords are present."}

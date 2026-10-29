@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested tests and builds a desktop release artifact, while workflow B focuses solely on macOS builds and lacks the comprehensive testing and release steps outlined in the request."}

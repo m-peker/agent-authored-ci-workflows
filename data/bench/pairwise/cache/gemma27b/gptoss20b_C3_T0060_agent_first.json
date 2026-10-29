@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers only on pull requests as requested, and uses a more robust Python setup action, while A triggers on push to main and workflow dispatch which are not requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements auto-formatting and commits/pushes changes for PRs, as requested, while workflow B only checks formatting and fails the workflow."}

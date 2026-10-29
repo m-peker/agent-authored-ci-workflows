@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets permissions for both issues and pull-requests and explicitly disables processing for pull requests, while Workflow B omits pull-request permissions and does not explicitly disable processing for pull requests."}

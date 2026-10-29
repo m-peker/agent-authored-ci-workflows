@@ -1,0 +1,1 @@
+{"item_id": "A066", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "An empty workflow file is invalid and will be rejected by GitHub.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"An empty workflow file is invalid and will be rejected by GitHub.\"}\n```"}

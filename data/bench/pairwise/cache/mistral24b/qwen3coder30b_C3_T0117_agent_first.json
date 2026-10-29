@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A checks for issue references in both the PR description, title, and commit messages, while Workflow B only checks the PR title and description."}

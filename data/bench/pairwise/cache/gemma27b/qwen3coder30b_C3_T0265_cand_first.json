@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the full CI/CD pipeline requested, including changesets, dependabot handling, npm audit, and release workflows, while workflow B only covers linting and typechecking."}

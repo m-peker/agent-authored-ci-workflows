@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by pinning actions to SHA hashes, using a matrix strategy for Rust versions, and including more setup steps like uv and rust-toolchain, indicating a more thorough CI process."}

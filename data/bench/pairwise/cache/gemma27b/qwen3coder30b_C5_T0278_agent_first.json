@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the project's intended build process, including provisioning with a script and copying a tailored payload, while workflow B's approach of copying everything and then building is less targeted and potentially larger."}

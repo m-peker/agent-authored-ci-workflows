@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses 'stable' Go version as requested, while B hardcodes a specific version and adds race detection and timeout which weren't asked for."}

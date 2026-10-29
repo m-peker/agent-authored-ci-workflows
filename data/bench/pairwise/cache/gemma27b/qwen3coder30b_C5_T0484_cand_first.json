@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub GraphQL API and `gh` CLI which is a more modern and maintainable approach than Workflow A's repeated `curl` calls, and correctly targets the merge queue entries rather than PRs directly."}

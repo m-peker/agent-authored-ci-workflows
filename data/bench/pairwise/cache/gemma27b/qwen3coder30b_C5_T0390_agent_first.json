@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles both deployment and cleanup based on metadata written by the build workflow, and explicitly skips deployment for closed PRs, while workflow B's cleanup relies on deploying to `/dev/null` which is less clear and potentially problematic."}

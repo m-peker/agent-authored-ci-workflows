@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the full release process as requested, including version bumping, building, tagging, and release creation, while workflow B only addresses the `check-dist.yml` part of the request."}

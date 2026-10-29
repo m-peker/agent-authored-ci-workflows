@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly points the beta branch at the current commit and forces the push, ensuring semantic-release produces versions like 2.22.0-beta.1."}

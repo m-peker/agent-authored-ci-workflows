@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the required Doppler setup and uses the correct commit hash for snapshot naming, while Workflow B lacks the Doppler configuration and uses a generic Node.js setup."}

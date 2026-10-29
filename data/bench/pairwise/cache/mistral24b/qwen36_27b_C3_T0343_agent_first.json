@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags and manual dispatch, uses the specified Python version, and properly sets up Homebrew dependencies and virtualenv to match pyinstaller.sh."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (v*.*.*), includes building binaries for multiple platforms, creates a GitHub release with artifacts, and updates a Homebrew formula, all of which align with the request's CI/CD requirements for a CLI tool."}

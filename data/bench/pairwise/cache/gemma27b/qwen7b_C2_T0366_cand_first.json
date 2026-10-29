@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the recommended action `fastify/github-action-merge-dependabot@v3` and triggers on pull request targets with a label, while workflow B attempts a manual merge using the GitHub CLI and has an incorrect trigger."}

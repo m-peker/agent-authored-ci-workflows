@@ -1,0 +1,7 @@
+category,group,n,TP,FP,disputed_or_unsure,precision,ci_low,ci_high
+breaking,all,60,41,17,2,0.707,0.58,0.808
+security_high,all,60,40,20,0,0.667,0.541,0.773
+breaking,agent,30,18,12,0,0.6,0.423,0.754
+breaking,human,30,23,5,2,0.821,0.644,0.921
+security_high,agent,30,18,12,0,0.6,0.423,0.754
+security_high,human,30,22,8,0,0.733,0.556,0.858

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the requested workflow chain and steps, including the explicit triggering of `publish-assets.yml` and the creation of a draft release, while B attempts to do too much within a single action call."}

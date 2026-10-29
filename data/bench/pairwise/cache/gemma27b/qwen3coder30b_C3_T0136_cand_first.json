@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses Trivy, a well-established security scanner, and integrates directly with GitHub's security features by uploading SARIF results, which is a more robust and modern approach than Workflow A's custom scan and status updates."}

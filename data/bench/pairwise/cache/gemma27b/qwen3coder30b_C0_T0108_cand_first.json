@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual release triggered by `workflow_dispatch` and creates a Git tag with a user-provided version, aligning with the request to switch to manual releases and explicit versioning, while workflow B attempts to use semantic-release which was explicitly removed."}

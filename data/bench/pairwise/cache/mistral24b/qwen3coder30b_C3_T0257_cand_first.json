@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all the requested jobs and steps, including Rust setup, dependency installation, testing, corpus validation, and model building, while Workflow B only handles corpus validation."}

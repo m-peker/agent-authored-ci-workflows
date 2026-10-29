@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pnpm for all commands as requested and sets the npm dist-tag using a step output, while workflow B mixes npm and pnpm and relies on a secret for publishing."}

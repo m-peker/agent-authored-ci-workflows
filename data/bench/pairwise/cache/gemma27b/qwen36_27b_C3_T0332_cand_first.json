@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely aligns with the request by using a dedicated `gh-pages` branch for deployment and includes a cleanup step that directly removes the preview directory from that branch, which is a more robust approach than relying solely on `mike delete`."}

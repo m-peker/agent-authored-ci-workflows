@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core requirement of deploying to a PR-specific folder on `gh-pages` and cleaning up on PR close, while workflow B relies on a third-party action that may not offer the same level of control and clarity for cleanup."}

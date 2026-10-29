@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_dispatch` with inputs and calls the existing workflow as a reusable workflow, addressing the core request and verification point about building from the PR branch, while workflow B is overly complex and relies on parsing information from the PR which is less reliable."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses a matrix strategy effectively to build for multiple targets, and triggers on release creation as a more appropriate event for releasing binaries."}

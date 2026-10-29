@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to master and approved pull request reviews, uses the correct Python versions, and handles both current and pending dependency layouts."}

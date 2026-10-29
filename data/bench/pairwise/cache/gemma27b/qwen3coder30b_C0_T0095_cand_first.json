@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more recent versions of the Go and linting actions, and its formatting check is more robust by directly checking for unformatted code instead of relying on git diff."}

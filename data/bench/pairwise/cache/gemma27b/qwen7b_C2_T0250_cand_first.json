@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses dedicated actions for Docker buildx, login, and build/push, offering better maintainability and features like caching and multi-platform builds, while A relies on manual docker commands."}

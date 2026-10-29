@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the release command without the --ci flag as requested, while Workflow A does not include a release command at all."}

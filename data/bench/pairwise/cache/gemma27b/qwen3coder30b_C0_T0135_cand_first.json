@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `queries: security-and-quality` in the CodeQL initialization, which is a sensible addition for a security-focused CodeQL analysis, and the schedule is more standard."}

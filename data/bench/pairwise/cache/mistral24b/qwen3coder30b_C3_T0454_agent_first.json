@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the required crates for publishing and handles dependencies between them, while Workflow B only supports publishing one crate at a time and doesn't account for dependencies."}

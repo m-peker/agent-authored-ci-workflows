@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly skips `-race` on pull requests while keeping it on pushes/tags, fulfilling a key requirement of the request, whereas workflow B runs `-race` on all tests."}

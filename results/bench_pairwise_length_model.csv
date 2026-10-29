@@ -1,0 +1,15 @@
+judge,term,coef,lo,hi,p
+mistral24b,Intercept,0.0202,-0.1873,0.2276,0.849
+mistral24b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.gptoss20b:C3]",0.3774,0.175,0.5799,0.0003
+mistral24b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen36_27b:C3]",0.4672,0.258,0.6763,0.0
+mistral24b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen3coder30b:C0]",0.0285,-0.1525,0.2094,0.7578
+mistral24b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen3coder30b:C5]",0.0105,-0.1872,0.2082,0.9171
+mistral24b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen7b:C2]",-1.0766,-1.3171,-0.8362,0.0
+mistral24b,log_ratio,1.2596,0.8943,1.625,0.0
+gemma27b,Intercept,0.05,-0.1659,0.2658,0.6499
+gemma27b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.gptoss20b:C3]",0.5459,0.3263,0.7655,0.0
+gemma27b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen36_27b:C3]",0.6664,0.4416,0.8911,0.0
+gemma27b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen3coder30b:C0]",-0.1748,-0.3715,0.0219,0.0815
+gemma27b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen3coder30b:C5]",0.1081,-0.1202,0.3363,0.3534
+gemma27b,"C(candidate, Treatment('qwen3coder30b:C3'))[T.qwen7b:C2]",-1.0535,-1.3064,-0.8006,0.0
+gemma27b,log_ratio,1.4695,1.1434,1.7956,0.0

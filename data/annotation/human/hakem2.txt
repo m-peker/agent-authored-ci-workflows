@@ -1,0 +1,161 @@
+# Format: <id>: <etiket> [| not]   F-: TP/FP/UNSURE   P-: A/B/TIE
+F-A072: TP | issue/comment herkese acik; LLM ajani kapsamsiz App token (contents/PR write) ile calisiyor, prompt injection riski
+F-A027: TP | toLower GitHub ifade fonksiyonu degil; is akisi gecersiz
+F-A020: FP | workflow_dispatch girdileri/actor yalnizca yazma yetkili kullanicidan
+F-A054: FP | composite action girdileri cagiran is akisindan, guvenilir
+F-A093: FP | release tag / dispatch girdisi bakimcilarin kontrolunde
+F-A036: FP | workflow_call girdileri ve repodaki matris, guvenilir
+P-T0211: B | A npm ci kullaniyor, repo yarn tabanli; B yarn/nx ile repoya uygun
+F-A004: FP | bilinmeyen action girdisi yalnizca uyari; derleme kaynagi jekyll adiminda veriliyor
+F-A016: FP | yorum yazari login'i sahtelenemez; yalnizca reviewer istegi
+F-A039: FP | actor kontrolu kuramsal olarak sahtelenebilir ama PR kodu calistirilmiyor (xmllint/jq okuma), pratik istismar zor
+F-A090: FP | dosya bilerek tamamen yorum satirina alinmis (devre disi)
+F-A052: TP | blok skaler icinde 0. sutunda metin; YAML ayristirilamaz
+F-A047: TP | heredoc satirlari 0. sutunda ('## ...' yorum sayilir); YAML bozuk
+F-A076: FP | base checkout, persist-credentials false, PR kodu calismiyor
+F-A043: FP | head_repository.id == repository_id ile yalnizca ayni repo dallari; dal adini yazma yetkili belirler
+F-A089: TP | herhangi biri '## Status Update' yorumuyla bot PAT'i uzerinden yorumunu sabitletebilir (dusuk etki ama gercek kotuye kullanim)
+F-A063: FP | tanimsiz girdi yalnizca uyari, stale calismaya devam eder
+F-A081: FP | fork PR'larda token zaten salt-okunur; genis izin ama pratik istismar yok
+F-A059: FP | PR numarasi/sha/ref_name enjekte edilemez degerler
+F-A066: FP | bilincli bos yer tutucu dosya, calismasi beklenen bir is yok
+F-A044: TP | job ID'de '+' gecersiz; GitHub is akisini reddeder
+F-A007: FP | pull_request_target ama yalnizca varsayilan dal kodu calisiyor
+F-A096: FP | dispatch/workflow_call girdisi guvenilir (+ dogrulama var)
+F-A058: FP | gh-aw uretimi; tanimsiz needs bos degere duser, islevi bozmaz
+P-T0213: B | A PR'lari da stale yapar (istek yalnizca issue); B PR'lari -1 ile haric tutuyor
+F-A062: FP | 'on' bilerek yorum satirina alinmis (devre disi)
+F-A017: FP | dispatch + actor kisitli
+F-A113: FP | bilinmeyen girdi yalnizca uyari; is akisi reddedilmez
+F-A051: FP | step id eksik, yalnizca bilgi amacli echo ciktilari bos; is akisi bozulmaz
+P-T0339: A | B Gradle projesinde cache: maven kullaniyor (setup-java hata verir), ek izin gerektiren raporlayici
+P-T0390: A | A tarif edilen metadata/closed akisiyla uyumlu; B tetikleyici workflow adi ve cleanup mantigi tutarsiz
+P-T0042: A | A kendi icinde calisir; B dogrulanamayan org reusable workflow'a bagli
+F-A050: TP | workflow_dispatch girdisi mapping olmali; GitHub reddeder
+F-A105: FP | release tag / dispatch girdisi guvenilir
+P-T0114: B | B repo yapisina (apps/desktop, bun, tauri) uygun; A uydurma yol ve her push'ta sha tag'li release
+F-A037: TP | 'ame' bilinmeyen ust duzey anahtar; GitHub reddeder
+F-A071: TP | python -c icerigi 0. sutunda; YAML bozuk
+F-A031: TP | 'projects' gecersiz izin kapsami; GitHub reddeder
+F-A095: FP | composite action girdileri guvenilir
+F-A041: TP | commit mesaji satiri 0. sutunda; YAML bozuk
+F-A102: FP | paths bu olayda yok sayilir; fazladan tetiklenme olur ama is akisi bozulmaz
+F-A055: FP | is akisi degil (pnpm-workspace.yaml)
+F-A119: FP | gh-aw uretimi; bilincli placeholder fallback
+P-T0226: A | A repo stiline uygun, gereksiz build/environment yok; B var olmayabilecek build ve env kullaniyor
+F-A085: FP | workflow_run ama PR kodu/artifact kullanilmiyor, varsayilan dal calisiyor
+P-T0197: B | A threshold 90 (0-1 araliginda olmali) ve gecersiz sablon; B dogru parametreler + label
+F-A008: FP | GITHUB_ onekli degisken hic tanimlanamaz, deger hep bos; is akisi yine calisir
+F-A101: FP | tanimsiz girdi yalnizca hata mesajinda bos gorunur
+F-A002: FP | deploy adiminda id yok, yalnizca ortam URL'si bos; dagitim calisir
+F-A099: FP | tag push ile release icin contents: write gerekli
+F-A048: FP | base checkout; claude-code-action yazma yetkisi olmayan aktoru reddediyor, izinler sinirli
+F-A098: FP | eslesmeyen exclude etkisiz; ayrica dosya .github/workflows kokunde degil
+F-A108: FP | fork PR'lar engelli; dal adlari yalnizca yazma yetkililerden
+F-A025: TP | 0. sutunda '**Status**' alias olarak okunuyor; YAML bozuk
+F-A083: FP | Pages dagitimi icin pages/id-token write gerekli
+P-T0043: A | A mevcut scriptlerin kendi JDK kurulumuna dayaniyor; B gereksiz/riskli ek adimlar (sh-checker, macOS, NDK)
+P-T0420: A | A istenen octavia GitHub App ve docusaurus dizini; B pnpm kurulmadan cache: pnpm (hata) ve farkli auth/dizin
+P-T0259: TIE | istek is akisinin bu repodan kaldirildigini soyluyor; ikisi de istegi karsilamiyor
+F-A061: FP | release-please icin bu izinler gerekli
+F-A103: FP | bos needs GitHub tarafindan kabul edilir
+F-A018: TP | 'description' gecersiz ust duzey anahtar; GitHub reddeder
+P-T0469: TIE | ikisi de calisan makul stale yapilandirmasi
+F-A038: FP | required+default yalnizca gereksiz default; hata degil
+F-A065: FP | pull_request_target ama PR kodu checkout/calistirma yok
+F-A035: TP | ':' tag adinda olamaz; filtre hicbir zaman eslesmez, yayin tetiklenmez
+P-T0443: A | B kaldirilan Storybook'u calistiriyor; A istenen Playwright+Chromatic akisina yakin (pnpm kurulumu eksik olsa da)
+P-T0377: A | A istenen gibi env, auth durumu, koruma kurallarini loglayip gercek push'u deniyor; B gercek hatayi yeniden uretmiyor
+F-A097: TP | workflow_dispatch girdisi mapping olmali; GitHub reddeder
+F-A021: FP | ref_name/sha yalnizca main/develop'ta, guvenilir
+F-A032: FP | yalnizca ayni-repo PR'lar, persist-credentials false
+F-A118: FP | claude-code-action yazma yetkisi kontrolu yapiyor, izinler salt-okunur
+F-A034: FP | workflow_run Release'e bagli, guvenilmeyen girdi yok
+F-A009: TP | heredoc icerigi 0. sutunda; YAML bozuk
+P-T0066: B | A'da 'name: Release: Cut' tirnaksiz (YAML hatasi) ve istenmeyen manuel surum girdisi
+P-T0359: B | A'da base.ref tirnaksiz JS'e gomulu (ReferenceError) ve milestone baslik ile atanmaya calisiliyor; B istenen dinamik mantik (requests kurulumu eksik)
+F-A026: FP | tanimsiz cikti bos -> '' == 0 true; adimlar yine calisir
+P-T0393: B | A'da gh icin token yok ve GITHUB_ENV'e yazilan deger steps.outputs ile okunuyor (adimlar hic calismaz)
+F-A030: FP | claude-code-action yazma yetkisi kontrolu, salt-okunur izinler
+F-A078: TP | step if icinde secrets baglami kullanilamaz; GitHub reddeder
+F-A080: TP | toLower GitHub ifade fonksiyonu degil
+F-A117: FP | yalnizca Slack bildirimindeki surum bos kalir
+P-T0094: TIE | ikisi de benzer; script adlari dogrulanamiyor, ikisi de testleri iki kez calistiriyor
+P-T0179: A | A gercek bir Gemini review action'i ve dogru izinler; B var olmadigi muhtemel action
+F-A010: FP | raporlanan adim yalnizca workflow_call girdisi kullaniyor
+P-T0064: TIE | istek is akisiyla ilgisiz; A dosya amacina uymuyor, B root kontrolune ragmen sudo ile calistirip kirilabilir
+F-A060: FP | dispatch girdisi, yalnizca yazma yetkili tetikler
+F-A024: FP | tag push/dispatch, guvenilir
+F-A042: UNSURE | '\.' kacisinin GitHub filtresinde nasil yorumlandigindan emin degilim; tag tetiklenmeyebilir
+F-A109: FP | pull_request_target ama yalnizca reusable yorum is akisi, PR kodu yok
+F-A005: FP | otomatik uretilmis ve kullanilan dosya; tekrarli needs pratikte sorun cikarmiyor gibi
+F-A110: FP | schedule/dispatch tetikleyici, disaridan ulasilamaz
+F-A068: FP | npm yayin/provenance icin izinler gerekli, tag push tetikleyici
+P-T0235: A | A dogru python-sdk dizini ve uv; B yanlis dizin/requirements varsayimi
+P-T0047: TIE | ikisi de istenen adimlari esdeger sekilde uyguluyor
+F-A073: FP | is akisi degil (Copilot yapilandirma dosyasi)
+P-T0341: B | A'da izin yok, PR olusturma basarisiz olabilir; B gerekli izinlerle
+P-T0363: A | A Copilot dokumanindaki desene uygun (yol filtreli tetikleyici); B de calisir ama gereksiz tetikleniyor
+P-T0229: A | A istekteki uv tabanli dogrulamaya uygun; B kaldirilmis Poetry'ye dayaniyor
+P-T0356: TIE | ikisi de islevsel no-op yer tutucu
+F-A114: FP | composite action girdileri cagiran is akisindan
+F-A028: FP | fork PR'larda izinler dusurulur; ayni-repo katkicilari guvenilir
+F-A070: FP | ports[5432] GitHub dokumantasyonundaki gecerli kullanim
+F-A057: UNSURE | bos choice secenegini GitHub'in reddedip reddetmedigi belirsiz
+F-A001: TP | matrix olmayan job'da matrix.os bos; upload adimi hic calismaz
+F-A100: FP | bos needs kabul edilir (praktika uretimi)
+F-A003: TP | dosya basindaki '\' ve kacisli tirnaklar YAML'i bozuyor
+F-A033: FP | required+default yalnizca gereksiz default
+F-A069: FP | bos needs kabul edilir
+P-T0446: A | B var olmayan reusable workflow ve uydurma onlarca girdi, yanlis dal
+F-A112: FP | workflow_call girdileri guvenilir
+F-A116: FP | workflow_call/dispatch girdileri guvenilir
+F-A049: FP | workflow_call girdileri guvenilir
+F-A056: FP | ref_name/dispatch, guvenilir
+P-T0227: A | B 'make e2e || true' ile hatalari yutuyor, testler asla basarisiz olmaz
+F-A067: FP | tanimsiz step ciktisi 'N/A' fallback ile ozet satirinda
+F-A053: TP | step if icinde secrets baglami kullanilamaz; GitHub reddeder
+F-A075: FP | dispatch girdileri guvenilir
+F-A087: FP | if: false bilincli devre disi birakma
+F-A029: FP | pull_request_target ama yalnizca etiket ekleme, PR kodu yok
+F-A012: FP | cargo-dist; PR'da sabit 'plan', tag ref_name guvenilir
+F-A082: FP | dispatch girdileri guvenilir
+F-A107: FP | pull_request (target degil); fork PR'lara secret verilmez
+P-T0099: B | A Dockerfile olmadan build-push (OCI artifact degil); B flux ile dogru OCI artifact
+P-T0374: A | A istekteki haftalik durum raporunu uretmeye calisiyor; B istekle ilgisiz eval is akisi
+F-A013: TP | upper GitHub ifade fonksiyonu degil
+F-A015: TP | 'if: >' + ${{ }} sondaki yeni satir nedeniyle her zaman true; dry_run/should_release korumasi devre disi (dis saldirgan yok, onay ortami hala var)
+F-A022: FP | gh-aw uretimi; referans yorum/fallback baglaminda
+P-T0282: A | A en azindan calisan bir kod inceleme is akisi; B .NET 6 ile TUnit derlemesi basarisiz olur ve inceleme yapmaz
+P-T0317: B | istek WalletConnect/actions claude/agent ve '@claude review' haric tutmayi istiyor; B birebir uyuyor
+F-A106: FP | reusable claude is akisi; issue tetikleyicileri tek basina istismar degil
+F-A011: FP | tanimsiz girdi uyari; setup-dotnet varsayilan olarak kokteki global.json'u okur
+F-A092: FP | is akisi degil (pnpm-lock.yaml)
+P-T0418: A | A plugins/ yolunu veriyor ve uv kullaniyor; B argumansiz cagri
+F-A040: TP | reusable workflow 'with' icinde env baglami kullanilamaz; GitHub reddeder
+P-T0175: B | B repoya ozgu ajan E2E akisi; A alakasiz Cypress ve uydurma gorevler
+F-A014: TP | cok satirli metin 0. sutunda; YAML bozuk
+P-T0157: B | A uydurma alt komutlar/just kurulumu yok, cok kirilgan; B sunucu endpoint'iyle tutarli
+P-T0163: A | A istendigi gibi workflow_run ile gecmis sonuclari kullaniyor; B yalnizca manuel ve islevsiz
+F-A006: FP | needs.*.result enjekte edilemez
+F-A086: TP | 0. sutunda '*Status' alias; YAML bozuk
+F-A074: FP | base checkout, PR kodu calismiyor
+F-A094: TP | permissions ifade desteklemez; gecersiz izin degeri
+P-T0256: TIE | ikisi de istenen adimlari karsiliyor
+F-A077: FP | required+default yalnizca gereksiz default
+F-A023: TP | template literal 0. sutunda; YAML bozuk
+P-T0036: B | A gecersiz reusable yol (./workflows/...) ve uydurma adimlar; B gercekci skill-validator kontrolu
+F-A079: FP | claude-code-action yazma yetkisi kontrolu yapiyor
+F-A045: FP | closed olayinda reusable cleanup, PR kodu yok
+F-A120: TP | fork PR head checkout edilip 'uv run' PR dizininde secret/PAT ile calisiyor; FIRST_TIMER filtreyi geciyor
+F-A111: FP | Pages dagitimi icin gerekli izinler
+F-A115: FP | base.ref bakimcilarin kontrolunde
+F-A084: TP | fork PR artifact'i guvenilmez; prContext/yorum icerigi saldirganca belirlenip bot ile keyfi PR/issue yorumu yaptirilabilir
+P-T0481: B | B istekteki template injection duzeltmesine uygun (env ile BASE_REF); A var olmayabilecek just hedefi
+F-A046: FP | ayni-repo + bot yazar + dal kontrolu, token guvenilmez adimlardan sonra uretiliyor
+F-A104: FP | if: false bilincli devre disi birakma (yorumla belirtilmis)
+F-A091: FP | first-interaction, PR kodu yok
+F-A019: FP | yalnizca *.deb/*.rpm yukleniyor, .git/config artifact'a girmiyor
+F-A064: FP | claude-code-action yazma yetkisi kontrolu, salt-okunur izinler
+F-A088: FP | step id needs ile karistirilmis; yalnizca Slack mesajindaki dal adi bos kalir
+P-T0327: B | B Cloudflare versions upload ve pnpm ile gercek uygulama; A yer tutucu dagitim

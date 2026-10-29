@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has a dedicated deploy job with a clear deployment step, while Workflow B only builds and pushes the Docker image without an actual deployment step."}

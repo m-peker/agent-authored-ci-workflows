@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated composer action and correctly runs both phpunit and php-cs-fixer, while workflow A's composer install might fail and it redundantly checks versions."}

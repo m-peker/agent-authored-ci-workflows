@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `superfly/flyctl-actions/setup-flyctl` action, which is the recommended approach for Fly.io deployments and avoids manual Node.js/npm setup, while also correctly specifying the working directory."}

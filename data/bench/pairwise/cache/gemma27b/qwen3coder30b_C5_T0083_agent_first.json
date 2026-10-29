@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements conditional jobs based on changed paths using a custom action, and includes the requested steps for backend checks, while workflow B is incomplete and overly broad in its file matching."}

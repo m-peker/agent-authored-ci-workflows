@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for changes before attempting to commit and push, while Workflow B attempts to commit and push unconditionally."}

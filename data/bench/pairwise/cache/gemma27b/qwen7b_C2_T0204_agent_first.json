@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds the site before deploying and uses a dedicated GitHub Pages deployment action, while A attempts to deploy directly without a build step and relies on `mkdocs gh-deploy` which isn't as robust."}

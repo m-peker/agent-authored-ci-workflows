@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `refs/pull/${{ inputs.pr }}/head` for checkout and the GitHub API with pagination as specified in the request, while B's fork handling is less direct and doesn't fully align with the documented security model."}

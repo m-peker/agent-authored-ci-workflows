@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `uv` as requested, while B uses `pip` and doesn't fully align with the specified toolchain, despite both triggering on the correct branches."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements change detection and status handling with clear conditions, while workflow B focuses on setting PR status and lacks the requested change detection functionality."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the official GitHub Pages actions and has a proper build-deploy separation, while Workflow B incorrectly mixes deployment steps and uses an unofficial action."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/upload-pages-artifact` and `actions/deploy-pages` which are the modern, recommended actions for GitHub Pages deployments, while B uses a deprecated action."}

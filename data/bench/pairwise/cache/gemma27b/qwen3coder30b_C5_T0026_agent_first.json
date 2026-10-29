@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies the `go-package` input for the action, which is necessary for a full scan, while B relies on defaults and requires a checkout step that isn't strictly necessary."}

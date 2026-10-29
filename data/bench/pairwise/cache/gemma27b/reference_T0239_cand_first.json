@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets all required environment variables for the security scan and email sending, while workflow B is missing `RESEND_FROM_EMAIL` and `SECURITY_SCAN_RECIPIENT` which are required for the Resend email functionality."}

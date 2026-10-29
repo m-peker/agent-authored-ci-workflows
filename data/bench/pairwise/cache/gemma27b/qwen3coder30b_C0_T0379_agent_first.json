@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pnpm` as specified by the repository, triggers only on push to `main` as requested, and generates a JSON SBOM as implied by the request, while B uses `npm` and triggers on pull requests unnecessarily."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `workflow_run` trigger and artifact download to address the fork PR 403 errors, while workflow B uses `pull_request_target` which doesn't solve the core problem and is less aligned with the request's two-workflow pattern."}

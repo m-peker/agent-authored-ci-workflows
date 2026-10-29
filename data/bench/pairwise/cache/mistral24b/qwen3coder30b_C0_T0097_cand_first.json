@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct skipLabels parameter to exclude certain types of PRs from changelog enforcement, which is a sensible addition for a Julia package repository."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the stale action with appropriate parameters and triggers, while Workflow B unnecessarily includes Node.js setup and dependency installation steps that are not relevant for a stale issues workflow."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests against both the new MSRV (1.85.0) and stable, while Workflow B only uses the stable toolchain."}

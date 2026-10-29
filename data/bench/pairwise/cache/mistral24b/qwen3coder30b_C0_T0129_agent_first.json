@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes PRs to both main and develop branches, uses the correct query suites, and has a more precise cron schedule."}

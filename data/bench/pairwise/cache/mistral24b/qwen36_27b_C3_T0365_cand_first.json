@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary triggers for both automatic and manual PR reviews, while also handling the /review-pr-ci command as specified in the request."}

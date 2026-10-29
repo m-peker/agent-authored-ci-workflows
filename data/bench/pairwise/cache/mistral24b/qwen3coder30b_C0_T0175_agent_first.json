@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, jobs, and steps for Windows support, including skipping interactive tests and Slack notifications, while Workflow B lacks the specific agent installation and bootstrap steps required by the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the requested `actions-rust-lang/rustfmt@v1` action, while workflow B attempts to run `cargo fmt` directly, which isn't the specified approach."}

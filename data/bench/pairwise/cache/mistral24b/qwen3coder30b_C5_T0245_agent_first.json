@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all the necessary steps to setup the environment, install dependencies, setup a local testnet, and run the tests, while Workflow A relies on an external action without showing the necessary steps."}

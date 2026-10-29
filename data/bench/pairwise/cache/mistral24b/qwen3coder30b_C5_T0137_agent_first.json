@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A handles issue comments and PR edits, which are typical triggers for repo commands, while Workflow B only supports manual dispatch."}

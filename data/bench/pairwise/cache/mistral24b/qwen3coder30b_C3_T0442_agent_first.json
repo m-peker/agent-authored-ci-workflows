@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to main and includes the necessary steps for creating a release pull request or publishing to npm, while Workflow B includes unnecessary steps and triggers."}

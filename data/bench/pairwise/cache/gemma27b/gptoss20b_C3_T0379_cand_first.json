@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses an action designed for SBOM generation with the requested CycloneDX format and artifact upload, while workflow B requires more manual steps and generates a JSON SBOM instead of XML."}

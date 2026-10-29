@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A separates build and deploy into distinct jobs with appropriate `needs`, improving clarity and potential for future expansion, while B combines them, and A uses `ubuntu-latest` for the build which is more common."}

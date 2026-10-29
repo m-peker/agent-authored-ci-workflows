@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the super-linter action and has the right triggers, while Workflow B incorrectly sets up Node.js and installs the linter manually."}

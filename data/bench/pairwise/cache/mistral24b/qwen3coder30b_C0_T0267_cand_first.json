@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the pnpm/action-setup action before setting up Node.js and running pnpm commands, while Workflow B sets up Node.js before installing pnpm."}

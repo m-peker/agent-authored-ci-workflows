@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `actions-rust-lang/setup-rust-toolchain` which is the recommended action for setting up the Rust toolchain and includes `rustfmt` which is good practice, and has a more descriptive step naming convention."}

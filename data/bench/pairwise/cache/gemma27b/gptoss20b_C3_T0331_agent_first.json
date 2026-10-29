@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `rsync` for more efficient file copying and a dedicated action for committing/pushing, and correctly uses a conditional step to avoid unnecessary commits."}

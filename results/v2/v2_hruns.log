@@ -1,0 +1,46 @@
+/workspace/agentci/scripts/human_runs_compare.py:66: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  d[["breaking", "security_high"]] = d[["breaking", "security_high"]].fillna(False).astype(bool)
+fetched shas: 32,810 | versions: 41,082 | with runs: 11,767
+
+Run outcomes (added files unless *_modified):
+                 versions  run_cov_pct  with_runs  failure_pct  startup_failure_pct  fail_if_breaking_pct  median_minutes  fail_if_clean_pct
+group                                                                                                                                      
+Claude_Code        14053         19.0       2670         31.8                  0.2                  82.5             0.6               27.5
+Copilot             4554         18.3        835         31.1                  1.6                  85.6             1.1               24.0
+Cursor              1647          7.7        127         26.0                  0.0                  72.7             0.9               21.6
+Devin               1527          4.5         69         13.0                  1.4                 100.0             0.3               11.8
+Google_Jules         118         33.1         39         43.6                  0.0                  83.3             1.2               36.4
+Human               1411         37.8        534         29.6                  0.7                  91.4             1.1               25.3
+Human_modified     15692         45.8       7183         22.1                  0.2                  40.8             5.5               20.3
+OpenAI_Codex        2080         14.9        310         39.0                  0.3                  87.9             1.1               33.2
+
+Dominant trigger event (% of versions):
+ event           branch_protection_rule  check_run  check_suite  create  delete  deployment_status  issue_comment  issues  label  merge_group  pull_request  pull_request_review  pull_request_review_comment  pull_request_target  push  registry_package  release  repository_dispatch  schedule  status  watch  workflow_dispatch  workflow_run
+group                                                                                                                                                                                                                                                                                                                                            
+Claude_Code                        0.0        0.0          0.0     0.0     0.0                0.0            0.2     3.6    0.0          0.0          74.4                  1.2                          0.4                  6.2  11.9               0.0      0.0                  0.0       0.1     0.0    0.0                0.1           1.9
+Copilot                            0.0        0.0          0.0     0.0     0.0                0.0            0.2     0.0    0.0          0.0          59.4                  0.4                          0.2                  7.4  31.1               0.0      0.1                  0.0       0.0     0.0    0.0                1.1           0.0
+Cursor                             0.0        0.0          0.0     0.0     0.0                0.0            0.0     0.0    0.0          0.0          85.0                  2.4                          0.0                  1.6  10.2               0.0      0.0                  0.0       0.0     0.0    0.0                0.8           0.0
+Devin                              0.0        0.0          0.0     0.0     0.0                0.0            0.0     0.0    0.0          0.0          87.0                  1.4                          0.0                  7.2   2.9               0.0      0.0                  0.0       0.0     0.0    0.0                1.4           0.0
+Google_Jules                       0.0        0.0          0.0     0.0     0.0                0.0            0.0     0.0    0.0          0.0          64.1                  0.0                          0.0                  0.0  35.9               0.0      0.0                  0.0       0.0     0.0    0.0                0.0           0.0
+Human                              0.0        0.0          0.4     0.0     0.2                0.0            9.6     2.2    0.0          1.1           8.6                  0.0                          0.0                  0.2  57.1               0.0      0.2                  0.2       4.3     0.0    0.0               12.2           3.7
+Human_modified                     0.0        0.2          0.0     0.0     0.0                0.0            2.5     0.7    0.0          3.6          11.2                  0.1                          0.0                  0.7  67.3               0.0      0.7                  0.1       4.3     0.1    0.0                6.9           1.5
+OpenAI_Codex                       0.0        0.0          0.0     0.0     0.0                0.0            0.0     0.0    0.0          0.0          81.0                  0.0                          0.0                  6.5  12.3               0.0      0.0                  0.0       0.0     0.0    0.0                0.3           0.0
+
+GEE failure odds ratios (ref Human, added files):
+                 model                   term      OR  CI_low  CI_high      p    n  repos
+             by_agent  author[T.Claude_Code]  1.2931  1.0197   1.6397 0.0339 4584   1664
+             by_agent      author[T.Copilot]  1.2648  0.9616   1.6635 0.0930 4584   1664
+             by_agent       author[T.Cursor]  1.0606  0.6642   1.6937 0.8054 4584   1664
+             by_agent        author[T.Devin]  0.4492  0.1856   1.0874 0.0760 4584   1664
+             by_agent author[T.Google_Jules]  2.1037  0.9140   4.8422 0.0804 4584   1664
+             by_agent author[T.OpenAI_Codex]  1.6166  1.1602   2.2524 0.0045 4584   1664
+             by_agent               log_size  1.0662  0.9594   1.1851 0.2340 4584   1664
+               pooled              agent_any  1.3005  1.0401   1.6261 0.0212 4584   1664
+               pooled               log_size  1.0625  0.9568   1.1799 0.2567 4584   1664
+      pooled_breaking              agent_any  1.2558  0.9938   1.5868 0.0564 4584   1664
+      pooled_breaking               log_size  0.9936  0.9059   1.0897 0.8913 4584   1664
+      pooled_breaking             breaking_i 17.8379  7.9537  40.0053 0.0000 4584   1664
+pooled_breaking_event              agent_any  1.2129  0.7625   1.9293 0.4150 4584   1664
+pooled_breaking_event               log_size  0.9929  0.8996   1.0960 0.8882 4584   1664
+pooled_breaking_event             breaking_i 18.3221  6.3627  52.7603 0.0000 4584   1664
+pooled_breaking_event            is_pr_event  1.0477  0.6239   1.7596 0.8601 4584   1664

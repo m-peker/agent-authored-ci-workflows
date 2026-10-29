@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the right paths and branches, uses the correct OCaml version, and properly builds and releases the scraper binary as specified in the request."}

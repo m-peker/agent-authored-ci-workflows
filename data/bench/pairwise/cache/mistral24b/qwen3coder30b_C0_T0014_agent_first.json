@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a token check and graceful skipping when the secret is not available, which is explicitly mentioned in the request."}

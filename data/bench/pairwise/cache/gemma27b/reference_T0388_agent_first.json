@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly uses the requested minimal ruleset via `--extends minimal` while B does not, fulfilling the request more completely."}

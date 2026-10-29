@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the ability to publish multiple crates via dispatch, uses OIDC authentication, and handles dependencies between crates as requested, while workflow A only allows publishing one crate at a time."}

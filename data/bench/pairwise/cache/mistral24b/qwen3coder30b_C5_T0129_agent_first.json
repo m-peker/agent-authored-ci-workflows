@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a timeout-minutes setting for the job, which is a sensible practice for long-running jobs like CodeQL analysis."}

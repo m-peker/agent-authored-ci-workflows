@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets permissions for issues and pull requests, and includes `days-before-pr-stale` and `days-before-pr-close` to ensure it only affects issues as requested, making it more robust."}

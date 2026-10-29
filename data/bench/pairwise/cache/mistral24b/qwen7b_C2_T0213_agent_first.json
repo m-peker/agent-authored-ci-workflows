@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses on issues only and includes all the required configurations for the stale action, while Workflow B unnecessarily includes Dart setup steps and incorrectly configures the close-issue-label."}

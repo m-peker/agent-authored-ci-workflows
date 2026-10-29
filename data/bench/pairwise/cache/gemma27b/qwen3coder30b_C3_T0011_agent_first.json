@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags, builds for multiple platforms as requested, generates release artifacts with checksums, and extracts changelog entries, while workflow B triggers on main branch and lacks multi-platform builds and checksums."}

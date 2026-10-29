@@ -1,0 +1,1 @@
+{"item_id": "A044", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The job ID contains a '+' character, which is not allowed and will cause the workflow to fail.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The job ID contains a '+' character, which is not allowed and will cause the workflow to fail.\"}\n```"}

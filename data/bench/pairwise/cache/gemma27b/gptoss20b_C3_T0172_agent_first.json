@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly checks out the repository with full history and sets necessary parameters for release-please, making it more likely to function correctly, while A is too minimal."}

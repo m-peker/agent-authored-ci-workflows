@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A specifically targets the new point timeseries tests, while workflow B runs all integration tests which is less focused and potentially slower."}

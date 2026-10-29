@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets Ubuntu 24.04, uses the requested test command, and has appropriate triggers, while Workflow B uses an unnecessary matrix strategy and installs unnecessary dependencies."}

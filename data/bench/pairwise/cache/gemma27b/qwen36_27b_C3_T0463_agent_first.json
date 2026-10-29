@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly mirrors the job names and paths-ignore from the original `codeql.yml` workflow, addressing the critical requirement of the complementary pair system and preventing PRs from being blocked indefinitely."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the `.arb` files in the `develop` branch as specified in the request, and creates a PR with a more detailed description and labels, while workflow B triggers on `main` and pushes to a branch before creating a PR."}

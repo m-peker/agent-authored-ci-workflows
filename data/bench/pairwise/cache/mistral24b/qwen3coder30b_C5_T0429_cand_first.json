@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates the test and publish jobs, ensuring tests pass before publishing, while Workflow B does not."}

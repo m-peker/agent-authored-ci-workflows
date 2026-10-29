@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B demonstrates a more robust and maintainable approach to conditional checks using a dedicated 'changes' job and custom actions, aligning better with the request for path classification and gate emission tooling."}

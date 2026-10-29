@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and PR to main, includes the required test and lint jobs with the specified Node versions, and follows the requested steps without unnecessary additions."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes build and test steps that ensure the code is in a working state before code review, while Workflow A only focuses on the review process."}

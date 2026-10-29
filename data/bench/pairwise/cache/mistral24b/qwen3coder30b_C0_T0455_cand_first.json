@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly adjusts the VitePress base path, generates a zip artifact for gh-pages deployment, and includes all requested jobs and steps."}

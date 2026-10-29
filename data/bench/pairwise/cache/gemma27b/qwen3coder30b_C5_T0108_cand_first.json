@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual release triggered by `workflow_dispatch` and creates a tag with a user-provided version, as requested, while workflow B attempts to re-introduce semantic-release which the request explicitly asked to remove."}

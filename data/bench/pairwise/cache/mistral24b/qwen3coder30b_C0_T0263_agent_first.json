@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested build and test steps, while Workflow A is a reusable workflow for building multi-platform Docker images which is not what was requested."}

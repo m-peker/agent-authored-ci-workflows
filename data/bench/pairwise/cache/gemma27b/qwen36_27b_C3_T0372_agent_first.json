@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes testing with race detection and code coverage, which are good practices for a CI workflow, and integrates with Codecov for reporting, while workflow A is a very basic build and test."}

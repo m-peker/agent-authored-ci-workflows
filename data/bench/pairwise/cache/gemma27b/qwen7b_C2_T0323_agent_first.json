@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `fern generate --docs` command as requested and includes a `workflow_dispatch` trigger, while workflow B attempts to use `cargo install` and deploys to gh-pages which wasn't asked for."}

@@ -1,0 +1,1 @@
+{"action": "tanstack/config/.github/setup", "ref": "main", "exists": true, "name": "Setup Tools", "description": "Action that sets up Node and pnpm", "inputs": {}, "outputs": []}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested matrix of builds and features, and correctly configures sccache with READ_ONLY access, while workflow B has a less clear build matrix and some unnecessary steps."}

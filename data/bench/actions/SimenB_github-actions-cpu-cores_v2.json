@@ -1,0 +1,1 @@
+{"action": "SimenB/github-actions-cpu-cores", "ref": "v2", "exists": true, "name": "CPU Core Count", "description": "Get the number of available cores on the runner", "inputs": {}, "outputs": ["count"]}

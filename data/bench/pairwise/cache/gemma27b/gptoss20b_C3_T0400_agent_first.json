@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `pull_request` trigger and checks for both returning contributors and the `ok-to-test` label, while A uses `pull_request_target` which is less appropriate and has a flawed first-time contributor check."}

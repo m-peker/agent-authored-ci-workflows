@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a reusable workflow with a matrix strategy to validate all specified OpenAPI specs, while Workflow B does not meet the requirement of being a reusable workflow."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses working-directory defaults for each job, making the steps cleaner and more maintainable."}

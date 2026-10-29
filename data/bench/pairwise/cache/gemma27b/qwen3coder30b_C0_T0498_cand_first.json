@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on pull request events, use the `actions/labeler` action with the correct configuration path and token, and would plausibly work for the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the roadmap expansion request by validating the presence of the new sections and priority order in `docs/roadmap.md`, while workflow A only performs linting."}

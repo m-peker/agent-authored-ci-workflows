@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more comprehensively addresses the request by explicitly building for both architectures, creating a universal binary with `lipo`, and including code signing and notarization, whereas workflow B relies on an external script and Homebrew for building and lacks signing/notarization."}

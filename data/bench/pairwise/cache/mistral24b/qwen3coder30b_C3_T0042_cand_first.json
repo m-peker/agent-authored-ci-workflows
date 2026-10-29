@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all the requested triggers (manual, scheduled, PRs, and pushes to main) and uses a reusable workflow for better maintainability."}

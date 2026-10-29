@@ -1,0 +1,1 @@
+{"item_id": "A110", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The app token is used only to create a PR, not to push directly, and the workflow is not triggered by untrusted code.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The app token is used only to create a PR, not to push directly, and the workflow is not triggered by untrusted code.\"}"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested fix by using the proper input name 'prompt' for the claude-code-action and includes all necessary steps for the CI/CD process."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the dependency-review-action and does not include unnecessary options like comment-summary-in-pr which were not requested."}

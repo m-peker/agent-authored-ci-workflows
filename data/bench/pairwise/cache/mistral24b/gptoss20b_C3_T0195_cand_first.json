@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to main, includes semantic-release setup, and handles the requested jobs and steps, while Workflow B triggers on tags and focuses on npm publishing."}

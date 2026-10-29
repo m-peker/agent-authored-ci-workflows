@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request events to the main branch, uses the specified PHP version, and runs Infection with the required parameters, while Workflow B uses an unsupported PHP version and includes unnecessary steps."}

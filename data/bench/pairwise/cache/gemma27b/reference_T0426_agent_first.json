@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI check, triggering on all PRs and executing the provided script with the necessary SHA values."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely matches the request by installing a wider range of Homebrew dependencies likely needed by pyinstaller.sh and including versioning in the artifact names."}

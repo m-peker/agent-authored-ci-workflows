@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `lychee-action` with a config file, includes a fail condition, and has more appropriate triggers than Workflow A, while neither fulfil the directory overview request."}

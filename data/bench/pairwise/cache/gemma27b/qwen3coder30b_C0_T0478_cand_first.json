@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on changes to the necessary files (including `hack/docker/gen/main.go`) and reuses a common workflow for building docker images, while A builds all containers regardless of changes."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (as requested) and builds binaries for multiple OSes, uploading them as artifacts and to releases, while workflow B only triggers on release events and lacks comprehensive OS support."}

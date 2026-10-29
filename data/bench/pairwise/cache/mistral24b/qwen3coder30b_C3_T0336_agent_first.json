@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the working directory, includes test and vet steps, and uses the goreleaser action, while Workflow B has incorrect paths and unnecessary manual installation steps."}

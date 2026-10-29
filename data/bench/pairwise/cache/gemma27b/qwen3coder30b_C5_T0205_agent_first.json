@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a pre-built action for PR sizing and labeling, which is more concise and likely more reliable than B's custom script, and it correctly uses `pull_request_target` for security."}

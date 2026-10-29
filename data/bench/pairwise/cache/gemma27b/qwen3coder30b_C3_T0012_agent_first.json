@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the security vulnerability by using a GitHub Script action to retrieve PR data and pass it as environment variables to the JavaScript validation script, avoiding shell interpolation and heredocs as requested."}

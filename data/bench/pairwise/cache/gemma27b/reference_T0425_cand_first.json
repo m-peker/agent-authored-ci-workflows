@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly reuses existing workflows as jobs, fulfilling the request to add `merge_group` triggers to the 14 critical workflows without duplicating their definitions."}

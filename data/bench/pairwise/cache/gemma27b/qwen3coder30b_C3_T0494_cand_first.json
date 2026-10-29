@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses service containers for the `rspec` job and uploads the coverage artifact as requested, while workflow B unnecessarily runs postgres for multiple jobs and uploads a coverage artifact but doesn't specify the file."}

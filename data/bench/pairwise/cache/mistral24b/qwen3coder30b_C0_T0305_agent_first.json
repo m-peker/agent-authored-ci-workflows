@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly downloads both the test results and event file artifacts, while Workflow B only downloads the test results artifact."}

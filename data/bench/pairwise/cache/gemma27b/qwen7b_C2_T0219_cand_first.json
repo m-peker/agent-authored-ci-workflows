@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to bump the MSRV and edition, including updating the README and running necessary checks, while workflow B focuses on integration tests and doesn't address the core request."}

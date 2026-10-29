@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the npm dist-tag based on the release type and uses the correct permissions for npm publishing."}

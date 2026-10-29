@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly removes the CI workarounds as requested, while Workflow B re-introduces them with the `CI: false` environment variable."}

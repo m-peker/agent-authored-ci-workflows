@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the CI/CD pipeline for building and deploying a VuePress documentation site to GitHub Pages, triggered by changes to the `docs` folder."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the scheduled trigger and basic steps to run the coffee bot, but neither addresses the MCP create_post access requirement."}

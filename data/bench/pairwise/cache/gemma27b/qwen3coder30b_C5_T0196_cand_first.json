@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specific .NET SDK version from global.json as requested, and includes CodeQL analysis, while B uses a version range and lacks CodeQL."}

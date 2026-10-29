@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and pushes to main, uses the correct test command, and includes the necessary environment variable."}

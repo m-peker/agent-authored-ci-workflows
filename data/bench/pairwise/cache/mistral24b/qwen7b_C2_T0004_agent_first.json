@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on releases, pushes to main branch with specific file changes, and allows manual dispatch, while Workflow B misses the file change trigger and manual dispatch."}

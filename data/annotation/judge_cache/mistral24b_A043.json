@@ -1,0 +1,1 @@
+{"item_id": "A043", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The inputs are all from trusted GitHub context variables and workflow outputs.", "raw": "```json\n{\n  \"label\": \"FP\",\n  \"impact\": null,\n  \"reason\": \"The inputs are all from trusted GitHub context variables and workflow outputs.\"\n}\n```"}

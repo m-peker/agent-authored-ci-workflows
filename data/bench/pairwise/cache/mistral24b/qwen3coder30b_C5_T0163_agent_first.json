@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the ctrf-io/github-test-reporter action to persist and display flaky test reports across PRs, while Workflow B does not address the request's requirement to persist reports across PRs."}

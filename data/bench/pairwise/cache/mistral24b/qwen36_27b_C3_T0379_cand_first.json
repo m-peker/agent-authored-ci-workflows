@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses pnpm for dependency management and generates a CycloneDX SBOM, while Workflow A does not specify the SBOM format and lacks pnpm setup."}

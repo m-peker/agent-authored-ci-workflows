@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B triggers the appropriate test workflow for Copilot PRs, while Workflow A only handles auto-approval."}

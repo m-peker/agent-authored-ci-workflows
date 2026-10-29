@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered weekly and generates a status report with merged PRs and closed issues, while Workflow B is triggered on pull requests and runs evaluations, which does not match the request."}

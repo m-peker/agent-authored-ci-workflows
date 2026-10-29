@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `pull_request_target` which is necessary for labeling PRs from forks, and uses the latest version of the action."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a test job that runs the Rust tests, which is relevant to the repository, while Workflow B does not address the request for Jest filter integration at all."}

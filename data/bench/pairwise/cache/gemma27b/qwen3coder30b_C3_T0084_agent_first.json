@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested test paths and uses `uv` for dependency management as implied by the repository, while B uses `pip` and relies on a complex pytest exclusion to avoid unwanted tests."}

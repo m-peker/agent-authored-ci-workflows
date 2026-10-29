@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles the missing token scenario as requested, gracefully skipping tests when the secret is not available, while workflow B does not account for this and will fail."}

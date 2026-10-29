@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes Windows (MSVC) build target and restores the godot/ source directory as requested."}

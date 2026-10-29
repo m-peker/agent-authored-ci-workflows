@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's design decisions, including the warmup and measurement run counts, and correctly calculates and formats the time difference as requested, while B uses `npm run pack` which isn't specified."}

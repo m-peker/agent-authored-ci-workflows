@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pushes to ghcr.io using the GITHUB_TOKEN, aligns with the repository's existing setup, and provides a useful deployment summary, while workflow B attempts to use Docker Hub and lacks specific deployment steps."}

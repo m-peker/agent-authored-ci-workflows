@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements all the requested tests (pytest, Playwright, bandit) and server lifecycle management, while workflow B uses a helper script with unclear implementation details and doesn't demonstrably run the specified tests."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `startsWith` to trigger the release job only on tag pushes, while workflow B uses a less precise tag match and downloads artifacts into a single 'artifacts' directory which is less organized."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins to Python 3.14 and uses the 'uv sync' command for dependency installation as specified in the request."}

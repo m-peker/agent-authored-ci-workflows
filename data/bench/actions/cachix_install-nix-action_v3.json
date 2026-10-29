@@ -1,0 +1,1 @@
+{"action": "cachix/install-nix-action", "ref": "v3", "exists": true, "name": "Install Nix", "description": "Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.", "inputs": {}, "outputs": []}

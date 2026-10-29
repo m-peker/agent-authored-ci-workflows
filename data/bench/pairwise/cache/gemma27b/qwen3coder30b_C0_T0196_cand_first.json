@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `global-json-file` parameter for .NET SDK setup as requested by the PR review feedback, while Workflow B uses `dotnet-version` which was explicitly asked to be removed."}

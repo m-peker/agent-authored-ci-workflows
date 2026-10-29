@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes `pcov` for code coverage, which is essential for Infection, and uses a more specific Composer version (v2) as requested, while B omits coverage and uses a less specific Composer setup."}

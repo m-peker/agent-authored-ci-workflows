@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, uses a pinned version of the govulncheck-action, and has sensible steps for setting up Go and running the vulnerability check."}

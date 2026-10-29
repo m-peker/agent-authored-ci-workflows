@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfills the request by including go fix, bumping to Go 1.26, and speeding up PR checks with conditional race detector usage."}

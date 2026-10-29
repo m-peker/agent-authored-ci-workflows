@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly includes rustfmt for code formatting checks, which is implied by 'code quality' and 'clippy warnings' in the request, and provides more verbose output for debugging."}

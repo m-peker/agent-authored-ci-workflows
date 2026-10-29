@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the project's existing devbox tooling and follows the specified approach of creating a temporary beta branch and publishing to the @beta npm dist-tag."}

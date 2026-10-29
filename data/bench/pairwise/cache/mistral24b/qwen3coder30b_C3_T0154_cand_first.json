@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests the Node.js application which is relevant to the CLI command change, while Workflow B tests Python runtime which is not relevant to the request."}

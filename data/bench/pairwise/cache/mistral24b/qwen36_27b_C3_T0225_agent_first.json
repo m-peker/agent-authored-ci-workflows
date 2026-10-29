@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a comprehensive test suite with pytest and coverage reporting, while Workflow A only handles publishing to PyPI without any testing."}

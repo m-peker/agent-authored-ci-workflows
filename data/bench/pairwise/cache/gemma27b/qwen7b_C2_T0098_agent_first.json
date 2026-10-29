@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Docker Compose to spin up the full Mastodon stack as requested, including database and Redis, and correctly generates secrets, while workflow B appears to be missing key setup steps and uses a simplified `docker-compose.yml` that doesn't align with the request."}

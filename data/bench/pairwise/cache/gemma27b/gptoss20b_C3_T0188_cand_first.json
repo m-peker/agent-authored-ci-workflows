@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B builds and releases the scraper binary as a GitHub Release named `scraper-latest`, which is the core requirement for the other workflows to download from."}

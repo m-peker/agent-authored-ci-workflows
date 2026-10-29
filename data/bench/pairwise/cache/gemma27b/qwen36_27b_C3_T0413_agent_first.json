@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses more appropriate and concise actions (like `extractions/setup-just`) and avoids direct shell commands for tool installation where possible, making it more robust and easier to maintain."}

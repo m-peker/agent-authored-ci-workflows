@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the 25k character limit and adds a basic markdown validation step, while A uses an incorrect 40k limit and provides only informational output."}

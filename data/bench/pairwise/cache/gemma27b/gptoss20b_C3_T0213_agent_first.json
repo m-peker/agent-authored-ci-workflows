@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct parameter names as specified in the actions/stale documentation (e.g., `days-before-issue-stale`), while Workflow B uses deprecated or incorrect names (e.g., `days-before-stale`)."}

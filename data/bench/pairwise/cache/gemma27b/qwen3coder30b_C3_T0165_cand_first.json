@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets permissions for `contents: write`, which is necessary for releasing artifacts, and specifies a Go version, making it more robust than A."}

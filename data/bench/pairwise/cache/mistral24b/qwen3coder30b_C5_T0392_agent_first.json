@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes dependency upgrade and has more comprehensive CI jobs (test, lint, build) compared to Workflow A."}

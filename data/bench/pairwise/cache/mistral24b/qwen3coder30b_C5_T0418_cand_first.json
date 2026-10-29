@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a simple Python command to run the scanner, while Workflow B unnecessarily introduces a dependency with the 'astral-sh/setup-uv' action."}

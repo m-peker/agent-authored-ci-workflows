@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the `.arb` files within the specified `packages/smooth_app/lib/l10n/` directory, and includes a more detailed PR description, while workflow B triggers on changes to `lib/generated` which isn't the request."}

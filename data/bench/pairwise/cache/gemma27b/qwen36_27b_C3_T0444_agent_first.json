@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely implements the request's detailed error reporting and parsing of the `turbo ci` output to provide specific failure annotations, while B provides a more generic summary."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the specified branches for PRs and has separate jobs for unit and integration tests as implied by the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the 'website' directory and updates existing PR comments, while workflow B uses a .NET build process for a C# project and doesn't update existing comments."}

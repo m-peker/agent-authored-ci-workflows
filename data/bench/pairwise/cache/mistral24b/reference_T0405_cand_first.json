@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A specifies the correct directory for php-cs-fixer to fix, while Workflow B does not."}

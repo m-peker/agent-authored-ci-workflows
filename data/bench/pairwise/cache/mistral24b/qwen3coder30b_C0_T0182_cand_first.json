@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the publish command and NPM_TOKEN environment variable which are necessary for publishing packages."}

@@ -1,0 +1,1 @@
+{"item_id": "A035", "judge": "gptoss20b", "label": "TP", "impact": "MEDIUM", "reason": "The tag filter pattern contains an invalid colon, causing the workflow never to trigger on tags.", "raw": "{\"label\":\"TP\",\"impact\":\"MEDIUM\",\"reason\":\"The tag filter pattern contains an invalid colon, causing the workflow never to trigger on tags.\"}"}

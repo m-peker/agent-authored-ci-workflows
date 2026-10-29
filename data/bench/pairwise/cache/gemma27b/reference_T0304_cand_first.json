@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement a release pipeline triggered by tags, including validation and building, but neither directly addresses the Ollama provider integration requested."}

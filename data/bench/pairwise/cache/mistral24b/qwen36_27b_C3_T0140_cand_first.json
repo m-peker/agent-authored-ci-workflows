@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct branch name (main) in the push trigger and has a more up-to-date version of the checkout action."}

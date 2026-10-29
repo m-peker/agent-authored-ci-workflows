@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly implements a dispatchable command system as requested, while A relies on an external action and comment triggers which are less explicit for repo commands."}

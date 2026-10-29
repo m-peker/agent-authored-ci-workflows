@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the main branch and merge_group triggers, which are more comprehensive than Workflow B's PR triggers."}

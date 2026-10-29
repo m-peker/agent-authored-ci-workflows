@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality: triggering on pull request label 'run-tests', checking out the PR code, setting up Node.js, installing dependencies, and running tests with necessary credentials."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request events (opened, synchronize, reopened) as implied by the request, while B's path restriction is overly specific and doesn't cover all relevant changes."}

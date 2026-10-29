@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers after the Windows workflow completes and includes all necessary steps for the WASM build."}

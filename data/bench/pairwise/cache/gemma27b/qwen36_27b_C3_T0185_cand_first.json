@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested link checking with lychee, including configuration file usage and failure on broken links, and has more appropriate triggers, while B lacks the directory overview and uses an older action version."}

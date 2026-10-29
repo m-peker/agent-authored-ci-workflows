@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on release events and tag pushes, which is more appropriate for publishing binaries to GitHub releases."}

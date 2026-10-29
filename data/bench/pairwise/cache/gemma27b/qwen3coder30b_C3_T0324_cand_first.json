@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the path-gated and script-only change requirements, while A's `if` condition is overly complex and doesn't enforce the script-only constraint."}

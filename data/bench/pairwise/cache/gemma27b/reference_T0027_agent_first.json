@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly set up Ruby, run the `al-folio upgrade audit` command, and upload the report; however, neither workflow executes the full suite of validation steps requested in the prompt."}

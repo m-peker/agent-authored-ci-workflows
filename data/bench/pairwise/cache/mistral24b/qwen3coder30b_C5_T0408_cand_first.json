@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes/PRs to main/master/feature branches and includes all required steps with sensible actions, while Workflow B triggers on a specific branch and uses an incorrect action for Python installation."}

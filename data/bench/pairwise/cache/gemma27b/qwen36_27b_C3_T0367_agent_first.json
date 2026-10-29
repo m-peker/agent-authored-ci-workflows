@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly requests and receives the `issues: write` permission, uses outputs for clearer conditional logic, and has a more structured issue creation process with better formatting."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more cleanly separates concerns with `make` targets for each step, making it more maintainable and readable, and correctly implements the requested 120s timeout."}

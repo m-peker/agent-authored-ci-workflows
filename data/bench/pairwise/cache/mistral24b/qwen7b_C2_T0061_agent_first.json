@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested tests and triggers on push to main, while Workflow A only has a manual trigger and lacks the testing steps."}

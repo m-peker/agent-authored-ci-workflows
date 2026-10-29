@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by using a hardened runner, separating build execution and wheel location into distinct steps, and including all required cleanup steps."}

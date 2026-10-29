@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the docs directory and has a single job that deploys to GitHub Pages, while Workflow B unnecessarily splits the process into build and deploy jobs."}

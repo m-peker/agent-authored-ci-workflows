@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets minimal permissions for the job while Workflow B omits this security measure."}

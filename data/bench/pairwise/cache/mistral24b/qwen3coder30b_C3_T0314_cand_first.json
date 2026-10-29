@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered on push to main branch and sends a deployment summary email, which matches the request, while Workflow B is for generating and sending a deployment summary to Slack using AI, which doesn't match the request."}

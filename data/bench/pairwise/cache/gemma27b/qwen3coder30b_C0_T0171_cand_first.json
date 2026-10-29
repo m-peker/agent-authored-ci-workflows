@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `permissions: pull-requests: write` which is essential for commenting on PRs from forks, while A relies on the default token which lacks write access."}

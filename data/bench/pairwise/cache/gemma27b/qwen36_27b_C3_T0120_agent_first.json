@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B adheres to the request's instruction to remove aggressive pre-checkout cleanup steps (avoiding root-privileged Docker containers) and focuses on safe, user-level operations, while A reintroduces a Docker-based cleanup with root permissions."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the request by providing a workflow_dispatch trigger and calling all other workflows using the `uses` keyword."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct Aliyun registry domain (registry.cn-hangzhou.aliyuncs.com) as implied by the repository's location, while workflow B uses a personal registry domain which is unlikely to be the intended target."}

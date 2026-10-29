@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested steps (typecheck, build, e2e tests, report upload) and correctly configures Playwright with browser installation, while workflow B lacks the typecheck and build steps and has a conditional test run that isn't ideal."}

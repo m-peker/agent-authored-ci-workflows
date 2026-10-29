@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the Neon action to delete the branch and provides feedback in the PR comment, while Workflow B attempts to run a custom script which isn't guaranteed to exist or work as expected."}

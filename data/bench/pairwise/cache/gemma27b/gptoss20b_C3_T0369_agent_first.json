@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested tagging scheme (`{branch}-{sha}`), allows selection of service to build, and provides clear instructions for deployment, while workflow B uses a simpler tag and lacks service selection."}

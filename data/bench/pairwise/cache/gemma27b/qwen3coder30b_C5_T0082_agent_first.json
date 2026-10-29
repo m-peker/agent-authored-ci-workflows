@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B breaks down the CI process into more granular jobs (lint, typecheck, test, build) which is better practice and more aligned with a comprehensive CI pipeline, while A only runs TypeScript and Python tests."}

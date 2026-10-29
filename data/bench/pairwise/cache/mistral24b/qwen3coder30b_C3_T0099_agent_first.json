@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses on pushing the specific manifests from the overlays/x86 directory and uses the appropriate Flux CLI actions for OCI artifact handling."}

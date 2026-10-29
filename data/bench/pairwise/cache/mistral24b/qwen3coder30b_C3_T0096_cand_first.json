@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the main branch and uses the appropriate Rust language for analysis, while Workflow B triggers on the master branch and includes unnecessary languages."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly separates the build/test and Chromatic steps, uses Playwright as requested, and sets the necessary environment variable, aligning with the provided instructions, while A attempts to use Storybook which was explicitly removed."}

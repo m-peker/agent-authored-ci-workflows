@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull_request_target and uses the actions/labeler action, which is relevant to the request, while Workflow B triggers on issue opening and performs a custom validation that doesn't address the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the docs package and runs Playwright tests, while Workflow B focuses on documentation generation and doesn't match the request."}

@@ -1,0 +1,1 @@
+{"action": "pytorch/pytorch/.github/actions/setup-xpu", "ref": "main", "exists": true, "name": "Setup XPU host", "description": "Set up XPU host for CI", "inputs": {}, "outputs": []}

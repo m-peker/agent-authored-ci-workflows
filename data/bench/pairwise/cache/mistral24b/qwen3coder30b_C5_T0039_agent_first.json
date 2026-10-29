@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tag pushes and includes all necessary jobs and steps for building and uploading release artifacts, while Workflow B misses the macOS build step and uses an incorrect trigger."}

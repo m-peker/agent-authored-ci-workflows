@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the required configurations and messages for marking and closing stale PRs, while Workflow B is missing the close message configuration."}

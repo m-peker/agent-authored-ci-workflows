@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to remove aggressive pre-checkout cleanup steps by attempting cleanup with user permissions first and only using Docker as a last resort, while also being designed for self-hosted runners."}

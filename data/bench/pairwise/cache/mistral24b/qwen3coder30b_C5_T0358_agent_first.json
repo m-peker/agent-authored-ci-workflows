@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the coverage-badge-action to generate and commit the coverage badge, while Workflow B does not properly generate a coverage badge and uses an outdated action reference."}

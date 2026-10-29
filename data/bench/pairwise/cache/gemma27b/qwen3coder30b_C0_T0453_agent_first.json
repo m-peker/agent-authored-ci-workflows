@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B attempts to address the core issue of incorrect lockfile content by explicitly isolating the package and re-installing with a frozen lockfile, while A does not address the problem at all."}

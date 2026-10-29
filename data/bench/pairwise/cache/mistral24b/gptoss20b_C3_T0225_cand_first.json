@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes testing steps and triggers on PRs and pushes to main, while Workflow B is for publishing to PyPI and doesn't include testing."}

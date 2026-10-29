@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more comprehensive, covering linting, formatting, and typechecking, and uses `make` which aligns with a more robust build process implied by the request, while A only covers lint and typecheck."}

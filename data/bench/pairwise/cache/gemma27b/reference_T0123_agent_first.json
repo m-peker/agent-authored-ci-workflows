@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `lifecycle/stale` label as requested, while workflow B uses a generic `stale` label, and also includes the `lifecycle/frozen` label in the exemption list as requested."}

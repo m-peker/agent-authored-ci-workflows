@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses workflow_run to trigger the flaky monitor and persists reports across PRs by fetching previous results."}

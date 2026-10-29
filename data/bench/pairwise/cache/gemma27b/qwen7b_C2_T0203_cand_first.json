@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to fulfil the request of backporting a PR, while workflow B checks for milestone assignment and is unrelated to the request."}

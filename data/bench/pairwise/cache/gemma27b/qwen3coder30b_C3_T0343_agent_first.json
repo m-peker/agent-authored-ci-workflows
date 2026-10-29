@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request to match the pyinstaller.sh environment, including specific Homebrew dependencies and a Homebrew-managed Python virtual environment, while B uses a standard Python venv and fewer dependencies."}

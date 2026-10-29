@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows identically and correctly fulfil the request by triggering tests on pull requests to main, using a recent Go version, and running `go test` with race detection and a timeout."}

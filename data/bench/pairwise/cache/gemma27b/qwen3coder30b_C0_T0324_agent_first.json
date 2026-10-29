@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's intent of limiting CI work to tooling changes by implementing a more robust check for script-only edits, while B's changed-files check is simpler and less precise."}

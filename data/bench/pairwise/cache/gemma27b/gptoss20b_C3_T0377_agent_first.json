@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on `push` as implied by the request to debug push failures, and uses the built-in `GITHUB_TOKEN` to fetch branch protection rules, whereas A triggers on `pull_request` and uses a personal access token which is less secure and less appropriate."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by updating and creating a PR for `uv.lock`, while workflow B includes unnecessary test and coverage steps not asked for in the prompt."}

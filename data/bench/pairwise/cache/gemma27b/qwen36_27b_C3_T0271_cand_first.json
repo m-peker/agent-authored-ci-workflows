@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request with a simple, functional build using JDK 21, while workflow B introduces unnecessary complexity with custom actions and conditional logic that isn't required by the prompt."}

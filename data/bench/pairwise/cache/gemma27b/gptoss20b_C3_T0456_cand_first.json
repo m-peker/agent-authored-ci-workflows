@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the `workflow_dispatch` trigger with the specified inputs, actor restriction, and overall workflow chain logic, while workflow A is empty."}

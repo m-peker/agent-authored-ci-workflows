@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds the tests into a `bin/` directory and then runs them from there, mirroring the expected build process and providing a place for artifacts, while B attempts to run the tests directly from the `tests/` directory without a prior build step."}

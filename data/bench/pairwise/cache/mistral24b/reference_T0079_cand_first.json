@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a Termux container directly, which is more appropriate for testing inside Termux, while Workflow B uses Docker with QEMU emulation."}

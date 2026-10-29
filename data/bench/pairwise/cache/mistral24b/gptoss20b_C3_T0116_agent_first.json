@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes testing across multiple Python versions and branches, uses a modern package manager (uv), and includes both linting and formatting checks."}

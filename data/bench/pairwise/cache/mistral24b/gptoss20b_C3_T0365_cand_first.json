@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles all specified triggers and commands while Workflow B only handles PR reviews and misses issue comment triggers."}

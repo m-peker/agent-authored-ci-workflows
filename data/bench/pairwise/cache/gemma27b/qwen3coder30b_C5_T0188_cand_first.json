@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles updating the `scraper-latest` release by deleting the previous one before creating a new one, which is crucial for ensuring the scraping workflows always use the latest binary, while A only overwrites."}

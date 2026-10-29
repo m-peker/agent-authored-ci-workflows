@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes and properly handles release creation and deletion, while Workflow B lacks path filtering and has incorrect release handling."}

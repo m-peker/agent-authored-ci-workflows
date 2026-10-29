@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified events, checks for architecturally significant changes, and uses the Copilot Coding Agent to validate and create ADRs as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets macOS 14 (Apple Silicon) and closely follows the request to replicate the pyinstaller.sh environment, including Homebrew dependencies and virtualenv setup, while B uses macOS 13 and a different Python version."}

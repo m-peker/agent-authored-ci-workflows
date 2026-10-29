@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's design decisions, including warmup runs and calculating the median directly within the workflow, while B uses `npm run pack` which isn't specified and has issues with environment variable handling."}

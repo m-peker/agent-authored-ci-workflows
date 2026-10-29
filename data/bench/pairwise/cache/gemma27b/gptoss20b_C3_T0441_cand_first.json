@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to name snapshots with the commit hash and sets the required environment variable, while workflow B introduces unnecessary complexity with Doppler configuration and a specific runner."}

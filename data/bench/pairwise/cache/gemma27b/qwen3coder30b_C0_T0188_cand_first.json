@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements downloading a pre-built binary by creating and updating a `scraper-latest` release, while workflow A attempts to build the scraper from source, contradicting the request."}

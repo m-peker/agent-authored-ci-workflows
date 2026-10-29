@@ -1,0 +1,17 @@
+model,term,OR,CI_low,CI_high,p,n,repos
+by_agent,author[T.Claude_Code],1.2931,1.0197,1.6397,0.0339,4584,1664
+by_agent,author[T.Copilot],1.2648,0.9616,1.6635,0.093,4584,1664
+by_agent,author[T.Cursor],1.0606,0.6642,1.6937,0.8054,4584,1664
+by_agent,author[T.Devin],0.4492,0.1856,1.0874,0.076,4584,1664
+by_agent,author[T.Google_Jules],2.1037,0.914,4.8422,0.0804,4584,1664
+by_agent,author[T.OpenAI_Codex],1.6166,1.1602,2.2524,0.0045,4584,1664
+by_agent,log_size,1.0662,0.9594,1.1851,0.234,4584,1664
+pooled,agent_any,1.3005,1.0401,1.6261,0.0212,4584,1664
+pooled,log_size,1.0625,0.9568,1.1799,0.2567,4584,1664
+pooled_breaking,agent_any,1.2573,0.9948,1.589,0.0553,4584,1664
+pooled_breaking,log_size,0.9933,0.9056,1.0894,0.8858,4584,1664
+pooled_breaking,breaking_i,18.2756,8.0787,41.343,0.0,4584,1664
+pooled_breaking_event,agent_any,1.209,0.7596,1.9243,0.4236,4584,1664
+pooled_breaking_event,log_size,0.9925,0.8991,1.0957,0.8819,4584,1664
+pooled_breaking_event,breaking_i,18.8398,6.4786,54.7859,0.0,4584,1664
+pooled_breaking_event,is_pr_event,1.0541,0.6272,1.7714,0.8424,4584,1664

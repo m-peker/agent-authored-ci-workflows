@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on tags, set up Go, and run GoReleaser with the requested arguments, differing only in tag filtering and Go cache which don't affect core functionality."}

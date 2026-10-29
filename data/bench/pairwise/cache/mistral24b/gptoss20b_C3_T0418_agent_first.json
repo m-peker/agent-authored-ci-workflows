@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push/PR to main, uses a sensible action for Python setup, and runs the scanner as requested."}

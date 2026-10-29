@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A focuses on the Docker image build and push, which is central to the deployment described in the request, while workflow B attempts too much (release creation, PyPI publishing) and introduces unnecessary complexity."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_dispatch` with inputs and calls the reusable workflow with the necessary parameters, while workflow B attempts to trigger the workflow via API which is more complex and less reliable for this use case."}

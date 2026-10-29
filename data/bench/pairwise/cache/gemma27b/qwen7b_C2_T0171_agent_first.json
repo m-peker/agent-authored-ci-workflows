@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `workflow_run` trigger to react to the `test-build` workflow, finds the associated PR (crucially for forks), and posts/updates the comment as requested, while workflow B requires manual input and doesn't address the core problem of fork PRs."}

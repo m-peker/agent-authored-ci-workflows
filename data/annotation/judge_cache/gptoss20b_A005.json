@@ -1,0 +1,1 @@
+{"item_id": "A005", "judge": "gptoss20b", "label": "FP", "impact": "LOW", "reason": "Duplicate job IDs in a needs list are allowed and do not cause the workflow to fail or behave incorrectly.", "raw": "{\"label\":\"FP\",\"impact\":\"LOW\",\"reason\":\"Duplicate job IDs in a needs list are allowed and do not cause the workflow to fail or behave incorrectly.\"}"}

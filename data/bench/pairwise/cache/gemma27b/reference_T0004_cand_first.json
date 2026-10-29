@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `actions/setup-python@v5` which is the latest version, while workflow B uses `actions/setup-python@v4`, and A also uses `actions/checkout@v4` which is the latest version."}

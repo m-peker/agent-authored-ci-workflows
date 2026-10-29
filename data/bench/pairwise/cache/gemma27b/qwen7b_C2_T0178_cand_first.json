@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `workflow_run` trigger as requested, handles fork PRs securely, and implements a more robust labeling logic using GraphQL, while workflow A uses the deprecated `pull_request_target` trigger and a less secure `curl` approach."}

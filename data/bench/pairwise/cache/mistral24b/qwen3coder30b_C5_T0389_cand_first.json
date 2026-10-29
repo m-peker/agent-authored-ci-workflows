@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the studio package and checks for version changes before publishing, while Workflow B incorrectly triggers on mesh version changes and patches the studio version."}

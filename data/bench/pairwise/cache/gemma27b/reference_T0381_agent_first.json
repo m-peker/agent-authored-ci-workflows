@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the core request of moving full coverage collection to a scheduled job, using the correct trigger and a matrix strategy to iterate through configurations."}

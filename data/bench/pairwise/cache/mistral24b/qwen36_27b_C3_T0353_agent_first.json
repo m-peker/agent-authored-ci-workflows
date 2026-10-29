@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more specific branch triggers and includes multiple PHP versions in its matrix."}

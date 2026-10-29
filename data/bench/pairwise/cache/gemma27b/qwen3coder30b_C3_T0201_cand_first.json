@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Go to install and run the OSV scanner, which is the recommended approach, while workflow A uses a shell script installation which is less reliable and maintainable."}

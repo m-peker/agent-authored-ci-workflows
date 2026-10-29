@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary script and logic to check for AI co-authors, while Workflow B assumes the script exists and doesn't handle the script's creation or the logic for checking commits."}

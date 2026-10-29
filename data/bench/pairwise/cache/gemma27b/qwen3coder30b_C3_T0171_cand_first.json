@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `permissions: pull-requests: write` and a GitHub Script action to reliably find the PR number, and handles both creating and updating comments, making it more robust and aligned with best practices for commenting on PRs from forks."}

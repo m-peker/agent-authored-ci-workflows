@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes rate limiting and fail-fast escalation as requested, while Workflow A does not."}

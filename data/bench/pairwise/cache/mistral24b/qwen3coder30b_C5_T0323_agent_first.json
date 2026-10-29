@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the docs-website branch and includes the required Fern CLI installation and documentation generation steps, while Workflow B lacks the necessary trigger configuration and includes irrelevant Rust setup steps."}

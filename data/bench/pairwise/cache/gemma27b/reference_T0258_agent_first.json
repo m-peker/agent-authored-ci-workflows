@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on PR events, check the PR description using a script, and exclude automated PRs, but rely on an external script that isn't provided."}

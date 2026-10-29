@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the asset copying step from `fastlane/metadata/` and the root directory to `public/` as requested, and correctly sets the `BASE_PATH` for GitHub Pages, while A does not."}

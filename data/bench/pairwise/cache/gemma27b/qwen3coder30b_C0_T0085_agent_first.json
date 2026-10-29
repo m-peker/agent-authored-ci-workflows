@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `copilot-swe-agent` as the actor name, as specified in the issue description, while Workflow B uses incorrect actor names and the wrong trigger type."}

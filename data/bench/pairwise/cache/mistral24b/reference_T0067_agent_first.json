@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes caching for pnpm, which is a sensible optimization for a CI/CD workflow."}

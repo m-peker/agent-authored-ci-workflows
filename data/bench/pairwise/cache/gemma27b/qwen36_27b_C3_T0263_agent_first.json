@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is designed for building and publishing Docker images, which aligns with a CI/CD pipeline for a software project like Sourcebot, while workflow B focuses on linting and testing, which are important but don't represent the core build/deploy process requested."}

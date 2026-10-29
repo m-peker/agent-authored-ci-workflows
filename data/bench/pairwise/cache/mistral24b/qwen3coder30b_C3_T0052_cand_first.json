@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and uses the appropriate action with a well-defined prompt for C++ code review."}

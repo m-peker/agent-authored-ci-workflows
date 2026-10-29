@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A focuses on building desktop artifacts as requested, including macOS builds and artifact collection, while workflow B attempts a full release process including npm publishing which is outside the scope of the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on main branch changes and includes steps to audit ADRs, while Workflow A focuses on OpenTherm v4.2 spec audit which is not requested."}

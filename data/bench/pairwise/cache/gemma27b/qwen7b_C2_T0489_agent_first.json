@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request with minimal unnecessary steps, while Workflow B includes Rust setup steps that are irrelevant to the task of marking stale pull requests."}

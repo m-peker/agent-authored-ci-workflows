@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to the main branch and specifically targets the overlays/x86 manifests, while Workflow B does not explicitly target the overlays/x86 manifests."}

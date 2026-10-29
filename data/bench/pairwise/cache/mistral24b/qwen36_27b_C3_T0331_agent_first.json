@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes to docs and workflow_dispatch, while Workflow B lacks branch specification."}

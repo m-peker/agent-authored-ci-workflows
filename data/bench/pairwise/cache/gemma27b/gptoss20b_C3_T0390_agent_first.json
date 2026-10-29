@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_run` to trigger and handles both deploy and cleanup within a single job based on metadata, while workflow B incorrectly attempts to handle PR closing events and uses less appropriate actions for the task."}

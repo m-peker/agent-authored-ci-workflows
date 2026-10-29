@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the cron schedule for 4am CST and includes additional checks for CI status and merge conflicts."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull request review approval and uses conditional checkout for push vs PR events, while A triggers on all PR events regardless of approval status."}

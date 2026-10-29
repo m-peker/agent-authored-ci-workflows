@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is sufficient and doesn't redundantly specify the token, which is automatically provided by GitHub Actions."}

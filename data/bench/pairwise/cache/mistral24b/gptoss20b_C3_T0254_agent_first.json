@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A fulfills all requirements including correct triggers, macOS runner, benchmark collection, pushing to perf branch, and step summary with JSON results."}

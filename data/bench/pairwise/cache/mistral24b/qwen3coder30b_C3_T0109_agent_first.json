@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has proper concurrency control and separate build and deploy jobs, making it more robust for CI/CD."}

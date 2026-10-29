@@ -1,0 +1,171 @@
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+/workspace/agentci/scripts/human_compare.py:41: FutureWarning: Downcasting object dtype arrays on .fillna, .ffill, .bfill is deprecated and will change in a future version. Call result.infer_objects(copy=False) instead. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  h[c] = h[c].fillna(False).astype(bool)
+human versions: 17,103 (2,744 repos) | agent first versions: 135,286
+
+Prevalence (% files with >= 1 finding):
+   origin author_group  files  repos  breaking_pct  ci_correctness_pct  unparseable_pct  deprecation_pct  untrusted_input_pct  supply_chain_pct  security_high_pct  security_other_pct  ci_noise_pct
+   added  Claude_Code  14053   2253           4.8                 4.8              0.0              4.7                  1.0              74.6               29.9                79.2           6.5
+   added      Copilot   4554   1251           5.2                 5.2              0.1              7.8                  0.8              78.7               28.2                81.6           4.1
+   added       Cursor   1647    180           2.2                 2.2              0.1              3.7                  1.2              47.7               19.6                71.6           2.2
+   added        Devin   1527     69           2.9                 2.9              0.0             11.5                  0.5              72.8               34.9                86.6           8.9
+   added Google_Jules    118     33          10.2                10.2              0.0             27.1                  3.4              94.9               11.9                92.4           0.0
+   added        Human   1411    904           4.2                 4.2              0.1              4.6                  0.6              80.9               30.0                82.6           3.5
+   added OpenAI_Codex   2080    607           5.4                 5.3              0.1              8.3                  0.7              85.2               22.5                82.5           5.3
+modified  Claude_Code  58772   3890           8.1                 8.1              0.0              7.0                  1.7              74.2               36.3                90.1          14.1
+modified      Copilot  29052   2728          10.4                10.4              0.1              8.5                  0.9              69.3               28.7                87.5           6.3
+modified       Cursor   4044    290           5.2                 5.2              0.0              7.4                  1.4              73.0               26.3                79.9          16.3
+modified        Devin   7020    110           6.9                 6.9              0.0             17.0                  1.0              75.8               29.7                92.3           7.4
+modified Google_Jules   1697     82           1.8                 1.8              0.1             12.4                  0.2              24.9               27.3                93.4           0.2
+modified        Human  15692   2650           8.3                 8.3              0.2              9.4                  1.3              76.2               31.3                92.7           9.7
+modified OpenAI_Codex  10722   1129           8.7                 8.6              0.1             10.6                  1.0              79.5               30.3                90.0          14.4
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:198: RuntimeWarning: overflow encountered in exp
+  t = np.exp(-z)
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:239: RuntimeWarning: overflow encountered in exp
+  t = np.exp(z)
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:240: RuntimeWarning: invalid value encountered in divide
+  return t / (1 + t) ** 2
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:240: RuntimeWarning: overflow encountered in square
+  return t / (1 + t) ** 2
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:239: RuntimeWarning: overflow encountered in exp
+  t = np.exp(z)
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:240: RuntimeWarning: invalid value encountered in divide
+  return t / (1 + t) ** 2
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:198: RuntimeWarning: overflow encountered in exp
+  t = np.exp(-z)
+/workspace/agentci/scripts/human_compare.py:88: RuntimeWarning: overflow encountered in exp
+  "OR": np.exp(m.params[t]), "CI_low": np.exp(ci.loc[t, 0]),
+/workspace/agentci/scripts/human_compare.py:89: RuntimeWarning: overflow encountered in exp
+  "CI_high": np.exp(ci.loc[t, 1]), "p": m.pvalues[t], "n": int(m.nobs),
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:198: RuntimeWarning: overflow encountered in exp
+  t = np.exp(-z)
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:239: RuntimeWarning: overflow encountered in exp
+  t = np.exp(z)
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/families/links.py:240: RuntimeWarning: invalid value encountered in divide
+  return t / (1 + t) ** 2
+/workspace/agentci/.venv/lib/python3.12/site-packages/statsmodels/genmod/generalized_estimating_equations.py:1300: IterationLimitWarning: Iteration limit reached prior to convergence
+  warnings.warn("Iteration limit reached prior to convergence",
+
+GEE odds ratios vs Human:
+   origin        scope       outcome    model                   term     OR  CI_low  CI_high      p      n  repos
+   added    all_repos      breaking by_agent  author[T.Claude_Code] 1.1921  0.8345   1.7028 0.3342  25390   4094
+   added    all_repos      breaking by_agent      author[T.Copilot] 1.2188  0.8185   1.8148 0.3300  25390   4094
+   added    all_repos      breaking by_agent       author[T.Cursor] 1.5163  0.9635   2.3863 0.0720  25390   4094
+   added    all_repos      breaking by_agent        author[T.Devin] 1.2977  0.5009   3.3624 0.5916  25390   4094
+   added    all_repos      breaking by_agent author[T.Google_Jules] 3.9560  1.1826  13.2336 0.0256  25390   4094
+   added    all_repos      breaking by_agent author[T.OpenAI_Codex] 1.5036  0.9159   2.4685 0.1069  25390   4094
+   added    all_repos      breaking by_agent               log_size 1.6362  1.3944   1.9200 0.0000  25390   4094
+   added    all_repos      breaking   pooled              agent_any 1.2541  0.8902   1.7667 0.1954  25390   4094
+   added    all_repos      breaking   pooled               log_size 1.6250  1.3897   1.9002 0.0000  25390   4094
+   added    all_repos security_high by_agent  author[T.Claude_Code] 0.9843  0.8627   1.1230 0.8139  25390   4094
+   added    all_repos security_high by_agent      author[T.Copilot] 0.8266  0.6997   0.9766 0.0252  25390   4094
+   added    all_repos security_high by_agent       author[T.Cursor] 0.8711  0.7007   1.0829 0.2139  25390   4094
+   added    all_repos security_high by_agent        author[T.Devin] 1.0955  0.6531   1.8373 0.7297  25390   4094
+   added    all_repos security_high by_agent author[T.Google_Jules] 0.6225  0.3200   1.2110 0.1627  25390   4094
+   added    all_repos security_high by_agent author[T.OpenAI_Codex] 0.7296  0.5988   0.8890 0.0018  25390   4094
+   added    all_repos security_high by_agent               log_size 1.8711  1.7105   2.0468 0.0000  25390   4094
+   added    all_repos security_high   pooled              agent_any 0.9139  0.8059   1.0363 0.1601  25390   4094
+   added    all_repos security_high   pooled               log_size 1.8789  1.7175   2.0554 0.0000  25390   4094
+   added    all_repos  supply_chain by_agent  author[T.Claude_Code]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent      author[T.Copilot]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent       author[T.Cursor]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent        author[T.Devin]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent author[T.Google_Jules]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent author[T.OpenAI_Codex]    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain by_agent               log_size    NaN     NaN      NaN    NaN  25390   4094
+   added    all_repos  supply_chain   pooled              agent_any 1.0729  0.8472   1.3586 0.5593  25390   4094
+   added    all_repos  supply_chain   pooled               log_size 1.2478  1.0305   1.5109 0.0233  25390   4094
+   added shared_repos      breaking by_agent  author[T.Claude_Code]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent      author[T.Copilot]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent       author[T.Cursor]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent        author[T.Devin]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent author[T.Google_Jules]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent author[T.OpenAI_Codex]    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking by_agent               log_size    NaN     NaN      NaN    NaN  10324    765
+   added shared_repos      breaking   pooled              agent_any 1.1485  0.7890   1.6718 0.4698  10324    765
+   added shared_repos      breaking   pooled               log_size 1.2486  0.9317   1.6732 0.1371  10324    765
+   added shared_repos security_high by_agent  author[T.Claude_Code] 1.0646  0.9214   1.2300 0.3960  10324    765
+   added shared_repos security_high by_agent      author[T.Copilot] 1.0069  0.8316   1.2192 0.9438  10324    765
+   added shared_repos security_high by_agent       author[T.Cursor] 0.9389  0.7405   1.1906 0.6030  10324    765
+   added shared_repos security_high by_agent        author[T.Devin] 1.2511  0.7477   2.0934 0.3937  10324    765
+   added shared_repos security_high by_agent author[T.Google_Jules] 1.4399  0.5877   3.5281 0.4252  10324    765
+   added shared_repos security_high by_agent author[T.OpenAI_Codex] 0.7905  0.5887   1.0615 0.1181  10324    765
+   added shared_repos security_high by_agent               log_size 1.7692  1.5552   2.0126 0.0000  10324    765
+   added shared_repos security_high   pooled              agent_any 1.0188  0.8940   1.1610 0.7800  10324    765
+   added shared_repos security_high   pooled               log_size 1.7713  1.5552   2.0174 0.0000  10324    765
+   added shared_repos  supply_chain by_agent  author[T.Claude_Code]    inf     inf      inf 0.0000  10324    765
+   added shared_repos  supply_chain by_agent      author[T.Copilot]    inf     inf      inf 0.0000  10324    765
+   added shared_repos  supply_chain by_agent       author[T.Cursor]    inf     inf      inf 0.0000  10324    765
+   added shared_repos  supply_chain by_agent        author[T.Devin]    inf     inf      inf 0.0000  10324    765
+   added shared_repos  supply_chain by_agent author[T.Google_Jules] 0.0000  0.0000   0.0000 0.0000  10324    765
+   added shared_repos  supply_chain by_agent author[T.OpenAI_Codex] 0.0000  0.0000   0.0000 0.0000  10324    765
+   added shared_repos  supply_chain by_agent               log_size 0.0000  0.0000   0.0000 0.0000  10324    765
+   added shared_repos  supply_chain   pooled              agent_any 1.1218  0.9659   1.3030 0.1323  10324    765
+   added shared_repos  supply_chain   pooled               log_size 1.2473  1.0282   1.5130 0.0249  10324    765
+modified    all_repos      breaking by_agent  author[T.Claude_Code] 0.9664  0.8676   1.0764 0.5339 126999   7134
+modified    all_repos      breaking by_agent      author[T.Copilot] 1.2111  1.0116   1.4499 0.0370 126999   7134
+modified    all_repos      breaking by_agent       author[T.Cursor] 0.9105  0.7775   1.0662 0.2444 126999   7134
+modified    all_repos      breaking by_agent        author[T.Devin] 1.0988  0.6964   1.7337 0.6856 126999   7134
+modified    all_repos      breaking by_agent author[T.Google_Jules] 1.2341  0.7598   2.0046 0.3954 126999   7134
+modified    all_repos      breaking by_agent author[T.OpenAI_Codex] 0.8922  0.6254   1.2727 0.5291 126999   7134
+modified    all_repos      breaking by_agent               log_size 1.8518  1.6114   2.1282 0.0000 126999   7134
+modified    all_repos      breaking   pooled              agent_any 1.0351  0.9281   1.1545 0.5352 126999   7134
+modified    all_repos      breaking   pooled               log_size 1.8420  1.6080   2.1099 0.0000 126999   7134
+modified    all_repos security_high by_agent  author[T.Claude_Code] 1.0483  0.9708   1.1319 0.2284 126999   7134
+modified    all_repos security_high by_agent      author[T.Copilot] 0.9769  0.8756   1.0899 0.6750 126999   7134
+modified    all_repos security_high by_agent       author[T.Cursor] 0.9461  0.8337   1.0737 0.3906 126999   7134
+modified    all_repos security_high by_agent        author[T.Devin] 1.1537  0.9147   1.4551 0.2274 126999   7134
+modified    all_repos security_high by_agent author[T.Google_Jules] 0.7774  0.6534   0.9249 0.0045 126999   7134
+modified    all_repos security_high by_agent author[T.OpenAI_Codex] 0.9342  0.8301   1.0513 0.2587 126999   7134
+modified    all_repos security_high by_agent               log_size 1.9065  1.7465   2.0810 0.0000 126999   7134
+modified    all_repos security_high   pooled              agent_any 1.0073  0.9354   1.0848 0.8466 126999   7134
+modified    all_repos security_high   pooled               log_size 1.9047  1.7448   2.0793 0.0000 126999   7134
+modified    all_repos  supply_chain by_agent  author[T.Claude_Code]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent      author[T.Copilot]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent       author[T.Cursor]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent        author[T.Devin]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent author[T.Google_Jules]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent author[T.OpenAI_Codex]    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain by_agent               log_size    NaN     NaN      NaN    NaN 126999   7134
+modified    all_repos  supply_chain   pooled              agent_any 1.0626  0.9567   1.1801 0.2569 126999   7134
+modified    all_repos  supply_chain   pooled               log_size 1.1793  1.0636   1.3076 0.0017 126999   7134
+modified shared_repos      breaking by_agent  author[T.Claude_Code] 0.9588  0.8569   1.0728 0.4631 111337   2618
+modified shared_repos      breaking by_agent      author[T.Copilot] 1.1743  0.9516   1.4492 0.1342 111337   2618
+modified shared_repos      breaking by_agent       author[T.Cursor] 0.8596  0.7263   1.0173 0.0784 111337   2618
+modified shared_repos      breaking by_agent        author[T.Devin] 1.1160  0.6751   1.8450 0.6686 111337   2618
+modified shared_repos      breaking by_agent author[T.Google_Jules] 1.0117  0.6353   1.6110 0.9610 111337   2618
+modified shared_repos      breaking by_agent author[T.OpenAI_Codex] 0.8529  0.5548   1.3112 0.4684 111337   2618
+modified shared_repos      breaking by_agent               log_size 1.8753  1.5932   2.2074 0.0000 111337   2618
+modified shared_repos      breaking   pooled              agent_any 1.0120  0.9024   1.1348 0.8389 111337   2618
+modified shared_repos      breaking   pooled               log_size 1.8665  1.5909   2.1898 0.0000 111337   2618
+modified shared_repos security_high by_agent  author[T.Claude_Code] 1.0717  0.9932   1.1563 0.0744 111337   2618
+modified shared_repos security_high by_agent      author[T.Copilot] 1.0198  0.9090   1.1442 0.7379 111337   2618
+modified shared_repos security_high by_agent       author[T.Cursor] 0.9226  0.8146   1.0449 0.2048 111337   2618
+modified shared_repos security_high by_agent        author[T.Devin] 1.1447  0.8974   1.4602 0.2766 111337   2618
+modified shared_repos security_high by_agent author[T.Google_Jules] 0.7274  0.6131   0.8631 0.0003 111337   2618
+modified shared_repos security_high by_agent author[T.OpenAI_Codex] 0.9561  0.8474   1.0789 0.4667 111337   2618
+modified shared_repos security_high by_agent               log_size 1.8700  1.7009   2.0560 0.0000 111337   2618
+modified shared_repos security_high   pooled              agent_any 1.0313  0.9601   1.1078 0.3982 111337   2618
+modified shared_repos security_high   pooled               log_size 1.8678  1.6989   2.0536 0.0000 111337   2618
+modified shared_repos  supply_chain by_agent  author[T.Claude_Code] 0.9647  0.8687   1.0712 0.5010 111337   2618
+modified shared_repos  supply_chain by_agent      author[T.Copilot] 1.1764  1.0022   1.3809 0.0469 111337   2618
+modified shared_repos  supply_chain by_agent       author[T.Cursor] 1.1485  0.6884   1.9161 0.5959 111337   2618
+modified shared_repos  supply_chain by_agent        author[T.Devin] 1.0952  0.7769   1.5439 0.6036 111337   2618
+modified shared_repos  supply_chain by_agent author[T.Google_Jules] 2.1652  0.0447 104.8499 0.6964 111337   2618
+modified shared_repos  supply_chain by_agent author[T.OpenAI_Codex] 1.0629  0.8816   1.2815 0.5228 111337   2618
+modified shared_repos  supply_chain by_agent               log_size 1.1672  1.0677   1.2760 0.0007 111337   2618
+modified shared_repos  supply_chain   pooled              agent_any 1.0499  0.9601   1.1481 0.2859 111337   2618
+modified shared_repos  supply_chain   pooled               log_size 1.1686  1.0677   1.2791 0.0007 111337   2618

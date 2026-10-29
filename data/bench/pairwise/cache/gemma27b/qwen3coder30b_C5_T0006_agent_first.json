@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the changes made in the PR by building, testing, linting, and type-checking the relevant package, and validating the DDL implementation, while workflow A is a generic Claude assistant triggered by comments."}

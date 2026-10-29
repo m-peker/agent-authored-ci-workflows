@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly ties the studio package version to the mesh version, includes a check to prevent duplicate publishes, and uses a more modern Node version, aligning with the request for lockstep versioning."}

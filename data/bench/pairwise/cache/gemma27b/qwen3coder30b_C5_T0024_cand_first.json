@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the dedicated `claude-code-action` action and correctly triggers on both issue and pull request comments, while workflow B requires significant additional logic to actually *do* anything with the mention."}

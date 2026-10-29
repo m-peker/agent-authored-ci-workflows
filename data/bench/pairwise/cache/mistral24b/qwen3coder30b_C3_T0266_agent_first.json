@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified branches and includes necessary steps for .NET code analyzers and CodeQL security scanning."}

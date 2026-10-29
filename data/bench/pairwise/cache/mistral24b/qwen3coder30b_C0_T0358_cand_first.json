@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct Python versions and runs tests with coverage for each version, while Workflow B only uses Python 3.12 and does not specify running tests with coverage for each version."}

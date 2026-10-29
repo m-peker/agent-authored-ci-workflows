@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the conditional execution based on the `E2E_FLOWS_ENABLED` variable and provides a more detailed notification when disabled, while B hardcodes the environment variable and lacks detailed setup instructions."}

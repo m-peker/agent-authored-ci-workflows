@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all required jobs and steps for build and release certainty automation, including tests, lint, format, tsc, publish dry-run, and release workflows."}

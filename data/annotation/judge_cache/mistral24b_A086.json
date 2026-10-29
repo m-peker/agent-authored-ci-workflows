@@ -1,0 +1,1 @@
+{"item_id": "A086", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The workflow file does not contain any YAML anchor references, so this is a false positive.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The workflow file does not contain any YAML anchor references, so this is a false positive.\"}\n```"}

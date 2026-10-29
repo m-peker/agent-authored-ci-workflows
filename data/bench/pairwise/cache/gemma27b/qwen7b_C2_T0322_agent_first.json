@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers after crates.io publishing via `workflow_dispatch` and builds/pushes to ghcr.io, while B triggers on tag push which isn't the request and uses a Docker Hub repo."}

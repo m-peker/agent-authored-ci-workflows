@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly places the `pnpm/action-setup` action before Node.js setup, and also adds `cache: 'pnpm'` which is a sensible addition for performance."}

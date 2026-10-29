@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes and pull requests, includes all necessary steps for Playwright testing, and uses appropriate actions for caching, testing, and artifact uploads."}

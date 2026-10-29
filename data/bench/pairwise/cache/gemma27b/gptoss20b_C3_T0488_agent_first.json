@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to fix dispatch-workflow validation by including a `workflow_dispatch` trigger, while workflow B is a standard CI workflow unrelated to the described fix."}

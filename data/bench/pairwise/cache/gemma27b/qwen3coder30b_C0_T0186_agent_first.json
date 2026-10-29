@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A generates the reports dynamically from the codebase, as implied by the request, and includes checks for changes to commit, while workflow B simply creates a static release note based on a hardcoded template."}

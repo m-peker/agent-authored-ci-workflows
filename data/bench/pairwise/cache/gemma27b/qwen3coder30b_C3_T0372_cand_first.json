@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting, which is good practice for a Go project, and separates testing and building into distinct jobs, making it a more robust CI/CD pipeline than Workflow B."}

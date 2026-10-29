@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly installs dependencies with `npm ci` using a lockfile, which is best practice for CI and ensures reproducible builds, while A assumes dependencies are already installed."}

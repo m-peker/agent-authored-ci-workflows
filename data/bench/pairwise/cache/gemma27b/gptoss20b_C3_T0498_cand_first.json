@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the latest version of the action (v6) and includes `sync-labels: true` and `pr-number` which are best practices for this type of workflow, while B uses an older version and lacks these details."}

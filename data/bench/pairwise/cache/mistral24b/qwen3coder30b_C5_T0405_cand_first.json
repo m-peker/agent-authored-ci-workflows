@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes multiple PHP versions, correct triggers, and checks for both PHPUnit and PHP-CS-Fixer versions before running them."}

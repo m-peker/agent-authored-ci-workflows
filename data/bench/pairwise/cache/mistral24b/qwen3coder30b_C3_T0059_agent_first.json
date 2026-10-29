@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all requested components (PR title linting, release-please, git-cliff, and Docker build) while Workflow A only includes PR title linting."}

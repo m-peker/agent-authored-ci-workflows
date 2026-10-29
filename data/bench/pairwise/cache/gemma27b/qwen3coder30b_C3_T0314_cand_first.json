@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by sending a deployment summary email upon a push to the main branch, while workflow B is a more complex deployment summary generator with no direct link to the requested fix."}

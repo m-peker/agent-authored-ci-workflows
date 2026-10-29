@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to the docs-website branch and includes the required fern generate --docs command, while Workflow B lacks the correct trigger and includes unnecessary Rust setup steps."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a standard CI workflow with tests, linting, and building, triggered by push or pull request, which is a typical need for a code change like this, while workflow B is manually triggered and only checks admin permissions."}

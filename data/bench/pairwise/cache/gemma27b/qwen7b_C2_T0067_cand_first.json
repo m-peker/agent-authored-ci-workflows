@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks out the release tag, uses a dedicated pnpm action for version control, and sets the dist-tag using a more robust method, while also including a build step which is good practice."}

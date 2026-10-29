@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly determines the latest tag to use for the changelog update, while workflow B requires a version input which isn't specified in the request and isn't integrated into the release workflow as requested."}

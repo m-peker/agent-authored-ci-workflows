@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by explicitly installing the necessary tools for pre-commit and running it on all files, while A relies on a pre-commit config that isn't provided."}

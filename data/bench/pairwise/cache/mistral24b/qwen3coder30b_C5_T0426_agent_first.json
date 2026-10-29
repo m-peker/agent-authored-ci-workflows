@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all PRs and uses the existing script, while Workflow B hardcodes the script and doesn't properly handle PR context."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `ctrf-io/github-test-reporter` action to publish and persist flaky test reports, aligning with the request's goal of persisting reports across PRs, while workflow B appears to re-implement flaky detection and only uploads a report as an artifact."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly addresses the critical need for a complementary stub to avoid blocking PRs, while A fails to run any meaningful analysis and only skips."}

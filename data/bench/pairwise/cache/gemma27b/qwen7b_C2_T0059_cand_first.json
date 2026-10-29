@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the PR title linting as requested, while workflow A's linting step is incomplete and doesn't enforce the conventional commit format effectively."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses more modern actions (dtolnay/rust-toolchain, Swatinem/rust-cache), includes a version check before publishing, and generates release notes more effectively."}

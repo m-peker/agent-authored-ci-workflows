@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly specifies `queries: security-and-quality` which is a sensible default and improves the analysis beyond the basic setup, while both workflows correctly implement the triggers and matrix structure."}

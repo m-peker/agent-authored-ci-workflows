@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the govulncheck-action and specifies the Go version explicitly."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds the tests with the necessary include paths and output directory, and includes a more complete test run command with output formatting, and attempts to upload results."}

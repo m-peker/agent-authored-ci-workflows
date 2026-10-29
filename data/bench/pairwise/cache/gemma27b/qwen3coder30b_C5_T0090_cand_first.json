@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for CockroachDB tests, including the correct trigger, job structure, flag inversion, and disabling of other database tests."}

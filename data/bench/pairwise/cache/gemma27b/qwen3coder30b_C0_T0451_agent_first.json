@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes the `permissions: contents: read` as requested, while A does not, and both workflows otherwise fulfil the request."}

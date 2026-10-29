@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes Java setup and Maven dependency caching, which are essential for a Java project's CI/CD pipeline, while Workflow A focuses only on i18n key checks and does not address the regression detection request."}

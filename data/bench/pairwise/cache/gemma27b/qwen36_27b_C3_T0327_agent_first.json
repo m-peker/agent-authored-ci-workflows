@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly targets feature/release/hotfix branches for version uploads and includes deployment status updates, aligning better with the request's intent for gradual rollouts, while A's trigger is too broad and focuses on Cloudflare specifically."}

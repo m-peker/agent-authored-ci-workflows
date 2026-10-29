@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly executes the test script as described in the request, while Workflow B attempts to auto-detect a test runner which isn't necessary and could fail."}

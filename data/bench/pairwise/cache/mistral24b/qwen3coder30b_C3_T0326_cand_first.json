@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested triggers, uses a matrix for kernel versions, and has sensible steps for building and testing, while Workflow B has unnecessary complexity and redundant steps."}

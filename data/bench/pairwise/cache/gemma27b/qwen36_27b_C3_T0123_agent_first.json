@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested messages and includes specific options like `remove-issue-stale-when-updated` and `remove-pr-stale-when-updated` for better behavior, while both workflows correctly implement the core functionality."}

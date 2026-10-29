@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to label PRs by size, while workflow B performs unrelated Go build and testing steps and attempts to label using a configuration file that isn't provided."}

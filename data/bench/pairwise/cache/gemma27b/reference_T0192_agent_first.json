@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement a CI/CD pipeline for performance regressions, including the necessary steps for checkout, setup, running the suite, and uploading artifacts."}

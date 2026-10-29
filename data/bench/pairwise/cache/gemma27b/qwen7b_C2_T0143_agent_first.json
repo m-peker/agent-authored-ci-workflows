@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent Python version (3.12) and installs all necessary dependencies from `requirements-full.txt` as well as `pyopencl`, while B uses an older Python version and doesn't install all dependencies."}

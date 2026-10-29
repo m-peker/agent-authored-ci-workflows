@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfills the request by including all specified requirements such as go fix, bumping to Go 1.26, speeding up PR checks, and adding touched-package gofix targets."}

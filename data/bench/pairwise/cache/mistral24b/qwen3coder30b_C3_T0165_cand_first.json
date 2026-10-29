@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has a more specific tag trigger pattern and includes a step to cancel previous runs, which is more suitable for a release workflow."}

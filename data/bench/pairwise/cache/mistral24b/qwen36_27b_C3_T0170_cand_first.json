@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on changes to markdown files in the docs-mslearn directory and updates the ms.date in the frontmatter, fulfilling the request more accurately than Workflow A."}

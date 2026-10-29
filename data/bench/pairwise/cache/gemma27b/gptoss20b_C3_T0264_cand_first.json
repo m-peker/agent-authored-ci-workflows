@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all the requested CI checks (lint, typecheck, tests) and builds the documentation, while workflow B focuses solely on documentation testing and doesn't include the core CI steps for the TypeScript code."}

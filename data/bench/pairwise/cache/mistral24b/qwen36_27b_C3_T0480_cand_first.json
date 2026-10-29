@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks all non-merge commits in PRs targeting master and provides clear error messages with fix instructions, while Workflow A does not specify the target branch and uses a generic action without custom error messages."}

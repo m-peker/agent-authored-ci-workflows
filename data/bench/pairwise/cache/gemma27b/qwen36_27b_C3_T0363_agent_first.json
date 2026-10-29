@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the workflow file itself, allowing for easy validation as requested, while workflow B only triggers on pushes/pull requests to `main`."}

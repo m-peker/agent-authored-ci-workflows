@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on lockfile and package.json changes, uses a more specific SBOM generation method, and properly uploads the artifact with 90-day retention."}

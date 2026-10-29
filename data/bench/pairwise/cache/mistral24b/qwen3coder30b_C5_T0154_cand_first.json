@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a summary job to ensure all tests pass and has a more focused trigger path for the Python runtime tests."}

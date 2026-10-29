@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's specification of uploading individual assets with specific content types, while B relies on uploading the entire `dist` directory which isn't ideal for the requested stable download URLs."}

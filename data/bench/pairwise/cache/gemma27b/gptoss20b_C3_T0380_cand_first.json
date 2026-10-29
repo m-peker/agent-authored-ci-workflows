@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request's requirements for regression detection during rebasing, including base-only file identification, policy enforcement, and post-rebase scanning, while workflow B focuses solely on i18n key duplication and is unrelated to the rebase regression problem."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the Copilot setup steps request (install uv, sync dependencies, verify pre-commit) with a minimal and focused approach, while B adds unnecessary Python setup and branch restrictions."}

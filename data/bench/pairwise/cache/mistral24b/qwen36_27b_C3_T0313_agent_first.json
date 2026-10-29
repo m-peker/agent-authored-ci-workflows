@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary jobs and steps to test the changes related to WebSocket auth in AsyncAPI, while Workflow A only checks if the triggering user is a repo admin."}

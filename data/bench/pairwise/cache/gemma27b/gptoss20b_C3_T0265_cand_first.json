@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all requested CI checks (lint, format, tsc, tests, build, publish dry-run, audit) and triggers, while workflow B only covers linting and typechecking."}

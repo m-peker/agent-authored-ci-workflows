@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on changes to the `docs` directory and the workflow file itself, and execute the necessary steps to build and test the documentation as described in the request."}

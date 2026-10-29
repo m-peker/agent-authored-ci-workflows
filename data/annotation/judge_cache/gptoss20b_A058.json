@@ -1,0 +1,1 @@
+{"item_id": "A058", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The expression references a non\u2011existent job 'pre_activation', causing the workflow to fail.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The expression references a non\u2011existent job 'pre_activation', causing the workflow to fail.\"}"}

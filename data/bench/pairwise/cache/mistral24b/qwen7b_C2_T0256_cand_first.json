@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the Node.js version from the request (20) and has all steps in a single job with proper dependencies, while Workflow A splits the jobs unnecessarily and doesn't specify the Node.js version from the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the dotslash-based mdbook binary, creates a Buck2 target for mdbook-spec, and adds the 'Back to Rue' navigation link in the spec header, which are all requirements not fully addressed in Workflow A."}

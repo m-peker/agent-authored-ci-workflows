@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly copies dist files for e2e testing and uses the correct npm script for building the project."}

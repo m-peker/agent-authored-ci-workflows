@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `pull_request_target` for security with forks, filters by branch as requested, and uses a more efficient method to check for the `ok-to-test` label."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push/PR to master/main, uses sensible actions, and follows the request's structure, while Workflow B unnecessarily clones and installs FPCUnit which is already included with Free Pascal."}

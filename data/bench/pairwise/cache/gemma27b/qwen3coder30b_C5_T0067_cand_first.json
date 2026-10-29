@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly determines and sets the npm dist-tag using a step output, includes a build step, and uses pnpm publish with provenance, while A directly uses npm publish which isn't ideal with pnpm."}

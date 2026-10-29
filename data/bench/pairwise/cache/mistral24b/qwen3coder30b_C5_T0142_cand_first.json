@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on relevant file changes and runs tests specifically targeting the custom integration upload functionality, while Workflow B is designed for a different purpose and doesn't address the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct branch name 'master' and includes a pull_request trigger, which is more appropriate for a CI/CD pipeline."}

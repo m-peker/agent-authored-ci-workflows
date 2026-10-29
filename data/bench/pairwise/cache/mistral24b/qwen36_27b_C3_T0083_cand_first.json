@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested gates (backend, security, coverage) with conditional execution based on path changes, while Workflow B only includes the backend gate."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes specific jobs and steps for each platform as requested, while Workflow B is a generic matrix build that doesn't address the specific platform requirements."}

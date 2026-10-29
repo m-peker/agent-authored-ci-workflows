@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on tag pushes for release creation and uses a more modern approach to artifact handling and release creation, while A's release naming is incorrect and unnecessarily complex."}

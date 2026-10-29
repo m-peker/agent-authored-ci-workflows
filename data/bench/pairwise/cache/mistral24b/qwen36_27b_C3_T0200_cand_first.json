@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes and checks for version mismatches, while Workflow B is unrelated to the request."}

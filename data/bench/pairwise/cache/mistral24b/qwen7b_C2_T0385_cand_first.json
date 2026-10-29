@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the setup-zig action to an immutable SHA as requested, while Workflow B does not use the setup-zig action at all."}

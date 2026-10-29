@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `GH_TOKEN` for the GitHub CLI, constructs the PR body using a heredoc and file, and includes proper error handling as specified in the requirements and code review feedback."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the required ANTHROPIC_API_KEY secret and uses the Continue CLI more effectively with its -p flag for non-interactive mode."}

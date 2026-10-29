@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to `main`, uses a matrix strategy for Python versions as good practice, and explicitly sets `TINKER_API_KEY` to an empty string to verify the `conftest.py` fix, while B lacks the specific test marker and includes an irrelevant `HF_TOKEN`."}

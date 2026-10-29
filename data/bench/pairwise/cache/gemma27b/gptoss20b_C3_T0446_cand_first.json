@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to build and test using the devcontainer with `composer install` and `composer test-quick-fail`, while workflow B adds unrelated linting and static analysis steps not mentioned in the prompt."}

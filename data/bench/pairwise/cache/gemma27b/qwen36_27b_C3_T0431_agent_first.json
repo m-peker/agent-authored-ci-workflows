@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting, typechecking, and testing of the worker code before deployment, aligning with the request's testing requirements, while workflow B only builds and deploys."}

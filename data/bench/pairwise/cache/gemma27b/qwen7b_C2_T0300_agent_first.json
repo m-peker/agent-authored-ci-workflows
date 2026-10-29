@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly executes the benchmark script and publishes the artifacts to GitHub Pages, while workflow A only uploads a directory without running the benchmark."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push events and workflow dispatch, while Workflow B triggers on pull requests which is not what was requested."}

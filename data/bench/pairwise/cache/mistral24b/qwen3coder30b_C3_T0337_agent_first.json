@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes triggers for both push to main and pull requests with path filters, follows established patterns with pinned Sui CLI revision, and sets the correct working directory."}

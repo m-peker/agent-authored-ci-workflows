@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfills the request by including all required elements like go fix, version bump to 1.26, and conditional race detector usage, while also adding precommit checks and migration parity tests."}

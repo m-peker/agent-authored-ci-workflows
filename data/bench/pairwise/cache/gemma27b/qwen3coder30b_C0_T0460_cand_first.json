@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements standard CI checks (test, fmt, clippy, docs) which are necessary for iterative development and diagnosing CI failures, while workflow B focuses solely on running Claude Code with a user-provided message and lacks any actual testing."}

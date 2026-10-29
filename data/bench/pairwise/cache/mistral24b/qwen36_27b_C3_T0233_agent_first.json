@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a specific Go version (1.25) as requested, includes race detection, and sets a test timeout, making it more robust."}

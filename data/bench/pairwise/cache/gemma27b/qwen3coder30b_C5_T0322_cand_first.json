@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a standalone Docker release workflow triggered independently, while B appears to be designed for versioned releases and includes unnecessary Rust build steps."}

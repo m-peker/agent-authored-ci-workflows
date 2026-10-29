@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles submodule checkout with a PAT, gracefully skips if the token is missing, and runs tests in both core and pro directories as requested, while workflow B does not handle submodule checkout correctly."}

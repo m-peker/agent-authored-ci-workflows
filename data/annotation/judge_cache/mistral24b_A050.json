@@ -1,0 +1,1 @@
+{"item_id": "A050", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow_dispatch event expects a mapping node for inputs, not a scalar value.", "raw": "{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow_dispatch event expects a mapping node for inputs, not a scalar value.\"}"}

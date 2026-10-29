@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs `requests` which is likely needed by the discovery script, while B omits it, and A's cron schedule is more aligned with the request's intent of surfacing *new* files weekly."}

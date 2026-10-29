@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested DCO check with detailed error messages and fix instructions, while Workflow B uses a third-party action without customization for specific requirements."}

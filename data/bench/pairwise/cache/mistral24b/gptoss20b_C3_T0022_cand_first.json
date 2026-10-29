@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push, pull_request, and scheduled events, and includes steps to build and test gz-physics against dart from source, while Workflow B does not clearly demonstrate the same functionality."}

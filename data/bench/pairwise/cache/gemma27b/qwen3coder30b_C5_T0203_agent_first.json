@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly targets the `release/7.0` branch and adds validation beyond just existence, checking the milestone title format which is a sensible addition for a release branch."}

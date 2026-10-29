@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses persisting reports by using `fetch-previous-results` in `github-test-reporter`, while A only uploads a new report each time."}

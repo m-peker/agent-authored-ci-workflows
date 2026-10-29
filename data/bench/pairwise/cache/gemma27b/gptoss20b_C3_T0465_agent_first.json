@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks the pull request user's login against a list of bots, while workflow B incorrectly uses `github.actor` which represents the actor triggering the workflow, not the PR author."}

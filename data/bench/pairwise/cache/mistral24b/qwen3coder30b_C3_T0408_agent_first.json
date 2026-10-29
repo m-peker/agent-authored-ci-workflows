@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified branches and includes all required steps for installing uv, setting up Python 3.14, syncing dependencies, and running pytest, while Workflow B has unnecessary steps and incorrect branch triggers."}

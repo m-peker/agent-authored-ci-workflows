@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the code changes described in the request by verifying the token fallback chain implementation and callers, while workflow A only runs a general secrets diagnostic script."}

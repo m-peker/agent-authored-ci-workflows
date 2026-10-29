@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement a CI/CD pipeline to publish to npm on tag push, using pnpm and Node.js version from .nvmrc as requested."}

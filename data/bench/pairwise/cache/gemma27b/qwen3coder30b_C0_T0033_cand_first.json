@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Neither workflow addresses the request to add Code Formatting (Spotless) and Static Analysis (Detekt) checks; both only focus on release drafting."}

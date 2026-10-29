@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (as implied by 'publishing automation'), while B triggers on main branch changes and attempts to update a Docker Hub description which is not requested."}

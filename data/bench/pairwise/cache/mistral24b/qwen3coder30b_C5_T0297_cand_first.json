@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on push, PR, and tag push, includes all required jobs and steps, and uses sensible actions for artifact upload and release creation."}

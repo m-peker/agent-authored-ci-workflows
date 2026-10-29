@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix to avoid duplication and derives tags from metadata as requested, while workflow B still has some duplication and a more complex conditional logic."}

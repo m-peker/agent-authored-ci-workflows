@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both main and master branches, uses the latest versions of actions, and has a more descriptive job name."}

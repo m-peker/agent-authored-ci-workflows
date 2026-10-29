@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly configures all requested parameters of the `actions/stale` action, while Workflow B includes unnecessary steps for Dart/Flutter setup that are irrelevant to the task of managing stale issues."}

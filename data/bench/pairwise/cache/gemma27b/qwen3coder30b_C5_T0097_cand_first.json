@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly targets the `master` and `main` branches, which is a sensible default, while B lacks branch specification and A includes a skip label for documentation changes."}

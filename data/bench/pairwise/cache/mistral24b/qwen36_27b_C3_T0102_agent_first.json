@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly extracts release information from the code and README, while Workflow B hardcodes the release notes which may not reflect the actual changes."}

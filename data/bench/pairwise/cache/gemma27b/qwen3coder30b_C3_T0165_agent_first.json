@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request with a minimal, functional GoReleaser workflow, while B adds unnecessary complexity with workflow cancellation and `go.mod` versioning that isn't required by the prompt."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly configures the postgres service with `localhost` networking as requested, while workflow B uses ports and a different database name, and also uses older versions of actions and ruby."}

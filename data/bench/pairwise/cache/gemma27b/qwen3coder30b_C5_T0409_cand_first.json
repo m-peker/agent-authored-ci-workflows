@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the request to remove the SLO label after the SLO workflow completes, using the `needs` dependency and `always()` condition, while workflow B only checks for the presence of the label."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Both workflows fulfil the request, but workflow A explicitly caches 'yarn' which is more appropriate than the default cache, and is slightly more explicit in its setup."}

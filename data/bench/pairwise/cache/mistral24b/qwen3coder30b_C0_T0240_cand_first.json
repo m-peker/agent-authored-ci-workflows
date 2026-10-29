@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the requested events and uses the ai-moderator action with the required parameters, while Workflow B includes unnecessary triggers and parameters."}

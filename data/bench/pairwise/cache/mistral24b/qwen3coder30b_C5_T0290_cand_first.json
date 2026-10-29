@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant events, includes all necessary jobs and steps for building and testing the TypeScript copilot-sdk client, and uses sensible actions that would plausibly work for this repository."}

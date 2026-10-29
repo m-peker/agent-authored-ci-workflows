@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested test paths and uses `uv` as specified in the repository, while workflow B uses `poetry` and has slightly different test paths."}

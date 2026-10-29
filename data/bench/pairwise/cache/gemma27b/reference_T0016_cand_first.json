@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and appear to correctly implement the build and publish process for the CDK base, including necessary steps like checkout, Java setup, Docker login, and Gradle tasks."}

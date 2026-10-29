@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly passes the GitHub token, which is required for release-please to create PRs and tags, while Workflow B omits it, making it unlikely to function correctly."}

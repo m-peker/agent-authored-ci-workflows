@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds for multiple operating systems and architectures, uploads artifacts for each, and publishes to releases on tags, fulfilling the request more completely than Workflow B which only builds for a single platform."}

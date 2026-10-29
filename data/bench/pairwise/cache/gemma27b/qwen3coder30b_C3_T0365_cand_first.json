@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements all requested commands and issue templates, while workflow B focuses solely on the PR review commands and lacks the issue template and `/review-issue` functionality."}

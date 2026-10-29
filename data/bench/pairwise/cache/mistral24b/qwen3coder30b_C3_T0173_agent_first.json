@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and meets the request by triggering on pull requests and pushes to main, and running the version check script, without unnecessary setup steps."}

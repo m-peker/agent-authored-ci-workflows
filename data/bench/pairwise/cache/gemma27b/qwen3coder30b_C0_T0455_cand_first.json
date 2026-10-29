@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly addresses the request to adjust the VitePress base path *and* generate a zip artifact for gh-pages deployment, while B only deploys the built docs."}

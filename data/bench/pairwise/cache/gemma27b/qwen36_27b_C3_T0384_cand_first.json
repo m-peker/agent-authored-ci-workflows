@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to install .NET 9 and build the projects, while Workflow B unnecessarily installs Java and includes extra build/test steps not asked for."}

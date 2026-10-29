@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix strategy for multiple Python versions and includes all requested steps for coverage calculation, badge generation, and automatic commit, while Workflow B only uses a single Python version and does not calculate coverage before generating the badge."}

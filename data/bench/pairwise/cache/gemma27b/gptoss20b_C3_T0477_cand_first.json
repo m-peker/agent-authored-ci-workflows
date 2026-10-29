@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows best practices for GitHub Pages deployment, including using `actions/configure-pages` and `actions/upload-pages-artifact`, and has a more robust trigger and concurrency control."}

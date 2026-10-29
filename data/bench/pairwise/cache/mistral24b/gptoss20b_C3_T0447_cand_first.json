@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly prepares the site by copying the index.html to a public directory and explicitly sets the static site generator to none, which is more appropriate for a simple HTML page."}

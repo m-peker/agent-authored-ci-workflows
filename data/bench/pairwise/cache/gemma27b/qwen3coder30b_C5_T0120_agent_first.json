@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B avoids the dangerous use of root-privileged Docker containers and `chmod -R 777` as requested, and provides more comprehensive cleanup and reporting, aligning better with the PR's goals."}

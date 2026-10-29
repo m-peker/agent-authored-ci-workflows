@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks out the release tag, uses pnpm 10.8.1, sets the npm dist-tag based on the release type, and includes additional sensible steps like building before publishing."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by attempting to install tools via methods that might work around firewall restrictions, and it uses the `oxc-project/setup-rust` action as specified."}

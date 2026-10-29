@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely fulfills the request by parsing test results and posting a formatted comment to the PR, including pass/fail counts and coverage percentages, while A only uploads to Codecov."}

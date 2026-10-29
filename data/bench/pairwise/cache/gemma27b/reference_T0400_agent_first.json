@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B efficiently filters PRs by creator when checking for first-time contributors, as suggested in the request, while A lists all PRs and filters them in the script."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested scans for actions, javascript-typescript, and python using a matrix strategy, while workflow A only scans javascript-typescript and python and incorrectly attempts to stop runs with `exit 1`."}

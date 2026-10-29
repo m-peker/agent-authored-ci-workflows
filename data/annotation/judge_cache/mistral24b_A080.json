@@ -1,0 +1,1 @@
+{"item_id": "A080", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail due to the use of an undefined function 'toLower'.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail due to the use of an undefined function 'toLower'.\"}\n```"}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly removes the CI: false workaround and includes the necessary triggers, jobs, and steps for building CLI native archives."}

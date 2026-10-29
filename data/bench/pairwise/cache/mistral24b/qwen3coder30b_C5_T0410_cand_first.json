@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has more precise conditions to ensure it only runs for Dependabot PRs modifying Cargo.lock in the main repository."}

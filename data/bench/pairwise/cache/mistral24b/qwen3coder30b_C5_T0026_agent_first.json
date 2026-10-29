@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all requested events, pins the action ref, and uses the go-version-file input to ensure reproducibility."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on @claude mentions in PRs and issues, while Workflow B does not include issue_comment trigger and uses a direct prompt instead."}

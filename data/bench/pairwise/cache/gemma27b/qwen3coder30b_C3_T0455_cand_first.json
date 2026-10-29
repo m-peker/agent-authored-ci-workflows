@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/upload-pages-artifact` and `actions/deploy-pages` for modern GitHub Pages deployments, while B uses the older `peaceiris/actions-gh-pages` which is less suitable for the current GitHub Pages infrastructure."}

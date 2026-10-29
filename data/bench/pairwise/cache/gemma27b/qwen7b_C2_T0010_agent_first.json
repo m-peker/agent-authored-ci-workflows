@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly runs tests for each database (Postgres, PgBouncer, MySQL) using tags and run options, directly addressing the request to cover all three, while A just runs all integration tests without specific targeting."}

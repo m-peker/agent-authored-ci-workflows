@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly names the job 'copilot-setup-steps' and includes a pull_request trigger, which are essential for the Copilot agent to pick up the setup steps."}

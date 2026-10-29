@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a dynamic deployment summary based on recent production PRs, leveraging AI for summarization as intended, while workflow B creates a static summary tied to a specific code change."}

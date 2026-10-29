@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by including jobs for each specified platform and executing the provided deploy commands, while workflow B focuses on PyPI and Docker image releases which are outside the scope of the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the changesets/action to create a release PR, while Workflow B attempts to manually trigger changeset publish which may not fulfill all requirements."}

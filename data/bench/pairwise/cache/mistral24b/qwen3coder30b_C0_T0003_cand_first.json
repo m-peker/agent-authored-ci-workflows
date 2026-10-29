@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events, skips draft PRs and dependabot PRs, uses concurrency control, and configures Claude with the appropriate tools, while Workflow B triggers on different events and doesn't meet the specific requirements of the request."}

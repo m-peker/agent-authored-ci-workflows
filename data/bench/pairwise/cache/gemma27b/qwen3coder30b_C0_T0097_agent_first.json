@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is slightly better as it includes a sensible `skipLabels` configuration to avoid unnecessary changelog enforcement for certain PRs, while both fulfill the core request of running the enforcer."}

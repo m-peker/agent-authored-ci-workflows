@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tag pushes (v*.*.*) which is standard for semantic versioning and publishing, while workflow B triggers on release creation which is less common for simple publishing."}

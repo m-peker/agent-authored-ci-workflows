@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets the npm dist-tag using a step output, while workflow B uses an environment variable and relies on a secret for authentication which isn't explicitly requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses on tag-based releases and includes validation steps, while Workflow B triggers on main branch pushes and attempts a full semantic release which isn't directly requested and doesn't validate the Ollama integration as effectively."}

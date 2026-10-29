@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly isolates the tests to the `memory-mcp` and `wifi-cam-mcp` directories and uses `uv sync` for dependency management as implied by the request, while workflow A lacks the README/CLAUDE.md update and has unnecessary dependency installations."}

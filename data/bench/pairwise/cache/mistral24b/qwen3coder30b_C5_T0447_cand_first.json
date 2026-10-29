@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates build and deploy jobs, while Workflow B incorrectly sets cancel-in-progress to true for the pages group."}

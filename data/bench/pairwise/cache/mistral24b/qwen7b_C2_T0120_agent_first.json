@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses self-hosted runners and containerized operations as requested, while Workflow B uses GitHub-hosted runners and doesn't address the containerization requirement."}

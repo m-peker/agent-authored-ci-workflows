@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the mesh package and studio package, updates the studio package version to match the mesh version, and publishes with the correct tag, fulfilling the 'lockstep' requirement, while workflow B triggers only on tags."}

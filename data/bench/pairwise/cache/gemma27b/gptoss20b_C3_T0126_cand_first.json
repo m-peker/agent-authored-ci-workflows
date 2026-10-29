@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more completely addresses the request by including dependency auditing with failure conditions, CodeQL analysis, and coverage reporting, while also testing across a wider range of Node.js versions."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on cli/v* tags and uses GoReleaser to create releases with all binaries, while Workflow B includes unnecessary steps and doesn't clearly fulfill the request."}

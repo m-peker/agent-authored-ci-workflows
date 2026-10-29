@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks out the release tag, uses pnpm 10.8.1, and sets the npm dist-tag based on the prerelease status, while Workflow B does not check out the release tag and uses an outdated method for setting outputs."}

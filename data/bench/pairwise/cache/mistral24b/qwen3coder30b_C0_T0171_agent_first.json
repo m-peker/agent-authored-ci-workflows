@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the workflow_run trigger, properly handles fork contributions by using commit SHA, and maintains the same functionality of posting/updating ISO artifact download links with more detailed information."}

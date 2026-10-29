@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes test execution and better aligns with the request by having separate jobs for build/publish and deployment."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the `release-please` action which is central to the request, while workflow B only addresses PR title linting and lacks the release automation component."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the main branch and includes the requested devcontainer tests and CodeQL analysis, while Workflow B uses outdated branch names and includes unnecessary jobs not mentioned in the request."}

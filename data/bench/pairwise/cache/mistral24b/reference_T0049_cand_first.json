@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfills the request as it includes maintainer-only execution via workflow_dispatch with GitHub API verification, takes issue number as input, creates draft PRs, and follows the security requirements specified."}

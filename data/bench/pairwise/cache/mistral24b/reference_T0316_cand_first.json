@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a check to fail the build-test job if the build-test-matrix job fails, while Workflow B does not."}

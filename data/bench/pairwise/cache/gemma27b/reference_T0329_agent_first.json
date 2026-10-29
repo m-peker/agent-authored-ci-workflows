@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement all aspects of the request, including building the macOS binary, uploading it to the release, and updating the Homebrew formula."}

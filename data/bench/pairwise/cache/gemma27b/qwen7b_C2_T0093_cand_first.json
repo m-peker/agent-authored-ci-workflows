@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly avoids the unnecessary tooling (clang-tidy, brew dependencies) and focuses on the requested stylistic check via a `make` target, aligning with the decision to enforce the convention in AGENTS.md."}

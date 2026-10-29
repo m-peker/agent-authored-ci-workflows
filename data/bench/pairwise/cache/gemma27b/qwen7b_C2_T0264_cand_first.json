@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is specifically triggered by changes to the documentation and runs tests relevant to the documentation, while workflow A runs E2E tests for the entire repository and builds documentation regardless of changes."}

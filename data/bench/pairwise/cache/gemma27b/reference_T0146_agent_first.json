@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement a CodeQL analysis workflow triggered on pull requests to 'main' with the 'ci:codeql' label, filtering by author association and draft status, and analyzing JavaScript code."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `pull_request_target` as specified in the request, invoking the reusable workflow, while A uses `pull_request` which is not what was asked for."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly attempts to run a test suite and publish results, while workflow B runs a script named 'render-the-verdict.sh' which doesn't appear to be a test suite."}

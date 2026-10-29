@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requested checks (Rust and Frontend) with a simpler, more focused approach, while workflow B includes unnecessary dependencies and tooling (ESLint, typecheck) not explicitly requested."}

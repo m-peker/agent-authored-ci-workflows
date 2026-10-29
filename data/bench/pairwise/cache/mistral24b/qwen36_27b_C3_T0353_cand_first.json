@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes and pull requests to main/master branches, uses sensible PHP versions, and follows the request with a straightforward approach to mutation testing."}

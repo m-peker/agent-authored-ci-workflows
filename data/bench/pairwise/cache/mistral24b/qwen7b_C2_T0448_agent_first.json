@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A runs daily as requested and uses a script to fetch meeting minutes, while Workflow B runs weekly and includes unnecessary Go setup steps."}

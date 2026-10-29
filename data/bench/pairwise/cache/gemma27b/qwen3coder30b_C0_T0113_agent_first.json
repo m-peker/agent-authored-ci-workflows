@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers an issue for the Copilot agent to handle ADR creation, while Workflow B only simulates the process and posts a comment, failing to actually trigger the agent as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested triggers and jobs for both PR reviews and issue reviews, while Workflow B only handles PR reviews and lacks the issue review functionality."}

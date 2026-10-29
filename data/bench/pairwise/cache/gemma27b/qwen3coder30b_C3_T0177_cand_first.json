@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a more specific and helpful error message, including valid TYPE options and a clearer TASK-ID format, and also avoids failing the check unnecessarily when a PR is a draft."}

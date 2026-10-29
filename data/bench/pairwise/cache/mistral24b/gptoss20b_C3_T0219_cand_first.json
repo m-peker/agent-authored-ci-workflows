@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests the Rust code with the updated MSRV and edition, while Workflow B focuses on integration tests with LiveKit."}

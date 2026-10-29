@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the build process outlined in the repository's `linux/build` script and correctly packages the binaries with a README, while workflow B attempts to use CMake which isn't the standard build method for this project."}

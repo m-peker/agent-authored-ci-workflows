@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_dispatch` with inputs to receive the slash command parameters, while workflow B attempts to parse the command from an issue comment which is less reliable and more complex."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested TypeScript type check, ESLint, and specific E2E tests for LocalSandbox and Workspace, while Workflow A only tests the docs."}

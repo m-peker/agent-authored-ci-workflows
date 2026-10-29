@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly passes the session URL to the `github-script` action via environment variables, addressing the documented fix for JS script injection, while A still uses interpolation."}

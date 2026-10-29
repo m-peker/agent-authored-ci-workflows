@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pull_request_target trigger and includes the necessary if condition to check for bot-authored PRs."}

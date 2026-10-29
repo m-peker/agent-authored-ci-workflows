@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested triggers, jobs, and steps for running CodeQL analysis on push to main, a weekly schedule, and manual dispatch."}

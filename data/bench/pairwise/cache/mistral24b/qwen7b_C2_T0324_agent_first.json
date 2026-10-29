@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a changed-file guard to ensure it only validates on script-only edits, while Workflow B does not."}

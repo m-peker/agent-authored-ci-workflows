@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags matching 'mcp-v*.*.*' and includes version validation, Docker image building, and pushing, while Workflow B triggers on a specific tag and includes unnecessary steps like creating release notes manually."}

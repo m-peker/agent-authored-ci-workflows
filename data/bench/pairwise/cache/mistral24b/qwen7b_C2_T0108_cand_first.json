@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements manual release triggering and does not use semantic-release, while Workflow B still uses semantic-release and automatic versioning."}

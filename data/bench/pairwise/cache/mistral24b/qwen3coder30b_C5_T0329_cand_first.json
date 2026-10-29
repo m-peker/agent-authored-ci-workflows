@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by using a separate job for Homebrew updates, adding a smoke test, and handling version extraction more cleanly."}

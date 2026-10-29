@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the check-system-prompts job explicitly requested, while Workflow B does not."}

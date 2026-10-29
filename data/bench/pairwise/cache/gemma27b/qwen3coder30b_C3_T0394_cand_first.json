@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes outputting test results and uploading them as an artifact, which is a more complete CI/CD practice than simply running the tests, and also specifies output format and all tests."}

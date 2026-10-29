@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the issue of immutable pre-releases by explicitly using the `--draft` flag when uploading assets, and it's designed as a reusable workflow as requested, while workflow B doesn't handle the upload of binaries directly."}

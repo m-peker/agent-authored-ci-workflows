@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to BUILDING.md while Workflow B ignores all markdown file changes."}

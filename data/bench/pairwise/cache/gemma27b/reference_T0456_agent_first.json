@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly renames the `select-opencode-model` action input to `input-text` as requested, while workflow A still uses the old name `comment-body`."}

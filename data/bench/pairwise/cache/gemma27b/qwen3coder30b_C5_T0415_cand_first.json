@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A's schedule cron is closer to the requested 'weekly' schedule (Thursday 15:34) than workflow B's (Sunday 00:00), and it correctly specifies 'typescript' as the language."}

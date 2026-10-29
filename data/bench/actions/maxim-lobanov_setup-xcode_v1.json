@@ -1,0 +1,1 @@
+{"action": "maxim-lobanov/setup-xcode", "ref": "v1", "exists": true, "name": "Setup Xcode version", "description": "Set up your GitHub Actions workflow with a specific version of Xcode", "inputs": {"xcode-version": {"required": false, "default": "latest", "description": "Version of Xcode to use"}}, "outputs": []}

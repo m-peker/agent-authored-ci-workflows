@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of Node.js and the actions/checkout action, and does not suppress ESLint failures."}

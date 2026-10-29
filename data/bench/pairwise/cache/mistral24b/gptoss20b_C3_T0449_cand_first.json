@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks for new ingestr releases and opens a PR to update the version, while Workflow A attempts to update a Go module which is not the correct approach for this repository."}

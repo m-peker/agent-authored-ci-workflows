@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including specific versioning for Python tools, more thorough Mojo validation, and correctly targets the `challenges/` and `scripts/` directories in all jobs."}

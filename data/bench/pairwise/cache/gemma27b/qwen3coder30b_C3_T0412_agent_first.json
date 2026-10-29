@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets up the Rust toolchain with caching and includes `cargo fmt --check` which is a good practice for code quality, while A relies on `dtolnay/rust-toolchain` which isn't as explicit."}

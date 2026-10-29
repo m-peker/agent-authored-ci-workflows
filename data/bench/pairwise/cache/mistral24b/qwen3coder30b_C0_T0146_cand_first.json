@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more specific triggers and conditions that better match the repository's needs, including checking for the 'ci:codeql' label and ensuring the PR is not a draft."}

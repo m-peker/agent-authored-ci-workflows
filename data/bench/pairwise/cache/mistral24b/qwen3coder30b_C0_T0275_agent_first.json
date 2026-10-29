@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements both deployment triggers and uses the required Node.js version, while Workflow A uses an outdated Node.js version and includes a non-existent path filter."}

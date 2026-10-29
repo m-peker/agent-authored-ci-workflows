@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `global-json-file` to specify the .NET SDK version, includes CodeQL analysis, and has more comprehensive permissions, fulfilling all requirements."}

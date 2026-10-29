@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and trigger on pull requests, fulfilling the core request, but neither restricts execution to collaborators as specified."}

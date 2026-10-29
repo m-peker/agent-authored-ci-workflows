@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the complex logic for milestone assignment, including finding the lowest open milestone greater than the highest closed one for `main`, while workflow A only handles the simple cases of `main` and `release/9.4`."}

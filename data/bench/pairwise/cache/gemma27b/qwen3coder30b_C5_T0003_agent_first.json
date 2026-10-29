@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the specified PR events, skips draft PRs, uses concurrency, configures tools, and uses the prompt file as requested, making it a functional CI/CD workflow for the task."}

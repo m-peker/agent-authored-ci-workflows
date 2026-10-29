@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags matching the pattern 'mcp-v*.*.*' and includes steps for version validation, Docker login, and building/pushing the Docker image, which are essential for releasing the MCP Server."}

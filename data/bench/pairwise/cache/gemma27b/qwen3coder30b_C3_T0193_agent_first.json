@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `ramsey/composer-install` which is better suited for CI environments with locked dependencies, and provides a more robust auto-commit example."}

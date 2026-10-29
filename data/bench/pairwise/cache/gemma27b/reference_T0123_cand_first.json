@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly prefixes the stale labels with 'lifecycle/' as indicated in the 'Additional Information' section of the issue description, while workflow A does not."}

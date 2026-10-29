@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly checks out the PR head ref and uses `git push` without specifying a branch, which is more robust for PRs, while A's branch specification is less reliable."}

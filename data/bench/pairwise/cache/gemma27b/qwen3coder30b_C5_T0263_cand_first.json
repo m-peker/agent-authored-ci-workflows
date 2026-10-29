@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly builds and tests the application as requested, while workflow B is a more complex multi-platform build workflow that isn't necessary for the stated requirements."}

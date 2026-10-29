@@ -1,0 +1,1 @@
+{"action": "ASzc/change-string-case-action", "ref": "v5", "exists": true, "name": "Change String Case", "description": "Make a string lowercase, uppercase, or capitalized", "inputs": {"string": {"required": true, "default": null, "description": "The input string"}}, "outputs": ["capitalized", "lowercase", "uppercase"]}

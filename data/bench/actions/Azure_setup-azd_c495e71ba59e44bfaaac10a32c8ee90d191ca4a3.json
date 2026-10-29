@@ -1,0 +1,1 @@
+{"action": "Azure/setup-azd", "ref": "c495e71ba59e44bfaaac10a32c8ee90d191ca4a3", "exists": true, "name": "setup-azd", "description": "This action downloads and installs azd", "inputs": {"version": {"required": false, "default": "latest", "description": "The version of azd to install (default: latest)"}}, "outputs": []}

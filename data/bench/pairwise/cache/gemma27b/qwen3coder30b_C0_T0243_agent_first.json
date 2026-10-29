@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a change detection step to only run backend-specific tasks when backend files are modified, aligning with the 'Codex/docs only speech hygiene clean' request, while workflow B runs checks on the entire repository regardless of changes."}

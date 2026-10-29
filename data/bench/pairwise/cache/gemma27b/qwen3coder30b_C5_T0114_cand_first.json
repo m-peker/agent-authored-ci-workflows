@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building desktop releases for multiple platforms triggered by tags, while workflow B focuses solely on macOS unsigned builds and is manually triggered, lacking the automated release aspect."}

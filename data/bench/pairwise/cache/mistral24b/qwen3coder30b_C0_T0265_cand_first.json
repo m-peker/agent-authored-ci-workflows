@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all required jobs and steps for linting, typechecking, testing, publish dry-run, and changeset versioning, while Workflow B is missing several critical components."}

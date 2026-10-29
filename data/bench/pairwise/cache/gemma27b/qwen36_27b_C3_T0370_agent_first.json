@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly sets Node.js to version 22 as requested and includes a more robust pnpm caching strategy, improving reliability and speed."}

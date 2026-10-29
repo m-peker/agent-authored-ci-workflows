@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull requests to main, includes all necessary jobs and steps for testing and example generation, and commits the changes back to the repository, while Workflow B is designed for manual dispatch and focuses on calling an API endpoint."}

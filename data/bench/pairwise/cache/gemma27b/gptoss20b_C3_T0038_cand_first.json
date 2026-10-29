@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes caching for pnpm, Turborepo, and Next.js build artifacts, which is crucial for performance and aligns with the request to move the agents-docs build cache, while A lacks any caching."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on release published events and use curl to POST to the Vercel deploy hook, with basic secret checking."}

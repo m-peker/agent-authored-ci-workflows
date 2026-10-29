@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for Claude issue triage, including the correct trigger, jobs, steps, and sensible use of actions and environment variables."}

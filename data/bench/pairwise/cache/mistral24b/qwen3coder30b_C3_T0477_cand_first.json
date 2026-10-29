@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pnpm which is more likely to be the package manager used in the repository, and has a more concise setup."}

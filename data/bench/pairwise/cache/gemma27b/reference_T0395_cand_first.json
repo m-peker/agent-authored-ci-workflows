@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the inputs to generate tags, while Workflow B unnecessarily includes the GitHub SHA in a tag when no custom tag is provided, deviating from the request's intention of on-demand deployment with optional custom tags."}

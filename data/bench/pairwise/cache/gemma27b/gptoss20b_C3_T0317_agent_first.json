@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all the specified triggers and steps, including the exclusion of `@claude review`, while workflow B is empty and does nothing."}

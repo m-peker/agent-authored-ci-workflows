@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (pull_request) and includes a check to avoid adding duplicate labels, making it more robust."}

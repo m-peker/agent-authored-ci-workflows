@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly links the studio package version to the mesh version, ensuring lockstep publishing as requested, and handles potential pre-release versions with npm tags."}

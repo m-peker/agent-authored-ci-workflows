@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all requested Python versions including the experimental free-threaded build of 3.14, while Workflow B misses Python 3.6 and 3.7."}

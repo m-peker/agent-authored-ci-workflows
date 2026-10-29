@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `actions/deploy-pages@v4`, which is the recommended and simpler action for deploying to GitHub Pages, while workflow A uses a deprecated action and unnecessarily copies the README as the index.html."}

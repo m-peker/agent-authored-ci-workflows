@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely follows the request by building wolfSSL with FATFS support and testing the wolfSFTP client with a FATFS image, while workflow A attempts to create a basic FATFS environment and SFTP server which is less relevant to the PR's focus."}

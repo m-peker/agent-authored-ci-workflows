@@ -1,0 +1,1 @@
+{"action": "grafana/shared-workflows/actions/dockerhub-login", "ref": "dockerhub-login/v1.0.2", "exists": true, "name": "Login to DockerHub", "description": "Using the shared Grafana Labs DockerHub credentials, log in to DockerHub", "inputs": {}, "outputs": []}

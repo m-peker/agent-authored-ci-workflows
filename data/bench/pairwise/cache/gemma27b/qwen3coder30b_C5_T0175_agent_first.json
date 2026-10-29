@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to skip interactive E2E tests on Windows by disabling tmux in mise, while Workflow B attempts to install tmux which is counter to the requirements."}

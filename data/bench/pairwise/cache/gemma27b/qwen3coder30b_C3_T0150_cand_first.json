@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the manifest-based release strategy requested by specifying the `manifest-file` input, while workflow B does not."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a check for the existence of the `MODEL_SITE_DEPLOY_HOOK` secret, preventing a failed workflow if the secret is not set, while B will fail immediately."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the repository name in the gh commands and has a more efficient jq filter."}

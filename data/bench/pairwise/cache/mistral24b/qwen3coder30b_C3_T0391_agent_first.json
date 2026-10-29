@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all necessary steps for creating a universal macOS DMG, including building for both architectures, creating a universal binary, and signing/notarizing the DMG, while Workflow A only builds a single architecture."}

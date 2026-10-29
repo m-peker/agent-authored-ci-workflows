@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `GITHUB_OUTPUT` for setting output variables, as requested in the prompt, while Workflow B uses the deprecated `core.setOutput()`."}

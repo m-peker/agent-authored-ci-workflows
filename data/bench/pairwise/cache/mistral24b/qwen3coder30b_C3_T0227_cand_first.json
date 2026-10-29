@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request as it correctly triggers on push and PR to main branch, includes all necessary steps for E2E tests, and uses sensible actions for the task."}

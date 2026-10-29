@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the reusable workflow as requested and triggers on Renovate branches, while A attempts to manually implement the logic and incorrectly tries to trigger Renovate."}

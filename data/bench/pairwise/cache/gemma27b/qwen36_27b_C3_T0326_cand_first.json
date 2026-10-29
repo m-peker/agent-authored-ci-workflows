@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the request by installing the necessary kernel headers for each version and running the `make test` command, while workflow B introduces unnecessary complexity with submodule handling and custom dependency installation."}

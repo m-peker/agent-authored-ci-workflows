@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more specific in its linting checks, including checking for required imports and the @export decorator in Mojo files, and uses more targeted file paths, aligning better with the request's details."}

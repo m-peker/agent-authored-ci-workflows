@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers only on `opened` PRs to `main` and provides a detailed `project_context` as requested, while Workflow B incorrectly uses `pull_request_target` and includes unnecessary/unrequested parameters."}

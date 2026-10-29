@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality, including triggering on workflow call, setting the snapshot name to 'iterate-sandbox-{commitSha}', and using the commit SHA as the `SANDBOX_ITERATE_REPO_REF`."}

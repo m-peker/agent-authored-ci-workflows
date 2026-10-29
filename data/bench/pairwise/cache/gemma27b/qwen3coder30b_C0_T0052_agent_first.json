@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger (`pull_request_target`) and provides a detailed prompt for Claude Code, while workflow B's extensive exclusion list renders it effectively useless for C++ code review and uses a different action."}

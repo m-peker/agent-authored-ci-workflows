@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested checks and triggers on all branches, while Workflow B only triggers on main."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on Renovate pushes and workflow_dispatch, uses the correct reusable workflow, and includes the required restore arguments and commit settings."}

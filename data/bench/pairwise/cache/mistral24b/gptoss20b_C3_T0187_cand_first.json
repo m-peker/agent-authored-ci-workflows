@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses path filtering in the trigger and includes concurrency control, while Workflow A requires an additional job to filter paths."}

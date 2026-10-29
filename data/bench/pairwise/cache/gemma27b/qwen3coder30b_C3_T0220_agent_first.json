@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more structured, uses more appropriate actions (e.g., `actions-rs/toolchain`), and correctly separates concerns into distinct jobs for creating the release, building CLI binaries, building mobile libraries, and publishing assets."}

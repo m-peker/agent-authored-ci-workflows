@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `pull_request_target` trigger and accurately implements the auto-approval logic based on the `ok-to-test` label and contributor history, while workflow B incorrectly uses the `pull_request` trigger."}

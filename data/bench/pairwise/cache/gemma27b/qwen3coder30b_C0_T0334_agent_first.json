@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including build and linting steps, dependency management, and artifact uploading, while A only runs tests."}

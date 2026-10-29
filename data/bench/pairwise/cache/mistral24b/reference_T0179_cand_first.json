@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a step to get the diff of the pull request, which is necessary for the Gemini AI Code Reviewer to review the changes, while Workflow B does not."}

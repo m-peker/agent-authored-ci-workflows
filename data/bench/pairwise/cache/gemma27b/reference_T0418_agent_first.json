@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to run the scanner on every push/PR with minimal complexity, while workflow B introduces unnecessary logic for conditional execution and comment management that isn't required by the prompt."}

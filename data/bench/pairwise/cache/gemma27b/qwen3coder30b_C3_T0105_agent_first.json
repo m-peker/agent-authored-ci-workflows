@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more robust method for installing `uv` and correctly integrates it into the PATH, which is crucial for subsequent `uv pip install` commands to work as intended, while A simply uses `pip install uv`."}

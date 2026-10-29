@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the official OSV scanner action, includes the requested testing steps, and has sensible triggers, while workflow B requires manual Go installation and lacks the testing steps."}

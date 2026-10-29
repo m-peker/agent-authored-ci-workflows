@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles bumping both `openinference-instrumentation` and `openinference-semantic-conventions` as requested, and includes the specific fix for the google-genai instrumentor, while A only addresses the instrumentation package."}

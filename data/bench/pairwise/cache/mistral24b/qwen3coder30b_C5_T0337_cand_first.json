@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more precise method for installing the Sui CLI with a specific revision, which is more reliable for CI/CD pipelines."}

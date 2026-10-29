@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the Makefile target for linting without an unnecessary installation step."}

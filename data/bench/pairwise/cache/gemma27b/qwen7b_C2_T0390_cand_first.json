@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `workflow_run` trigger and downloads artifacts from the build workflow, while also handling PR closure and fork exclusion as requested, unlike Workflow A which uses manual dispatch."}

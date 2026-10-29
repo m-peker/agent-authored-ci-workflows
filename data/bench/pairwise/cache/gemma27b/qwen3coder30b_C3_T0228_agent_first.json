@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to build and push the container image triggered by changes to the Dockerfile, while B adds unnecessary complexity like metadata extraction and attestation not requested."}

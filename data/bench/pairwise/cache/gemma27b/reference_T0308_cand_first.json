@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly builds and tests the 'test' target in the Dockerfile, and then builds and pushes the 'production' target, fulfilling the multi-stage build requirement more completely than Workflow B which only builds one image."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix strategy to build for all three platforms, downloads artifacts from each build, and then creates a single release with all artifacts, aligning with the request's multi-platform build requirement, while B builds each platform separately and uploads artifacts individually."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a GitHub output to conditionally push changes only if the version was bumped, while workflow B relies on `git diff` which is less reliable for detecting changes from `bump2version`."}

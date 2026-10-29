@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a workflow_dispatch trigger and has more comprehensive configuration for marking and closing stale issues and PRs."}

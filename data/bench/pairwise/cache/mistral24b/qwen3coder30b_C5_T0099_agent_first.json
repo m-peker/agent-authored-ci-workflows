@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the Flux CLI to push Kubernetes manifests to the OCI registry as requested, while Workflow B attempts to use crane which is not the requested method."}

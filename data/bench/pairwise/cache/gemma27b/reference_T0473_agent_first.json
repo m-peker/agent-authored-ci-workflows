@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Node versions 18 and 20 as requested, while workflow B uses 20 and 22, deviating from the requirements."}

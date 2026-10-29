@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the Claude action to generate a critique and then posts it as a comment on the PR, while workflow A only runs the tests and calls Claude but doesn't post the critique."}

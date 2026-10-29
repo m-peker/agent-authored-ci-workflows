@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Buck2 for the mdbook-spec preprocessor as requested, while workflow B uses a direct mdbook install and doesn't address this requirement."}

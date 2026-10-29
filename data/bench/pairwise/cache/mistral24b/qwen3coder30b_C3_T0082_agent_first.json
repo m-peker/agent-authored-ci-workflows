@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes TypeScript and Python testing jobs, which are relevant to the repository's language, while Workflow B includes a stale job that is not mentioned in the request and uses Node.js which is not the primary language of the repository."}

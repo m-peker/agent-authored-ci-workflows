@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary jobs and steps to test the new wp i18n audit command with JSON and GitHub Actions output formats, while Workflow A only checks branch aliases."}

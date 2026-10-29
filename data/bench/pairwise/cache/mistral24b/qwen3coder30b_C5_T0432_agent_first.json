@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested jobs and steps, such as linting, testing, and building, and uses the specified devbox actions, while Workflow B does not use devbox and misses some of the requested steps."}

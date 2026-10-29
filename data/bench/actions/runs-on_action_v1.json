@@ -1,0 +1,1 @@
+{"action": "runs-on/action", "ref": "v1", "exists": true, "name": "runs-on/action", "description": "RunsOn Action for magic caching, and more", "inputs": {"show-env": {"required": false, "default": "false", "description": "Show all environment variables"}}, "outputs": []}

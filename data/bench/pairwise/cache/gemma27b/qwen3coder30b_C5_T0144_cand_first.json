@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles the case where no agent files are present, includes the required secret, and provides a more robust check run update with error handling and output formatting."}

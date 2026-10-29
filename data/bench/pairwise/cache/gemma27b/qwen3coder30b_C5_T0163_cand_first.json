@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses persisting reports across PRs by using `fetch-previous-results` with a test reporter, while A only uploads a report without persisting it."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a more complete and robust solution for building a universal macOS DMG, including code signing, building for multiple architectures, and creating a proper application bundle structure, while A relies on a single build script and lacks key steps like code signing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual release triggered by `workflow_dispatch` and builds binaries, while workflow B attempts to use semantic-release, which the request explicitly states should be removed."}

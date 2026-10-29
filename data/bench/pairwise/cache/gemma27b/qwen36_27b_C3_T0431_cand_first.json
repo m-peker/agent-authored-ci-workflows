@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes linting, typechecking, and testing steps for the worker, as requested, while workflow A only builds and deploys, making it less complete as a CI/CD pipeline."}

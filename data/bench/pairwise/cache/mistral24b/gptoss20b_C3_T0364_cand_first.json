@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks if the lockfile has changed before committing and pushing, while Workflow B always attempts to commit and push regardless of changes."}

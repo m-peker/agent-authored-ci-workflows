@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `permissions: pull-requests: write` and a GitHub Script action to reliably find the PR number and comment, handling both creating and updating comments, while A relies on a potentially brittle curl command and hardcoded artifact IDs."}

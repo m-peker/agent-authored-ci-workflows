@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks and assigns the PR assignee when opened or reopened by Devin AI, while Workflow B only checks the assignee and includes unrelated test steps."}

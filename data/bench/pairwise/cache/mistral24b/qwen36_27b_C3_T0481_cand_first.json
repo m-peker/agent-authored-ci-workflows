@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a Rust-specific tool (just) for release checks, while Workflow B uses a Python script without clear context or justification."}

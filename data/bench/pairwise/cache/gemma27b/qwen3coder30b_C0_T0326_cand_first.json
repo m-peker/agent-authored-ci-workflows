@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the request by building and testing with the specified kernel versions using the existing Makefile, while Workflow B introduces unnecessary complexity with submodule handling and custom dependency installation."}

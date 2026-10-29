@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly ties the studio package version to the mesh version, avoiding unnecessary version bumps and ensuring lockstep publishing as requested, and uses a more efficient check for existing versions."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more recent version of the checkout action and explicitly states the job is informational with `continue-on-error: true`, aligning better with the request's non-blocking nature."}

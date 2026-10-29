@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements a full CI/CD pipeline for building and releasing the FFI bindings for multiple targets, triggered by tags, as requested, while workflow B only provides basic checks and tests."}

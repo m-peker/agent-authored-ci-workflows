@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by using the configurable weights file and running tests on self-hosted runners, while workflow B introduces unnecessary complexity and dependencies (like DockerHub login and CodeCov) not mentioned in the request."}

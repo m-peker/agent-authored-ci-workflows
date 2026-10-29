@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's intention of a single reusable workflow handling all stages (build, test, push) and includes more comprehensive container testing, while B separates build and test stages and lacks detailed testing."}

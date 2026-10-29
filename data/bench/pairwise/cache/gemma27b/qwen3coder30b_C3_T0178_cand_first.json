@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to use a workflow_run trigger and download artifacts from a 'capture-pr-data' workflow, while workflow B appears to be attempting to handle the PR event directly and has incorrect workflow names and event triggers."}

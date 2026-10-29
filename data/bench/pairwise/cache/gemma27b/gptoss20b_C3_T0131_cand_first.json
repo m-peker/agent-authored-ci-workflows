@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the requested `uv` tool and release script, while B introduces Nix which isn't part of the request and adds unnecessary complexity."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested ESLint check and build steps, while Workflow B is focused on Claude AI interactions and doesn't address the CI/CD requirements."}

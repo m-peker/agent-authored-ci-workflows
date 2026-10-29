@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has the correct triggers, includes all necessary jobs and steps, and uses sensible actions, while Workflow B is missing the workflow_call trigger and has unnecessary steps."}

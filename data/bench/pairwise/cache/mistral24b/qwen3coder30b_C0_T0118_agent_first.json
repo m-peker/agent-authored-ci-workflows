@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events, includes all required jobs and steps, and has sensible use of actions, while Workflow B has some missing steps and incorrect triggers."}

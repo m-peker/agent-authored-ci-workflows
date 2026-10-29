@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more concise and directly uses the `actions/stale` action's intended functionality without unnecessary steps like checkout and Node.js setup."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the step to copy built files to js-dist for e2e tests, which is mentioned in the request as part of the solution."}

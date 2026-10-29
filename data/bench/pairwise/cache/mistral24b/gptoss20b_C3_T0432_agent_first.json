@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested jobs and steps (lint, test, build) and uses the devbox tool as specified in the request."}

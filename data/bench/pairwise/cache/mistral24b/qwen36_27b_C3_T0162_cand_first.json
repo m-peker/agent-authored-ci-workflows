@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a pre-commit check job that Workflow B lacks, fulfilling the request for pre-commit hooks."}

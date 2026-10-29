@@ -1,0 +1,1 @@
+{"action": "microsoft/AL-Go-Actions/DumpWorkflowInfo", "ref": "main", "exists": true, "name": "Dump Workflow Info", "description": "", "inputs": {"shell": {"required": false, "default": "powershell", "description": "Shell in which you want to run the action (powershell or pwsh)"}}, "outputs": []}

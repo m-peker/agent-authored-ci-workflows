@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes TypeScript and Python jobs with matrix strategy for Python versions, while Workflow B only includes Node.js jobs and lacks Python support."}

@@ -1,0 +1,1 @@
+{"action": "bleep-build/bleep-setup-action", "ref": "0.0.1", "exists": true, "name": "bleep-setup-action", "description": "Github action which lets you use the Bleep JVM build tool", "inputs": {}, "outputs": []}

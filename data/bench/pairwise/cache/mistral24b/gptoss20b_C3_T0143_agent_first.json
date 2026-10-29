@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the master branch and includes all necessary steps for installing PoCL runtime and running the full test suite, while Workflow B triggers on the main branch and does not fully match the requested setup."}

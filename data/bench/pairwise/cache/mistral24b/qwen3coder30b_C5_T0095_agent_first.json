@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the official golangci-lint action, which is more reliable and easier to maintain than manually installing it as in Workflow B."}

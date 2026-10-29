@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more thoroughly tests the integration with the Copilot server and includes a basic integration test simulating a session, directly addressing the request's focus on programmatic Copilot sessions, while workflow B focuses primarily on building and unit testing."}

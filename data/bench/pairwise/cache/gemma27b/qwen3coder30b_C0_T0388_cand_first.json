@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests with the specified paths and uses a standard Node.js setup, while B is incorrectly set up as a reusable workflow when the request asks for a PR workflow."}

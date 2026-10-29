@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more specific trigger for releases (tag pushes) and a more precise pnpm version, making it more suitable for a publish workflow."}

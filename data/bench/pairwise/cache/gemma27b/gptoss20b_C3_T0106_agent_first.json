@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a much more detailed and specific prompt tailored to the request, including instructions to use the GitHub MCP server and available tools, while workflow B's prompt is too generic and relies on Claude to understand the MCP configuration without explicit guidance."}

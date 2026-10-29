@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses single quotes for the heredoc, which avoids the need for excessive escaping of special characters within the JSON, making it more readable and less prone to errors."}

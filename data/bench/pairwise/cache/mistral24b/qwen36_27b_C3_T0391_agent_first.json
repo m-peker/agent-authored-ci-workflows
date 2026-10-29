@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the provided build script and verifies the universal binary, while Workflow B attempts to build the binary from scratch without clear evidence it would work."}

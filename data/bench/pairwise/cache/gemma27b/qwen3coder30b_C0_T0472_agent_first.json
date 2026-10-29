@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` to trigger on the PR author's repository, as required for external contributors, while B uses `pull_request` which triggers on the PR opener's repository."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly scopes permissions to the job level, while A only sets them at the workflow level, and B uses a more recent checkout action version."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a manual release triggered by `workflow_dispatch` and allows specifying the version, aligning with the request to remove automatic versioning and create releases manually, while B attempts to re-introduce semantic-release."}

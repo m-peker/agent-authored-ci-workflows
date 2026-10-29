@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements path filtering and only triggers the Vercel deploy hook when docs changes are detected, while Workflow B lacks this crucial check."}

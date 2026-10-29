@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct installation method for uv (via its install script) and adds the cargo bin directory to PATH, while Workflow B incorrectly uses pip to install uv."}

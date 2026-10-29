@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs golangci-lint using make lint-install before running it, ensuring the correct version is used as specified in the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes linting, type checking, and unit tests, and database migrations/seeding, covering a broader CI scope relevant to the project, while workflow B focuses solely on database tests and has a more restrictive trigger."}

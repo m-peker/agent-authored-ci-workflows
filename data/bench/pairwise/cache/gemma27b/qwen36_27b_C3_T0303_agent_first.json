@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses an API call to trigger all workflows, including the 38 templated ones, while workflow A only lists a subset and doesn't account for the templated workflows."}

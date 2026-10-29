@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `requirements.txt` as requested, while B uses `requirements-full.txt` which isn't mentioned in the request."}

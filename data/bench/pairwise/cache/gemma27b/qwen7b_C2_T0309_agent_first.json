@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers only on releases of the target package, extracts the version dynamically, and updates the dependency with the new version, while workflow B attempts to hardcode a version and operates on `.py` files instead of `pyproject.toml`."}

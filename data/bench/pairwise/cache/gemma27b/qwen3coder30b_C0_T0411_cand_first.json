@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested CI/CD pipeline with Node.js 20, appropriate triggers, and the specified steps, differing only in how the node version is specified within the matrix."}

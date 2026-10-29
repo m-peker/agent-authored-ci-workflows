@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets pull request staleness/closure days to -1, ensuring PRs are unaffected, while B relies on the default behavior which is less clear."}

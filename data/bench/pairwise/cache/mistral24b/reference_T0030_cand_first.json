@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly scopes to the master branch, includes concurrency control, and has a job-level if guard to skip execution for human-authored PRs, while Workflow B lacks these essential features."}

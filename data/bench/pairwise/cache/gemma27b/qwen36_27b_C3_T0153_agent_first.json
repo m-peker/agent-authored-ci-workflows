@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles both fork and same-repo PRs with appropriate checkout strategies and SHA verification, as specified in the request, while workflow B lacks fork handling and SHA verification."}

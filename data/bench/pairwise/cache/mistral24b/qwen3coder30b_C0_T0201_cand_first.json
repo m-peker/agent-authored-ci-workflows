@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested testing steps and uses the official osv-scanner-action, while Workflow B lacks the requested testing steps and manually installs the scanner."}

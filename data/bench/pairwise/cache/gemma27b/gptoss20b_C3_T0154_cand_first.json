@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the entire repository and runs tests for the new feature, while workflow B is narrowly focused on a `python/vercel-runtime` directory that doesn't appear relevant to the requested feature."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has the correct trigger on push to main branch and includes a conditional check for KILN_CONFIG_REPO variable, while Workflow B only triggers on manual dispatch."}

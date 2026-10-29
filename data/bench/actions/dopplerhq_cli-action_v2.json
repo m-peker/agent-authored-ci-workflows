@@ -1,0 +1,1 @@
+{"action": "dopplerhq/cli-action", "ref": "v2", "exists": true, "name": "Install Doppler CLI", "description": "Install the Doppler CLI into your PATH", "inputs": {}, "outputs": []}

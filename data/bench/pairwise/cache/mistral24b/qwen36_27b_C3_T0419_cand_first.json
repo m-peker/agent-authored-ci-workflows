@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested CLAUDE.md size check with the specified 25k character limit and proper triggers for both push and pull_request events."}

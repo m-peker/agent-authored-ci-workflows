@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested `workflow_dispatch` trigger with a default `dry-run` of true and removes the `target` input, while Workflow A uses a `pull_request` trigger and incorrectly includes a `target`."}

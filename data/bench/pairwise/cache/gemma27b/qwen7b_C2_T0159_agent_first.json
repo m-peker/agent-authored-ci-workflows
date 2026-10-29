@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies PRs opened by Devin AI and attempts to assign the appropriate user based on the email in the PR description, while workflow B checks for a hardcoded assignee and is triggered on pushes to main."}

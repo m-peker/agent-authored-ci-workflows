@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements persistence of reports across PRs using a dedicated branch, while workflow B attempts to use `fetch-previous-results` which is not suitable for persisting data across PRs as requested."}

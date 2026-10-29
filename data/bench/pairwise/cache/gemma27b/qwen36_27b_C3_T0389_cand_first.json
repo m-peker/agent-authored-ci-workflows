@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for CI workflow auto-publishing in lockstep with mesh version bumps by triggering on tags like 'studio-v*', while workflow B triggers on changes to `apps/mesh/package.json` which is less directly aligned with the stated requirement."}

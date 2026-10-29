@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B focuses on updating a specific metadata field (`ms.date`) within markdown files, triggered by pull requests on relevant paths, which is a more targeted and efficient approach than A's broad date replacement across all files."}

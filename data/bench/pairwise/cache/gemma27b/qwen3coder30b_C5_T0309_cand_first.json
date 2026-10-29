@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles both packages as requested, while workflow B is limited to only bumping `openinference-instrumentation` and lacks the semantic conventions update and the google-genai pin fix."}

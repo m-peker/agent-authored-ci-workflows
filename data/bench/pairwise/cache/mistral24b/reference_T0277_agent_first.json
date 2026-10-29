@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a direct cargo fmt check which is more straightforward and likely to work as intended."}

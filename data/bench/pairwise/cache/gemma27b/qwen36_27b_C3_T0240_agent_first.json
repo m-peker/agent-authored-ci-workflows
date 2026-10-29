@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `github/ai-moderator@v1` action as requested, while workflow B attempts to build its own AI moderation using a general AI inference action and custom scripting, deviating from the specified requirements."}

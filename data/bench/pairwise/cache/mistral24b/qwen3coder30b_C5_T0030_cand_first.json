@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pull_request event with branch filtering and has proper bot detection logic."}

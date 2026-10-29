@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the Buck2 target for the mdbook-spec preprocessor and uses dotslash, while workflow A uses a direct download of mdbook, and doesn't address the Buck2 requirement."}

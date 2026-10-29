@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly builds both dartsim and gz-physics from source and attempts to build and test gz-physics *with* dartsim, fulfilling the request's core requirement, while workflow A simply runs a test command without building anything."}

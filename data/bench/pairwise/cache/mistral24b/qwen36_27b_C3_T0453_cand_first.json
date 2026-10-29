@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a step to enable corepack and pnpm, which is necessary for the requested setup, and also handles the devDependencies issue by using a matrix strategy to run different commands."}

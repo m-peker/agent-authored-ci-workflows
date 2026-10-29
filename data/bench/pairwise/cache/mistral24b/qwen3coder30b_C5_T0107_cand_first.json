@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PR events and checks the specified files, while Workflow B also triggers on push and merge_group events which were not requested."}

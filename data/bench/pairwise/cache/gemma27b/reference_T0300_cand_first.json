@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `permissions: pages: write` and `id-token: write` within the `deploy` job, which is necessary for `actions/deploy-pages` to function correctly, while B sets them at the workflow level which is less targeted."}

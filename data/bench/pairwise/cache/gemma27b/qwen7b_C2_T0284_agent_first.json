@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the Copilot setup steps request by installing `uv` and verifying `pre-commit`, while B uses `pip` and includes unnecessary steps like `pre-commit install`."}

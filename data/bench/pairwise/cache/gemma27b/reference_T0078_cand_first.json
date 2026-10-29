@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `BoardConfig.from_file` which is a more idiomatic and likely robust way to load configuration data compared to `load_config` in Workflow A."}

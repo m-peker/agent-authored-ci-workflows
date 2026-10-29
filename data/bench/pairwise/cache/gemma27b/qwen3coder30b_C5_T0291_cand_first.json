@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly prepares a matrix of task IDs from the JSON file and uses `max-parallel: 1` as requested, while workflow A's task ID generation and matrix setup are less robust and more complex."}

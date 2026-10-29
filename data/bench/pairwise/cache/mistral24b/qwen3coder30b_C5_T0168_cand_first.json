@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more efficiently filters and closes stale PRs in a single jq command, while Workflow A processes each PR individually."}

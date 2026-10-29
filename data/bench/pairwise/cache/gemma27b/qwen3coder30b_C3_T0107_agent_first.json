@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests as requested and uses appropriate arguments for the lychee action, while B includes unnecessary Rust caching and excludes domains without justification."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the docs directory in the main branch and includes concurrency control, while Workflow B has unnecessary complexity with the paths-filter job."}

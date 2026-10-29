@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B provides a more complete and functional CI/CD pipeline, including Docker build, testing with a Mosquitto broker, image pushing, and attestation, aligning closely with all requirements of the request."}

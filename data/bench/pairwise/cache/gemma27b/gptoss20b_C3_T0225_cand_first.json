@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the requested CI workflow with testing using pytest, while workflow B focuses on publishing and doesn't address the core request of adding a test suite and CI."}

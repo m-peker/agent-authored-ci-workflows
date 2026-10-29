@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs the required golangci-lint version via `make install-golangci-lint` as described in the request, while workflow B does not, relying on a potentially different version being available in the environment."}

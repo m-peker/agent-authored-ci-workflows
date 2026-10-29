@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses workflow_call and workflow_dispatch triggers, includes all required testing steps, and deploys using the Wrangler action with proper environment variables."}

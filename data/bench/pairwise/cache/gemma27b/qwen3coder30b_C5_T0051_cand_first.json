@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly checks and enforces the 50% coverage threshold as requested, while workflow B only generates the coverage report without verification."}

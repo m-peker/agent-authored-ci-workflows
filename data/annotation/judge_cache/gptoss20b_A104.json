@@ -1,0 +1,1 @@
+{"item_id": "A104", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The if: false construct is a valid way to disable a job and does not cause any failure.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The if: false construct is a valid way to disable a job and does not cause any failure.\"}"}

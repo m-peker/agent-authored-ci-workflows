@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is a standard CI workflow that would build, lint, typecheck, and test the code, which is a more relevant and plausible action for a PR related to code changes than workflow A's Claude integration."}

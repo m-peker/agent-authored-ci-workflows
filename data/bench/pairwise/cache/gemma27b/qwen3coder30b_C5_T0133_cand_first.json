@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specified `release-type: simple` and includes the necessary `token` and `target-branch` parameters, while B uses an older action version and lacks the target branch."}

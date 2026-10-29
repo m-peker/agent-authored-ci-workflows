@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses a dedicated action for DCO checking, simplifying the implementation and likely providing more robust and maintained functionality compared to B's custom script."}

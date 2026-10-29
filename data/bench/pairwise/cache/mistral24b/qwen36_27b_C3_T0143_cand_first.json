@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests against multiple Python versions and correctly sets the PYOPENCL_CTX environment variable to force PoCL as the platform."}

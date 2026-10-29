@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes the release step as requested, removing the problematic `--ci` flag, and triggers it only on pushes to main, while workflow B does not address the release step at all."}

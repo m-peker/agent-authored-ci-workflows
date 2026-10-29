@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push or PR events affecting the workflow file, while Workflow B incorrectly triggers on pushes to master branch."}

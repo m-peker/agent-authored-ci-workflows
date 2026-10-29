@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to relevant branches and paths, sets up the Rust toolchain, runs benchmarks for the changed crates, and uploads the results, fulfilling the core request, while B is overly complex and relies on external fixtures and a scheduled run."}

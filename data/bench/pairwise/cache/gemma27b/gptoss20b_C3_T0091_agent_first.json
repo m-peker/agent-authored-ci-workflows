@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request by summarizing findings (blocking, review, inconclusive) and updating a single PR comment with commit-level details, while B simply outputs a table and fails the workflow."}

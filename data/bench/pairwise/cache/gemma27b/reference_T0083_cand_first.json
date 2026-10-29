@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request by attempting to type check *changed* backend modules, while workflow B type checks the entire backend directory, which is less efficient and doesn't align with the request's intent."}

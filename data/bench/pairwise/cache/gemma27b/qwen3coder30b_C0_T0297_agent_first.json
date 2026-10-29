@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more directly addresses the request by building and uploading artifacts on every push/PR, and creating a release on tag push, while workflow B has a more limited push trigger and a less clear artifact structure."}

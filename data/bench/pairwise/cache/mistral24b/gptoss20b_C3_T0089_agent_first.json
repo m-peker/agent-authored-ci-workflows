@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs where the workflow file is changed and for the default branch, includes the required job name, and sets up pre-commit as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a more comprehensive check for issue linking by first attempting to use GitHub's native linking via GraphQL before falling back to text analysis."}

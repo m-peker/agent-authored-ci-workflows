@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on lockfile/package.json changes and focuses solely on SBOM generation, while Workflow B includes unnecessary build and test steps and triggers on all pushes and pull requests."}

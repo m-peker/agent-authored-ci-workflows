@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete and integrates with the existing PowerShell build system, including bootstrapping and building the project before analysis, which is crucial for a proper CodeQL scan in this repository."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests the specific changes requested in the PR while Workflow B tests GitHub Copilot integration in general."}

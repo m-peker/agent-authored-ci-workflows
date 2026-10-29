@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows identically and correctly implement the Copilot setup steps as requested: installing `uv`, syncing dependencies, and verifying `pre-commit` is available, triggered on PRs to the workflow file itself and manually."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's simplification goals, running Atheris only on main and using a `make` target for local testing, while B introduces unnecessary dependencies and complexity."}

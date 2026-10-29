@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more configurable and provides more sensible defaults for stale management, including exempt labels for PRs and issues, and a workflow dispatch option."}

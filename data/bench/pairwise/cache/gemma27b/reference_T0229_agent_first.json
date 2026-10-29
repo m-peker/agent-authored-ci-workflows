@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `uv` for dependency management as requested, while workflow A incorrectly uses `poetry`."}

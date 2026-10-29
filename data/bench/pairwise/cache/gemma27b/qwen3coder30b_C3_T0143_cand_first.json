@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more specific Ubuntu version, includes a timeout, and importantly installs dependencies from a `requirements-full.txt` file which is best practice, while A attempts to install dependencies directly and includes a test summary action not requested."}

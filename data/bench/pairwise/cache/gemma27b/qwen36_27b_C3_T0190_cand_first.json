@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's design decisions, particularly the single PR per release and the use of a changelog context, and has a cleaner implementation of the Claude integration."}

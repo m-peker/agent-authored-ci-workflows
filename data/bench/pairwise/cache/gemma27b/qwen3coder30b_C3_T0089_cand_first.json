@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly names the job 'copilot-setup-steps' as required for Copilot integration and includes a workflow_dispatch trigger for manual testing, while A lacks the necessary job name and doesn't offer manual triggering."}

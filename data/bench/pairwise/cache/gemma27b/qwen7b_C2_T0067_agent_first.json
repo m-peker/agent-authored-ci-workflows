@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the release event's `prerelease` property to determine the npm dist-tag, while B incorrectly checks the `GITHUB_REF` which won't reliably indicate prerelease status."}

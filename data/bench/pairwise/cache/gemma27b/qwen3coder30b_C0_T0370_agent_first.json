@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pnpm publish` and reads the Node.js version from `.nvmrc` as implied by the request, while B incorrectly uses `npm publish` after a pnpm setup."}

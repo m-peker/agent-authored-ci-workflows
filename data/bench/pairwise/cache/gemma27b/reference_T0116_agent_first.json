@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI checks (linting and testing across multiple Python versions) using appropriate actions and a sensible setup."}

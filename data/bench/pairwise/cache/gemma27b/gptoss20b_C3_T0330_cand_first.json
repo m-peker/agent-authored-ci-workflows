@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more flexible by checking for an npm script before running the TypeScript file directly, and it passes all necessary environment variables, while B hardcodes the script path and uses different secret names."}

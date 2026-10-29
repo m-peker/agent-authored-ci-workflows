@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies pull_request branches while Workflow B does not, which could lead to unnecessary duplicate runs."}

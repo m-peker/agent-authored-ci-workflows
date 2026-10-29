@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly checks out the repository, which is necessary for the changelog enforcer to function, while B implicitly relies on it and lacks configuration options."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `kustomize` to build the manifests from the `overlays/x86` directory as requested, while workflow A relies on a custom script and manual file movement."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the ARM64 architecture as specified in the filename and focuses on building the core component, while workflow B runs tests on macOS and doesn't address the request to add Pipenv support."}

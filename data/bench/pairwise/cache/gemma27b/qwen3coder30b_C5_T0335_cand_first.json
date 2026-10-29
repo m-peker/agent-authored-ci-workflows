@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core issue of symlinks breaking during installation with specific validation steps and a simulation, while workflow B focuses more on build process and manifest coverage without a clear installation test."}

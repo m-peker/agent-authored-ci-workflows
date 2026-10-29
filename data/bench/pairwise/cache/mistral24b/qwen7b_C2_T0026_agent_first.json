@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the action ref from the start and includes all required triggers, while Workflow B attempts to set the ref dynamically which is not as reproducible."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs and steps, including type checking and formatting, while Workflow B only includes the basic test steps."}

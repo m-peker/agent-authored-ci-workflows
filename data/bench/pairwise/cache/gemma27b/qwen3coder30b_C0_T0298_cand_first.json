@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to run the test suite (test.sh) while B runs a different script (jury/render-the-verdict.sh) and installs an unnecessary dependency."}

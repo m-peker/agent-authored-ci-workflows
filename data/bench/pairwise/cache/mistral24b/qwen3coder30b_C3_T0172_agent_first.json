@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the configuration file specified in the request while Workflow B hardcodes parameters that should be in the config file."}

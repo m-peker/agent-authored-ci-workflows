@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by collecting results via bench.sh, pushing to a dedicated 'perf' branch with history, and including a step summary with JSON results, while B uses a simpler push approach and lacks history management."}

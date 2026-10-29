@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the latest version of the `actions/labeler` action (v6) and includes `sync-labels: true` which is a best practice for maintaining label consistency."}

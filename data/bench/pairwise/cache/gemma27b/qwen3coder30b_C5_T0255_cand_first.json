@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the 'no response' issue by automatically closing stale issues and PRs, while workflow A focuses on general staleness and doesn't specifically target lack of response."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the security concern by passing the PR title and body as environment variables to a JavaScript script, avoiding the vulnerable bash heredoc approach used in Workflow A."}

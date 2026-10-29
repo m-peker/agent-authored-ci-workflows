@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a matrix to build for all specified targets with `deno compile`, creates archives for each target, and uploads them to a GitHub release, while workflow A only builds one target and attempts to upload placeholder files."}

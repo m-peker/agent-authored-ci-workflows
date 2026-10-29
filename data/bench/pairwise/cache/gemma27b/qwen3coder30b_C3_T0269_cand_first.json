@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides standard linting and testing which is a reasonable check for a PR removing error handling, while workflow B appears to be testing a database and is unrelated to the PR's stated goal."}

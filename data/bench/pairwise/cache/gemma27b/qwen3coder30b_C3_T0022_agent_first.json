@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a complete CI workflow that checks out the code, sets up dependencies (including pixi), and attempts to run tests with gz-physics, while workflow B is empty."}

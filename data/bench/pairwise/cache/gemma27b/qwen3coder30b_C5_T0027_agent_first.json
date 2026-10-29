@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including all validation steps, key wiring changes, and the optional Python setup helper, while A only runs a single upgrade audit."}

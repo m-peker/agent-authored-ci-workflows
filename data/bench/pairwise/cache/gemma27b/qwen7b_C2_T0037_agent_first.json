@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a `paths-filter` to determine if the ghalint job needs to run, mirroring existing repository patterns, while workflow B lacks this and always runs ghalint."}

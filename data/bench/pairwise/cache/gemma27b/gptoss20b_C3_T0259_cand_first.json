@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a release process triggered by changes to the widget code and provides a manual publish option, aligning with the monorepo move and the need for controlled releases, while A simply publishes on tag which isn't the correct trigger."}

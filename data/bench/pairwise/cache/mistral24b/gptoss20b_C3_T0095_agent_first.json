@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all requested features, auto-formatting with commit, and additional useful steps like coverage upload, while making the lint job non-blocking."}

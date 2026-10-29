@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the first-time detection logic and auto-approval based on the ok-to-test label, while Workflow B has a logical error in its first-time contributor check."}

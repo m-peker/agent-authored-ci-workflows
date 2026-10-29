@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly caches the Next.js build cache, which is specifically requested in the problem description, while workflow B does not."}

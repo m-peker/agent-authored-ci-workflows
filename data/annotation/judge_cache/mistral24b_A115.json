@@ -1,0 +1,1 @@
+{"item_id": "A115", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The input is trusted as it comes from a GitHub event and is not attacker-controlled.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The input is trusted as it comes from a GitHub event and is not attacker-controlled.\"}\n```"}

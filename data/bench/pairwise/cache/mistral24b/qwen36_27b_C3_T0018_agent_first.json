@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly omits the rust-cache action for the fmt job, which doesn't need caching."}

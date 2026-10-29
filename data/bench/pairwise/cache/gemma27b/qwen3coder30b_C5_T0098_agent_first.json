@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the described setup using Docker Compose for the entire Mastodon stack, including generating secrets and provisioning, while workflow B attempts to manage Postgres and Redis as services which is not what the request outlines."}

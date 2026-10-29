@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes multi-platform builds (linux/amd64, linux/arm64, linux/arm/v7) and runs the browser UI tests as requested, while workflow B only builds for amd64 and lacks the browser tests."}

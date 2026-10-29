@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses GoReleaser as requested for cross-platform builds and includes `go vet` and tests, while workflow A attempts manual builds and lacks `go vet`."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to the main branch and uses 'go test' as requested, while Workflow B also triggers on pushes to main and uses 'make test' which is not specified in the request."}

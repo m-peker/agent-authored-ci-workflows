@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release branches as requested and focuses on the RC gate decision, while workflow B triggers on main and attempts to run all tests, which isn't the stated purpose of this workflow."}

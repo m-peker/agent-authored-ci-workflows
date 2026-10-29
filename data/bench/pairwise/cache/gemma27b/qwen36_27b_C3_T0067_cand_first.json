@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly loads the Node.js version from `.node-version` or defaults to 20, while workflow B relies on the file existing and doesn't provide a default, and workflow A's publish step is more concise."}

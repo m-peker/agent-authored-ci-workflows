@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers after crates.io publishing via workflow_call and includes necessary steps for building and pushing the Docker image."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all necessary steps for building universal binaries, creating a DMG, and handling code signing and notarization, while Workflow B lacks the code signing and notarization steps."}

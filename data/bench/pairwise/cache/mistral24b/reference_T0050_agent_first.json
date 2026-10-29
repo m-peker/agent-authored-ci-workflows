@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the defaults.run.working-directory to avoid repeating the directory change in each step."}

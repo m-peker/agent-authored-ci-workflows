@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `go-version-file` in `actions/setup-go` which is more aligned with best practices for Go projects, while B hardcodes a Go version."}

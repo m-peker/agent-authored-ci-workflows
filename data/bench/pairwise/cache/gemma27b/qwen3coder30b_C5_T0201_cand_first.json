@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses a standard Go installation method for `osv-scanner`, and directly scans the repository, while A involves manual download and setup and uses custom actions that aren't relevant to the core request."}

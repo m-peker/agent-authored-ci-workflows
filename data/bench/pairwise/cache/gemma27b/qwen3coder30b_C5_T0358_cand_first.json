@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for badge generation and a more modern git commit action, while A attempts badge generation with `coverage report` and a markdown echo, which is less reliable and doesn't produce an SVG directly."}

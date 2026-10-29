@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a `workflow_run` trigger and artifact passing to handle fork PRs securely, as requested, while A's trigger and logic are less aligned with the two-workflow pattern."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to install Python 3.11, uv, pre-commit/pre-commit-uv, and tox/tox-uv, while workflow B goes beyond the request by also running tests, building documentation, and benchmarking."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct Node.js version (20.x) and has a more efficient concurrency strategy, better caching, and a cleaner deployment action."}

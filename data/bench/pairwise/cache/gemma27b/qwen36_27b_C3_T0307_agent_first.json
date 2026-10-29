@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request's version bumping logic, comparing the current and target versions before bumping, and correctly pushes tags, while B's version check and bump logic is less direct and uses 'release' instead of 'patch' as requested."}

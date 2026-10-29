@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified paths (base, extract, source toolkits) and uses the `get-certified-connectors.sh` script to filter for source connectors, while workflow B has overly broad trigger paths and doesn't filter by connector type."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the changesets action to automate versioning and publishing, leverages OIDC, and is triggered on `main` branch pushes as intended by the changesets workflow, while A uses a tag trigger and relies on the deprecated `NPM_TOKEN`."}

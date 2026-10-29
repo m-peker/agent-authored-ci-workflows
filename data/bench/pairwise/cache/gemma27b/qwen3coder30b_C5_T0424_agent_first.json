@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly builds the application using PyInstaller with the icon specified, while workflow A relies on a spec file which isn't provided in the repository, and has some pathing issues."}

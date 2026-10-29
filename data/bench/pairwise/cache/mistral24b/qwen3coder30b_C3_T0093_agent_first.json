@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested linting check without making changes, while Workflow B attempts to auto-fix the code which was explicitly not requested."}

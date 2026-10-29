@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to remove the target input and default dry-run to true by dispatching to the integrations-core release workflow with the correct inputs, while workflow B is triggered on pull requests and includes a target which is now deprecated."}

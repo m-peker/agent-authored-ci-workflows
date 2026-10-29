@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the check-release functionality as described in the request, including the checkout step with `persist-credentials: false` and the execution of the release check script."}

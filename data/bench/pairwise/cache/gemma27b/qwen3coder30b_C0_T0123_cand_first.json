@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses labels for marking stale issues/PRs as requested, while A only uses messages, and also includes more comprehensive configuration options for the action."}

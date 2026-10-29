@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses `pip install` for all dependencies as requested, while B uses `curl` to install `uv` which is an unnecessary complication and deviates from the request's implied simplicity."}

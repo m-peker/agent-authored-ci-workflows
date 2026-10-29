@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a build step which is necessary to run the Electron app, and correctly installs Playwright browsers, while workflow A lacks a build step and doesn't explicitly install browsers."}

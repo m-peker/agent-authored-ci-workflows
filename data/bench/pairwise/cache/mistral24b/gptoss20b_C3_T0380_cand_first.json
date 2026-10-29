@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A addresses the request by implementing pre-rebase base-only improvement detection, mandatory answer-session policy, and post-rebase regression scan, while Workflow B focuses on i18n key checks which is unrelated to the request."}

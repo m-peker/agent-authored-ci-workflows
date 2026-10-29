@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `workflow_dispatch` with inputs for service selection and ref specification, builds and pushes to GHCR, and provides a deploy command, while workflow B uses Docker Hub and lacks service selection."}

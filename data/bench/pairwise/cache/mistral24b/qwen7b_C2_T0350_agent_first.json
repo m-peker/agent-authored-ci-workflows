@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes, uses the required changesets action, and properly configures permissions and environment variables for trusted publishing."}

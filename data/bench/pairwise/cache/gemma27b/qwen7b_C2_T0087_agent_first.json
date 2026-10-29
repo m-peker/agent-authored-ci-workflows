@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly extracts the PR number and linked issues directly from the commit and PR body using shell commands, while workflow B attempts to use the commit message to find the PR number and relies on a potentially unreliable method for finding linked issues, and also makes unnecessary API calls."}

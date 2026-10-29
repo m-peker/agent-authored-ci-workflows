@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` which is necessary to inspect the PR body, and leverages a JavaScript action for parsing and logic, aligning with the request's intent to avoid complex shell scripting."}

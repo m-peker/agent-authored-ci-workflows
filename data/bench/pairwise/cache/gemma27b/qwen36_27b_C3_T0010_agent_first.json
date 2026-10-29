@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a matrix strategy to explicitly run tests for each database (Postgres, PgBouncer, and MySQL), which directly addresses the request, while A runs all tests against all databases concurrently."}

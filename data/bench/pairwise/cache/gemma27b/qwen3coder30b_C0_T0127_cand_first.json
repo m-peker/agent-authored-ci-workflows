@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers only on `main` branch PRs as requested, while A triggers on `pull_request_target` which is not what was asked for, and B provides a more detailed and relevant `project_context`."}

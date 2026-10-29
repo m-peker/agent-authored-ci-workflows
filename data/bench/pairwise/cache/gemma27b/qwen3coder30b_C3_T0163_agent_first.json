@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on `workflow_run` and uses the `github-test-reporter` action to persist and compare reports across PRs, directly addressing the request, while workflow B uses `workflow_dispatch` and a separate Testspace service which isn't requested."}

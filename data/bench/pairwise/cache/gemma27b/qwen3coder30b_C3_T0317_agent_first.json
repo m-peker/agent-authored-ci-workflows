@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all trigger conditions and exclusion criteria specified in the request, while workflow B uses a different action and lacks the exclusion for '@claude review' and the handling of issue assignments."}

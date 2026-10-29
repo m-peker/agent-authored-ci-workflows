@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the beta release process including creating a beta branch, running semantic-release with the beta tag, and cleaning up the branch, while also addressing the CWD issue with `cd \"$PROJECT_ROOT\"`."}

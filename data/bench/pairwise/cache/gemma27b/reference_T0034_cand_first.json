@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `hatch run server:sdk-generate` which aligns with the test plan's local execution command, and includes a `pnpm run clean` step before building, improving build reliability."}

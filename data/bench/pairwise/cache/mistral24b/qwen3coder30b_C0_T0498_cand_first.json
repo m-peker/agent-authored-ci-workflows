@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the relevant PR events and uses the labeler action with the correct configuration path."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly specifies Python 3.8+, includes pre-commit checks, and has the correct triggers for the main branch and pull requests."}

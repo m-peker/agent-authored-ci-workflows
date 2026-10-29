@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request by using a matrix to drive the builds for specific branches and tags, deriving cache keys and image tags from metadata, and eliminating manual configuration as intended."}

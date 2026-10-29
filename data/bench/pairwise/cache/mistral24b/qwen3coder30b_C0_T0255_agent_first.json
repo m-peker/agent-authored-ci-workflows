@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested triggers and steps for handling no-response issues and pull requests, while Workflow B focuses on marking issues and PRs as stale, which is not what the request asked for."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both `push` and `pull_request` events, while workflow B only triggers on `push` to `main`."}

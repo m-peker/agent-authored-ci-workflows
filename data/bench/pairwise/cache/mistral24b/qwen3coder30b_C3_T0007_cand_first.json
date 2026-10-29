@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request merges and pushes to main, includes relevant jobs and steps for updating the roadmap, and uses sensible actions, while Workflow B is designed for a different purpose and doesn't address the request."}

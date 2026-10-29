@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a dedicated step to check for changes before attempting to create a PR, while workflow B pushes a commit regardless of whether changes exist and relies on `success()` which is less precise."}

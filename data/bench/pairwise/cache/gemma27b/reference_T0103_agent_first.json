@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on PR close, use the appropriate action to delete the Neon branch, and update a PR comment with the cleanup status."}

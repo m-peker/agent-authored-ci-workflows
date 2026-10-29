@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested jobs (lint, test, security audit, changelog generation, cross-platform builds, and trusted publishing) while Workflow B is missing the CI part and security audit."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by disabling other database tests and explicitly targeting CockroachDB tests with a pattern, while B simply enables CockroachDB tests without isolating them."}

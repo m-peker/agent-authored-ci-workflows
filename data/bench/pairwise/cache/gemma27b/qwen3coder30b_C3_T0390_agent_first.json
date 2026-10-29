@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested build/deploy split with artifact metadata for both deployment and cleanup, and handles PR closure as specified, while workflow B lacks the cleanup functionality and relies on brittle branch name parsing."}

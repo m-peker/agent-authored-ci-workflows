@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CodeQL scanning with appropriate triggers, jobs, and steps, including .NET setup and dependency restoration."}

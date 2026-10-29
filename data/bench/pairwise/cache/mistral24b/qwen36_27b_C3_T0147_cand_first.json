@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the specific test commands requested (pnpm run playwright and pnpm run test:tryouts:agent) while Workflow B focuses on debugging OCI images and doesn't include the requested tests."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by implementing a check within the CI process, while workflow B uses a reusable workflow that doesn't seem relevant to the task and triggers on releases instead of pushes/pull requests."}

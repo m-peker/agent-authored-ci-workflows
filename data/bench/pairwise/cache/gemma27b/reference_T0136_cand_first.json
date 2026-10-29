@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and perform security scanning with Trivy, but neither addresses the bug description related to Kubernetes MCPRegistry sync status, making them equally irrelevant to the request."}

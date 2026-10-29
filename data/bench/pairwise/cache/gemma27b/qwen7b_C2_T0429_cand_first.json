@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `npm publish --provenance` for supply chain security and a more recent Node.js version, while A lacks provenance and uses an older Node.js version."}

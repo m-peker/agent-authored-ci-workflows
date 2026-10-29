@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the GitHub Pages deployment actions and adjusts the VitePress base path as requested, while A uses a deprecated gh-pages action and doesn't address the base path issue."}

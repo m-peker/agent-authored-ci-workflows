@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all required checks (lint, format, typecheck, publish dry-run, audit) and triggers on both pull requests and pushes to main, while Workflow B is missing the publish dry-run and audit steps and doesn't trigger on pushes to main."}

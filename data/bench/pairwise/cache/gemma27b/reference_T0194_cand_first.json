@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on pull requests and pushes to the specified branches, and execute the required audit script and upload artifacts."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly scopes permissions to individual jobs, while Workflow B applies them globally, which is less secure."}

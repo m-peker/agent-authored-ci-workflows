@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly avoids requesting a version input, as release-please is intended to auto-calculate it, and accurately reflects the requested flow of creating the candidate branch and triggering release-please."}

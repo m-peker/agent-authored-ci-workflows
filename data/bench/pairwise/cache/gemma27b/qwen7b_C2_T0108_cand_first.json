@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the request for manual releases triggered by a dispatch event, allowing a maintainer to specify a version, while workflow B attempts to re-introduce semantic-release which the request explicitly aims to remove."}

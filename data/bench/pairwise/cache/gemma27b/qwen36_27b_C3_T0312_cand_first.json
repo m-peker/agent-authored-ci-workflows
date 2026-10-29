@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more accurately implements the label logic specified in the request, particularly the precedence of 'bug' when both bug and feature keywords are present, and uses a more concise and reusable function for label creation."}

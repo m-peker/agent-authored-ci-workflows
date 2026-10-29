@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely addresses the request by including bpftrace installation, using `objdump` for symbol verification (more reliable than `nm`), and testing both helloworld and args with bpftrace attachment."}

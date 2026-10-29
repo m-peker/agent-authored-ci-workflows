@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly passes the base and head SHAs to the script as requested, while B does not, making it less likely to function as intended."}

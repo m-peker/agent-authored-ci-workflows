@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the ARM64 architecture as requested in the filename and focuses on building the bundler ecosystem, while workflow B builds a Docker image which is not part of the request."}

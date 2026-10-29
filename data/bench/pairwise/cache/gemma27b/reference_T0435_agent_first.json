@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality: triggering a Vercel rebuild on release publish using a deploy hook and handling the case where the secret is not set."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and neither addresses the core request of handling Terraform plans with 'open' changes, focusing instead on a pixi setup which is unrelated to the problem description."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A properly uses environment variables and JavaScript to safely process PR titles and bodies, while Workflow B still uses heredocs which could be vulnerable to injection."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes Java setup and verification steps, which are necessary for a dotnet/java-interop repository, and uses more up-to-date actions."}

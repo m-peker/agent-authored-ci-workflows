@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/download-artifact` to gather all artifacts before release creation, while workflow B incorrectly assumes the Windows installer action creates an artifact with the expected name and location."}

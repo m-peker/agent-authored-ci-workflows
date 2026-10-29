@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the build step and the agents-docs build cache step as requested, while Workflow A is missing these."}

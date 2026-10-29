@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes deployment jobs for all requested platforms while Workflow B focuses on versioning and publishing to PyPI and Docker Hub."}

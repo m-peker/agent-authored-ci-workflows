@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses GraphQL API to query and dequeue unmergeable PRs from the merge queue and posts a comment, while Workflow B uses an incorrect API endpoint and doesn't properly handle the merge queue entries."}

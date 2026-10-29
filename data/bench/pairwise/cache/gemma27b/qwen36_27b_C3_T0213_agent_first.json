@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `days-before-pr-stale` and `days-before-pr-close` to -1, ensuring it only affects issues as requested, while B does not, potentially leading to unintended PR processing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly authenticates as octavia-bot using the GitHub App credentials as requested, while workflow B uses GITHUB_TOKEN which is not what was asked for."}

@@ -1,0 +1,1 @@
+{"action": "nv-gha-runners/get-pr-info", "ref": "main", "exists": true, "name": "Get PR Info", "description": "", "inputs": {}, "outputs": ["pr-info"]}

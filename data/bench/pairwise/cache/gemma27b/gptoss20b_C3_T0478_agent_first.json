@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly builds and pushes the `dockers/dev/Dockerfile` which was regenerated to include `pigz`, while A reuses a potentially outdated workflow and doesn't explicitly build the correct Dockerfile."}

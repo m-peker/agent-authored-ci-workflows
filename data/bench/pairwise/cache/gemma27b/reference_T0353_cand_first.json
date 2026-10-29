@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for Infection mutation testing, including triggers, PHP setup, dependency caching, and running the `composer mt` command."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a security audit step relevant to the request, while Workflow B focuses on type checking and linting which are not directly related to the request."}

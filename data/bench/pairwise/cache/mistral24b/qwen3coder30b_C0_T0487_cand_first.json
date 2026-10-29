@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull_request to main branch and includes all the requested jobs and steps for typecheck, lint, test, and build."}

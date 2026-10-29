@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses both query suites (security-extended and security-and-quality) and uses the latest versions of the CodeQL actions, while A only uses one query suite and older action versions."}

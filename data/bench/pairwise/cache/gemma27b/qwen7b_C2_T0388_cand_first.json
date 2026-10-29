@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs with changes to the specified files and uses a standard npm install approach, while B is a workflow call and incorrectly specifies file paths relative to the repository root."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on the specified PR events, skips draft PRs and dependabot PRs, uses concurrency control, and directly invokes the Claude code review action with a prompt, aligning with the request's requirements."}

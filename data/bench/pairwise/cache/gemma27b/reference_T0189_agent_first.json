@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested CI/CD pipeline for updating `uv.lock` on `pyproject.toml` changes, including push automation and pull request checks."}

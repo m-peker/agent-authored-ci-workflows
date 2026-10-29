@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more robust as it handles more issue reference patterns and provides more informative error messages, including listing invalid issue references, while B only checks for specific keywords and lacks comprehensive validation."}

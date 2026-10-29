@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly copies the built `dist` files to `e2e/js-dist` as specified in the request, while workflow B uses `rollup:debug` which isn't mentioned and uploads screenshots from the wrong path."}

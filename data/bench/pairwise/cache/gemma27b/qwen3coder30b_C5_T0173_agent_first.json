@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a Rust toolchain setup which is necessary to run the check script, making it more likely to work correctly and consistently."}

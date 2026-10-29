@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the necessary fetch-depth: 0 parameter for Changesets to generate changelogs and has a more complete publish command."}

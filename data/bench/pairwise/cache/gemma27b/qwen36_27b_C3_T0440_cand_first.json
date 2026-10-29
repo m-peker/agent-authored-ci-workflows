@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets up the Copilot agent environment using `githubnext/gh-aw/actions/setup`, which is crucial for customizing the agent as requested, while workflow B does not."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the specified reusable workflow from `jmanhype/github-actions` as requested, while workflow B uses a different release action and doesn't leverage the central workflows repository."}

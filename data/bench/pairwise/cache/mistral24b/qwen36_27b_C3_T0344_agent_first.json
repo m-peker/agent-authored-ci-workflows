@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the latest version of the Bun setup action and installs dependencies with the --frozen-lockfile flag for consistency."}

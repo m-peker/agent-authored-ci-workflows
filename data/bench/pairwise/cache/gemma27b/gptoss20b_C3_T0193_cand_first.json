@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs dependencies with `ramsey/composer-install`, which is more robust for CI environments, while B relies on a simpler `composer install` which might not always work as expected, and A's use of extensions is more complete."}

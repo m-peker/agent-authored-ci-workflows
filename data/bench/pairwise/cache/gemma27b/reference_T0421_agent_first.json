@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets up a virtual environment and uses pyinstaller to build the binaries, which is a more robust and standard approach for Python packaging than directly running a build script as in Workflow A."}

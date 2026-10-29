@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements the required CI checks (lint, format, tsc/typecheck, audit, publish-check) and release workflow with changesets, including the necessary triggers and dependencies, while workflow A only covers linting and typechecking."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly installs the rust toolchain with rustfmt component, which is necessary for the `rustfmt` action to function correctly, while B implicitly relies on it being present."}

@@ -1,0 +1,1 @@
+{"item_id": "A037", "judge": "mistral24b", "label": "TP", "impact": "HIGH", "reason": "The workflow will fail due to a syntax error in the 'name' key.", "raw": "```json\n{\"label\": \"TP\", \"impact\": \"HIGH\", \"reason\": \"The workflow will fail due to a syntax error in the 'name' key.\"}\n```"}

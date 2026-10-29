@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes/PRs to main/master/feature branches, installs uv and Python 3.14, syncs dev dependencies, and runs pytest, while Workflow B has hardcoded branch names and uses a different approach for Python installation."}

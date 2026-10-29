@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes more robust validation of the tag and branch, and uses Bun which is more aligned with modern TypeScript projects, while A simply builds and publishes on tag push."}

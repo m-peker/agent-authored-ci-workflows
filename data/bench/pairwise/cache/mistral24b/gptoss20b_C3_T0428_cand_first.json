@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes build, test, and lint steps relevant to the requested change, while Workflow B is focused on cleanup dispatch and doesn't address the regression issue."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Turborepo with the specified filter, caching strategy, and heap size, while workflow B uses npm and lacks the necessary Turborepo configuration and cache setup."}

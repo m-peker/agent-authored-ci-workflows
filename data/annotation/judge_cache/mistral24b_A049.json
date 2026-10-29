@@ -1,0 +1,1 @@
+{"item_id": "A049", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The input is controlled by the workflow caller and the workflow has read-only permissions.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The input is controlled by the workflow caller and the workflow has read-only permissions.\"}\n```"}

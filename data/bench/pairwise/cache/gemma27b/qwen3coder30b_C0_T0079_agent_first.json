@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Dockerfile builds to manage dependencies and includes the requested test execution with both base and full requirements, while A's approach of installing dependencies within the `docker run` command is less maintainable and doesn't leverage Dockerfile builds."}

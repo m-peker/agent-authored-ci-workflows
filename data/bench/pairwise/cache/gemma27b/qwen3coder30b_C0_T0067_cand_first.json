@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly determines the npm dist-tag using a step and outputs it for use in the publish command, while A duplicates the publish command and uses conditional execution which is less clean."}

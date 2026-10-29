@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running Beyla-specific integration tests with a configurable weights file on self-hosted runners, while workflow B is overly complex and uses ubuntu runners instead of self-hosted."}

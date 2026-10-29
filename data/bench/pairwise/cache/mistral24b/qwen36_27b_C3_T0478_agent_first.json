@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps to build and push the Docker image with pigz and applies yamlfmt formatting, while Workflow A only defines triggers and secrets without any build steps."}

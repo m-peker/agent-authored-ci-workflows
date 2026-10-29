@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested features (CI, cross-platform builds, Trusted Publishing, and git-cliff) while Workflow B is missing the CI workflow and Trusted Publishing support."}

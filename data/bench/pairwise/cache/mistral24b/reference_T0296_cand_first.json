@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the 'master' branch for the push event, while Workflow B targets 'main'."}

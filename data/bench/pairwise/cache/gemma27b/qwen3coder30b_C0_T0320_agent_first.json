@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a build job which is good practice for more complex deployments, and correctly specifies the `pages` permission, while B lacks a build step and uses an older version of `actions/configure-pages`."}

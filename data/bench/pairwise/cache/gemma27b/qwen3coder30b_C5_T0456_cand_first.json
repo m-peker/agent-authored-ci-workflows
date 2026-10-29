@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the release branch and PR creation steps as requested, while workflow B attempts to delegate too much to the `opencode` action, which isn't the intended design and doesn't reliably create the PR."}

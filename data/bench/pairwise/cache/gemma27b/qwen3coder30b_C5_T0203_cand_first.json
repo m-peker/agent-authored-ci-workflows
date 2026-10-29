@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly checks for a milestone being set and open, while A's regex check for milestone title format is not requested and could be overly restrictive."}

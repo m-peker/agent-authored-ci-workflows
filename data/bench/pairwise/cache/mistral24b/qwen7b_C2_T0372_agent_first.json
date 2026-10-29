@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the dev branch in triggers and uses more recent versions of actions and Go."}

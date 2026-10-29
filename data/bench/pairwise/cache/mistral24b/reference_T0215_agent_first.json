@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release events and tag pushes, while Workflow B triggers on main branch pushes, which is not what the request asked for."}

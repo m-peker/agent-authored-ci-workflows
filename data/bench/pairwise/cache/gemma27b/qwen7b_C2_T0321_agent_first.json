@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the stated purpose of resetting the GPU allocator on self-hosted AMD runners, while workflow B attempts a general build and test that doesn't align with the request's focus on a GPU reset."}

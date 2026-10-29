@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary steps to build and deploy the site, while Workflow B only triggers a deploy hook without any build or test steps."}

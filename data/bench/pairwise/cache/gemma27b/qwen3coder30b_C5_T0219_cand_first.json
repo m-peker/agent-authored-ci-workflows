@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by setting the Rust toolchain to 1.85.0 and includes checks for the 2024 edition, while workflow B focuses on integration tests and doesn't demonstrate adherence to the MSRV/edition update."}

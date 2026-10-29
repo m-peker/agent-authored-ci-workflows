@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses 'stable' Go version as requested and uses 'make test' which is the standard way to run tests in this repository, while B hardcodes a Go version and directly calls 'go test' which isn't the project's standard."}

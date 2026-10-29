@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered by changes to the Dockerfile and workflow file itself, directly addressing the request to optimize PR CI with a custom Docker image, while B is triggered on pushes to `main` which is irrelevant."}

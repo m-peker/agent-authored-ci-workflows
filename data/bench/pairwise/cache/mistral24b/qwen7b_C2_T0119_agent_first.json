@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested checks with Rust-specific tooling and matrix strategy, while Workflow B includes irrelevant Node.js setup and lacks proper Rust toolchain configuration."}

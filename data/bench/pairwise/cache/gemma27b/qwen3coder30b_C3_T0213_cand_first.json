@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly prevents processing pull requests, which is a requirement, while A does not, and B uses more descriptive parameter names."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly focuses on building and releasing the scraper binary to a `scraper-latest` release, which is the core of the request, while workflow B builds a different scraper and uses a date-based tag which isn't requested."}

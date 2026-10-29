@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is the only one that modifies the build process, while workflow B does not address the request to add Node v24 and focuses on publishing."}

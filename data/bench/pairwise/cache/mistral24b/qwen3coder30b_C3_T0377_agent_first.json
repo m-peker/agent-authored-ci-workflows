@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull_request and includes all the requested debugging steps for branch protection push failure."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A comprehensively tests the install script's functionality, OS/architecture detection, and error handling, while workflow B attempts to format a Dart file unrelated to the install script and fails due to a missing Dart environment."}

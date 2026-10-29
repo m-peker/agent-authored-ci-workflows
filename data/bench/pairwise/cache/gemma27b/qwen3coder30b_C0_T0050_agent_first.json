@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements both the abuse detection and the new `apply-abuse-blocks.ts` script, while A only runs the detection script."}

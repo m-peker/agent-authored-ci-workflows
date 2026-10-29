@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by migrating to CMake, setting up a build environment with vcpkg, running tests, and performing linting, while workflow B is more fragmented and includes unnecessary jobs like documentation and cross-compilation that weren't requested."}

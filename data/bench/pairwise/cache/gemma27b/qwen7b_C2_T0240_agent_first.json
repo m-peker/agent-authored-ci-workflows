@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `github/ai-moderator@v1` action with the specified configuration options (labels, comment minimization, detection types) and correct triggers, while workflow B unnecessarily includes Python setup and dependencies, deviating from the request's 'no external dependencies' requirement."}

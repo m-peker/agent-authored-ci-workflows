@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `npm ci` for dependency installation which is best practice for CI environments, ensuring a clean and reproducible build, and avoids unnecessary flags in the install step."}

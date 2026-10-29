@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely adheres to the request's intent by explicitly handling the submodule token check and gracefully skipping the workflow if the token is not available, and includes more detailed verification steps."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more comprehensively addresses the request by including dependency auditing with a reasonable error handling strategy and detailed CodeQL configuration, plus coverage reporting to Codecov."}

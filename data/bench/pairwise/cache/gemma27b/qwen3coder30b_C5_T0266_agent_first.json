@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for static analysis with CodeQL and .NET analyzers, while workflow B adds unnecessary builds of samples that aren't directly related to the core component analysis."}

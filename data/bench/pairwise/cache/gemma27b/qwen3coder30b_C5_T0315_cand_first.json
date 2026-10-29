@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is the only one that plausibly addresses the request by triggering on relevant changes and deploying to Fly.io, while A focuses on general Rust project checks and doesn't implement any Jest filtering."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for the 'run-tests' label and verifies the PR author is external before running tests, while B lacks the external author check and uses `pull_request_target` which is less appropriate."}

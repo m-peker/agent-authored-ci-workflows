@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes in the frontend directory and includes the necessary linting steps for a Python project."}

@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested nightly integration with the specified triggers, jobs, and steps, including the Docker Compose setup, gate execution, and artifact uploading."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to name snapshots with the commit hash and validates the SHA, while workflow B introduces unnecessary Doppler configuration and uses `github.sha` without receiving it as an input as requested."}

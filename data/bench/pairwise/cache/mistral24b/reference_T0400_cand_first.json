@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the modern GITHUB_OUTPUT environment file instead of the deprecated core.setOutput() method."}

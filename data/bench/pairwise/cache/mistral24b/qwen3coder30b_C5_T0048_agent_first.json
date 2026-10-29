@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all required steps and actions as specified in the request, while Workflow B includes an extra step (ShellCheck) that was not requested."}

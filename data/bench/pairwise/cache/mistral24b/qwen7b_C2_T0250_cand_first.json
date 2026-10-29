@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses Docker Buildx for multi-platform builds, which is more efficient and aligns better with the request for supporting AMD64 and ARM64 architectures."}

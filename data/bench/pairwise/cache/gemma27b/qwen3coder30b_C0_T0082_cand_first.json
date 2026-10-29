@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A focuses on the core TypeScript codebase and includes standard CI steps (test, lint, type-check) relevant to the repository, while workflow B introduces Python and Bun which are not part of the repository's primary language or stated needs."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags and workflow_dispatch, includes all necessary steps for building a universal macOS DMG, and handles artifact upload and release creation."}

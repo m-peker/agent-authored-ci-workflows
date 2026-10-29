@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses QEMU and a Termux container to run the tests as requested, while workflow B attempts to run the tests directly on Ubuntu, ignoring the Termux requirement."}

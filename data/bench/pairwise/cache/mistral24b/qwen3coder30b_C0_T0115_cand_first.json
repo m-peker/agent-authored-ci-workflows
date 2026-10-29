@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by using a matrix strategy to handle different variants, preserving branch/tag triggers, and deriving build cache keys and image tags from branch or tag metadata."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the described build process and includes necessary steps like submodule handling and dependency installation, while B relies on potentially undefined `make` targets and a specific Go version."}

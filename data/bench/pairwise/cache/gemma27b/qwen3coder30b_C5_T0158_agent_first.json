@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly clones the compat-table repository to get the latest SHA, while workflow B attempts to use the mdn/browser-compat-data repository and a potentially unreliable API call, and also hardcodes the initial SHA."}

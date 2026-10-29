@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly implements the request to remove the target input and default dry-run to true via a workflow_dispatch trigger, while A still includes a target and is triggered on pull requests."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the label bootstrapping and priority logic, including the bug-wins tiebreaker, while B's bootstrapping is less robust and doesn't handle existing labels gracefully."}

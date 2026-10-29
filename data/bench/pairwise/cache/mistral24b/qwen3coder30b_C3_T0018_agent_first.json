@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly specifies the components for rust-toolchain in each job and has the correct triggers for push and pull_request events."}

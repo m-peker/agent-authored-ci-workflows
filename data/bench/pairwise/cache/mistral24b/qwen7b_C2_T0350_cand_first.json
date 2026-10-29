@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on main branch pushes, uses the correct changeset actions, and implements npm trusted publishers with OIDC."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has a more specific trigger for the workflow_dispatch event and includes concurrency control to prevent multiple deployments from running simultaneously."}

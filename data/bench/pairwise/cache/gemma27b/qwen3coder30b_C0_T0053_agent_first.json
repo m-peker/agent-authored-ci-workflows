@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested build artifact validation and naming conventions, and correctly uploads all specified files, while B has incorrect file names and misses a required file."}

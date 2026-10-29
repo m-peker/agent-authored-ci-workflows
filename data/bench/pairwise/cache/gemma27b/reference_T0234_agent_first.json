@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows fulfil the core requirements of running CodeQL on pushes and PRs to main/master and using the specified languages, but neither addresses the exclusion of the 'news' branch or the weekly schedule."}

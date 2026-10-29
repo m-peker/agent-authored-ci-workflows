@@ -1,0 +1,1 @@
+{"item_id": "A001", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "The step uses matrix.os in a job that has no matrix strategy, causing a runtime error and job failure.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"The step uses matrix.os in a job that has no matrix strategy, causing a runtime error and job failure.\"}"}

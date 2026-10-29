@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull requests, determines the repository URL for forks, and dispatches a workflow to `nova_request_app` with the `nova_repo` input as requested."}

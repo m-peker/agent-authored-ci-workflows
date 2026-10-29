@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push, pull_request, and workflow_dispatch events, includes all necessary jobs and steps for a TypeScript project, and uses sensible actions, while Workflow B includes unnecessary Python jobs and uses Bun instead of npm which is not mentioned in the request."}

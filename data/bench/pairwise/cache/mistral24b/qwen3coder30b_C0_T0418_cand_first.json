@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly includes all requested steps and triggers, while Workflow B misses the ruff checks and uses an unnecessary concurrency group."}

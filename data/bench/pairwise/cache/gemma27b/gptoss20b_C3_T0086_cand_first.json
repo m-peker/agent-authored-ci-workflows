@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for changes in `dist/` using `git diff` and fails the workflow, while workflow B simply fails without checking for the changes."}

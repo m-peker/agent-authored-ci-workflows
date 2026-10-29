@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Dockerfiles to build Termux containers, separates base and full requirements testing with `needs`, and includes documentation as requested, while A relies on complex inline docker commands and lacks a clear build process."}

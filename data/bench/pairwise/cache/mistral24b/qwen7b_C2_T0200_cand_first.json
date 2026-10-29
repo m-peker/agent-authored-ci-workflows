@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to main and includes verification steps specific to the request, while Workflow B is triggered by issue comments and doesn't include the required verification steps."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull request review approval and includes a pytest results report, while B's conditional checkout and dependency installation are overly complex and miss key features."}

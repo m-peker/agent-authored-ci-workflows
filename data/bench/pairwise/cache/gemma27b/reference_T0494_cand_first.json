@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the coverage summary step in the rspec job, which is a requirement of the test plan, while workflow B does not."}

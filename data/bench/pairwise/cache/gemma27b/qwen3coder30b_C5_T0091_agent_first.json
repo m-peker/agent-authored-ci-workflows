@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request by providing commit-level details in the PR comment, summarizing findings (blocking, review, inconclusive), and correctly failing the check when Brin marks a commit as dangerous or scores it below 30."}

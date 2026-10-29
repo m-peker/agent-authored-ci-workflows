@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B adds publishing of test results, which is a good practice for CI/CD, and the caching of maven dependencies improves build speed."}

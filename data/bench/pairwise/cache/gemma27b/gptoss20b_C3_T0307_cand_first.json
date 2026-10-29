@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles version comparison and only bumps if necessary, includes better release notes, and correctly uses the input version in artifact naming."}

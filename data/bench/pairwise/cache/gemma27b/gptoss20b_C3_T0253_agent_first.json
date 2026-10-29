@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the requested drift report generation and publishing to the step summary, while B runs unit tests and a drift check without reporting, and has an incorrect cron schedule."}

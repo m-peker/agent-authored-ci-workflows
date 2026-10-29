@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, jobs, and steps for a performance regression workflow, while Workflow B does not match the repository's language or structure and lacks proper performance testing setup."}

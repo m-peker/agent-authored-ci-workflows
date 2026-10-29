@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements anti-loop protection as a condition on the job rather than individual steps, and uses a more explicit check for changes before committing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested two-workflow pattern with a read-only capture-pr-data job and a workflow_run triggered pr-status-labeler job with write permissions."}

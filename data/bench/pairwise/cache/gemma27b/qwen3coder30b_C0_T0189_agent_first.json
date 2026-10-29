@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by explicitly failing PRs when the lockfile is out of sync and provides a clear warning message, while B uses `uv lock --check` which isn't specified in the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes `submodules: true` in the checkout step, and runs `make prereqs vendor-obi`, which is likely necessary to build the integration tests given the repository's structure and the request to run tests from `internal/test/integration/`."}

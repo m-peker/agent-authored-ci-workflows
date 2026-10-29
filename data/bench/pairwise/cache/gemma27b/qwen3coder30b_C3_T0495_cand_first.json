@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the reusable workflow from `dotnet-tooling` and triggers on Renovate branches as requested, while A does not use the reusable workflow and pushes to master instead of the Renovate PR."}

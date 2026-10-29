@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the build step and correct cache setup for agents-docs, while Workflow B omits the build step and has a shorter timeout."}

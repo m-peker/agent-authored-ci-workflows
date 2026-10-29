@@ -1,0 +1,1 @@
+{"action": "swift-actions/setup-swift", "ref": "v2", "exists": true, "name": "Setup Swift", "description": "Setup a Swift environment on Ubuntu or macOS", "inputs": {"swift-version": {"required": true, "default": "6.1.0", "description": "Swift version to configure"}}, "outputs": ["version"]}

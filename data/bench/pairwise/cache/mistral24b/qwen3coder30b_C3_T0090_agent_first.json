@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements TestContainers for CockroachDB tests and properly sets the enableCockroachDBTests flag."}

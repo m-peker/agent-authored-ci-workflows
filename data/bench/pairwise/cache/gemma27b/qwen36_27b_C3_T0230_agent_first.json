@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a conditional to only run on comments containing `@claude` and checks out the repository, which is likely necessary for Claude Code to function, while A lacks this crucial check and checkout step."}

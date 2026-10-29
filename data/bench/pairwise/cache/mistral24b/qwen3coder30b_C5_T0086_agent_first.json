@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on pull requests that modify the dist/ directory and fail the CI with an appropriate error message."}

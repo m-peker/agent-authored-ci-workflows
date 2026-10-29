@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested flags and runs both scripts, while workflow B deviates by changing directories and using different secrets than implied by the request."}

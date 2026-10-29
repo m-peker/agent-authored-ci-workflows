@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by testing with the new MSRV (1.85.0) and includes formatting and linting steps, while workflow A does not address the MSRV or edition update at all."}

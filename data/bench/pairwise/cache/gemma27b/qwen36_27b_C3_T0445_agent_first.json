@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the detailed steps outlined in the request, including building indexes, updating translations.json with the CLI, and handling optional friendly names, while B attempts to do too much within a single script and lacks the granular control specified."}

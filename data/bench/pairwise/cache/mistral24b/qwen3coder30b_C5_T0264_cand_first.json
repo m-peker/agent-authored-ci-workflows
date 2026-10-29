@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes TypeScript type checking and ESLint steps which are explicitly mentioned in the test plan, while Workflow B does not."}

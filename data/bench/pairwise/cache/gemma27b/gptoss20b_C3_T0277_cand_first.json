@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the stable Rust toolchain as is sensible for formatting, while B unnecessarily uses nightly and includes irrelevant `env` and `override` settings."}

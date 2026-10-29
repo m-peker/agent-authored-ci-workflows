@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested functionality: weekly schedule, workflow dispatch, updating the config, checking for changes, and creating a PR if changes are detected."}

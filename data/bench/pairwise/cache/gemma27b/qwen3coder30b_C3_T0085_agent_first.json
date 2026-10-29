@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies the Copilot agent as 'copilot-swe-agent' as implied by the issue description, while Workflow B uses an incorrect actor name ('github-copilot[bot]')."}

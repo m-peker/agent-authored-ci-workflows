@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B checks for changes in the relevant packages (app and jobs) and runs appropriate linting and testing jobs, while Workflow A only tests the database package."}

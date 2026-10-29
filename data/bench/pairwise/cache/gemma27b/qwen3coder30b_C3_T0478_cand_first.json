@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and verifying the container with `pigz`, and includes a step to format YAML files, while workflow B relies on a reusable workflow and doesn't demonstrate the requested changes within itself."}

@@ -1,0 +1,1 @@
+{"item_id": "A078", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The context 'secrets' is valid in the 'if' condition of a step in GitHub Actions.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The context 'secrets' is valid in the 'if' condition of a step in GitHub Actions.\"}\n```"}

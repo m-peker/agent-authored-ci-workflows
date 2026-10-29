@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both issue and pull request comments, checks for Claude mention, and uses the official Claude action, while Workflow B lacks pull request review comment trigger and doesn't use the Claude action."}

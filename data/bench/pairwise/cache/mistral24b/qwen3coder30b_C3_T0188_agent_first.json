@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes and uses the OCaml toolchain to build the scraper binary, while Workflow B lacks the necessary triggers and does not use the correct build process."}

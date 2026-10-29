@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements all the requested triggers and conditions, including the exclusion of '@claude review' mentions, while Workflow A does not exclude these mentions."}

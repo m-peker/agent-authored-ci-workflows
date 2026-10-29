@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more current Node.js version and includes both 'main' and 'master' branches as triggers, offering broader compatibility and adherence to common branching practices."}

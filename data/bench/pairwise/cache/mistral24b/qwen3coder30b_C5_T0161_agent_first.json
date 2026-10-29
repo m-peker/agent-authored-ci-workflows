@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses ubuntu-slim instead of ubuntu-latest, which is more efficient for this task."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up Python and Node environments, installs dependencies, and runs all required checks (pytest, ruff, distribution safety, and path consistency) as specified in the request."}

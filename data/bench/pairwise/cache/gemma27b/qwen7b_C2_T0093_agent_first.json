@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly avoids the rejected approaches (clang-tidy and custom scripts) and focuses on enforcing the convention via AGENTS.md, while workflow B attempts to use clang-tidy despite the documented reasons for avoiding it."}

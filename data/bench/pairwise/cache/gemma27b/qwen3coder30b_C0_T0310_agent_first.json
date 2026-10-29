@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and pushes a Docker image based on a tag matching the semantic versioning scheme, which aligns with the release request, while workflow B focuses on Python package publishing and lacks Docker image building."}

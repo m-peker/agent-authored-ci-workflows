@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a manual release triggered by `workflow_dispatch` and creates a Git tag and GitHub release, aligning with the request to switch to manual releases for official versions."}

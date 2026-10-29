@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more recent version of the `setup-uv` action and includes `--extra dev` when syncing dependencies, which is good practice for testing, while both workflows correctly implement the requested linting and testing jobs."}

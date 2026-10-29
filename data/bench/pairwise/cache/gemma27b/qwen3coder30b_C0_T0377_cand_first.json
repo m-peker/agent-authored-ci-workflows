@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered on `push` to `main`/`master` as requested, directly attempts a push to diagnose permissions, and provides relevant debugging information, while workflow B is triggered on `pull_request` and relies on a PAT which isn't the focus of the request."}

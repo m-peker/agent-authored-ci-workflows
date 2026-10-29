@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes caching for composer dependencies and sets up PCov for code coverage, which are best practices for a CI/CD pipeline and likely required for Infection to function correctly, and also allows for a workflow dispatch."}

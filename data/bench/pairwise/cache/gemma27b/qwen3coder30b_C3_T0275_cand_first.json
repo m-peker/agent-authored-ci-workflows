@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the GitHub Pages Deploy Action and Surge for gh-pages and PR previews respectively, and uses Node 20.x as requested, while workflow B uses an outdated Node version and a different GH Pages action."}

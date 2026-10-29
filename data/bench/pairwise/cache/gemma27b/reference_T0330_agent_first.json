@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses `tsx` to run the Typescript file, which is the recommended way to execute Typescript code directly without a build step, while workflow B uses `node` which would require a prior build step."}

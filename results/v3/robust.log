@@ -1,0 +1,65 @@
+D1_first_draft   breaking       human   4.2% (n=1407) agent   4.9% (n=21508) | GEE OR 1.27 p=0.164 | within-repo +0.8pp p=0.276 (repos=758) | CEM +3.3pp [+0.7,+6.9]
+D1_first_draft   security_high  human  30.0% (n=1407) agent  28.6% (n=21508) | GEE OR 0.89 p=0.0695 | within-repo -0.7pp p=0.575 (repos=758) | CEM +1.9pp [-1.5,+6.0]
+D1_first_draft   supply_chain   human  80.8% (n=1407) agent  75.2% (n=21508) | GEE OR 1.13 p=0.378 | within-repo +2.5pp p=0.025 (repos=758) | CEM -0.0pp [-4.3,+4.7]
+D1_first_draft   ci_failure     human  29.6% (n=534) agent  31.9% (n=4050) | GEE OR 1.30 p=0.0212 | within-repo +3.7pp p=0.334 (repos=209) | CEM +3.3pp [-3.1,+12.1]
+D2_final_merged  breaking       human   4.2% (n=1407) agent   4.8% (n=10015) | GEE OR 1.11 p=0.54 | within-repo +0.3pp p=0.726 (repos=626) | CEM +2.3pp [-0.5,+5.4]
+D2_final_merged  security_high  human  30.0% (n=1407) agent  31.4% (n=10015) | GEE OR 0.95 p=0.397 | within-repo +0.4pp p=0.778 (repos=626) | CEM +3.9pp [-1.6,+9.7]
+D2_final_merged  supply_chain   human  80.8% (n=1407) agent  79.8% (n=10015) | GEE OR 1.16 p=0.0833 | within-repo +1.7pp p=0.173 (repos=626) | CEM -2.6pp [-7.8,+2.7]
+D2_final_merged  ci_failure     human  29.6% (n=534) agent  24.3% (n=2539) | GEE OR 0.86 p=0.164 | within-repo -3.7pp p=0.332 (repos=175) | CEM -5.4pp [-13.9,+1.9]
+
+By agent:
+          design       outcome        agent  n_agent  rate_agent  rate_human  E1_OR   E1_p  E2_diff_pp    E2_lo   E2_hi   E2_p  E2_repos  E3_diff_pp    E3_lo   E3_hi  E3_repos  E1_p_holm  E2_p_holm
+ D1_first_draft      breaking  Claude_Code    12969      4.9965      4.1933 1.2051 0.3002      0.5281  -1.2956  2.3519 0.5703     476.0      3.7567  -0.4497  8.2808       358     1.0000     1.0000
+ D1_first_draft      breaking      Copilot     4250      5.3882      4.1933 0.9970 0.9918      1.3122  -1.2099  3.8342 0.3079     243.0      4.9296   0.3943  9.6797       173     1.0000     1.0000
+ D1_first_draft      breaking       Cursor     1385      2.3827      4.1933 1.3938 0.2736      5.6249  -3.3761 14.6260 0.2206      47.0     -0.7862 -15.1601  3.7037        30     1.0000     1.0000
+ D1_first_draft      breaking        Devin      975      4.0000      4.1933 1.3330 0.4008      1.9521  -2.1918  6.0960 0.3558      20.0      7.8431   0.0000 16.4384        15     1.0000     1.0000
+ D1_first_draft      breaking Google_Jules      114     10.5263      4.1933 2.8060 0.0190         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.1141        NaN
+ D1_first_draft      breaking OpenAI_Codex     1815      5.3444      4.1933 1.5657 0.0292      0.7507  -1.7860  3.2873 0.5619     161.0      1.7857   0.0000  4.0892       107     0.1461     1.0000
+ D1_first_draft security_high  Claude_Code    12969     29.5474     29.9929 0.9648 0.6073      0.2410  -3.1737  3.6556 0.8900     476.0      3.1383  -0.1823  7.2809       358     1.0000     1.0000
+ D1_first_draft security_high      Copilot     4250     27.4118     29.9929 0.7666 0.0009     -0.0602  -4.8639  4.7436 0.9804     243.0      0.3927  -9.9283  9.2776       173     0.0047     1.0000
+ D1_first_draft security_high       Cursor     1385     16.8953     29.9929 0.7900 0.1276     -8.2803 -18.8405  2.2798 0.1243      47.0     -4.3239 -23.8284  0.3010        30     0.3829     0.3730
+ D1_first_draft security_high        Devin      975     52.7179     29.9929 1.2185 0.5425     14.9831  -2.3375 32.3036 0.0900      20.0     14.7059   2.8150 35.0057        15     1.0000     0.3600
+ D1_first_draft security_high Google_Jules      114     12.2807     29.9929 0.4700 0.0308         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.1230        NaN
+ D1_first_draft security_high OpenAI_Codex     1815     21.9284     29.9929 0.6492 0.0000     -8.0666 -13.8049 -2.3282 0.0059     161.0    -10.6548 -20.8729 -2.2788       107     0.0001     0.0293
+ D1_first_draft  supply_chain  Claude_Code    12969     75.9966     80.8102 1.0292 0.8225      0.8646  -1.9499  3.6791 0.5471     476.0     -1.3119  -5.7076  4.4530       358     0.8225     1.0000
+ D1_first_draft  supply_chain      Copilot     4250     81.0118     80.8102 1.5693 0.0002      6.8193   2.5276 11.1110 0.0018     243.0      7.0423  -2.0873 17.4642       173     0.0009     0.0092
+ D1_first_draft  supply_chain       Cursor     1385     41.5884     80.8102    NaN    NaN      8.9083  -5.2637 23.0804 0.2179      47.0     -1.1006 -25.1345 26.9267        30        NaN     0.8718
+ D1_first_draft  supply_chain        Devin      975     60.5128     80.8102 1.4335 0.2672     -0.6575 -13.3916 12.0767 0.9194      20.0     -7.8431 -17.7828  6.0653        15     0.5343     1.0000
+ D1_first_draft  supply_chain Google_Jules      114     95.6140     80.8102 2.6449 0.0574         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.1722        NaN
+ D1_first_draft  supply_chain OpenAI_Codex     1815     87.8237     80.8102 1.6586 0.0001      2.1104  -2.8115  7.0324 0.4007     161.0     -1.2500 -10.1216  9.7225       107     0.0007     1.0000
+ D1_first_draft    ci_failure  Claude_Code     2670     31.8352     29.5880 1.2725 0.0514      3.4981  -7.1461 14.1423 0.5195     124.0      1.1905  -8.5813 11.6673        79     0.1542     1.0000
+ D1_first_draft    ci_failure      Copilot      835     31.1377     29.5880 1.3739 0.0157      2.7080  -8.2228 13.6388 0.6273      55.0      1.3514 -12.6437 19.2411        28     0.0787     1.0000
+ D1_first_draft    ci_failure       Cursor      127     25.9843     29.5880 1.1332 0.6523      3.4427 -26.0839 32.9694 0.8192      11.0         NaN      NaN     NaN         0     0.6523     1.0000
+ D1_first_draft    ci_failure        Devin       69     13.0435     29.5880 0.4680 0.1405         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.2810        NaN
+ D1_first_draft    ci_failure Google_Jules       39     43.5897     29.5880 3.4226 0.0236         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.0946        NaN
+ D1_first_draft    ci_failure OpenAI_Codex      310     39.0323     29.5880 1.8929 0.0004     15.9217 -10.8733 42.7166 0.2442      31.0     33.3333   0.0000 61.1111        17     0.0023     0.9767
+D2_final_merged      breaking  Claude_Code     5660      4.3463      4.1933 0.9684 0.8638     -0.5003  -2.3203  1.3198 0.5901     388.0      0.6208  -2.7922  4.1668       268     1.0000     1.0000
+D2_final_merged      breaking      Copilot     2538      5.5162      4.1933 0.9454 0.9099      1.7796  -1.7136  5.2727 0.3180     172.0      6.7416  -0.3500 13.6198       126     1.0000     1.0000
+D2_final_merged      breaking       Cursor      298      5.3691      4.1933 1.7055 0.1768      5.2160  -5.6700 16.1020 0.3477      32.0      0.0000 -12.1995 12.0061        25     0.5491     1.0000
+D2_final_merged      breaking        Devin      503      5.1690      4.1933 1.9379 0.0915      9.2290  -2.0770 20.5350 0.1096      15.0         NaN      NaN     NaN         0     0.5491     0.5481
+D2_final_merged      breaking Google_Jules       62      6.4516      4.1933 2.9177 0.1011         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     0.5491        NaN
+D2_final_merged      breaking OpenAI_Codex      954      4.7170      4.1933 1.4659 0.1244     -0.3207  -2.3863  1.7449 0.7609     116.0      1.0526  -1.0471  3.7841        87     0.5491     1.0000
+D2_final_merged security_high  Claude_Code     5660     33.1979     29.9929 1.0487 0.5237      0.4178  -3.4547  4.2902 0.8325     388.0      4.1899  -1.6834 10.6775       268     1.0000     1.0000
+D2_final_merged security_high      Copilot     2538     27.2262     29.9929 0.7826 0.0075      2.7681  -3.1458  8.6820 0.3589     172.0      3.9974  -7.3543 12.6704       126     0.0375     1.0000
+D2_final_merged security_high       Cursor      298     32.2148     29.9929 0.9969 0.9863     -3.9712 -16.6107  8.6682 0.5380      32.0     -4.9383 -14.9272 12.2465        25     1.0000     1.0000
+D2_final_merged security_high        Devin      503     49.5030     29.9929 1.1997 0.5257     18.2830   3.2695 33.2965 0.0170      15.0         NaN      NaN     NaN         0     1.0000     0.0850
+D2_final_merged security_high Google_Jules       62     16.1290     29.9929 0.6615 0.3076         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     1.0000        NaN
+D2_final_merged security_high OpenAI_Codex      954     23.4801     29.9929 0.6762 0.0005     -4.5648 -10.6805  1.5509 0.1435     116.0     -5.5263 -15.0926  3.2292        87     0.0027     0.5740
+D2_final_merged  supply_chain  Claude_Code     5660     79.3110     80.8102 1.0500 0.5933      0.6217  -2.5639  3.8074 0.7021     388.0     -1.7620  -7.1310  2.9049       268     1.0000     1.0000
+D2_final_merged  supply_chain      Copilot     2538     81.3633     80.8102 1.4498 0.0010      5.0369   0.1580  9.9158 0.0430     172.0      4.4944  -6.1166 15.2402       126     0.0048     0.2151
+D2_final_merged  supply_chain       Cursor      298     74.8322     80.8102 1.1739 0.6215      4.5517 -12.2667 21.3701 0.5958      32.0    -17.2840 -32.3419  2.5983        25     1.0000     1.0000
+D2_final_merged  supply_chain        Devin      503     61.4314     80.8102 1.1774 0.6475     -7.4992 -24.0258  9.0275 0.3738      15.0         NaN      NaN     NaN         0     1.0000     1.0000
+D2_final_merged  supply_chain Google_Jules       62     95.1613     80.8102 1.8003 0.2833         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     1.0000        NaN
+D2_final_merged  supply_chain OpenAI_Codex      954     89.2034     80.8102 1.6945 0.0002      1.9934  -2.4077  6.3946 0.3747     116.0     -2.3684  -9.0644  4.1891        87     0.0015     1.0000
+D2_final_merged    ci_failure  Claude_Code     1528     24.6728     29.5880 0.8901 0.3472     -4.2388 -14.5206  6.0430 0.4191     104.0     -2.2901 -13.3346  7.2884        66     1.0000     0.9350
+D2_final_merged    ci_failure      Copilot      652     25.0000     29.5880 0.8528 0.2703     -1.6668 -14.0308 10.6972 0.7916      44.0     -7.4468 -18.0000  2.1739        21     1.0000     0.9350
+D2_final_merged    ci_failure       Cursor       79     17.7215     29.5880 0.7662 0.4730         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     1.0000        NaN
+D2_final_merged    ci_failure        Devin       32      9.3750     29.5880 0.6786 0.5610         NaN      NaN     NaN    NaN       NaN         NaN      NaN     NaN         0     1.0000        NaN
+D2_final_merged    ci_failure OpenAI_Codex      231     24.2424     29.5880 0.8505 0.4428    -11.5978 -34.0654 10.8698 0.3117      25.0     -6.6667 -33.3333 13.3333        15     1.0000     0.9350
+
+Cursor diagnostic:
+              files  repos  breaking_pct  median_size  top_repo_share  files_per_repo  repo_avg_breaking_pct
+group                                                                                                      
+Claude_Code  12969   2214          5.00       2226.0            4.49            5.86                   4.11
+Cursor        1385    176          2.38       1560.0           50.83            7.87                   6.60
+Human         1407    904          4.19       1885.0            1.21            1.56                   3.70

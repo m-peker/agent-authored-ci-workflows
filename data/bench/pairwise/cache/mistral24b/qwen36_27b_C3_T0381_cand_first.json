@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by explicitly implementing the high-impact changes such as moving coverage to scheduled jobs, reducing the test matrix, replacing the sleep with a health check, and including path-based filtering."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue comments, extracts the PR SHA, posts start/completion comments, and calls the `publish_connectors.yml` workflow with the correct parameters, while workflow B relies on `workflow_dispatch` and requires more manual input."}

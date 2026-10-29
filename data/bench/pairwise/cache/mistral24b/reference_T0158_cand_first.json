@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the correct repository-specific setup actions and includes pnpm setup, which is more likely to work correctly for this Rust repository."}

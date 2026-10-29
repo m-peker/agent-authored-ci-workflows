@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the benchmark request (B1, B2, B5) with a functional benchmark run and accuracy gate, while workflow B attempts to apply patches to the code which is not the requested behaviour."}

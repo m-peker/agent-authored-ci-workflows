@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more comprehensively addresses the request by including a matrix of Python versions, pre-commit on all files, and validation of pyproject.toml, while A lacks pre-commit on all files and pyproject validation."}

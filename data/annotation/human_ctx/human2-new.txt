@@ -1,0 +1,41 @@
+# Format: <id>: <etiket> [| not]   Q-: A/B/TIE
+Q-T0200: B | A bozuk: './script.js' yok, önceki adımın owners çıktısı aktarılmıyor; B Codex bot yorumunda code owner'dan review istiyor ve çalışır
+Q-T0313: B | A var olmayan @fern-api/infisical paketini her PR'da test ediyor; B yalnızca admin kontrollü manuel test iskeleti, çalışır
+Q-T0325: B | A conformance.yml içine main.yml'in npm publish + gh-pages işlerini kopyalıyor (çift yayın riski); B gerçek conformance testleri
+Q-T0401: B | Copilot setup job'ı 'copilot-setup-steps' adında olmalı; A yanlış job adı ve CI/kitchen testleri koşuyor, B doğru kurulum (chef + berks)
+Q-T0375: B | A reusable workflow'u step olarak 'uses' ediyor (geçersiz) ve yayını simüle ediyor; B vsce ile gerçek yayın, OIDC, matrix
+Q-T0177: B | B repo türlerine (extension/app/proxy/chore) uygun, sadece okuma izni; A izin bloğu olmadan yorum yazmaya çalışıyor ve genel conventional türler kullanıyor
+Q-T0202: B | A matrisi 2 örnekle elle yazılmış, derlenmemiş dist/ kullanıyor; B matrisi JSON'dan dinamik üretiyor, bağımlılıkları kuruyor
+Q-T0277: TIE | Pratikte aynı; A sadece CARGO_TERM_COLOR ekliyor
+Q-T0059: B | A'da release-please 'needs: pr-title-lint' push'ta atlandığı için hiç çalışmaz, 'edited' tetikleyicisi yok; B temiz PR başlık lint'i
+Q-T0193: TIE | İkisi de pint --test çalıştırıyor; A gereksiz contents:write, B tüm PR'larda koşuyor; belirgin fark yok
+Q-T0348: A | A repo yapısına uygun (4 container, Makefile, secretref); B her seferinde ACR create, yanlış build context, tek container
+Q-T0243: A | A gerçek backend gate; B GPT-4'e doküman gönderen anlamsız iş akışı, JS template'te sözdizimi hatası
+Q-T0270: A | A matris + cross ile doğru çoklu platform build ve trusted publishing; B darwin/msvc hedeflerini ubuntu'da derlemeye çalışıyor, cd yolları bozuk, eski actions
+Q-T0246: A | pull_request_target fork PR'larında etiketleme için gerekli; B pull_request ile fork PR'larında yazma izni yok, sync-labels manuel etiketleri siler
+Q-T0381: B | Dosya zamanlanmış test; B mevcut test.yml'i coverage ile çağırıyor. A DB servisi olmadan mysqladmin ping, schedule tetikleyicisi yok, uydurma araçlar
+Q-T0029: A | Fork PR'larını kapatmak için pull_request_target gerekli; B'de pull_request ile token salt-okunur
+Q-T0340: B | B Airbyte desenine uygun (gradle-cache-action, CloudRepo, checkBaseVersion görevleri); A Maven Central kontrolü yanlış repo, gradlew yolu yanlış
+Q-T0488: A | add-emojis.yml dispatch hedefi olmalı; A basit workflow_dispatch hedefi, B ilgisiz Go test iş akışı
+Q-T0221: B | release-studio Studio app'i paketlemeli; A tag push tetikleyicisi olmadığından release job'ı hiç çalışmaz ve CLI release'ini çoğaltıyor
+Q-T0216: A | B Python kodunu shell:python olmadan bash'te çalıştırıyor (başarısız), çıktıyı GITHUB_OUTPUT'a yazmıyor; A sağlam github-script
+Q-T0044: A | A testleri koşup sonucu ayrıştırıyor ve yorumluyor; B'de step çıktıları hiç set edilmiyor, test:ci script'i belirsiz, mesaj yarım kalmış
+Q-T0430: B | Dosya e2e-test; B test:e2e koşuyor, A birim test/lint/build koşuyor (dosya amacıyla uyuşmuyor)
+Q-T0459: A | A resmi kani-github-action kullanıyor; B kani'yi main dalından derleyip kuruyor (kırılgan, yavaş)
+Q-T0404: A | Dosya opencode.yml; A gerçek opencode bot iş akışı, B dosya adıyla ilgisiz genel CI ve sahte deploy
+Q-T0086: TIE | İkisi de dist/ değişince başarısız oluyor; yalnızca mesaj farkı
+Q-T0091: B | A Brin URL'sinde repo eksik, HEAD~N ile commit listesi PR merge commit'inde yanlış, yorumu silmiyor; B istekteki tüm davranışları doğru uyguluyor
+Q-T0450: B | A'da dry-run çıktısı string olduğu için publish hiç çalışmaz, sürüm pom'lara uygulanmıyor; B tutarlı sürüm/beta şeması, tag ve release
+Q-T0303: B | İstek workflow_call istiyor; A permissions:{} ile GITHUB_TOKEN üzerinden dispatch edemez
+Q-T0415: TIE | 'typescript' ve 'javascript-typescript' CodeQL'de eşdeğer; geri kalanı aynı
+Q-T0318: A | A repo'ya özgü pending status ayarlıyor; B tüm CI'ı çoğaltıyor ve pnpm kurulmadan setup-node pnpm cache kullanıyor (başarısız)
+Q-T0041: B | B Airbyte slash-command desenine uygun ve publish_connectors.yml'i workflow_call ile çağırıyor; A main ref'ini dispatch ediyor, run id dönmez, izinsiz yorum yazıyor, JS hatalı
+Q-T0111: B | B gerçek port/health yapısına uygun SQLite+Postgres smoke testleri; A fork PR'larında registry login'de düşer, basit sleep tabanlı kontrol
+Q-T0217: B | Repo dokümanları Fern ile yayınlıyor; A uydurma generate-docs ve çok eski uv sürümü
+Q-T0037: B | A'daki asset adı (Linux_x86_64) ve 'ghalint check' komutu yanlış; B doğru asset (linux_amd64) ve 'ghalint run'
+Q-T0355: B | A Linux'ta xvfb yok ve ELECTRON_SKIP_BINARY_DOWNLOAD ile Electron başlatılamaz; B xvfb-run ile doğru
+Q-T0137: A | A PrismarineJS'in standart prismarine-repo-actions yorum komutu iş akışı; B stub komutlar ve korumalı dala doğrudan push
+Q-T0361: B | B istekteki gibi internal/test/integration'ı matrisle koşuyor; A genel 'make test-integration', matris çıktısını doğru kullanmıyor
+Q-T0038: TIE | Neredeyse aynı; A ana CI'dan taşınan Next cache'i içeriyor ama agents-cli yolu yanlış (packages/), B yolu doğru ama cache yok
+Q-T0249: A | B ```yaml çitiyle başlıyor (geçersiz YAML), dejenere tekrar ve kesik içerik
+Q-T0441: A | A repo desenine uygun doppler_config girdisi ve ortam bazlı script; B gereksiz tekrarlı çıktı, ortam yapılandırması yok

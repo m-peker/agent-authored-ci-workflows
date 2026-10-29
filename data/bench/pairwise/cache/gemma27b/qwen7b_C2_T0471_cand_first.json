@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the core build process without reintroducing the `CI: false` workarounds that the request explicitly asks to remove, while B reintroduces `CI: false`."}

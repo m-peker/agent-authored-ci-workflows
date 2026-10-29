@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the PR base and head SHA to check for AI co-author trailers, while Workflow B does not pass these necessary parameters."}

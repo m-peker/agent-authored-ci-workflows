@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `requirements-full.txt` as specified in the testing output, while B uses `requirements.txt` which may not contain all necessary dependencies."}

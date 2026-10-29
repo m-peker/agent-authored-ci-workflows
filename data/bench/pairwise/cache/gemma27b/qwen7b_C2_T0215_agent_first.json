@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix to build for all specified targets with `deno compile`, while workflow B only builds one target and lists others as files to upload, which is not what the request asked for."}

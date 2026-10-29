@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the auto-formatting and commit changes to PR branches as requested, and also makes the lint job non-blocking as specified, while workflow B does not include auto-formatting."}

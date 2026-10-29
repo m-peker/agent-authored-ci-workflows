@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull request events and includes a notification step with relevant details about the changes, while Workflow A only requests a review without providing context."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly copies assets from both the root and `fastlane/metadata/` directories as requested, while workflow B only operates within the `docs/` directory, missing some asset sourcing."}

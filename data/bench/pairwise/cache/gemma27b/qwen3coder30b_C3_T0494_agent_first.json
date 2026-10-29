@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up and uses service containers for Postgres in each job requiring a database, and includes the coverage artifact upload, while workflow B has a less robust Postgres setup and uses Codecov which wasn't requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements semantic-release on push to `main` as requested, while workflow B focuses on publishing to npm on tag push, missing the core semantic-release requirement."}

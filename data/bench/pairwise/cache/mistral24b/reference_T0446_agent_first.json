@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the devcontainers/ci action, which is more suitable for running commands in a dev container environment as per the request."}

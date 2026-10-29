@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Node.js 20.x as requested, while workflow B uses 18.x, and also uses a custom action that isn't part of the standard GitHub Actions ecosystem."}

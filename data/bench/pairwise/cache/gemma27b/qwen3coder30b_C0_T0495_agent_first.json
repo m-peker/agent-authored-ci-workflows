@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the specified reusable workflow and passes the PR number as requested, while B uses an incorrect reusable workflow path and doesn't handle Renovate pushes as specified."}

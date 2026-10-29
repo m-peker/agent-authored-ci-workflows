@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `actions/setup-node` and the `--provenance` flag for npm provenance, while A redundantly attempts to publish and has a less standard approach to authentication."}

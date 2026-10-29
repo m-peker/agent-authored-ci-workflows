@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by running a spec audit using a Python script, while workflow B attempts to audit ADRs which is not the core ask and involves committing changes."}

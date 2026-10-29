@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a protected HTTP endpoint trigger via secrets and a weekly schedule, while Workflow A incorrectly uses issue events."}

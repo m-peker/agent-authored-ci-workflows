@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request's trigger specification by including triggers for changes to the workflow file itself, while B is limited to the `main` branch."}

@@ -1,0 +1,4 @@
+group,files,repos,breaking_pct,median_size,top_repo_share,files_per_repo,repo_avg_breaking_pct
+Claude_Code,12969,2214,5.0,2226.0,4.49,5.86,4.11
+Cursor,1385,176,2.38,1560.0,50.83,7.87,6.6
+Human,1407,904,4.19,1885.0,1.21,1.56,3.7

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and uses the lychee-action with appropriate arguments, while Workflow B unnecessarily sets up Rust and checks all files without specifying markdown and HTML."}

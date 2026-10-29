@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly requests `contents: write` and `pull-requests: write` permissions, which are necessary for `peter-evans/create-pull-request@v8` to function, while workflow B only requests `contents: read` and will therefore fail."}

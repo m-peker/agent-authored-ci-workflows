@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the repository's existing yarn-install action and has the correct permissions for the changesets action."}

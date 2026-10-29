@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's minimal setup and focuses on the specified checks (Clippy, cargo fmt, cargo test, Prettier) without unnecessary additions like ESLint and typechecking."}

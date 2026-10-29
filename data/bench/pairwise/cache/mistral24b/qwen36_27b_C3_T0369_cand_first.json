@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested workflow with the right triggers, jobs, and steps for building test Docker images without requiring a service choice."}

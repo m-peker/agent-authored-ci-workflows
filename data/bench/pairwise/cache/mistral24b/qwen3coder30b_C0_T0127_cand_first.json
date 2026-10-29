@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs opened against main and supports manual reviews via @claude review comments, while Workflow B triggers on PRs opened against main but doesn't correctly handle manual reviews."}

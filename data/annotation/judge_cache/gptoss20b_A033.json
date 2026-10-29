@@ -1,0 +1,1 @@
+{"item_id": "A033", "judge": "gptoss20b", "label": "FP", "impact": "LOW", "reason": "The default value is ignored for required inputs, but this does not cause workflow failure.", "raw": "{\"label\":\"FP\",\"impact\":\"LOW\",\"reason\":\"The default value is ignored for required inputs, but this does not cause workflow failure.\"}"}

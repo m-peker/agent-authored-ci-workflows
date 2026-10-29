@@ -1,0 +1,21 @@
+# Format: <id>: <etiket> [| not]   Q-: A/B/TIE
+Q-T0175: B | A Windows'ta choco ile tmux kurmaya çalışıyor (istek tmux'un olmadığını söylüyor, adım düşer); B mise ile e2e çalıştırıyor. A'da Slack bildirimi var ama iş akışı büyük olasılıkla ilk adımda kırılır
+Q-T0179: A | A gerçek bir action kullanıyor (truongnh1992/gemini-ai-code-reviewer); B'deki google/gemini-code-review@v0.1.0 mevcut bir action değil
+Q-T0197: A | wow-actions/potential-duplicates eşiği 0-1 arası bekler ve {{#issues}} şablonunu kullanır; B'de threshold: 90 ve şablon değişkenleri yanlış
+Q-T0359: A | A, PR açıklamasındaki politikayı çalışır biçimde uyguluyor (merge'de main→9.5, release/X→X.1). B istemdeki mantığa daha yakın ama setup-python ortamında kurulu olmayan 'requests' modülünü import ediyor, çalışmaz
+Q-T0114: A | A repo yapısına uygun (apps/desktop, bun, tauri) ve artefaktları doğruluyor; B genel şablon: lockfile'sız npm cache, var olmayabilecek pnpm build:desktop, yanlış bundle yolları
+Q-T0157: B | A'da python satırları blok skalerin dışına (0. sütuna) taşıyor, YAML ayrıştırılamaz; B repo'nun regenerate-examples API uç noktasını çağıran tutarlı bir dispatch iş akışı
+Q-T0393: B | İsteğin "final review fixes" listesi B'ye birebir uyuyor (--paginate, refs/pull/N/head, girdi doğrulama, hata yorumunda açık token); A'da pagination yok, checkout gitref'e göre yapılıyor
+Q-T0094: B | İstek tek coverage koşusu ve yinelenen test çalıştırmanın kaldırılmasını söylüyor; A testleri iki kez koşuyor
+Q-T0235: B | A 'uvx --from pytest' ile izole bir ortamda çalışıyor, proje bağımlılıkları yüklenmediği için importlar başarısız olur; B 'uv run pytest' ile doğru (codecov slug'ı riskli)
+Q-T0443: B | İstek Storybook'u kaldırıp Playwright + Chromatic istiyor; A build-storybook çağırıyor. B Playwright container'ında testleri koşuyor (chromatic yükleme işi eksik)
+Q-T0036: B | Dosya skill-check.yml; B gerçek skill-validator kontrolü. A var olmayan actions/setup-powershell ve run-id'siz artifact indirme kullanıyor, amacı dosyayla uyuşmuyor
+Q-T0229: TIE | İkisi de kusurlu: A'da eski uv, geçersiz 'uv sync --system' ve büyük olasılıkla yanlış dizin adı (test-project); B istekteki uv yerine Poetry kullanıyor ve test işinde pytest'i kurmuyor
+Q-T0446: B | İstek devcontainers/ci tabanlı bir iş akışı istiyor; B bunu doğrudan kullanıyor. A var olduğu doğrulanamayan harici bir reusable workflow'a bağlı
+Q-T0469: TIE | İkisi de geçerli actions/stale yapılandırması; yalnızca süre ve etiket tercihleri farklı
+Q-T0327: B | İstek feature branch'lerde Cloudflare version upload istiyor; B bunu yapıyor. A branch adını release tag'i gibi kullanarak gh release upload deniyor, başarısız olur
+Q-T0163: B | İstek raporların PR'lar arasında kalıcı olmasını istiyor; B ctrf reporter ile önceki sonuçları çekiyor. A var olmayan bir aracı yalnızca başarısız koşularda çalıştırıyor
+Q-T0227: B | B cluster yönetimini make e2e'ye bırakıyor (compose proje adı -p dkron-e2e ile tutarlı). A cluster'ı elle başlatıp ardından make e2e çalıştırıyor, port çakışması riski var (düşük güven)
+Q-T0066: B | İstek manuel sürüm girdisinin kaldırılmasını söylüyor; A'da kullanılmayan, zorunlu bir version girdisi var. B ayrıca mevcut candidate dalını kontrol ediyor
+Q-T0282: B | A sadece yer tutucu, bir şey yapmıyor; B gerçek claude-code-action ile review yapıyor
+Q-T0339: B | Neredeyse aynılar; B gradlew'e chmod +x veriyor (çalıştırma biti yoksa A düşer), gradle cache ve rapor yüklemesi ekliyor

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested tests and builds the documentation, while workflow A focuses on Helm charts and deploys to gh-pages which isn't the primary goal of the request."}

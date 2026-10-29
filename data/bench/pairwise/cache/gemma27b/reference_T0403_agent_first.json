@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements conditional execution of `-race` flag based on event type (PR vs push/tag), addressing a key requirement of the request, while A always runs with `-race`."}

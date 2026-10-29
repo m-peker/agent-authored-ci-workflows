@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly enforces the specific format (TYPE) description [TASK-ID] with TYPE being one of the specified values and TASK-ID matching DA-<number>, while Workflow B has a more generic regex that doesn't enforce these specific constraints."}

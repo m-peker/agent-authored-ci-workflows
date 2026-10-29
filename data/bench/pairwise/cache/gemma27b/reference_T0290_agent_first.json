@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B dynamically retrieves the Copilot version from the `constants.go` file as requested, while workflow A hardcodes the version."}

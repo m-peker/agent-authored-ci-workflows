@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfills the request by avoiding root-privileged Docker operations and focusing on user-level cleanup, aligning with the PR's security and maintainability goals."}

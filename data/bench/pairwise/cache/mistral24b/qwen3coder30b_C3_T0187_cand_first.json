@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses path filtering to trigger the Vercel deploy hook only when changes are pushed to the docs directory on the main branch, while Workflow B allows manual triggering and uses a custom runner which is not necessary for this task."}

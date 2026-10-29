@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on changes to `pyproject.toml` and `uv.lock` and implements a build and deploy process for documentation, while workflow A appears unrelated to the request and focuses on a different tool (Fern)."}

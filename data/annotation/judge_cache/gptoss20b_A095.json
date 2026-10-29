@@ -1,0 +1,1 @@
+{"item_id": "A095", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "User-supplied inputs are interpolated into shell commands without sanitization, enabling command injection.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"User-supplied inputs are interpolated into shell commands without sanitization, enabling command injection.\"}"}

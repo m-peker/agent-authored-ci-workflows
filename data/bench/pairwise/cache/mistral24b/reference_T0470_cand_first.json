@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and do not fulfil the request as they still include the target input and do not default dry-run to true."}

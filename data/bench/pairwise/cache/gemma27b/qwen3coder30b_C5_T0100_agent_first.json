@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more cleanly separates concerns by using a dedicated script for Debian package creation, handles dependencies more comprehensively, and includes a disk space cleanup step which is good practice."}

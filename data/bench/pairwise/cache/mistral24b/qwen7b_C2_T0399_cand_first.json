@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a 60-minute timeout, installs Playwright browsers, uses a matrix strategy for Node.js versions, and has better artifact handling with retention days specified."}

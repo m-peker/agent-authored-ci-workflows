@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on issue/PR comments and directly checks for the '@claude' mention as requested, while workflow B triggers on many irrelevant events and uses a more complex script to check for 'claude'."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on main branch pushes and pull requests and includes steps to audit ADRs and commit the report, while Workflow B uses Python and checks OpenTherm v4.2 spec compliance which is not what was requested."}

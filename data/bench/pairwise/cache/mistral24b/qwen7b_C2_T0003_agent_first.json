@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PR events and includes concurrency control, while Workflow A triggers on unrelated events and lacks the required PR-specific triggers."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly sets up .NET 10, updates the project files to net10.0 as requested, and runs the tests, while workflow A uses an outdated .NET version and doesn't update the projects."}

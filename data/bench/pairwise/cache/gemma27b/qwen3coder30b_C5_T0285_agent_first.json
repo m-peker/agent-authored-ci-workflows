@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a matrix to run builds across all target platforms and includes the necessary environment variables for sccache, while A's matrix is incomplete and has platform-specific setup steps that are unnecessary."}

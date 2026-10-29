@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more directly addresses the request to install `uv`, sync dependencies, and verify `pre-commit` availability, while A's pull request trigger is unnecessary and its `uv sync` command includes a specific Python version which isn't requested."}

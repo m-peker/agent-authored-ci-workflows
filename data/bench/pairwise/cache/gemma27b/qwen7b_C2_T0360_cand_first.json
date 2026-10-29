@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on tag pushes (as requested), builds for multiple platforms in parallel, and uses `generate_release_notes: true` as specified, while workflow A attempts to trigger itself and has a flawed version bumping/tagging approach."}

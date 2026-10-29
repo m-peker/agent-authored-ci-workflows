@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely adheres to the request's simplification goals, running property tests on all branches and Atheris only on main, and correctly uses `actions/upload-artifact@v4` while B uses v3 and has unnecessary complexity."}

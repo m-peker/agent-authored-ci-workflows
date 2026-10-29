@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the LTS version of Node.js as specified in the request, while Workflow B uses a specific version."}

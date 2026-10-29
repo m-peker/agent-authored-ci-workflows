@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `npx` which avoids a global install and directly uses the minimal ruleset as requested, and includes `fail-fast: false` for independent validation as intended."}

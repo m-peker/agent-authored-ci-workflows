@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more standard approach to checking formatting with cargo fmt and includes caching for better performance."}

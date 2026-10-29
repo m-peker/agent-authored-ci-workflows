@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a change detection mechanism to conditionally run backend-specific steps, aligning with the request's focus on backend requirements, while workflow B incorrectly focuses solely on documentation changes."}

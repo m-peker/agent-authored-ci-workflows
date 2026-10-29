@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by running all specified validation scripts (translate-toolkit, advanced, and a basic check) and combining the reports into a PR comment, while workflow B omits the basic check and doesn't combine reports."}

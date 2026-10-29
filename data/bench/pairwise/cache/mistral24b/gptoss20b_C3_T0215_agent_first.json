@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on releases and tags, uses the correct targets, and properly compiles and uploads binaries to GitHub releases."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has more precise triggers, only running on changes to the workflow file itself, while B triggers on pushes to `main` which is unnecessary and could lead to excessive runs."}

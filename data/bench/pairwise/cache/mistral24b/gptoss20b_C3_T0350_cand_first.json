@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes pnpm setup and uses the correct scripts from package.json, while also handling npm provenance as requested."}

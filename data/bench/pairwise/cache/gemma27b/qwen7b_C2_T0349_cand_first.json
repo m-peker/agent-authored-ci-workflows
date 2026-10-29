@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requested checks (Rust fmt, Clippy, tests, Prettier) with a simpler and more focused approach, while workflow B includes unnecessary system dependencies and more complex frontend checks not explicitly requested."}

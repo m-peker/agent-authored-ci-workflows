@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by including all required jobs and steps, such as PR title linting, release-please integration, and git-cliff configuration, while also being more specific about the conventional commit format."}

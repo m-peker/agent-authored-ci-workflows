@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes an additional step to install dependencies before running tests, making it more likely to work correctly."}

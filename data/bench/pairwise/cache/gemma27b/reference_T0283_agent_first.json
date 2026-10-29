@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly obtains the FATFS source code required for compilation, while workflow A attempts to build it from a directory that doesn't exist in the repository."}

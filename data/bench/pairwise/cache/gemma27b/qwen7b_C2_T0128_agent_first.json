@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more specific tag trigger, a newer Node version, includes build and test steps, and correctly uses `npm ci` for deterministic installs, making it a more robust CI/CD pipeline."}

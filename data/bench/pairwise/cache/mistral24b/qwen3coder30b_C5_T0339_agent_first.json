@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes caching for Gradle and uploads test results as artifacts, which are additional useful features for a CI/CD workflow."}

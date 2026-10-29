@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements both test and format checks with the right triggers and sensible actions, while Workflow B only implements the format check and uses an unnecessary nightly toolchain."}

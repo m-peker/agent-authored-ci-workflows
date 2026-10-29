@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks for changes before creating a pull request, while Workflow B creates a pull request unconditionally."}

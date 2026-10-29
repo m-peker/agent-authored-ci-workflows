@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested labeler functionality with specific patterns for TypeScript files, while Workflow B only uses a generic labeler action without customization."}

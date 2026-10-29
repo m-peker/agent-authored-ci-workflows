@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A tests on multiple platforms (including macOS for MPS testing) and Python versions, while Workflow B only tests on Ubuntu."}

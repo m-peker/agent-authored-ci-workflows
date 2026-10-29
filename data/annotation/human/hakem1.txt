@@ -1,0 +1,166 @@
+# Kaynak: questions.json içindeki 160 madde ve verilen kod bağlamı.
+# TP = doğru/gerçek sorun; FP = yanlış/bu bağlamda gerçek sorun değil; UNSURE = bilmiyorum/kanıt yetersiz.
+# P- maddeleri: A/B = daha uygun iş akışı; TIE = belirgin üstünlük yok veya ikisi de temel isteği karşılamıyor.
+# Her karar yalnızca bildirilen bulgu içindir; FP, dosyanın bütünüyle hatasız olduğu anlamına gelmez.
+# İş akışları GitHub üzerinde çalıştırılmadı. Çağıran kodu verilmeyen reusable/composite action girdilerinin güvenilirliği varsayılmadı.
+
+F-A072: UNSURE | App token oluşturmak tek başına açık değildir. Issue girdisini işleyen infer-action@v0.3.1 içindeki yetkilendirme ve araç sınırları gösterilmediğinden dış kullanıcının token yetkilerini kullanabildiği kesin değil.
+F-A027: TP | GitHub expression dilinde toLower fonksiyonu yok; job koşulu değerlendirilemez. contains zaten büyük/küçük harfe duyarsızdır.
+F-A020: FP | Enjeksiyona elverişli kullanım var, ancak bu akış yalnızca workflow_dispatch ile yetkili kullanıcıdan girdi alıyor; gösterilen bağlamda dış saldırganın erişebildiği yüksek risk kanıtlanmıyor.
+F-A054: UNSURE | output-path doğrudan Bash içine açılıyor; kötü niyetli değer komut çalıştırabilir. Composite action'ı çağıran iş akışı verilmediği için bu değeri saldırganın kontrol edip edemediği bilinmiyor.
+F-A093: FP | Sürüm release etiketi veya yetkili manuel çalıştırmadan geliyor; güvenilmeyen PR/issue girdisinin bu alana ulaşması gösterilmemiş.
+F-A036: UNSURE | Matrix dosyası checkout edilen koddan, version-tag ise çağıran akıştan geliyor. Enjeksiyon noktası mevcut ama çağıranın tetikleyicisi ve verdiği yetkiler olmadan gerçek saldırı yolu doğrulanamaz.
+P-T0211: B | Yarn/Nx kullanan depo için B daha uygun bağımlılık ve build hazırlığı yapıyor. Ancak ikisinde de Copilot'un beklediği copilot-setup-steps dosya/job düzeni eksik; B de tamamlanmış bir Copilot hazırlığı sayılmaz.
+F-A004: FP | configure-pages source girdisini tanımadığı için uyarır; gerçek build kaynağı sonraki jekyll-build-pages adımında ./blog olarak doğru verilmiş. Bu fazladan girdi tek başına build'i bozmaz.
+F-A016: FP | Yalnızca belirli botun yorumuna tepki veriyor; PR kodu çalıştırmıyor, sabit bir kullanıcıdan review istiyor ve değişkenler env üzerinden aktarılıyor.
+F-A039: TP | github.actor PR sahibini doğrulamaz. Botun sonradan güncellediği saldırgan kontrollü PR bu kontrolü geçebilir; PR HEAD'i yazma token'ıyla checkout edilip buradaki XML verisi jq programına ekleniyor. Güven sınırı yalnızca bot aktörüne dayandırılmış.
+F-A090: FP | Dosya bütünüyle yorum satırına alınarak açıkça devre dışı bırakılmış. Denetleyicinin auditable input bulamaması, çalışan bir CI'nin bozulduğunu göstermiyor.
+F-A052: TP | Çok satırlı JavaScript metni script bloğunun dışına taşmış; Markdown satırları YAML olarak ayrıştırılıyor ve dosya geçersiz oluyor.
+F-A047: TP | Heredoc içeriği YAML run bloğuna göre girintilenmemiş; Markdown tablosu YAML ayrıştırmasını bozuyor.
+F-A076: FP | Base branch otomasyonu checkout ediliyor, PR kodu çalıştırılmıyor. Parametreler env/API üzerinden aktarılıyor; yalnızca pull_request_target kullanılması yüksek riskli açık kanıtı değil. Yetki kontrolü yapan dış script ayrıca incelenebilir.
+F-A043: FP | head_branch doğrudan shell'e açılıyor fakat önceki job yalnızca aynı depodaki head_repository için çalışıyor. Dış fork verisinin bu noktaya erişimi gösterilmemiş; ayrıca checkout edilmeyen yerel action'lar ayrı bir işleyiş sorunu.
+F-A089: UNSURE | Yorum sahibini kontrol etmeden PAT ile onun yorumunu pinlemeye çalışıyor; yetkisiz kullanıcıya moderasyon etkisi verme ihtimali var. Ancak kullanılan pin API uç noktasının gerçekten çalıştığı doğrulanmadan gerçekleşen bir istismar denemez.
+F-A063: TP | exempt-pr-author desteklenmiyor ve yok sayılır; böylece yorumda vaat edilen istisna uygulanmaz. Sadece uyarı üretse de stale/close otomasyonunun hedeflediği davranış yanlış olur.
+F-A081: FP | actions: write gereğinden geniş, fakat fork pull_request token'ı normalde salt okunura düşer. Saldırganın yazma token'ıyla kod çalıştırabildiği ayrıca gösterilmediğinden yüksek risk sınıflaması desteklenmiyor.
+F-A059: FP | PR yolunda yalnızca sayı ve SHA kullanılıyor; ref_name ise manuel çalıştırma yolunda kullanılıyor. Fork başlığının veya branch adının ayrıcalıklı shell'e açıldığı bir yol yok.
+F-A066: FP | Dosya açıkça placeholder olarak bırakılmış; çalışması beklenen bir iş akışının hata verdiğine dair kanıt yok.
+F-A044: TP | Job ID içindeki + geçersizdir; hem job tanımı hem needs bağlantıları geçerli GitHub job kimliği kullanmalı.
+F-A007: FP | Default branch'teki güvenilir script çalıştırılıyor; PR HEAD checkout edilmiyor ve PR bilgileri env üzerinden veriliyor. Scriptin kendi izin kontrolü gösterilmemiş olsa da tehlikeli tetikleyici tek başına açık değil.
+F-A096: UNSURE | Girdiyi doğrulayan satırın kendisi de doğrudan interpolation içeriyor; kontrol enjeksiyonu engellemez. Ancak giriş workflow_dispatch/workflow_call kaynaklı; saldırgan kontrollü çağıran gösterilmemiş.
+F-A058: FP | Olmayan pre_activation alanları boş değere dönüşüyor ve genel prompt şablonu yardımcılarına aktarılıyor. Bu dosyada bu alanların zorunlu olduğu veya karar akışını bozduğu gösterilmiyor.
+P-T0213: B | B, PR'lar için stale/close işlemini açıkça -1 ile kapatıyor. A'nın genel 180/0 ayarları PR'lara da uygulanabilir; yalnızca issue yönetimi şartını karşılamıyor.
+F-A062: FP | Tetikleyici bilinçli olarak yorumlanıp kapatılmış. Bu bir etkin workflow hatasından çok devre dışı bırakılmış dosyanın araç tarafından reddedilmesi.
+F-A017: FP | Kontrolden önce shell interpolation yapılması iyi değil; fakat sürüm yalnızca yetkili workflow_dispatch kullanıcısından geliyor. Bu bağlam dış saldırgana açık yüksek risk göstermiyor.
+F-A113: FP | timeout_minutes desteklenmediği için yok sayılır; bu tek başına Claude adımını başarısız yapmaz. Süre sınırı isteniyorsa step/job timeout-minutes kullanılmalı.
+F-A051: TP | refresh bir job ID'si, step ID'si değil. Action adımına id: refresh verilmediği için sonuç alanları boş kalır ve raporlanan durum yanlıştır.
+P-T0339: A | JDK 8 ile Gradle build/test komutlarını doğru çalıştırıyor ve gereksiz branch kısıtı koymuyor. B'nin Maven cache'i Gradle deposuna uymuyor; sonuç yayınlama adımı da fork PR izinleriyle sorun çıkarabilir.
+P-T0390: B | B aynı depo/fork ayrımını açıkça uyguluyor; A kritik fork dışlama şartını hiç uygulamıyor. B'de ayrıca cross-run artifact indirmek için actions: read ve upstream workflow adı düzeltilmeli; tercih kusursuz çalıştığı anlamına gelmez.
+P-T0042: B | Depoya ait ortak Trivy iş akışını kullanıyor ve amd64/arm64 taramasını belirtiyor. A tek yerel image tarıyor; ortak reusable workflow'un sözleşmesinin ayrıca mevcut olması gerekir.
+F-A050: TP | workflow_dispatch.inputs.deploy nesne olmalı; deploy: true geçerli input tanımı değil ve workflow doğrulamasını bozar.
+F-A105: FP | Sürüm girdisi yetkili dispatch veya release kaynağından geliyor. Doğrudan shell interpolation kırılgan olsa da dış saldırgan kontrolü gösterilmiyor.
+P-T0114: B | apps/desktop, Bun ve Tauri üzerinden gerçek masaüstü paketlerini üretiyor ve çıktı yoksa hata veriyor. A farklı paket dizini ve paketleme komutları varsayıyor.
+F-A037: TP | Üst seviye ame anahtarı yazım hatası; GitHub workflow şemasında böyle bir alan yok.
+F-A071: TP | Python metni run bloğunun dışına taşmış; shell tırnağı YAML girintisinin yerini tutmaz ve dosya parse edilemez.
+F-A031: TP | projects geçerli GITHUB_TOKEN permission scope'u değil; workflow şeması reddeder. Project erişimi kullanılan ayrı token'ın izinleriyle düzenlenmeli.
+F-A095: UNSURE | path/project shell komutuna korunmadan ekleniyor; AWS anahtarları bulunan adımda enjeksiyon tehlikeli olabilir. Ancak action çağrısı ve girdilerin kaynağı verilmediği için istismar edilebilirlik belirsiz.
+F-A041: TP | Çok satırlı commit mesajının devamı run bloğuna girintilenmemiş; Tests: satırı YAML yapısını bozuyor.
+F-A102: TP | pull_request_review paths/branches filtrelerini desteklemez; bu yerleşim geçerli event yapılandırması değil.
+F-A055: TP | pnpm yapılandırması .github/workflows içinde .yaml olarak duruyor; GitHub bunu workflow adayı olarak okur ama on/jobs yok. Workflow dışı YAML başka dizine taşınmalı.
+F-A119: FP | Activation aşamasında açıkça placeholder kullanılıyor; gerçek ESC secret'ı daha sonraki agent job'unda alınıyor. Olmayan adım çıktısı fallback'e düşer; bu satırdan çalışma hatası çıkarılamaz.
+P-T0226: A | call-kent-audio-worker dizininde bağımlılık kurup Wrangler ile deploy ediyor. B paketi farklı packages/ dizinine yerleştiriyor ve istekte kanıtlanmayan build adımını varsayıyor.
+F-A085: FP | workflow_run verisinden kod/artifact çalıştırmıyor; güvenilir base kodunu ve sabit veri branch'ini kullanıyor. Yalnızca tetikleyicinin ayrıcalıklı olması gerçek yüksek risk değil.
+P-T0197: B | Benzerlik eşiğini oran olarak 0.90 veriyor ve potential-duplicate etiketini açıkça tanımlıyor; A 90 kullanıyor. B'nin yorum şablonu ve iki seçenekte de token yazma izinleri ayrıca doğrulanmalı.
+F-A008: FP | GITHUB_ önekli configuration variable oluşturulamaz, ancak bulunmayan vars alanı boş döner; bu referans tek başına workflow'u geçersiz yapmaz. Model seçiminin zorunlu olduğu gösterilmemiş.
+F-A101: FP | Tanımsız seq-lens yalnızca zaten başarısız olan dalın hata mesajında kullanılmış. Boş görünmesi tanı kalitesini düşürür; iş akışının gerçek kararını veya testini bozmaz.
+F-A002: TP | deploy-pages adımında id: deployment yok; environment URL ifadesi boş döner. Deployment çalışabilse de beklenen yayın URL'si üretilmez.
+F-A099: FP | Akış sadece tag push veya manuel tetikleniyor; release için contents: write gerekli. Fork PR koduna yazma token'ı verildiği gösterilmiyor.
+F-A048: FP | Base kodunu checkout ediyor; PR diff'ini veri olarak inceliyor ve Claude action erişim kontrolü uyguluyor. PR HEAD çalıştırılmadan yalnızca pull_request_target kullanımı yüksek risk kanıtı değil.
+F-A098: FP | Hiçbir kombinasyonla eşleşmeyen exclude girdisi etkisizdir; mevcut matrix kombinasyonlarını bozduğu veya tek başına GitHub tarafından reddedildiği gösterilmiyor.
+F-A108: FP | github.base_ref hedef depodaki branch'tir; dış fork sahibinin serbestçe oluşturduğu head branch değildir. Master fallback'i de sabit; gösterilen satır için dış saldırgan kontrolü yok.
+F-A025: TP | YAML ayrıştırıcısı **Status** metnini anchor/alias olarak görüyor; script metni doğru blok/girinti içinde olmadığı için dosya geçersiz.
+F-A083: FP | GitHub Pages deploy için pages: write ve id-token: write beklenen izinlerdir. Ana/docs branch veya manuel akışta gerçek saldırgan yolu gösterilmiyor.
+P-T0043: A | Depodaki setup-workspace/build-android-port yardımcılarını doğrudan kullanıyor. B'nin JDK 8'i Android SDK kurulumu öncesinde etkinleştirmesi modern sdkmanager'ın Java gereksinimiyle çakışabilir; ek kurulumlar mevcut script akışını da gereksizce yeniden kuruyor.
+P-T0420: A | İstenen octavia App kimlik doğrulamasını, docusaurus script yolunu, çıktı dosyasını ve değişiklik varsa PR oluşturmayı uyguluyor. B yanlış docs yolları ve farklı bir STS mekanizması varsayıyor.
+P-T0259: TIE | İstek widget'ın başka depoya taşındığını ve publish workflow'unun kaldırıldığını söylüyor; her iki seçenek de burada widget yayınlamaya devam ediyor.
+F-A061: FP | release-please sürüm PR'ı, tag ve release oluşturmak için yazma izinlerine ihtiyaç duyar. Ana branch release otomasyonunda bu izinlerin bulunması kendi başına yüksek risk değil.
+F-A103: FP | needs: [] bağımlılık olmamasını ifade eder; boş listeyi kabul etmeyen linter kontrolü, tek başına gerçek GitHub çalışma hatası kanıtı değil. Ayrı workflow'ları beklemediği ise başka bir tasarım eksikliği.
+F-A018: TP | Workflow düzeyinde description desteklenmez; action metadata'sıyla workflow şeması karıştırılmış.
+P-T0469: TIE | Her ikisi de günlük stale/close otomasyonu ve gerekli yazma izinlerini sağlıyor. İstek 5/7 günlük kapanma süresi ya da ek label istisnaları arasında tercih belirtmiyor.
+F-A038: FP | required ile default birlikte yazılması tutarsız/yedekli bir ayar olsa da geçerli çağrıda input veriliyorsa build bozulmaz; somut başarısız çağrı gösterilmemiş.
+F-A065: FP | PR metni shell içine yerleştirilmiyor; sabit script event dosyasını veri olarak alıyor. Tehlikeli tetikleyici tek başına açık değil; mevcut dosyada checkout eksikliği ayrı bir işleyiş sorunu.
+F-A035: TP | Git tag adında : bulunamaz; ui-kit:v* filtresi gerçek bir tag ile eşleşmez ve beklenen yayın tetiklenmez.
+P-T0443: A | A Playwright testlerini çalıştırıp playwright: true ile Chromatic'e yöneliyor; B kaldırılması istenen Storybook build'ini çalıştırıyor. A'da pnpm'i setup-node cache adımından önce kurmak gerekir.
+P-T0377: B | B ortam, token durumu ve gerçek branch protection REST yolunu inceliyor. A gh repo view için desteklenmeyen branchProtectionRules alanını kullanıyor; B'nin hata yakalama/jq işlemesi de düzeltilmeli.
+F-A097: TP | workflow_dispatch input'u boolean scalar olarak tanımlanmış; description/type gibi alanları olan bir mapping gerekir.
+F-A021: FP | PR bağlamında ref_name sentetik merge ref'idir; feature branch push'ları için depoya yazma yetkisi gerekir. Bu özet satırından dış saldırganın ayrıcalıklı komut çalıştırması gösterilemiyor.
+F-A032: FP | Fork'ları dışlıyor, base kodunu checkout ediyor ve SHA'ları doğrulayarak yalnızca diff için fetch ediyor. PR kodunu ayrıcalıklı ortamda çalıştıran yol gösterilmemiş.
+F-A118: FP | Standart Claude action erişim denetimi var; @claude içeren dış yorum tek başına action'ı yetkisiz kişiye açmaz. PR HEAD checkout edilip çalıştırılmıyor.
+F-A034: FP | Release tetiklenince güvenilir default branch koduyla PyPI sürümü test ediliyor; upstream PR artifact'ı veya PR HEAD çalıştırılmıyor.
+F-A009: TP | JavaScript wrapper heredoc'u run bloğunun dışına taşmış; import satırları YAML olarak parse edilemiyor.
+P-T0066: B | Manuel sürüm girdisini kaldırıyor, candidate varlığını kontrol ediyor ve branch/dispatch için açık izin veriyor. A sürüm girdisini koruyor ve commit öncesi git kimliğini ayarlamıyor.
+P-T0359: TIE | A branch adını JavaScript'e tırnaksız koyuyor ve milestone numarası yerine adını gönderiyor. B merge/closed olayını dinlemiyor ve release/9.4 için istenen 9.4.1 eşlemesini yapmıyor; ikisi de temel davranışı sağlamıyor.
+F-A026: FP | cache action exit-code üretmez, ancak olmayan değer boş string olur ve GitHub'ın gevşek karşılaştırmasında '' == 0 doğrudur. Bu adımların yanlışlıkla atlandığı sonucu çıkmaz; ifade yine de düzeltilmeli.
+P-T0393: B | B API token'ını ayarlıyor, connector değişikliklerini tespit ediyor ve çıktıları GITHUB_OUTPUT'a yazıyor. A gh çağrısında kimlik doğrulama sağlamıyor ve file_count'u output yerine env'e yazdığı için sonraki koşulları bozuyor. B'de pagination eksik.
+F-A030: FP | Claude action varsayılan olarak yazma yetkili kullanıcıları denetler. Yorum tetikleyicisi ve API/OAuth secret'ının bulunması tek başına yetkisiz kullanım göstermez.
+F-A078: TP | secrets context'i step if içinde kullanılamaz; secret önce env'e aktarılıp env alanıyla kontrol edilmeli.
+F-A080: TP | toLower desteklenmeyen expression fonksiyonudur; koşul workflow doğrulamasını bozar.
+F-A117: TP | Mevcut job'da package-version adımı yok; Slack'e gönderilen PACKAGE_VERSION boş kalır. Başka job'ın adım çıktısı steps üzerinden okunamaz.
+P-T0094: A | Vitest'e özgü scriptleri ve coverage artifact'ını kullanması site testlerini ayrı tutuyor. İkisi de testleri iki kez çalıştırıyor; istekteki tek coverage koşumuna göre A da sadeleştirilmeli, script adları depo manifestiyle doğrulanmalı.
+P-T0179: A | Gemini reviewer action'ına model, API anahtarı ve GitHub token'ı veriyor; PR yazma izni de tanımlı. B farklı bir action ve doğrulanmamış girdi sözleşmesi varsayıyor.
+F-A010: UNSURE | app-type HTML/yorum üreten shell'e doğrudan ekleniyor. Çağıran akış bu değeri sabit Parent/Student/Teacher olarak veriyorsa sorun yok; serbest PR girdisiyse enjeksiyon mümkün. Çağrı verilmemiş.
+P-T0064: A | Dar istek Dart dosyasındaki yorum düzeltmesi; A o dosyanın formatını ve Dart testlerini denetliyor. B yalnızca install.sh değişikliklerinde tetiklenen farklı bir test alanını ele alıyor.
+F-A060: FP | max_items yalnızca manuel dispatch girdisi; issue açan kullanıcının bunu belirlediği bir yol yok. JavaScript interpolation kusuru bu bağlamda dış saldırgana açık yüksek risk değil.
+F-A024: FP | Sürüm tag push veya yetkili manuel girdiden geliyor. Doğrudan interpolation sertleştirilmeli ama güvenilmeyen PR/issue erişimi gösterilmiyor.
+F-A042: TP | GitHub filtreleri regex değildir; nokta için kullanılan ters eğik çizgi geçerli glob kaçışı değil. Sürüm tag'larının beklenen şekilde eşleşmesi bozulur.
+F-A109: UNSURE | Yalnızca reusable workflow çağrısı var. Çağrılan laravel workflow'unun içeriği olmadan PR verisini çalıştırıp çalıştırmadığı kesin değerlendirilemez; tetikleyici tek başına TP yapmaz.
+F-A005: FP | Verilen kodda job3 veya tekrarlı bir needs girdisi yok; görünen tek needs job1. Bildirilen bulgu bu kod örneğiyle örtüşmüyor.
+F-A110: FP | App token zamanlanmış/yetkili manuel belge senkronizasyonunda PR oluşturmak için kullanılıyor. Kopyalanan Markdown çalıştırılmıyor; token'ın dış girdiye açıldığı gösterilmemiş.
+F-A068: FP | Yayın reusable workflow'una izin aktarmak için contents: write tanımlı. Tag/manual/call release bağlamında gerçek saldırı yolu olmadan bunu yüksek risk saymam.
+P-T0235: A | Python SDK'nın python-sdk dizinini ve uv lock akışını hedefliyor. B kök requirements/tests yollarını ve SDK'ya uygunluğu gösterilmeyen Python sürümlerini varsayıyor. A'daki uvx pytest proje ortamından izole olduğundan uv run pytest tercih edilmeli.
+P-T0047: A | Go sürümünü go.mod'dan alıyor, v önekini normalize ediyor ve değişiklik yokken commit'i güvenle atlıyor. B prerelease tag sayısal artışında ve commit hatalarını gizlemede daha kırılgan.
+F-A073: TP | Copilot yapılandırması workflow dizinine .yml olarak konmuş; on/jobs içermeyen bu dosya geçerli GitHub workflow'u değil.
+P-T0341: B | Haftalık sync ve PR oluşturmanın yanında contents/pull-requests yazma izinlerini açıkça tanımlıyor. A varsayılan token izinlerine bağımlı.
+P-T0363: TIE | İkisinde de doğru copilot-setup-steps job'u, yerel kurulum action'ı ve eşdeğer Turbo build komutu var. Tetikleme kapsamı farklı ama istenen ortam hazırlığı açısından belirgin işlev üstünlüğü yok.
+P-T0229: TIE | A uv kullanıyor fakat choice girdilerine tortoise/beanie ve true/false veriyor, template kalıntılarını da hata saymıyor. B doğru choice değerlerine yakın fakat uv yerine Poetry kuruyor ve önemli hataları yutuyor; ikisi de istenen doğrulamayı güvenilir sağlamıyor.
+P-T0356: TIE | İkisi de manuel tetiklenen macOS placeholder job'u sağlıyor; B'nin checkout adımı bu istekte belirgin bir işlev farkı yaratmıyor.
+F-A114: UNSURE | command/format gibi girdiler shell komutuna açılıyor; kötü niyetli input komut çalıştırabilir. Composite action'ı kimin hangi girdilerle çağırdığı olmadan yüksek riskli istismar doğrulanamaz.
+F-A028: FP | packages: write image build reusable akışına aktarılıyor; fork PR'larında normal token yazma yetkisi kısıtlanır. Fazla izin ve secret kullanan testler incelenmeli, fakat verilen bulgu dış saldırgana yazma token'ı açıldığını tek başına kanıtlamıyor.
+F-A070: FP | job.services.postgres.ports[5432] GitHub'ın resmî örneklerinde de kullanılan geçerli erişim biçimidir; bu bir actionlint tip kısıtıdır.
+F-A057: UNSURE | Boş choice seçeneği actionlint tarafından reddediliyor. GitHub servisinin boş seçeneğe ilişkin doğrulaması verilmediği için yalnızca bu uyarıyla gerçek workflow reddi olduğuna kesin karar vermiyorum.
+F-A001: TP | Job'da matrix.os yok; koşul boş değerle karşılaştırıldığı için upload adımı çalışmaz ve beklenen dist artifact'ı üretilmez.
+F-A100: FP | Boş needs listesi bağımlılık olmadığını belirtir; tek başına workflow'un başarısız olduğuna dair kanıt değil.
+F-A003: TP | İlk satırdaki tek ters eğik çizgi YAML kökünü bozuyor; aşağıdaki jobs bulunmasına rağmen doğru mapping olarak ayrıştırılamıyor.
+F-A033: FP | required input yanında default bulunması geçerli çağrının build'ini bozmaz. Default'un gereksiz olması gerçek kırılma kanıtı değil.
+F-A069: FP | needs: [] ile bağımlılık tanımlanmaması, çalışmayı bozan bir döngü veya eksik job referansı değildir.
+P-T0446: A | Gerçek devcontainers/ci action'ını mevcut Composer kontrolleri için kullanıyor. B çok sayıda doğrulanmamış input'a sahip bir reusable workflow varsayıyor. A'nın BC hatasını || true ile gizlemesi ayrıca düzeltilmeli.
+F-A112: UNSURE | run_NLGDparams ve diğer call girdileri doğrudan shell'e giriyor; self-hosted runner'da sonuç ağır olabilir. Çağıran workflow ve input güven sınırı verilmediği için dış saldırgan erişimi belirsiz.
+F-A116: UNSURE | source_branch shell özetine doğrudan açılıyor, ancak manuel/call girdisi. Çağıran akışın dış girdiyi buraya geçirip geçirmediği bilinmiyor; otomatik olarak yüksek risk demek doğru olmaz.
+F-A049: UNSURE | package_dir komut içine açılıyor; çağıran kontrollü değer enjeksiyon yaratabilir. Yalnızca reusable publish workflow'u görüldüğü için saldırganın bunu ayrıcalıklı çağırabildiği gösterilmiyor.
+F-A056: FP | Ref adı yalnızca release veya yetkili dispatch bağlamında kullanılıyor; dış PR branch'inin shell'e açıldığı bir yol yok.
+P-T0227: A | make e2e'nin çıkış durumunu koruyor, STARTUP_TIMEOUT=120 veriyor ve her durumda cleanup yapıyor. B timeout 120 make e2e || true ile test başarısızlığını tamamen gizliyor ve startup süresi yerine tüm suite'i sınırlandırıyor.
+F-A067: FP | Olmayan duration çıktısı açıkça N/A fallback'iyle yalnızca özetleniyor. Testin çalışması veya başarısızlık sonucu buna bağlı değil; bu bağlamda breaking bulgusu abartılı.
+F-A053: TP | secrets.ANTHROPIC_API_KEY step if bağlamında kullanılamaz. Env üzerinden kontrol edilmeden workflow doğrulaması geçmez.
+F-A075: FP | Sürüm ve branch yalnızca yetkili workflow_dispatch girdileri. Tırnaklama iyileştirilmeli fakat dış saldırganın bu release adımını kontrol ettiği gösterilmiyor.
+F-A087: FP | if: false geçerli ve açık bir job devre dışı bırakma yöntemidir; sabit koşul uyarısı gerçek workflow hatası değildir.
+F-A029: FP | Güvenilir JavaScript yalnızca üyelik kontrolü ve sabit label ekleme yapıyor; PR kodu veya PR metni çalıştırılmıyor.
+F-A012: FP | PR olduğunda ifade sabit plan komutuna dönüşüyor; tag interpolation yalnızca yayın yolunda var. Dış PR'ın tag değerini belirleyip yazma token'ıyla çalıştırdığı yol yok.
+F-A082: FP | PR numarası/branch yalnızca yetkili manuel input; dış kullanıcının issue/PR metninden otomatik aktarım gösterilmemiş.
+F-A107: UNSURE | github.actor bot kontrolü PR sahibini doğrulamaz ve bu nedenle zayıftır. Ancak pull_request bağlamında fork secret'ları kısıtlıdır; beta action'ın izin denetimiyle birlikte gerçek yüksek riskli atlatma bu örnekten kesinleşmiyor.
+P-T0099: B | Flux ile manifestleri OCI artifact olarak paketleyip SHA/latest etiketlerini yayınlıyor. A overlays/x86 dizinini Docker build context'i sayıyor; manifest artifact'ı yerine Dockerfile gerektiren image build'i yapıyor.
+P-T0374: TIE | A rapor üretmeye yönelse de gömülü metni YAML run bloğundan taşırıyor ve tarih/filtreleme mantığı sorunlu. B yalnızca skill evaluation çalıştırıyor; haftalık repo raporu isteğini karşılamıyor.
+F-A013: TP | upper GitHub expression fonksiyonu değil; secret anahtarını üreten ifadeler doğrulanamaz. Secret isimleri zaten büyük/küçük harfe duyarsızdır.
+F-A015: TP | if: > bloğundaki fenced expression'ın sonundaki newline ifadenin dışında kalıyor; false sonucu bile dolu string olarak true sayılabilir. Release/dry-run kapısını etkisizleştirebilir.
+F-A022: FP | pr_number referansı yalnızca YAML yorum satırında bulunuyor; çalıştırılan expression değil. Bu metin için eksik output uyarısı gerçek çalışma hatası değil.
+P-T0282: TIE | Hiçbir seçenek TUNIT_DISABLE_GITHUB_REPORTER değişkenini tanımlamıyor veya eski isimle uyumluluğunu ele almıyor; iki genel review/build workflow'u bu isteği karşılamıyor.
+P-T0317: B | İstenen bütün olayları kapsıyor ve @claude review ifadelerini açıkça dışlıyor. A bu ayrımı yapmadığından ayrı review akışıyla çakışır.
+F-A106: UNSURE | Yetkilendirme ve checkout davranışı çağrılan revenuecat reusable workflow'unda; içeriği verilmeden tehlikeli trigger'ın gerçek açık olup olmadığı kararlaştırılamaz.
+F-A011: FP | global-json-path yanlış input olsa da setup-dotnet@v4 sürüm verilmezse kökteki global.json dosyasını kendisi arar. Burada aynı dosya hedeflendiğinden bu yazım hatası tek başına SDK kurulumunu bozmaz.
+F-A092: TP | pnpm-lock.yaml workflow dizininde duruyor ve snapshots gibi workflow dışı alanlar içeriyor. Bu konumda geçerli workflow olarak doğrulanamaz; bağımlılık dosyası taşınmalı.
+P-T0418: A | Scanner'a açıkça plugins/ hedefini veriyor ve minimal izinle çalıştırıyor. B hedef belirtmiyor; scanner CLI'si hedefi zorunlu istiyorsa çalışmaz, sözleşme doğrulanmalı.
+F-A040: TP | Reusable workflow job'unun with girdilerinde env context'i kullanılamaz; inputs/vars veya ihtiyaç duyulan job output'ları kullanılmalı.
+P-T0175: B | Go tabanlı gerçek E2E harness'ini, agent bootstrap'ini ve Windows'ta tmux devre dışı bırakılmasını kullanıyor. A farklı Cypress altyapısı varsayıyor; B de ana akışa paralel entegrasyon ve Slack bildirimi açısından eksik.
+F-A014: TP | Çok satırlı COMMENT metni run bloğundan çıkıyor; Markdown satırları YAML ayrıştırmasını bozuyor.
+P-T0157: B | Yayınlanmış filtreler için mevcut servis endpoint'ini çağırarak örnek/safety verisini yeniliyor. A istekte belirtilmeyen CLI komutları, root examples.json ve ek araçları varsayıyor. B'deki çok satırlı payload GITHUB_OUTPUT yazımı da düzeltilmeli.
+P-T0163: A | Tests tamamlanınca workflow_run ile upstream CTRF artifact'larını indiriyor ve geçmiş sonuçları raporluyor. B yeni manuel run'da henüz bulunmayan artifact'ı indirmeye çalışıyor.
+F-A006: FP | Shell'e açılan job result değerleri sabit durum kümesinden, github.actor ise GitHub kullanıcı adından geliyor. Serbest PR başlığı/gövdesi gibi komut taşıyabilecek girdi yok.
+F-A086: TP | **Status gibi metin YAML alias olarak ayrıştırılıyor; bilinmeyen anchor hatası workflow'un yüklenmesini engeller.
+F-A074: FP | Checkout base bağlamında yapılıyor; güvenilir config okunup API üzerinden reviewer atanıyor. PR HEAD kodu çalıştırılmadığından pull_request_target burada tek başına açık değil.
+F-A094: TP | permissions.packages expression kabul etmez; read/write/none sabit değerlerinden biri gerekir. PR ve publish işlerini ayırmak gerekir.
+P-T0256: TIE | İkisi de main push sonrası bağımlılık, test, lint, build ve NPM_TOKEN ile publish sırasını sağlıyor. LTS/sabit Node ve npm-install/npm ci farkından depo kanıtı olmadan belirgin üstünlük çıkmıyor.
+F-A077: FP | required ve default birlikte olması kendi başına başarısızlık değil; geçerli caller BuildConfig veriyorsa build çalışır.
+F-A023: TP | JavaScript template literal içeriği YAML script bloğuna girintilenmemiş; workflow parse edilemez.
+P-T0036: TIE | A token/dashboard işi yapmaya çalışıyor ama geçersiz yerel reusable workflow yolu ve doğrulanmamış proje/script yolları var. B çalışan check düzenine yakın olsa da token verisi toplama veya dashboard üretmiyor; ikisi de temel isteği tamamlamıyor.
+F-A079: FP | Claude action'ın kullanıcı yetki denetimini devre dışı bırakan bir ayar yok; PR HEAD çalıştırılmıyor. Yazma izinlerinin varlığı dış yorum sahibine otomatik yetki kazandırmaz.
+F-A045: UNSURE | Cleanup'ın gerçek işlemleri elastic/docs-actions reusable workflow'unda. Kapanan PR tetikleyicisi meşru bir cleanup düzeni olabilir; içeriği olmadan istismar kanıtlanamaz.
+F-A120: TP | FIRST_TIME_CONTRIBUTOR dışlaması güven sınırı değil; başka bir dış contributor otomatik koşulu geçebilir. PR HEAD checkout ediliyor ve o dizinde uv run çalıştırılıyor; PR pyproject/uv ayarları ile agent ortamına LLM anahtarı ve PAT açılabilir.
+F-A111: FP | Pages yayını için pages: write ve id-token: write beklenen izinler; akış main/manual ile sınırlı. Bunların workflow düzeyinde olması tek başına yüksek riskli açık değil.
+F-A115: FP | base.ref hedef depodaki branch adıdır; saldırganın kendi fork'unda serbestçe seçtiği head.ref değildir. Bu satır için dışarıdan kontrol edilen shell girdisi gösterilmiyor.
+F-A084: TP | PR'ın üretebildiği artifact içindeki prContext ve yorumlar yazma token'ıyla kullanılıyor; artifact'taki PR kimliği gerçek upstream PR ile doğrulanmıyor. Saldırgan yorum/review hedefini başka PR'a yönlendirebilir; JSON.parse kullanılması bu yetki karışmasını engellemez.
+P-T0481: B | Gerçek release kontrol script'ini full history ile çağırıyor; BASE_REF'i env üzerinden güvenli aktarıyor. A check-release recipe'sinin varlığını varsayıyor ve branch karşılaştırması için gerekli geçmişi almıyor.
+F-A046: FP | Aynı depo, belirli release botu ve branch koşulu var. Prettier PR checkout'undan önce izole kuruluyor, config/hooks kapatılıyor, commit kapsamı doğrulanıyor ve App token en son yalnızca push için oluşturuluyor.
+F-A104: FP | Job yorumda belirtilen nedenle bilerek if: false ile kapatılmış; geçerli koşul gerçek kırılma değil.
+F-A091: FP | first-interaction sabit karşılama metni yayınlıyor; PR kodu checkout edilip çalıştırılmıyor. Bu kullanım pull_request_target için meşru bir örnek.
+F-A019: FP | Upload yalnızca workspace kökündeki *.deb/*.rpm dosyalarını kapsıyor; checkout altındaki .git/config artifact'a dahil edilmiyor. Bildirilen credential persistence yolu bu örnekte yok.
+F-A064: FP | Standart Claude action yetkilendirmesi mevcut ve dış kullanıcıları izinli kılan ayar yok. Yalnızca @claude yorumuyla secret'lara erişildiği sonucu çıkarılamaz.
+F-A088: TP | clean-branch-name aynı job'daki step; needs altında bir job değil. Başlık için steps.clean-branch-name.outputs.clean_ref kullanılmadığından branch bilgisi boş yayınlanır.
+P-T0327: B | Cloudflare paketinde wrangler versions upload çalıştırıyor ve test job'una bağımlı. A gerçek yükleme yerine yalnızca echo placeholder'ı kullanıyor; B'nin push event'inde PR comment koşulu ise fiilen çalışmaz.

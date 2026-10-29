@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A handles Nuitka output name differences by checking for both 'dirsearch' and 'dirsearch.bin' and renaming accordingly, while Workflow B assumes a single output name."}

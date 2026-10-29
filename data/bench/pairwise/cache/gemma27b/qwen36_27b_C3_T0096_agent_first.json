@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has more appropriate triggers (including pull requests and a schedule) and uses a matrix strategy to explicitly define the language as Rust, making it more focused and likely to work correctly for this repository."}

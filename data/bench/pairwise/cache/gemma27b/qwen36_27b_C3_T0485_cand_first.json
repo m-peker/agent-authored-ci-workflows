@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request for a protected HTTP endpoint export, using secrets and `curl` to download a database bundle, while A attempts to create a database locally which isn't the stated goal."}

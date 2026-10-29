@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct Node.js version (20.x) as specified in the request, while Workflow B uses an outdated version (18.x) and includes an unnecessary path filter for 'docs/**'."}

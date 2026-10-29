@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more robust composer installation action and includes the tag name in the zip file name, improving clarity and versioning, while both workflows correctly implement the core requirements."}

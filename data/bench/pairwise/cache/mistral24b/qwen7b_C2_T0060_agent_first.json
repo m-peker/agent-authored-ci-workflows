@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and pushes to main, uses uv for dependency management as implied by the request, and runs the specific downstream compatibility tests with the required environment variable."}

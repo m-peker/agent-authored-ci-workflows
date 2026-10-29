@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements both deployment triggers (push to ai branch and PRs) and uses the correct Node.js version (20.x) while Workflow B has incorrect triggers and Node.js version."}

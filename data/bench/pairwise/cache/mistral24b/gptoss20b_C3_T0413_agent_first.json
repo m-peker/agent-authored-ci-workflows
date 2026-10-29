@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the specific Rust toolchain version from rust-toolchain.toml and Node.js version from .node-version, while Workflow B hardcodes the Rust version."}

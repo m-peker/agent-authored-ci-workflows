@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested jobs and steps, including linting, testing with various configurations, Kind integration testing, and publishing to the Helm repository with proper version management and security measures."}

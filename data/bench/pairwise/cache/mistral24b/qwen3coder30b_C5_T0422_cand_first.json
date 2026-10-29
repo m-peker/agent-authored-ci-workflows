@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers after the Windows workflow, performs the WASM build, and uploads the web artifacts as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to add `yarn test` and reorder lint/test/build, while B introduces unnecessary devbox complexity and additional checks not requested."}

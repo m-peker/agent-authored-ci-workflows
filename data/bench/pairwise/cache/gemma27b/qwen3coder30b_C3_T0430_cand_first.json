@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by removing the `--ci` flag from the `pnpm release` command, while workflow B does not include a release step at all."}

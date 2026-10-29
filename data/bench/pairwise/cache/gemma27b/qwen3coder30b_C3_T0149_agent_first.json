@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the original plan by generating a JSON output and using `sed` to update the README, mirroring the existing LOC badge workflow, while B attempts to directly modify the README in a more complex way."}

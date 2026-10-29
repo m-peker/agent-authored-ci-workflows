@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a build job separate from deployment, which is best practice and allows for more complex build steps if needed, while B combines them; A also triggers on pull requests which is useful for preview deployments."}

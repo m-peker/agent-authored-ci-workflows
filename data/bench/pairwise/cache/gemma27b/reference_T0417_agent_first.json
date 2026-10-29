@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub CLI (`gh release upload`) which is a more direct and modern approach for uploading release assets compared to Workflow A's reliance on the `actions/upload-release-asset` action and parsing the upload URL."}

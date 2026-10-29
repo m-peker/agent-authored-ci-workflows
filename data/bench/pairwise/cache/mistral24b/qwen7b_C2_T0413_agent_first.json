@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses workflow_dispatch as the trigger, while Workflow B incorrectly uses push and pull_request triggers for a Copilot setup workflow."}

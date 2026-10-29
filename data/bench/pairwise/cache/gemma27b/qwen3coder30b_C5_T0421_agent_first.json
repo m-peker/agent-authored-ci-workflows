@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by adding the `--draft` flag when creating pre-releases, while workflow B focuses on release drafting and relies on a separate `build-binary.yml` workflow which isn't provided, making it incomplete for this specific request."}

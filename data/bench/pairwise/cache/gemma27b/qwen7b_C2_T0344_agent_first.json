@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is a reusable workflow called by the main CI pipeline as requested, while workflow B is a standalone workflow triggered by push/PR events, not integrated into the existing CI."}

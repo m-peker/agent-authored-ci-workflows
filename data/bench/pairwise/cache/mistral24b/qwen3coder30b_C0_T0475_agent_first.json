@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes both artifact upload and optional Cloudflare deployment as requested, while Workflow A only handles artifact upload."}

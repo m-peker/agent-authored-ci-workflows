@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A handles the Nuitka output name differences with a conditional rename and matrix builds for different configurations, while workflow B only handles a single output name and lacks configuration options."}

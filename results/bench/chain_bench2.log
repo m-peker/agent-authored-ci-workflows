@@ -1,0 +1,20 @@
+[17:12] download openai/gpt-oss-20b
+26G	/workspace/models/gptoss20b
+[17:15] serve
+[17:16] smoke (10 tasks)
+smoke: 17/20 round-0 outputs look like workflows
+[17:20] generate
+1000/1000 chains, 4665s
+GEN_DONE gptoss20b
+[18:38] done gptoss20b
+[18:38] download Qwen/Qwen3-Coder-30B-A3B-Instruct-FP8
+30G	/workspace/models/qwen3coder30b
+[18:42] serve
+[18:44] smoke (10 tasks)
+smoke: 20/20 round-0 outputs look like workflows
+[18:44] generate
+scripts/bench_run_model.sh: line 34: gen.log: command not found
+1000/1000 chains, 1965s
+GEN_DONE qwen3coder30b
+FAILED generate
+BENCH2_DONE

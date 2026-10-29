@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to main, installs the required dependency, and runs the test suite as specified in the request."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B attempts to cover more of the requested CI checks (lint, typecheck, publish-check) and has a more appropriate trigger for a CI/CD pipeline, while A only covers linting and typechecking."}

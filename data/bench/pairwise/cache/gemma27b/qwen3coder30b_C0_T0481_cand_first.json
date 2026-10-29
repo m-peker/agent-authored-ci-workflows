@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and uses a dedicated script for release checking, aligning with the request to split CI into separate workflows and likely addressing the template injection fix, while A's shell script is more complex and less maintainable."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A pins the actions to specific commit SHAs as requested, while workflow B uses `v4` which is a tag and therefore not pinned."}

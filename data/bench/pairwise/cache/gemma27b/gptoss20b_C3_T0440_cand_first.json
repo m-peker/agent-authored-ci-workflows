@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a more robust trigger strategy and explicitly names the job 'copilot-setup-steps' as required by the Copilot documentation, and uses caching for Flutter."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more thoroughly addresses the root cause by explicitly validating the absence of symlinks in the built plugins and verifying manifest coverage, simulating the installation environment more closely than Workflow B."}

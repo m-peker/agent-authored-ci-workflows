@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and neither addresses the request to fix dispatch-workflow validation; they simply define a workflow triggered by `workflow_dispatch`."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly executes the scanner as requested, using `uv run` which is a sensible way to execute a Python script without needing a full Python setup, and avoids unnecessary steps like dependency installation and linting that were already verified."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requested CI steps (TypeScript, ESLint, Prettier, tests with coverage, build verification) and integrates with Codecov and test result publishing, while workflow B lacks build verification and focuses more on setup and caching."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a reusable workflow pattern with separate PR and release workflows, includes a test stage in the Dockerfile, and handles conditional pushing to Docker Hub as requested, while workflow B lacks the reusability and clear separation of concerns."}

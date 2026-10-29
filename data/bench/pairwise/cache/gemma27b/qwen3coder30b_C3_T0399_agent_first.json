@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly copies the built distribution files to a location expected by the e2e tests, as described in the request, while A builds a debug version and doesn't copy the files."}

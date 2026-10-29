@@ -1,0 +1,1 @@
+{"item_id": "A070", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The expression is valid as GitHub Actions allows numeric indices in array expressions.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The expression is valid as GitHub Actions allows numeric indices in array expressions.\"}\n```"}

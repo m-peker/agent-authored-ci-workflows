@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct `pull_request` trigger, while workflow B incorrectly uses `pull_request_target`, which is generally reserved for workflows interacting with the PR's source code and is less secure."}

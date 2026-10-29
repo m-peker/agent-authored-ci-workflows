@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested CodeQL security scanning and uses the global-json-file parameter as per PR review feedback."}

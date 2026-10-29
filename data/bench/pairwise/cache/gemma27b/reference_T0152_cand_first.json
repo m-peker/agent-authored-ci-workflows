@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and only implement the regression tests part of the request, missing the parallelization across Python versions and test groups as specified."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly implements the requested Infection configuration (MSI thresholds, exclusion) and integrates it into the existing `composer test` flow, while workflow B relies on a custom `composer mt` script without explicitly configuring Infection within the workflow."}

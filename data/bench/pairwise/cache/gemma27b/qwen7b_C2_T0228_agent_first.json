@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A triggers on changes to the Dockerfile and workflow file itself, which is necessary for rebuilding the image, while B triggers on pushes to main and PRs, which isn't the intended purpose of a container build workflow."}

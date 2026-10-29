@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes steps to build, test, and specifically mentions testing ephemeral resource handling, addressing the request's core issue, while workflow B appears to be unrelated to the problem."}

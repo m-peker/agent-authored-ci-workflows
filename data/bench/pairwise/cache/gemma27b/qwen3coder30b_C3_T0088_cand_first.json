@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `jq` to extract issue data and passes the session URL to the `github-script` action via environment variables, addressing the identified script injection vulnerabilities, while B has interpolation issues."}

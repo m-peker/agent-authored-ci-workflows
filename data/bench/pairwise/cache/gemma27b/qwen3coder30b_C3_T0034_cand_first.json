@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requirements of the request, including version validation, separate publishing jobs, and SDK CI, while workflow B focuses heavily on SDK generation validation and lacks the publishing steps and tag-based release triggers."}

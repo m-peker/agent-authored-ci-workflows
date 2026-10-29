@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more concise and directly uses the correct parameter names as specified in the `actions/stale` documentation, while B uses slightly different parameter names and a more verbose multi-line format for labels which isn't necessary."}

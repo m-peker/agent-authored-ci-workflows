@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the requested `numbata/danger-pr-comment` reusable workflow, while workflow B attempts to re-implement Danger execution directly, deviating from the request."}

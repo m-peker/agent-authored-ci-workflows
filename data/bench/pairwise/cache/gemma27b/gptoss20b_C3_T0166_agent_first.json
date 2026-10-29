@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates build and deploy jobs, uses the official `actions/deploy-pages` action for deployment, and includes necessary permissions for GitHub Pages, while B triggers on pull requests which is not requested and uses a less maintained deployment action."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes additional sensible steps like cancelling previous runs and uses the go.mod file to determine the Go version."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the request's specification of posting formatted results to PRs with pass/fail counts, coverage percentages, and icons, whereas workflow B relies on an external Codecov service for detailed reports and uses a simpler PR summary."}

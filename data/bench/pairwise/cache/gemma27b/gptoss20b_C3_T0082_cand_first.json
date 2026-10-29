@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes checks for linting, type-checking, building, and security scanning (OSSF Scorecard) which are core CI steps for a TypeScript project, and aligns with the request to fix CI/CD, while workflow B focuses on Python testing which is not the primary language of the repository."}

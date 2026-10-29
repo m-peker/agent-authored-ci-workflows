@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to rebuild the model site with steps to checkout, set up Python, install dependencies, and build the site, while workflow B is triggered by releases and only deploys, not rebuilds."}

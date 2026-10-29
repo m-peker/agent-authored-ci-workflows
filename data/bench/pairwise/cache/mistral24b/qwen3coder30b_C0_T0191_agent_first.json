@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all requested features, such as weekly benchmarking, running the replay harness, tracking metrics, and displaying a badge, while Workflow A is missing the badge generation and has a less robust commit step."}

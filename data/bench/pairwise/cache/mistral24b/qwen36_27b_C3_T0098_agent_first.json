@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes essential steps like generating Mastodon secrets, starting the database and Redis, running DB setup and migrations, and verifying connectivity, which are missing in Workflow B."}

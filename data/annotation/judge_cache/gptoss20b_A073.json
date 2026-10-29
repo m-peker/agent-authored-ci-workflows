@@ -1,0 +1,1 @@
+{"item_id": "A073", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The file is not a GitHub Actions workflow, so the missing jobs section is irrelevant.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The file is not a GitHub Actions workflow, so the missing jobs section is irrelevant.\"}"}

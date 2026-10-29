@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more completely addresses the request by including all triggers (PR, push, dispatch, schedule) and more comprehensively configuring the govulncheck action, while B omits the push trigger and has fewer configuration options."}

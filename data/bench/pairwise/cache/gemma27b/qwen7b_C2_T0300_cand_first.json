@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses GitHub Pages artifacts and deployment actions, while A attempts to deploy directly with a third-party action and lacks proper artifact handling."}

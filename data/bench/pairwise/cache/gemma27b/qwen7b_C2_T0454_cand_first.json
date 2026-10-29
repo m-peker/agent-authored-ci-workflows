@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses OIDC for authentication with crates.io, offers more flexible crate selection, and uses a more modern Rust toolchain setup, aligning better with the request for a trusted publishing workflow."}

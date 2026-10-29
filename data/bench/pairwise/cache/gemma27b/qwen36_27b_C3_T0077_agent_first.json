@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely mirrors the described changes, including the use of the `StaticAnalysis` configuration via the `tools/ci.psm1` module and the matrix strategy for language selection, while B omits the module integration."}

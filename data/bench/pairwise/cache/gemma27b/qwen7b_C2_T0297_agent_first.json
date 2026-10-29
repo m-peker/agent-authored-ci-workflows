@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all pushes and PRs for artifact generation, and only creates a release on tag pushes, while B only triggers on tag pushes and a specific branch for PRs, and uses older action versions."}

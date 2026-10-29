@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly runs all tests across multiple Python versions, while B unnecessarily skips GPU tests with `-m \"not gpu\"`, failing to validate the core change of cross-platform device selection."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the requested configuration path '.github/labeler.yml', while B uses '.github/labeler-config.yml' which isn't specified in the request."}

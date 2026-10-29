@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the requested trigger, job structure, and execution of the release script, though neither fully addresses the OIDC configuration for trusted publishing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly triggers the 'Release: Please' workflow with the correct input, while B uses a less reliable `gh workflow run` command and lacks input passing."}

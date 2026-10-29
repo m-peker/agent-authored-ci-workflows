@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more modern base image, a more concise release step with `softprops/action-gh-release`, and correctly downloads and uploads artifacts, while A has redundant artifact uploads and a more complex release process."}

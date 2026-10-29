@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to main and runs ESLint without suppressing failures, which is the expected behavior for a CI/CD workflow."}

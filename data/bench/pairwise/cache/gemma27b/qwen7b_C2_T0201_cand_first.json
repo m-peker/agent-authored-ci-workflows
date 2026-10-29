@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses Go to install and run the OSV scanner, which is the recommended method, while workflow A incorrectly attempts to install it with pip."}

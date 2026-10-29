@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all PR branches and uses the correct commit range for checking, while Workflow B lacks the specific commit range and has unnecessary linting steps."}

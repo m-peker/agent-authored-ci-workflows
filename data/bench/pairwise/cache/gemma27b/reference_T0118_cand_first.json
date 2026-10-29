@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A has a more robust method for finding the created tarball using `ls sistent-sistent-*.tgz`, while B simply uses `ls *.tgz` which could lead to issues if other `.tgz` files exist; A also uses a more precise regex for detecting test scripts."}

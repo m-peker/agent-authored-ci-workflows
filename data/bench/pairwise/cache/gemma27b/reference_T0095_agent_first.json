@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes auto-formatting and committing changes to the PR branch as requested, and correctly handles pull request head refs, while A does not address auto-formatting or committing."}

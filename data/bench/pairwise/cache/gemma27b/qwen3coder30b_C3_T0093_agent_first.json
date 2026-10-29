@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the request by using a `make` target to perform the replacement and then verifying the changes, aligning with the decision to avoid complex linting tools and rely on documentation, while workflow B attempts an automated fix and commit which is not the requested approach."}

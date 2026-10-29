@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly implement the CI checks (linting and testing) as requested, though neither explicitly tests CUDA/MPS/CPU device selection, which is the core of the PR."}

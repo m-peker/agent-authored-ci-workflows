@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger event 'pull_request_target' for external contributors and includes necessary steps for setting up Google credentials, while Workflow B uses 'pull_request' which does not trigger for external contributors."}

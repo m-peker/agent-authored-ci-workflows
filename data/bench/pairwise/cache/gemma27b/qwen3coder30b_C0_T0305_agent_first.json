@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more cleanly and reliably downloads the correct artifact using the GitHub API, avoiding brittle shell scripting and potential issues with artifact naming in Workflow A."}

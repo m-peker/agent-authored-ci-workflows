@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to address the original problem by building the CLI archives with CI enabled, while Workflow B doesn't appear to be related to the problem description and doesn't remove the CI: false workarounds."}

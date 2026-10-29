@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the actor restriction, uses a more robust git configuration, and leverages the `opencode` action to handle the release process as requested, including version determination and PR/release creation."}

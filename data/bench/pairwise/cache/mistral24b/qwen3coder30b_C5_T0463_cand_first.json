@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the complementary pair system and includes all necessary path filters to skip CI on docs-only and config-only changes."}

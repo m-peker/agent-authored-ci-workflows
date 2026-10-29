@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on relevant file changes and includes the necessary jobs and steps to run Playwright tests for documentation checks, while Workflow B focuses on documentation generation and commits, which is not the primary request."}

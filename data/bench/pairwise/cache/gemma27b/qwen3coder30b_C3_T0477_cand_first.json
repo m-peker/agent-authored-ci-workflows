@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pnpm which is likely the package manager used in the repository, while workflow B uses npm, and both workflows correctly trigger on `docs/**` changes and deploy to GitHub Pages."}

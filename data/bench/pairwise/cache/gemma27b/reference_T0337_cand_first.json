@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly downloads and installs the Sui CLI binary as specified in the request and existing workflows, while workflow B attempts to install it via cargo, which isn't the established pattern."}

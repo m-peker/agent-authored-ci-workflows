@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly excludes agents-docs from main CI, has the correct triggers, jobs, and steps, and uses sensible actions, while Workflow B includes unnecessary steps and incorrect paths."}

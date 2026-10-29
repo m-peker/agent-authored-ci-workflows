@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a matrix strategy to build and push for both AMD64 and ARM64 architectures, while workflow B duplicates the build and push steps and uses hardcoded registry details."}

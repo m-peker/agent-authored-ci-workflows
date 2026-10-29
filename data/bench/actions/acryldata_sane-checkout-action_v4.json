@@ -1,0 +1,1 @@
+{"action": "acryldata/sane-checkout-action", "ref": "v4", "exists": true, "name": "Checkout", "description": "Checkout limited git history to speed up CI", "inputs": {"checkout-head-only": {"required": false, "default": "true", "description": "For PRs, checkout only the head SHA without merge commit"}}, "outputs": []}

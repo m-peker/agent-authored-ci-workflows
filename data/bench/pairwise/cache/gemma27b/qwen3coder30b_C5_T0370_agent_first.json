@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish to npm on tag push with a minimal, focused approach, while B adds unnecessary steps like linting and testing that weren't requested."}

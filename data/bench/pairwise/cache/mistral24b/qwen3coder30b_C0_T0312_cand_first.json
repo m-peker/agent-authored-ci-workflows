@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the label logic for both type and priority, including the fallback to feature-request when neither bug nor feature keywords match."}

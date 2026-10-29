@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses specific commands for running tests and coverage (test:vitest, test:vitest:coverage) which is more aligned with the request's mention of a single coverage run and suggests a dedicated test script, while A uses the generic 'npm test' and 'npm run coverage'."}

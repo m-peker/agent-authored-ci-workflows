@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the master and main branches in the trigger and adds a skipLabels option for documentation changes."}

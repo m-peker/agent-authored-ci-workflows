@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on all main branches and PRs, includes both property-based tests and Atheris fuzzing with appropriate conditions, and uses the correct version of actions/upload-artifact."}

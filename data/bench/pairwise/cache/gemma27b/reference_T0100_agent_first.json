@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly determines dependencies for the .deb package based on the build variant, and uses `apt` to install the generated package for testing, which handles dependencies automatically, making it more robust."}

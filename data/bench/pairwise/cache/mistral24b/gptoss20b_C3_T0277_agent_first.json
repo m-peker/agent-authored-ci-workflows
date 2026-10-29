@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the stable toolchain and enables caching, making it more efficient and suitable for a CI/CD pipeline."}

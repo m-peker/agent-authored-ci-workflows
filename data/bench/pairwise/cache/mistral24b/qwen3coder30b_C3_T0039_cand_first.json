@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags, builds binaries for multiple platforms, and uploads them as release artifacts, while Workflow B has unnecessary complexity and doesn't properly handle Windows builds."}

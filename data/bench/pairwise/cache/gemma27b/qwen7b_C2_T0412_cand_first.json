@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to fulfil all aspects of the request, including fixing metadata and committing/pushing changes, while workflow B only covers testing and linting."}

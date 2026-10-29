@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the script directly in the workflow, ensuring it's always available and avoids potential issues with the script not being present in the repository, and it correctly implements the logic for checking commit trailers."}

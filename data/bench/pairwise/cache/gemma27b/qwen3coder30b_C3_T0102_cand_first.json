@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly handles asset uploading and uses a more sensible tag matching pattern, while B attempts to parse information from files which is unnecessary and potentially fragile."}

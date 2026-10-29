@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely matches the requested matrix of platforms and build types, and correctly configures sccache with READ_WRITE mode for warmup, while A uses a less specific matrix and doesn't set the correct sccache mode."}

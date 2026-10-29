@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a `workflow_run` trigger with the expected workflow name and successfully downloads and uses the artifact, fulfilling the request's core requirement of decoupling the labeling from the data capture."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly runs the benchmark, uploads artifacts, and deploys them to GitHub Pages, while workflow B only attempts to upload a directory that doesn't contain benchmark results yet and lacks the benchmark execution step."}

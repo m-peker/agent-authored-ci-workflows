@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses ubuntu-slim instead of ubuntu-latest and has a more concise structure with a single job that handles both build and deploy steps."}

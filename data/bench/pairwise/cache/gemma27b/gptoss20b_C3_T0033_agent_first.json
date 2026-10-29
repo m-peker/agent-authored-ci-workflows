@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly implements the request to run Spotless and Detekt checks, while workflow A is unrelated to the requested code quality checks."}

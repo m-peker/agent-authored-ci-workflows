@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the GitHub Container Registry (ghcr.io) and provides a flexible deployment mechanism with environment and tag inputs, while workflow B uses DockerHub and lacks environment selection."}

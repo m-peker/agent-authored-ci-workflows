@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly tests the requested changes for the Go repository, while Workflow B tests unrelated Node.js and GitHub Copilot CLI functionality."}

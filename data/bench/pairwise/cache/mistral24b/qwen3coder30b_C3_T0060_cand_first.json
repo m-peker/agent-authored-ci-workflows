@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs to main branch and includes all necessary steps for downstream compatibility tests, while Workflow B triggers on additional events and includes unnecessary environment variables."}

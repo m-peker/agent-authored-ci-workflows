@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B has the correct triggers (push to main/beta/alpha and pull request events) and uses the changesets action to manage versioning and releases, aligning with the PR's purpose, while A only triggers on push to main."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `fetch-depth: 0` and `rsync` for a full wiki sync, and includes a check to only commit if changes are present, while B only copies a subset of files and lacks a change check."}

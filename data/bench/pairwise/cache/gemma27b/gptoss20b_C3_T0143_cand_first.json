@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by installing the PoCL runtime and running the test suite as specified, while B uses `requirements-full.txt` which isn't mentioned and has older action versions."}

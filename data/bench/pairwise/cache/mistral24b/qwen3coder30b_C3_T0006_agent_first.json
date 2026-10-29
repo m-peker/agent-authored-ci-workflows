@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested jobs and steps for linting, testing, and building the TypeScript project, while Workflow A is only for Claude PR Assistant interactions."}

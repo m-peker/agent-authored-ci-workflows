@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely matches the requested configuration, including the specific messages and label names, and correctly uses `remove-stale-when-updated` for both issues and PRs, while B uses less friendly messages and has redundant/incorrect parameters."}

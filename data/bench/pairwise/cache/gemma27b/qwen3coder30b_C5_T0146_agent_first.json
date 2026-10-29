@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers only on pull requests to main with the 'ci:codeql' label, and filters out bots and drafts, aligning with a focused CodeQL analysis workflow, while B includes a push trigger and a repository check that aren't necessary for the request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides broader trigger coverage (push and pull request) and explicitly installs testing dependencies, making it a more complete CI workflow for unit tests."}

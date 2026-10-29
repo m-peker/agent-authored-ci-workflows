@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the correct triggers, jobs, and steps for a performance regression workflow, while Workflow B is missing scheduled runs and platform-specific testing."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly commits the updated leaderboard data before building and deploying, fulfilling the request to unify the leaderboard update with the deploy process, while A does not commit the changes."}

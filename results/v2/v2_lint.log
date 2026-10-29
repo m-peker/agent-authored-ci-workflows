@@ -1,0 +1,49 @@
+files: 179,549
+chunks 50/898
+chunks 100/898
+chunks 150/898
+chunks 200/898
+chunks 250/898
+chunks 300/898
+chunks 350/898
+chunks 400/898
+chunks 450/898
+chunks 500/898
+chunks 550/898
+chunks 600/898
+chunks 650/898
+chunks 700/898
+chunks 750/898
+chunks 800/898
+chunks 850/898
+chunks 898/898
+DONE findings: 2948094
+tool
+actionlint     208588
+zizmor        2739506
+tool        rule                   
+zizmor      unpinned-uses              1087442
+            template-injection          533826
+            artipacked                  453219
+            excessive-permissions       286779
+            self-repository             215814
+actionlint  runner-label                137705
+zizmor      cache-poisoning              41943
+actionlint  action                       40017
+zizmor      secrets-inherit              25793
+            adhoc-packages               20215
+actionlint  expression                   18911
+zizmor      dangerous-triggers           15778
+            superfluous-actions          11586
+            unpinned-images              11562
+            github-app                    8983
+            use-trusted-publishing        6337
+            github-env                    6194
+actionlint  syntax-check                  5252
+zizmor      misfeature                    4490
+            archived-uses                 4473
+actionlint  if-cond                       3646
+zizmor      overprovisioned-secrets       1658
+actionlint  deprecated-commands           1174
+            events                        1076
+zizmor      unpinned-tools                 790

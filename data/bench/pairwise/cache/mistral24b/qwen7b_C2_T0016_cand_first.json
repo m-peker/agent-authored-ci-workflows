@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the source-gitlab connector and updates the CDK version as requested, while Workflow B is unrelated to the request."}

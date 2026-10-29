@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PRs touching java/ and the workflow file itself, uses the correct JDK version and distribution, and runs the build and test steps in the specified order."}

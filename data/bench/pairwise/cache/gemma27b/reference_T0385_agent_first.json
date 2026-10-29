@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and neither addresses the request to pin the `setup-zig` action to an immutable SHA in any of the specified files."}

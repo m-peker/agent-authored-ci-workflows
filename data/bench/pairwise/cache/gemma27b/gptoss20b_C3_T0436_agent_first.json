@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise and uses `cargo-deb`, a tool specifically designed for building Debian packages from Rust projects, simplifying the process compared to Workflow A's manual package creation."}

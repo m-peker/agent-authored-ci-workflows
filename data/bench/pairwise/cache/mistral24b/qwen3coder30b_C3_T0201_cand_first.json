@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the requested testing steps (flutter analyze and dart format) and has appropriate triggers for a CI/CD workflow."}

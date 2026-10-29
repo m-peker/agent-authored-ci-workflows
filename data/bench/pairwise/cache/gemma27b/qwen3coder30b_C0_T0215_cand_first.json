@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly handles creating archives for each target and uses a dedicated release action, while A only uploads binaries without archiving and relies on the release event which isn't ideal for tag pushes."}

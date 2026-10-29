@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the fastify/github-action-merge-dependabot action as requested and checks for status checks passing before auto-merging."}

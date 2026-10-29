@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to build and release a `scraper-latest` release with the binary, while workflow B creates a release tagged with git describe which isn't the requested behavior."}

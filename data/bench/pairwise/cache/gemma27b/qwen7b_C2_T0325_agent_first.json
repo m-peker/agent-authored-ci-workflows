@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on tag pushes (for releases), includes the necessary jobs to publish to npm and generate/deploy documentation to gh-pages, and uses the provided script as requested."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly extracts the Copilot version from the Go file and validates it, a key requirement, while workflow B focuses on running a Copilot server which isn't directly requested."}

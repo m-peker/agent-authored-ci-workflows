@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `StaticAnalysis` configuration as requested in the changes section, while workflow B does not, making it less complete."}

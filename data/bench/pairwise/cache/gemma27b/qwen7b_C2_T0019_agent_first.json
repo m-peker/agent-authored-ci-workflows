@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the `.arb` files within the specified directory, includes the necessary steps to activate and run `intl_utils`, and creates a pull request with a descriptive message and labels, while workflow B triggers on a broader set of files and lacks the specific setup for the Flutter version."}

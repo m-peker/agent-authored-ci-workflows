@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets `comment-summary-in-pr: always` which is good practice for dependency review, while B does not, and both workflows otherwise fulfil the request."}

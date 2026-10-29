@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the correct trigger for the docs-website branch and uses the specified fern generate command, while Workflow A lacks the branch trigger and uses an incorrect command."}

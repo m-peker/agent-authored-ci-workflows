@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements a deployment summary based on recent production PRs, utilizing AI for summarization and Slack notification, while Workflow B only provides a basic PR summary on merge and doesn't address the core request."}

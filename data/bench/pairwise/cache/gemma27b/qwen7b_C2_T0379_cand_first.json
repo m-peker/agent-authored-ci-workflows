@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on lockfile/package.json changes as requested, uses a more modern Node version and pnpm, and generates the SBOM using a dedicated npm tool, while A's CI workflow is broader than the request and doesn't trigger specifically on the relevant files."}

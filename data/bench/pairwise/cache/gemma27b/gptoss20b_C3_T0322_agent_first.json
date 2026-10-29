@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on tags (after crates.io publish, as requested) and builds/pushes a Docker image, while A requires manual dispatch or a call from another workflow."}

@@ -1,0 +1,1 @@
+{"item_id": "A103", "judge": "gptoss20b", "label": "TP", "impact": "HIGH", "reason": "An empty needs array is not valid syntax for GitHub Actions and will cause the workflow to be rejected.", "raw": "{\"label\":\"TP\",\"impact\":\"HIGH\",\"reason\":\"An empty needs array is not valid syntax for GitHub Actions and will cause the workflow to be rejected.\"}"}

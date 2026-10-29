@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs and weekly, includes both jobs for base and full requirements, and uses sensible actions for the Termux testing setup."}

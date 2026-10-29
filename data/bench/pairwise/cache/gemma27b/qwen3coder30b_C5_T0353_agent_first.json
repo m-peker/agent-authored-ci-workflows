@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up PHP with the `pcov` extension which is necessary for Infection to work, while workflow B disables coverage, and also uses a more standard composer caching approach."}

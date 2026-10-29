@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull requests and includes more sensible configuration for the lychee action, such as specifying file types and failing on broken links, while A only triggers on pull requests to `main` and uses minimal configuration."}

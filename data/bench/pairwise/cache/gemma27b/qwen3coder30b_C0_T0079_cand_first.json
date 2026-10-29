@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses a Termux Docker image and installs dependencies within the container, aligning better with the request's intent of running tests *inside* Termux, while A builds a custom image which is less direct."}

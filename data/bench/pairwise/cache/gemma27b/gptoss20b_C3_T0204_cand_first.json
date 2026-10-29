@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `actions/upload-pages-artifact` and `actions/deploy-pages` actions for a modern GitHub Pages deployment, while B uses the deprecated `mkdocs gh-deploy`."}

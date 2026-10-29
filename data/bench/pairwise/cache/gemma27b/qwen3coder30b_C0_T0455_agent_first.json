@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly rebuilds the docs after modifying the VitePress config to address the asset path issue and generates a zip for gh-pages deployment as requested, while A simply builds and deploys."}

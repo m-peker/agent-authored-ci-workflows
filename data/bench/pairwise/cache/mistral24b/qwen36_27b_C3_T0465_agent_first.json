@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses pull_request_target which is safer for bot-triggered workflows, while B uses pull_request which is less secure."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on `opened` and `synchronize` events, fetches Dependabot metadata to target the correct directory, and only commits if the lockfile actually changed, making it more robust and aligned with the problem description."}

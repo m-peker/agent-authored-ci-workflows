@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly uses the `ctrff-io/github-test-reporter` action with the `fetch-previous-results` flag, which is designed for persisting and comparing test reports across PRs, fulfilling the request's core goal more efficiently than B's custom script."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on documentation changes and verifies only documentation files were modified, while Workflow B is a more complex backend test workflow that doesn't specifically address the speech hygiene clean request."}

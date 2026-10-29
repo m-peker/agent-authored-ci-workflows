@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested build for the specified branches with JDK 21 and uses custom actions as the repository does, while workflow B triggers on pull requests which is not requested and uses a simpler maven build step."}

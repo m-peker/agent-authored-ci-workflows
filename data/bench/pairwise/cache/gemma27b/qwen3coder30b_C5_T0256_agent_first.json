@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `bahmutov/npm-install@v1` which is a more robust way to install dependencies with a lockfile, improving reliability and reproducibility compared to Workflow A's `npm ci`."}

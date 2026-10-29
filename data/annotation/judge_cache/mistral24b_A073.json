@@ -1,0 +1,1 @@
+{"item_id": "A073", "judge": "mistral24b", "label": "FP", "impact": null, "reason": "The file is not a GitHub Actions workflow file, so it does not need a 'jobs' section.", "raw": "```json\n{\"label\": \"FP\", \"impact\": null, \"reason\": \"The file is not a GitHub Actions workflow file, so it does not need a 'jobs' section.\"}\n```"}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the requested triggers and collaborator restriction, while Workflow A only handles PR triggers and lacks collaborator checks."}

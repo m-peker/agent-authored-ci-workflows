@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on PRs touching java/**, uses JDK 8 (Temurin) on ubuntu-latest, and runs the specified build and test commands."}

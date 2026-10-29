@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the need for a cleanup script related to the asset manager regression, offering a configurable environment and dry-run option, while workflow B is focused on preview cleanup and unrelated to the described issue."}

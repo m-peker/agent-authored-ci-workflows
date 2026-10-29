@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct GraphQL query and mutation for checking and removing unmergeable entries from the merge queue, while Workflow B uses an incorrect mutation."}

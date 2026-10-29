@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the build process described in the request and includes steps for submodule management and dependency installation, while B lacks these and relies on a simple binary execution check."}

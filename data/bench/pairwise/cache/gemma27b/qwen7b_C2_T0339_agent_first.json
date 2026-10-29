@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses all requirements of the request, including the correct trigger and build/test steps, while workflow B incorrectly restricts the trigger to the `main` branch and includes an unnecessary step to update .gitignore."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags and includes a quality gate, version verification, and post-publish validation, while Workflow B triggers on main branch pushes and lacks these critical checks."}

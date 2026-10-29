@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the necessary steps for building and releasing the desktop application, while Workflow B only builds unsigned artifacts without releasing them."}

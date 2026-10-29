@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the relevant directory and includes the requested npm publish step with authentication, while B triggers on tags and lacks the README update step."}

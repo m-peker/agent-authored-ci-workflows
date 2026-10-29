@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the correct trigger 'pull_request' instead of 'pull_request_target' which is more secure for this use case."}

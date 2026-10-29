@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for Kani verification and specifies the target directory for the storage crate, while Workflow A lacks these details."}

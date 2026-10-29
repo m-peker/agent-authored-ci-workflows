@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the main branch push trigger and merge_group event trigger that are missing in Workflow A."}

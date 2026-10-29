@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a pull request trigger on the workflow file itself, which is good practice for CI, and correctly installs pre-commit as requested."}

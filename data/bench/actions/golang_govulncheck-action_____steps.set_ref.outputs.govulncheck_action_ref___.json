@@ -1,0 +1,1 @@
+{"action": "golang/govulncheck-action", "ref": "${{ steps.set_ref.outputs.govulncheck_action_ref }}", "exists": false}

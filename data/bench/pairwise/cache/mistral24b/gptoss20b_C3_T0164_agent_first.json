@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pushes to main and appends the new sections to the roadmap as requested, while Workflow A only lints the code and does not address the roadmap update."}

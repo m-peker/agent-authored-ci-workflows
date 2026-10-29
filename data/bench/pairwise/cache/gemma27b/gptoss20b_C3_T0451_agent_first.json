@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested `permissions: contents: read` and uses `fetch-depth: 0` which is good practice for deployments, while A lacks the permissions and has a hardcoded wait timeout."}

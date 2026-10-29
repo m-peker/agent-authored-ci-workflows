@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and tags the image for both branches and PRs, leveraging metadata for dynamic tagging, while B only builds on Dockerfile changes and uses a fixed tag."}

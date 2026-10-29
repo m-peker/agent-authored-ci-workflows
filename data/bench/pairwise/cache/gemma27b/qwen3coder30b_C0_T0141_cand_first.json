@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified base, extract, and source toolkits, while B's paths are overly specific and include unnecessary directories, and also adds a schedule and workflow_dispatch which were not requested."}

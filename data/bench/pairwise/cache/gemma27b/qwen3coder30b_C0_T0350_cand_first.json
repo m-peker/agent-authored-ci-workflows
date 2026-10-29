@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses pnpm which is more appropriate for a monorepo, specifies a Node version, and correctly requests write permissions for OIDC authentication, while A uses npm and lacks these details."}

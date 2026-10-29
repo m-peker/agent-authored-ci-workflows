@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes asset building and uploading, which is a more complete CI/CD workflow for an application, while A only creates a release with basic information."}

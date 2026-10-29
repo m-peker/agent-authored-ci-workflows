@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `publish` option to trigger the full release process (including changelog generation) as described in the request, while workflow B only creates a PR without publishing."}

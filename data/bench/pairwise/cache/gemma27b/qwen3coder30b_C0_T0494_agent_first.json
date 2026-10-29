@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up services for all jobs requiring a database, uses the requested postgres image version, and includes the coverage artifact upload, while workflow B uses an older postgres version and a different coverage action."}

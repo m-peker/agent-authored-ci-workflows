@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request with a precise regex for the allowed types and task ID format, while B's regex is too permissive and lacks specific type checking."}

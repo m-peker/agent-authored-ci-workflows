@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly trigger on push to main/master and pull requests, and both successfully execute the required script to verify spy versions."}

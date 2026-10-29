@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both pull request events and issue comments, and includes the necessary `trigger_phrase` parameter to listen for @claude mentions, as requested, while B focuses on direct prompting."}

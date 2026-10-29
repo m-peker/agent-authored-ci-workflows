@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (as requested), includes validation logic, and builds/releases based on the tag, while workflow B triggers on main branch pushes and hardcodes a release tag, ignoring the request to restore Ollama support as part of a v1.0 release."}

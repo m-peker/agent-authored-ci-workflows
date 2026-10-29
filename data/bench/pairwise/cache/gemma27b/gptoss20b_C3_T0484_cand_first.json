@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses the GitHub CLI (`gh`) which is a more idiomatic and maintainable approach than embedding Python code, and correctly targets the merge queue dequeue operation."}

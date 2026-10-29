@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is simpler and more reliable for checking the latest release, using `releases/latest` instead of parsing tags, and it avoids an unnecessary branch existence check."}

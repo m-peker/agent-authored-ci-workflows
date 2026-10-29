@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete and robust, including filtering for the `@claude` mention, permission checks, and additional jobs for issue triage and changelog generation, going beyond the minimal request."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler, directly addresses the request with a clear matrix for targets, and correctly uses `upload-release-asset` to publish binaries on tag push, while B overcomplicates the process with archiving and a release-triggered approach."}

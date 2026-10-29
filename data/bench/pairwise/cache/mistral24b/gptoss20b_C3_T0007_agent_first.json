@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on pull request merges and pushes to main, updates the roadmap file with the last 10 merged PRs, and uses appropriate actions to achieve this."}

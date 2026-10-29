@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by directly running the `build:analyze` script and handling potential report locations, while B's trigger and artifact naming are less aligned with the prompt."}

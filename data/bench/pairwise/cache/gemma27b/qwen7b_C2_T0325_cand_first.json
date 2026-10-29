@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on release tags, generates and deploys documentation to gh-pages as requested, and has a dependency on the publish job, while workflow B focuses on conformance tests and doesn't address the documentation requirement."}

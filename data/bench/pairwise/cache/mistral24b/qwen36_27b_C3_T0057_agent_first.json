@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all requested features, such as post-build cleanup, upgraded setup-cuda action, and separate steps for build execution and wheel location."}

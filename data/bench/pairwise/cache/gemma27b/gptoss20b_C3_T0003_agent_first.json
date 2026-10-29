@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PR events, skips draft PRs and dependabot, uses concurrency, configures Claude with tools, and posts a sticky comment, fulfilling all requirements of the request."}

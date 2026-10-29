@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on string changes in the specified path and includes all necessary steps to regenerate translations and create a PR, while Workflow B has incorrect trigger paths and lacks some necessary details."}

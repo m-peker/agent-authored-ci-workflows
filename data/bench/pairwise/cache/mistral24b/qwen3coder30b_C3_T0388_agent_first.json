@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses a workflow_call trigger and includes all required OpenAPI specs in the matrix strategy, while Workflow B uses incorrect triggers and paths."}

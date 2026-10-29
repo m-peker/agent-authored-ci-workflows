@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pnpm, caches dependencies, and includes all requested checks (typecheck, ESLint, Prettier, tests with coverage, build) while B uses npm, has outdated node version, and attempts to commit documentation changes which is not in the request."}

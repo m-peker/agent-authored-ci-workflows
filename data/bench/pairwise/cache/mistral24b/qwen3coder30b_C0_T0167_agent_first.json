@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on both opened and reopened issues, uses the correct action, and includes a comprehensive prompt for Claude to perform all requested triage tasks in a single step."}

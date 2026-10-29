@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the necessary steps and triggers to fulfill the request, including checking out the repository, setting up Node.js, installing dependencies, and running the Claude Issue Triage with specific prompts and actions for labeling, commenting, and checking for duplicates."}

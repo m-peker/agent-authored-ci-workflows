@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the `close-pr-message` parameter, which is explicitly requested in the prompt, while Workflow B omits it."}

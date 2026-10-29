@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses a devcontainer script as requested and provides a more robust artifact URL output to the step summary, while A's approach to running clang and cmake is less aligned with the repository's existing tooling."}

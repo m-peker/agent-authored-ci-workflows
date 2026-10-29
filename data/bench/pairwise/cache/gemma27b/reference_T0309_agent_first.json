@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses 'chore' in the commit and PR title/message, aligning with the request's 'chore' designation, while workflow B incorrectly uses 'fix'."}

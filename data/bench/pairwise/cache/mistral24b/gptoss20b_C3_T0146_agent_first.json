@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pull requests to main branch and has conditions that ensure it only runs for non-draft PRs by non-bot users with the appropriate label, while Workflow B triggers on push and schedule events which are not requested."}

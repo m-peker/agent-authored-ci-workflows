@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested triggers, jobs, and steps for a main branch build with JDK 21, while Workflow B includes unnecessary complexity and additional steps not specified in the request."}

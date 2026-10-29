@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes auto-commit of formatting changes and makes the lint job non-blocking as requested."}

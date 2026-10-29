@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `prompt` input for `claude-code-action` and implements the full CI/CD pipeline of updating documentation and creating a pull request, as evidenced by the request's context."}

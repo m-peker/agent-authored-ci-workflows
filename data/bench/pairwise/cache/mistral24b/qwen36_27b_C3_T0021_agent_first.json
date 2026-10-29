@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested CI matrix for Ruby 3.2/3.3, native/pure backends, and Rust scaffold checks, while Workflow A only validates release candidates."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly iterates through all non-merge commits in the PR and checks for the DCO sign-off, providing detailed output and fix instructions as requested, while workflow B only checks the merge commit."}

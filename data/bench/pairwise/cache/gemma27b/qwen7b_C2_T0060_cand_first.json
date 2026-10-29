@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for a PR-triggered workflow and includes linting, while B has unnecessary triggers and doesn't include linting, and also introduces a dependency on `HF_TOKEN` which isn't mentioned in the request."}

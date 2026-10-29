@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the compat-table repository and includes a check for changes before creating a PR, while Workflow B uses the wrong repository and lacks this check."}

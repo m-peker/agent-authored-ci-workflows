@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements multi-architecture builds using a matrix strategy, while Workflow B builds each architecture separately, which is less efficient."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes more sensible filtering conditions to only run CodeQL on PRs with the 'ci:codeql' label, authored by a human, and not a draft, reducing unnecessary runs and costs."}

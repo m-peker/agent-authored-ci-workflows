@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A explicitly sets the `cache-dependency-path` in the `setup-node` action for both test and publish jobs, which is best practice for reliable caching, while workflow B omits it."}

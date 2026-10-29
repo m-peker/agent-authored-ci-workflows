@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly builds and packages the CLI without any remnants of the `CI: false` workarounds, while Workflow B still includes `CI: false` environment variables, failing to address the core request."}

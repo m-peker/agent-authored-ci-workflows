@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely matches the request by including a broader `Cargo.toml` path in the triggers and using a more informative `nix flake check` command with `--show-trace`."}

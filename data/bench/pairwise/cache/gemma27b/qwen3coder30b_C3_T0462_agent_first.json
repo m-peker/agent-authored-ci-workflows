@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements the full CI/CD pipeline requested, including version bumping, building, testing, and publishing, while workflow B only performs basic testing and linting and does not address the core request of automating prereleases."}

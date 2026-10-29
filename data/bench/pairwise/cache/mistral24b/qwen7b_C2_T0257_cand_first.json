@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A covers all the requested validation steps and jobs, including building akaza-data and evaluating the model on the main branch, while Workflow B only checks the validation script and lacks other required validations."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by including all required jobs and steps, using sensible actions, and supporting cross-platform builds with Trusted Publishing for crates.io and git-cliff for changelog generation."}

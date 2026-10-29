@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request` trigger and specifies a configuration file path, which is essential for the labeler to function as intended, while B uses `pull_request_target` and lacks configuration."}

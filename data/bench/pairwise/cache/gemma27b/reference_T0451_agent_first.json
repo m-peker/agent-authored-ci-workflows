@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested `permissions: contents: read` for security, which A omits, making B a more complete fulfillment of the request."}

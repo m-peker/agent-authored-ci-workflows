@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a more specific type check for changed backend modules, aligning better with the request for conditional required quality-gate lanes."}

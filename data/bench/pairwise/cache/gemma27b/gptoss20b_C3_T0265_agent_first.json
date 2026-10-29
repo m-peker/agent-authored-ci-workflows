@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more closely addresses the request's requirements for multiple CI checks (lint, format, tsc, tests, build, publish dry-run, audit) and includes a dry-run publish step, while A only covers linting and typechecking."}

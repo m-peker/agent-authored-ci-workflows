@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more robustly handles deduplication using a GitHub Script action and correctly scopes permissions to `issues: write`, while also providing more detailed issue body content."}

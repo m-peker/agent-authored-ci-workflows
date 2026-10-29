@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements semantic-release with the requested plugins and updates the Node.js version, while workflow B focuses on publishing and doesn't address the core request of setting up semantic-release."}

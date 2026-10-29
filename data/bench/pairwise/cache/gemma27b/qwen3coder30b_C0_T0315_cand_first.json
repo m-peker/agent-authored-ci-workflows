@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to address the request by including test steps for Jest, while Workflow B focuses solely on deployment to Fly.io and doesn't include any Jest-specific testing or filtering."}

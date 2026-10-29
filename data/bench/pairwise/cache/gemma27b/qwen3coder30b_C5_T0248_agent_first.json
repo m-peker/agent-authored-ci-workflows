@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses Buck2 to build the mdbook-spec preprocessor as requested, while workflow B attempts to build it with cargo, and also has an unnecessary pull request trigger."}

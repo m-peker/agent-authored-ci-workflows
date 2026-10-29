@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (v*.*.*) as requested, builds binaries for multiple platforms, updates a Homebrew tap, and has a more complete CI/CD pipeline, while workflow B triggers on main branch changes and only publishes the CLI package."}

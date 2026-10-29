@@ -1,0 +1,1 @@
+{"action": "taiki-e/checkout-action", "ref": "83ed61bfbe2b8abbb3c66e8b65b1335484c70009", "exists": true, "name": "checkout-action", "description": "GitHub Action for checking out a repository. (Simplified actions/checkout alternative that does not depend on Node.js.)", "inputs": {}, "outputs": []}

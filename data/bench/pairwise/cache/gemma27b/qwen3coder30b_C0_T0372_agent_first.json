@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request of testing a Go repository, while B adds linting and a separate build step that aren't required by the documentation-focused PR."}

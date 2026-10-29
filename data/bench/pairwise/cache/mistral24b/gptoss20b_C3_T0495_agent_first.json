@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the reusable workflow from dotnet-tooling and includes the required prNumber input for workflow_dispatch, while Workflow B uses a different reusable workflow and lacks the prNumber input."}

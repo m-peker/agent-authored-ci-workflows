@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the requested multi-architecture build and push to Aliyun Registry with a single build step, while Workflow B incorrectly uses separate builds and different tags for each architecture."}

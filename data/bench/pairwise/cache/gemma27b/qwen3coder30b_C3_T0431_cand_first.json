@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes both a deploy and sync job, and runs all the tests specified in the request, while workflow B only deploys and runs a subset of the tests."}

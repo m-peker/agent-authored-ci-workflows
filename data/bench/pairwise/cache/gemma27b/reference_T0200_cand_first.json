@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows are identical and correctly trigger on issue comments from a specific bot, requesting a review from a hardcoded code owner, fulfilling the core request."}

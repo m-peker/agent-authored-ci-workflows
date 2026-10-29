@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the Sui CLI revision as requested and uses a `working-directory` to ensure the tests run in the correct location, while B uses a potentially unstable installation method and lacks a working directory."}

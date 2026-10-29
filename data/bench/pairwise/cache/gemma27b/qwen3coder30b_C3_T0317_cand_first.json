@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the filtering logic to exclude `@claude review` mentions and uses the WalletConnect action as intended, while A lacks the exclusion and uses a different action."}

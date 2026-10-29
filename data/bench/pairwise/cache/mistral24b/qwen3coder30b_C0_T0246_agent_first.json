@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the specific error message from the request and handles the pull_request_target event with the required types."}

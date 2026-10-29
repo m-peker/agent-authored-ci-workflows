@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on the specified paths and includes the necessary jobs and steps to publish benchmark artifacts through GitHub Pages, while Workflow B includes unnecessary steps and triggers."}

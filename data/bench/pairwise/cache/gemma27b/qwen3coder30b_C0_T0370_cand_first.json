@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `.nvmrc` for Node version management as suggested by the request's update to Node 22, and uses `pnpm publish` which is more consistent with the pnpm migration."}

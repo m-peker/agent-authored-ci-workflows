@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the complementary stub pattern required for the CodeQL workflow, while Workflow B attempts to use path filters with negation patterns which are fundamentally broken according to the problem statement."}

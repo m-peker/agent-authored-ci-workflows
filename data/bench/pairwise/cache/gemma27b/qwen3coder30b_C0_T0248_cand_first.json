@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a dedicated action for Buck2 installation, correctly handles the mdbook-spec build output and symlinking, builds both the website and spec, and uses the official GitHub Pages deployment action with artifact upload, making it a more complete and robust CI/CD pipeline."}

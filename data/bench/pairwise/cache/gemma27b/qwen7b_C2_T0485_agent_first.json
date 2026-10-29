@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request for downloading an export from a protected HTTP endpoint and creating an artifact, while workflow B attempts to build and export from the repository itself, which isn't what was asked for."}

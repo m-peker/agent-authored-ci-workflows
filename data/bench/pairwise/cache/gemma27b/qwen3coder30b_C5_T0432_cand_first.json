@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to add `yarn test` to the CI and reorder steps, while B introduces unnecessary devbox complexity that the request explicitly aims to remove."}

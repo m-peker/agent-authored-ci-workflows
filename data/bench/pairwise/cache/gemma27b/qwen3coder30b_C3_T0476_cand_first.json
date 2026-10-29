@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly addresses the request by bumping versions with the `--rc` flag and commenting on the PR, while workflow B is overly complex with unnecessary inputs and steps, and attempts to push changes which isn't required for the request."}

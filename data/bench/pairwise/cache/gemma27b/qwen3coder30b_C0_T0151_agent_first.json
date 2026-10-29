@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the requested reusable workflow, while workflow B attempts to run Danger directly, deviating from the PR's goal of migrating to the `danger-pr-comment` pattern."}

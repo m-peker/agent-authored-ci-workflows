@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B focuses on the core TypeScript project and includes essential steps like testing, linting, and type-checking, aligning with the repository's language and typical CI needs, while A unnecessarily includes Python testing."}

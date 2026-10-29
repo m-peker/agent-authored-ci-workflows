@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses `lts/*` for Node.js version, a more robust dependency installation action, and explicitly sets publish access, making it a more complete and reliable solution."}

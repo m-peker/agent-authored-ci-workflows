@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A implements all the requested validation steps (tests, builds, evaluation, corpus validation) while B only runs the corpus validation script, making A a more complete CI/CD workflow."}

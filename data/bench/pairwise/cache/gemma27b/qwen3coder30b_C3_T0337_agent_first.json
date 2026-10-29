@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly pins the Sui CLI revision as requested and uses a `working-directory` to match the request, while workflow B uses a potentially unstable installation method and lacks version pinning."}

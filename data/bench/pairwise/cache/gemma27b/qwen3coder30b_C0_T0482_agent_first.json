@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on tags (as implied by the v1.0.0 release), includes a quality gate with tests, verifies version consistency, publishes to npm with provenance, and creates a detailed GitHub release, directly addressing the request's CI/CD needs."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B checks for the old group name and comments on PRs with the old name, while Workflow A does not address the request at all."}

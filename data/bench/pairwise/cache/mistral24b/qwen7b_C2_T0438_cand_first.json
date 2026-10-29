@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes the create-issue job and the link-sub-issue job with the required dependency, while Workflow B does not address the request at all."}

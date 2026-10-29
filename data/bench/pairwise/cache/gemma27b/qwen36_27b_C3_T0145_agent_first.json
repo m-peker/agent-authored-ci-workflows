@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses working directories and more accurately targets the correct symbols for each project, and includes necessary bpftrace installation and process management for reliable testing."}

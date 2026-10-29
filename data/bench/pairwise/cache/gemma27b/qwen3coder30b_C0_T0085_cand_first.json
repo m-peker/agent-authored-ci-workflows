@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pull_request_target` and checks for the correct GitHub Copilot actor names, while B uses `pull_request` and an incorrect actor name."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B better fulfils the request by correctly using the workflow_run trigger, properly finding the associated PR for fork contributions, and maintaining the same functionality of posting/updating ISO artifact download links with more robust error handling and detailed comments."}

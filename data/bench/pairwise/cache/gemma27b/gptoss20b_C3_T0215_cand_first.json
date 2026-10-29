@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on both push to tags and release events, builds archives for each target, and uploads them to a GitHub release, while A's asset naming and upload logic is more complex and less robust."}

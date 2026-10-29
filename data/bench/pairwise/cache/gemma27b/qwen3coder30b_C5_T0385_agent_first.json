@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is a plausible CI workflow that checks blob sizes, while workflow A appears to be unrelated to the request of pinning the setup-zig action."}

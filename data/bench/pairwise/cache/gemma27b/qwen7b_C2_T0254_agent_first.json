@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by pushing to a dedicated 'perf' branch, including a step summary with JSON results, and handling the commit hash correctly, while B has issues with branch naming and output handling."}

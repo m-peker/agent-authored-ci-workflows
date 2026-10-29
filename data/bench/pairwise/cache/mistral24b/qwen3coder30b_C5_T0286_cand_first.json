@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks out both repositories and uses the correct repository name for airbyte-ai-connectors, while Workflow B uses the wrong repository name."}

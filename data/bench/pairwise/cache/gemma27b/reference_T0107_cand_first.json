@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes more specific exclusions for directories likely to contain generated content or external dependencies, improving the reliability of the link check."}

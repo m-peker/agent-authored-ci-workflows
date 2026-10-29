@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A better fulfils the request by running property-based tests on every commit/PR and Atheris fuzzing only on main branches, with reduced timeouts and simplified configuration."}

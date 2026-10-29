@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the --extends minimal flag for the @redocly/cli lint command, which aligns with the request to use a minimal ruleset."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to trigger after crates.io publishing via `workflow_dispatch` and `workflow_call`, while B triggers on release events which isn't the stated requirement."}

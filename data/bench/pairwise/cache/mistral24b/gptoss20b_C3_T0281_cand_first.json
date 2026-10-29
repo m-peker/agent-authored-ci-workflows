@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up Node.js 24 and Deno, which are required for the request, while Workflow B does not explicitly set up Node.js 24."}

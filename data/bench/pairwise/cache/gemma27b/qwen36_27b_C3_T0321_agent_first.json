@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B implements the requested CI/CD pipeline including tests for the new Gluon kernel, regression testing, and linting, while workflow A only addresses a separate GPU reset task not directly related to the request."}

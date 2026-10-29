@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on releases, specifically checks for the right package, extracts the version from the tag, and updates only the intended dependency lines with precise sed patterns."}

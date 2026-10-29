@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes dependency upgrade checks, formatting, linting, type-checking, building, testing, and coverage reporting, while Workflow B focuses only on end-to-end tests and lacks several requested CI steps."}

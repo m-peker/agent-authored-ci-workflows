@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is a standard CI workflow that builds, tests, and lints the code, directly addressing the changes made in the PR, while workflow B is for a Claude code assistant and is irrelevant to the request."}

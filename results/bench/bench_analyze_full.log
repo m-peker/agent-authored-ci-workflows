@@ -1,0 +1,149 @@
+models: ['gptoss20b', 'gptoss20b_mt4096', 'qwen3coder30b', 'qwen7b'] | tasks with complete results: 500
+
+Rates (% of tasks, 95% bootstrap CI):
+            model        cond   n  breaking  security_high  supply_chain  halluc  clean
+commercial_agent first_draft 500       1.8           26.0          81.6     2.8   70.4
+       gptoss20b          C0 500      15.2           12.2          88.2    24.0   55.6
+       gptoss20b          C1 500      17.4           12.6          88.0    14.6   62.0
+       gptoss20b          C2 500       4.4            5.2          94.4     3.6   87.4
+       gptoss20b          C3 500       3.8            5.2          94.4     3.0   89.0
+gptoss20b_mt4096          C0 500      28.6            9.2          74.2    19.2   49.2
+gptoss20b_mt4096          C1 500      32.2           10.4          72.6    13.8   49.8
+gptoss20b_mt4096          C2 500      14.6            4.6          85.0     3.6   79.2
+gptoss20b_mt4096          C3 500      11.4            3.0          88.2     4.0   82.0
+   qwen3coder30b          C0 500       9.2           15.0          92.6    11.0   68.4
+   qwen3coder30b          C1 500       9.6           13.4          93.6    11.0   71.0
+   qwen3coder30b          C2 500       5.2           11.0          93.8     4.4   80.4
+   qwen3coder30b          C3 500       3.0           10.0          95.2     2.2   85.4
+          qwen7b          C0 500      18.4           12.2          94.0    15.2   65.0
+          qwen7b          C1 500      22.2            8.8          89.6    15.0   62.4
+          qwen7b          C2 500      10.0           11.2          95.0     9.2   74.4
+          qwen7b          C3 500      16.6            7.4          90.4     8.6   71.6
+
+Paired McNemar (only_model = outcome true for the model only), Holm within model x outcome:
+            model  outcome  comparison  only_model  only_agent      p  p_holm
+       gptoss20b breaking C0 vs agent          74           7 0.0000  0.0000
+       gptoss20b breaking C1 vs agent          84           6 0.0000  0.0000
+       gptoss20b breaking C2 vs agent          21           8 0.0241  0.0724
+       gptoss20b breaking C3 vs agent          18           8 0.0755  0.1510
+       gptoss20b breaking    C1 vs C0          58          47 0.3291  0.3291
+       gptoss20b breaking    C2 vs C0           9          63 0.0000  0.0000
+       gptoss20b breaking    C3 vs C0          13          70 0.0000  0.0000
+       gptoss20b   halluc C0 vs agent         111           5 0.0000  0.0000
+       gptoss20b   halluc C1 vs agent          70          11 0.0000  0.0000
+       gptoss20b   halluc C2 vs agent          15          11 0.5572  1.0000
+       gptoss20b   halluc C3 vs agent          14          13 1.0000  1.0000
+       gptoss20b   halluc    C1 vs C0          32          79 0.0000  0.0000
+       gptoss20b   halluc    C2 vs C0           1         103 0.0000  0.0000
+       gptoss20b   halluc    C3 vs C0           5         110 0.0000  0.0000
+       gptoss20b    clean C0 vs agent          56         130 0.0000  0.0000
+       gptoss20b    clean C1 vs agent          70         112 0.0023  0.0046
+       gptoss20b    clean C2 vs agent         115          30 0.0000  0.0000
+       gptoss20b    clean C3 vs agent         121          28 0.0000  0.0000
+       gptoss20b    clean    C1 vs C0          86          54 0.0086  0.0086
+       gptoss20b    clean    C2 vs C0         159           0 0.0000  0.0000
+       gptoss20b    clean    C3 vs C0         175           8 0.0000  0.0000
+gptoss20b_mt4096 breaking C0 vs agent         139           5 0.0000  0.0000
+gptoss20b_mt4096 breaking C1 vs agent         158           6 0.0000  0.0000
+gptoss20b_mt4096 breaking C2 vs agent          70           6 0.0000  0.0000
+gptoss20b_mt4096 breaking C3 vs agent          55           7 0.0000  0.0000
+gptoss20b_mt4096 breaking    C1 vs C0          80          62 0.1534  0.1534
+gptoss20b_mt4096 breaking    C2 vs C0          34         104 0.0000  0.0000
+gptoss20b_mt4096 breaking    C3 vs C0          25         111 0.0000  0.0000
+gptoss20b_mt4096   halluc C0 vs agent          89           7 0.0000  0.0000
+gptoss20b_mt4096   halluc C1 vs agent          64           9 0.0000  0.0000
+gptoss20b_mt4096   halluc C2 vs agent          18          14 0.5966  0.6899
+gptoss20b_mt4096   halluc C3 vs agent          17          11 0.3449  0.6899
+gptoss20b_mt4096   halluc    C1 vs C0          33          60 0.0067  0.0201
+gptoss20b_mt4096   halluc    C2 vs C0          11          89 0.0000  0.0000
+gptoss20b_mt4096   halluc    C3 vs C0          13          89 0.0000  0.0000
+gptoss20b_mt4096    clean C0 vs agent          49         155 0.0000  0.0000
+gptoss20b_mt4096    clean C1 vs agent          51         154 0.0000  0.0000
+gptoss20b_mt4096    clean C2 vs agent          99          55 0.0005  0.0010
+gptoss20b_mt4096    clean C3 vs agent          98          40 0.0000  0.0000
+gptoss20b_mt4096    clean    C1 vs C0          73          70 0.8672  0.8672
+gptoss20b_mt4096    clean    C2 vs C0         150           0 0.0000  0.0000
+gptoss20b_mt4096    clean    C3 vs C0         172           8 0.0000  0.0000
+   qwen3coder30b breaking C0 vs agent          44           7 0.0000  0.0000
+   qwen3coder30b breaking C1 vs agent          44           5 0.0000  0.0000
+   qwen3coder30b breaking C2 vs agent          26           9 0.0060  0.0180
+   qwen3coder30b breaking C3 vs agent          15           9 0.3075  0.6149
+   qwen3coder30b breaking    C1 vs C0          31          29 0.8974  0.8974
+   qwen3coder30b breaking    C2 vs C0           2          22 0.0000  0.0001
+   qwen3coder30b breaking    C3 vs C0           5          36 0.0000  0.0000
+   qwen3coder30b   halluc C0 vs agent          50           9 0.0000  0.0000
+   qwen3coder30b   halluc C1 vs agent          50           9 0.0000  0.0000
+   qwen3coder30b   halluc C2 vs agent          19          11 0.2005  0.6015
+   qwen3coder30b   halluc C3 vs agent          10          13 0.6776  1.0000
+   qwen3coder30b   halluc    C1 vs C0          33          33 1.0000  1.0000
+   qwen3coder30b   halluc    C2 vs C0           0          33 0.0000  0.0000
+   qwen3coder30b   halluc    C3 vs C0           5          49 0.0000  0.0000
+   qwen3coder30b    clean C0 vs agent          65          75 0.4470  0.8940
+   qwen3coder30b    clean C1 vs agent          78          75 0.8716  0.8940
+   qwen3coder30b    clean C2 vs agent          88          38 0.0000  0.0000
+   qwen3coder30b    clean C3 vs agent         110          35 0.0000  0.0000
+   qwen3coder30b    clean    C1 vs C0          61          48 0.2503  0.7508
+   qwen3coder30b    clean    C2 vs C0          60           0 0.0000  0.0000
+   qwen3coder30b    clean    C3 vs C0          98          13 0.0000  0.0000
+          qwen7b breaking C0 vs agent          90           7 0.0000  0.0000
+          qwen7b breaking C1 vs agent         110           8 0.0000  0.0000
+          qwen7b breaking C2 vs agent          49           8 0.0000  0.0000
+          qwen7b breaking C3 vs agent          82           8 0.0000  0.0000
+          qwen7b breaking    C1 vs C0          59          40 0.0699  0.1398
+          qwen7b breaking    C2 vs C0           2          44 0.0000  0.0000
+          qwen7b breaking    C3 vs C0          45          54 0.4215  0.4215
+          qwen7b   halluc C0 vs agent          72          10 0.0000  0.0000
+          qwen7b   halluc C1 vs agent          73          12 0.0000  0.0000
+          qwen7b   halluc C2 vs agent          43          11 0.0000  0.0001
+          qwen7b   halluc C3 vs agent          41          12 0.0001  0.0002
+          qwen7b   halluc    C1 vs C0          44          45 1.0000  1.0000
+          qwen7b   halluc    C2 vs C0           0          30 0.0000  0.0000
+          qwen7b   halluc    C3 vs C0          25          58 0.0004  0.0008
+          qwen7b    clean C0 vs agent          70          97 0.0439  0.1756
+          qwen7b    clean C1 vs agent          75         115 0.0045  0.0272
+          qwen7b    clean C2 vs agent          85          65 0.1205  0.3616
+          qwen7b    clean C3 vs agent          87          81 0.6998  0.6998
+          qwen7b    clean    C1 vs C0          63          76 0.3088  0.6175
+          qwen7b    clean    C2 vs C0          47           0 0.0000  0.0000
+          qwen7b    clean    C3 vs C0          87          54 0.0068  0.0341
+
+Cost per task:
+                        calls  prompt_tokens  completion_tokens  latency_s  gpu_Wh_per_task_all_conds
+model            cond                                                                               
+gptoss20b        C0     1.00         517.47            3476.73     106.70                      1.355
+                 C1     1.00        1016.82            3804.74     116.62                      1.355
+                 C2     1.88        1857.51            7830.60     238.66                      1.355
+                 C3     1.72        2416.86            7452.28     226.32                      1.355
+gptoss20b_mt4096 C0     1.00         517.47            2401.12      64.90                      0.818
+                 C1     1.00        1016.82            2495.81      67.47                      0.818
+                 C2     2.10        1739.50            5551.64     149.22                      0.818
+                 C3     2.02        2657.15            5381.98     144.57                      0.818
+qwen3coder30b    C0     1.00         460.89             508.40      30.11                      0.333
+                 C1     1.00         967.06             511.27      30.44                      0.333
+                 C2     1.79        1975.12            1047.15      62.24                      0.333
+                 C3     1.65        2456.08             943.41      57.02                      0.333
+qwen7b           C0     1.00         460.89             390.64      17.21                      0.238
+                 C1     1.00         967.06             445.05      19.60                      0.238
+                 C2     1.91        1870.68             796.60      35.14                      0.238
+                 C3     1.99        3055.68             947.22      41.78                      0.238
+
+Structural fit to the landed reference (mean Jaccard):
+                               trigger_jacc  actions_jacc
+model            cond                                   
+commercial_agent first_draft         0.969         0.951
+gptoss20b        C0                  0.588         0.473
+                 C1                  0.581         0.439
+                 C2                  0.627         0.515
+                 C3                  0.630         0.460
+gptoss20b_mt4096 C0                  0.506         0.392
+                 C1                  0.490         0.382
+                 C2                  0.579         0.457
+                 C3                  0.580         0.438
+qwen3coder30b    C0                  0.635         0.516
+                 C1                  0.647         0.458
+                 C2                  0.635         0.512
+                 C3                  0.641         0.455
+qwen7b           C0                  0.582         0.405
+                 C1                  0.549         0.367
+                 C2                  0.577         0.406
+                 C3                  0.545         0.364

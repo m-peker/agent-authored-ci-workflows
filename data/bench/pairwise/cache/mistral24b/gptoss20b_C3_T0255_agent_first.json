@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all the requested jobs and steps for typecheck, lint, tests, code review, and CodeQL check, while Workflow A is for handling stale issues and PRs."}

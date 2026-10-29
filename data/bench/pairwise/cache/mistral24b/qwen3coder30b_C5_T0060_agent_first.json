@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the CI=true environment variable which is required for the tests to run as specified in the request."}

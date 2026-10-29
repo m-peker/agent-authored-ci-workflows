@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes checksum verification for the downloaded ghalint binary and specifically checks for action_ref_should_be_full_length_commit_sha policy violations as implied by the request."}

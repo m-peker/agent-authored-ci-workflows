@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly focuses on building and releasing the scraper binary, installs only runtime dependencies, and uses `gh release` to manage the `scraper-latest` release as requested, while A rebuilds the scraper and doesn't handle existing releases."}

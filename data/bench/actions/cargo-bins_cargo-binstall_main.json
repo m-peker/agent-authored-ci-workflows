@@ -1,0 +1,1 @@
+{"action": "cargo-bins/cargo-binstall", "ref": "main", "exists": true, "name": "Install cargo-binstall", "description": "Install cargo-binstall tool", "inputs": {"version": {"required": false, "default": "", "description": "Version of cargo-binstall to install (e.g. 1.2.3 or v1.2.3). Defaults to latest."}}, "outputs": []}

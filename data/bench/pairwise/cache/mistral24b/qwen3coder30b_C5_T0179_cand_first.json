@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the official Google Gemini action and includes a Rust-specific prompt, while Workflow B excludes Rust files from review."}

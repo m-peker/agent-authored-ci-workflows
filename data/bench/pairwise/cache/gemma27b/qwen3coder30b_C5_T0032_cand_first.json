@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by removing fpm and implementing native DEB package building, including validation tests, while workflow B is a CodeQL analysis workflow and doesn't relate to the request."}

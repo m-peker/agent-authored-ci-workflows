@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A provides a basic but functional CI pipeline with tests and linting, directly addressing the need for quality checks on merged code, while workflow B is overly complex and attempts to do too much without a clear connection to the stated problem."}

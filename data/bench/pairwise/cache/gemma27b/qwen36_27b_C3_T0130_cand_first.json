@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A contains a complete discovery script within the workflow file itself, making it self-contained and easier to understand, while workflow B relies on an external script that isn't provided, making it less verifiable and potentially harder to maintain."}

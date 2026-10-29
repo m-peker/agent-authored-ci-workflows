@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and testing the TypeScript client, extracting the Copilot version, and running a basic integration test, while workflow B attempts to start a Copilot server which is unnecessary and adds complexity."}

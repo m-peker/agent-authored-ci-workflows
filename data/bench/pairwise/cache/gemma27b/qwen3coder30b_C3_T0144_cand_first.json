@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more robust and correctly uses a matrix strategy with `needs` and outputs to discover and run agents, while also properly handling secrets and check runs."}

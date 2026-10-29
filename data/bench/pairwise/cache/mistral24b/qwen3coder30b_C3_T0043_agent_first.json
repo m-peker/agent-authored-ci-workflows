@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes all requested jobs and steps, handles macOS ARM detection, and skips Javadoc generation and archetype integration tests, while Workflow A misses several key requirements."}

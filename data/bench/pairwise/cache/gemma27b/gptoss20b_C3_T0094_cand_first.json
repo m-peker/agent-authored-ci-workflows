@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `pnpm` as the package manager, matching the repository's use of `pnpm`, and directly runs Vitest with coverage, while workflow B uses `npm` and relies on custom scripts which may not be defined as expected."}

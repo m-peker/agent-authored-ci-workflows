@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish `ic-asset` and `icx-asset` with a dispatch workflow and correct dependency order, while B requires manual token input and lacks the specific crate selection requested."}

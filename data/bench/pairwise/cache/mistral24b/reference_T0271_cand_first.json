@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly includes the camel-4.10.x branch in the trigger branches, which is specified in the request."}

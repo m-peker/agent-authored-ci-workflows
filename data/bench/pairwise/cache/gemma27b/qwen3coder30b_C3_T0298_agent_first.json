@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more complete as a CI workflow, including test result publishing and correctly attempting to run the test script, while A runs a script not obviously related to testing."}

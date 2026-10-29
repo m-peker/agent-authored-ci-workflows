@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested triggers, jobs, steps, and action usage for CodeQL security scanning, with workflow B only adding a timeout which isn't requested."}

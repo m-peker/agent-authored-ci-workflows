@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly separates build and deploy jobs, uses the official `actions/upload-pages-artifact` and `actions/deploy-pages` actions for GitHub Pages deployment, and has a more sensible commit message strategy."}

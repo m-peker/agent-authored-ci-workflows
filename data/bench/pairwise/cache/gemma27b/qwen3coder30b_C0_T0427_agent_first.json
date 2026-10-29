@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A more closely follows the request by including specific setup steps (installing browsers with deps, building the application, running the specific `playwright:test` script), environment variables, and artifact uploads as described in the overview and features."}

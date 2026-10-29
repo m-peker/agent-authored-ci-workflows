@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on push and pull requests to the main branch and includes steps to build and test with gz-physics, while Workflow B does not clearly demonstrate the integration with gz-physics."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the publish dry-run job required by the request, while Workflow A does not."}

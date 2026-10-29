@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets DEFAULT_BRANCH and excludes markdown files from linting, which is more aligned with the request."}

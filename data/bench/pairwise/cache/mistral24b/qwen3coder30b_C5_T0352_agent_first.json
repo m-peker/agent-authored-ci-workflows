@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes Sentry environment variables and is triggered by changes to relevant files, while Workflow B does not address the Sentry integration request."}

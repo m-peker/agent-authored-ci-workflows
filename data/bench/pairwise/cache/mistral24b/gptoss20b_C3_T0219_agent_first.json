@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes steps for checking formatting, building with different feature sets, running tests, and linting, which aligns with the request to update the MSRV and edition, while Workflow A only runs specific tests."}

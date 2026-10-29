@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `actions/upload-release-asset` which is the recommended way to upload assets to a release, while A uses the GitHub CLI which may be less reliable and requires permissions."}

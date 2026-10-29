@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by testing with the new MSRV (1.85.0) and stable toolchains, while workflow B focuses on integration tests with LiveKit and doesn't verify the MSRV/edition bump."}

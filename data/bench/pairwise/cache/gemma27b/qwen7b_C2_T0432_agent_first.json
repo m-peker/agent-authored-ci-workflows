@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `devbox` as requested, while workflow B ignores the project's devbox setup and uses standard node/yarn commands, failing to address the core infrastructure."}

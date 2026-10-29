@@ -1,0 +1,1 @@
+{"item_id": "A010", "judge": "gptoss20b", "label": "FP", "impact": null, "reason": "The user-controlled PR title is only inserted into a comment body, not executed as code, so no code injection risk.", "raw": "{\"label\":\"FP\",\"impact\":null,\"reason\":\"The user-controlled PR title is only inserted into a comment body, not executed as code, so no code injection risk.\"}"}

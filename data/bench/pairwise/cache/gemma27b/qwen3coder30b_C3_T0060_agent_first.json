@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers only on pull requests to `main` as requested, installs dev dependencies including pytest, and includes test result reporting, making it a more complete CI workflow."}

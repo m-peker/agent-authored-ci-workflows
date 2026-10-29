@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses pull_request_target for secure fork PR handling and filters API calls by creator for efficiency."}

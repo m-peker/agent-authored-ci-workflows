@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes pull_request trigger and uses the correct branch name 'master' which matches the repository's default branch."}

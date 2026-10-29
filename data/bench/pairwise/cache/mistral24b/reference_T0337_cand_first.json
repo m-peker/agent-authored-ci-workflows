@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a pinned Sui CLI version from a release, which is more reliable for CI/CD purposes."}

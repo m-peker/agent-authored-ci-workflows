@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on renovate branches and allows manual dispatch with a PR number, while B's pull request trigger is overly broad and doesn't prioritize renovate PRs as requested."}

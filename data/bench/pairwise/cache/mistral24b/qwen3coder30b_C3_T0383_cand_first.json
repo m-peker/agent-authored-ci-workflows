@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses uv for installation and testing as requested, while Workflow B does not address the uv requirement at all."}

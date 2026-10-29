@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `publish` input for the changesets action, which is necessary to trigger the versioning and PR creation process, while A incorrectly uses `version`."}

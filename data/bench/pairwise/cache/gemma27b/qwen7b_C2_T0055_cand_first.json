@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses the `prompt` input for the Claude Code Action and implements a full CI/CD pipeline including pull request creation, while Workflow A only confirms the action runs without further automation."}

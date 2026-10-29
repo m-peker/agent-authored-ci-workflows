@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested preflight checks and build steps, while Workflow A only requests a code owner review."}

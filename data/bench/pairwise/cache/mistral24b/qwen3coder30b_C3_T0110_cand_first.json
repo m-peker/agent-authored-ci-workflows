@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on changes to the frontend package and includes all necessary steps to build and publish the frontend types, while Workflow B is designed for manual publication and lacks the automatic triggers for the requested changes."}

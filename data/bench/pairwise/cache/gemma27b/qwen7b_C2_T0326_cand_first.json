@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is simpler and directly uses the Makefile as intended, while Workflow B introduces unnecessary complexity with submodule handling and custom build steps that aren't part of the original request."}

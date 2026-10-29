@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements dynamic matrix generation and includes all required jobs and steps for the nightly integration tests, while Workflow B uses a static matrix and misses some key functionalities."}

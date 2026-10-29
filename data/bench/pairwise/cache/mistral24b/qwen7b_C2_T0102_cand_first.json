@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags, includes necessary build steps for a Shell project, and uploads the release asset, while Workflow B uses Node.js setup and dependencies unnecessarily for a Shell project."}

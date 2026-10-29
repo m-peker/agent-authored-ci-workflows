@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly checks the `github.actor` which is more reliable for bot identification than attempting to parse the user login from the event payload in Workflow B."}

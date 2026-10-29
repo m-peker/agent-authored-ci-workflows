@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes a linter step which is more comprehensive for a CI/CD pipeline, and it focuses on the main branch which is more appropriate for documentation changes."}

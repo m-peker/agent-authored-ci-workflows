@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A builds and packages the Studio application as requested, including frontend builds and a macOS app bundle, while workflow B only builds the CLI binary and doesn't address the Studio-specific requirements."}

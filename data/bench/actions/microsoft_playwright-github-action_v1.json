@@ -1,0 +1,1 @@
+{"action": "microsoft/playwright-github-action", "ref": "v1", "exists": true, "name": "Run Playwright tests", "description": "Run Playwright tests on GitHub Actions", "inputs": {}, "outputs": []}

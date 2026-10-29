@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements the matrix strategy with Python versions and a single 'regression' test group, and uses pytest markers as requested, while workflow A lacks the full matrix and parallelization."}

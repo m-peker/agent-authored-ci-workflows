@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly uses `workflow_run` to trigger, downloads artifacts based on run ID, and handles both deployment and cleanup within a single workflow as intended by the request, while A uses a separate cleanup job and a different deploy action."}

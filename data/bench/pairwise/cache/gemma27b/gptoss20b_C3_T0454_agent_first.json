@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to publish `ic-asset` and `icx-asset` (and others) with a dispatch workflow and correct dependency order, while B only supports publishing a single crate at a time."}

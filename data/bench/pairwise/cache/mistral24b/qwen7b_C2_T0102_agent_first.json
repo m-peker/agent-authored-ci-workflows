@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags, extracts relevant information from the repository, and creates a release with the appropriate details, while Workflow B includes unnecessary steps for a Shell project and does not extract dynamic release information."}

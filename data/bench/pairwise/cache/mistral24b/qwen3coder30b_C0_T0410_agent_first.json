@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses a more specific token for pushing changes and has a more precise check for staged changes before committing."}

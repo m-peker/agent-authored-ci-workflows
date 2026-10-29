@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets `NPM_CONFIG_PROVENANCE` and uses `--provenance` in the publish command, which is necessary for npm publish provenance, and also correctly sets the registry URL in the Node setup step."}

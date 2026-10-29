@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the get-app-token step to generate a token for the airbyte-ci action, while Workflow B incorrectly uses a secret directly."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes all the requested steps and tools, while Workflow B misses some key steps like installing Node.js dependencies and running a quick build check."}

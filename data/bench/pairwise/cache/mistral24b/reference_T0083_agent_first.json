@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes additional steps for setting up FFmpeg and PortAudio, and a more sophisticated type checking step that only checks changed Python files, which better fulfills the request for conditional required quality-gate lanes."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes runner hardening and egress policy which improves security, and correctly avoids publishing results directly, instead uploading as an artifact and then to code scanning as requested by the OpenSSF Scorecard task."}

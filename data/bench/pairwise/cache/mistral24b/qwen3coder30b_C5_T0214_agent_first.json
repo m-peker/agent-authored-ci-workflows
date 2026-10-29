@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly uses commitlint to validate PR titles as requested, while Workflow A uses an external action."}

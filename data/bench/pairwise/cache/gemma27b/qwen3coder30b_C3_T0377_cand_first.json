@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is triggered on push to main as requested, and includes steps to diagnose push failures, while workflow B is triggered on pull request and attempts a push which is the scenario being debugged."}

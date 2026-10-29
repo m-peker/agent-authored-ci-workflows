@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly triggers on PRs where the workflow file is changed and on pushes to the main branch, and includes the requested `pre-commit run --all-files` step, while A's triggers are too broad and doesn't explicitly run on main."}

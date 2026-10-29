@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on pushes to the docs-website branch and includes the required fern generate --docs command, while Workflow B includes unnecessary steps for GitHub Pages deployment and a preview input that wasn't requested."}

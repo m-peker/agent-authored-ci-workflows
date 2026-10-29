@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A uses the go-version-file option to determine the Go version from go.mod, ensuring consistency with the project's Go version."}

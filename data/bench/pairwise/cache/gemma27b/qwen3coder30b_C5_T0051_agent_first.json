@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B explicitly checks and fails the build if test coverage is below the 50% threshold, a key requirement of the request, while workflow A only uploads the coverage report."}

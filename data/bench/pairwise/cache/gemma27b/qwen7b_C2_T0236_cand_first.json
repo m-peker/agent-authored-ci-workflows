@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly identifies changed skills and publishes them, and supports a force re-publish, while workflow B only publishes three specific skills and a fallback sync, missing the general requirement to publish all changed skills."}

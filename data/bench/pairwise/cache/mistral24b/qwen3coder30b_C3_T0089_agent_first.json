@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the pre-commit run --all-files step and has the correct triggers for PRs and the default branch."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is better because it's designed as a reusable workflow as requested, and includes `--frozen-lockfile` for more reliable dependency installation."}

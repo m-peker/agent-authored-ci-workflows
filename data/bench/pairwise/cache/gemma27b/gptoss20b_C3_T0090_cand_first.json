@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B more completely isolates and focuses on CockroachDB tests, disabling other databases as requested, and includes a manual trigger option."}

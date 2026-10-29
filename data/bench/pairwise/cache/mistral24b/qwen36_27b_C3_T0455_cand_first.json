@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the GitHub Pages deployment actions and adjusts the base path for relative deployments, while Workflow B pushes to a branch directly which is not the requested approach."}

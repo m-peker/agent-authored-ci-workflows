@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly builds and runs the tests as described in the request, while workflow B attempts to install FPCUnit which is already part of FPC and has unnecessary steps."}

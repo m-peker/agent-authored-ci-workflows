@@ -1,0 +1,9 @@
+group,versions,run_cov_pct,with_runs,failure_pct,startup_failure_pct,fail_if_breaking_pct,median_minutes,fail_if_clean_pct
+Claude_Code,14053,19.0,2670,31.8,0.2,70.6,0.6,27.1
+Copilot,4554,18.3,835,31.1,1.6,62.7,1.1,23.8
+Cursor,1647,7.7,127,26.0,0.0,52.9,0.9,21.8
+Devin,1527,4.5,69,13.0,1.4,33.3,0.3,12.1
+Google_Jules,118,33.1,39,43.6,0.0,63.6,1.2,35.7
+Human,1411,37.8,534,29.6,0.7,74.6,1.1,24.0
+Human_modified,15692,45.8,7183,22.1,0.2,32.3,5.5,19.8
+OpenAI_Codex,2080,14.9,310,39.0,0.3,80.9,1.1,31.6

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the fork PR exclusion logic by checking the `same-repo` metadata, while workflow B does not, potentially deploying previews from forks."}

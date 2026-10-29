@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request to support node24 by using `actions/setup-node@v4` with `node-version: '24'`, while workflow A doesn't update the node version and focuses on general setup steps."}

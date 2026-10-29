@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on version tags, uses the specified targets, and uploads binaries directly to the release, while Workflow B has unnecessary complexity and triggers."}

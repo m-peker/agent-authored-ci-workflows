@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core issue of symlinks breaking during installation with a validation step, and its simpler structure makes it more focused on the requested fix."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the requested trigger for pushes to main and uses the correct version of the autofix-ci action."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on fork PRs and includes all requested jobs and steps with sensible use of actions."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the core request by moving coverage to a scheduled job and reducing the PR test matrix, while workflow B simply reuses an existing test workflow without implementing the requested changes."}

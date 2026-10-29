@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses running the `bats` test suite as implied by the repository's test files, while workflow B attempts to run a shell script that isn't clearly a test runner and installs an unrelated dependency."}

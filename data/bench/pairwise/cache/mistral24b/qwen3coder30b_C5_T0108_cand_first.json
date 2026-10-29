@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements manual release triggering and Go snapshot version support, while Workflow B incorrectly uses semantic-release and Node.js."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B directly addresses the request by adding a `publish` step (albeit a no-op via `npm run publish`) to trigger GitHub release creation with the `createGithubReleases` option."}

@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B uses a more modern checkout action (v4) and a dedicated auto-commit action, streamlining the potential for automated fixes, while both workflows correctly implement the core linting request."}

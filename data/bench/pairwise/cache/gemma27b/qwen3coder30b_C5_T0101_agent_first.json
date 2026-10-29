@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses `actions/deploy-pages@v4` which is the recommended action for deploying to GitHub Pages, and specifies the correct path to the built documentation, while B uses a deprecated action and an incorrect path."}

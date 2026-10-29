@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the `python/vercel-runtime` directory and uses `uv` for dependency management as indicated by the repository's setup, while workflow B appears to be a more generic Python test and doesn't reflect the project's specific tooling."}

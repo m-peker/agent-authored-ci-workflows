@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by using environment variables and a JavaScript implementation, avoiding the vulnerable bash heredoc approach, while workflow B reintroduces the vulnerability with heredocs."}

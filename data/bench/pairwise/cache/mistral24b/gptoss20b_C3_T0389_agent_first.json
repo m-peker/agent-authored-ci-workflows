@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly triggers on mesh version bumps and studio changes, while Workflow B triggers on tags which is not mentioned in the request."}

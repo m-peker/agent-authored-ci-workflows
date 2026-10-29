@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A attempts to cover more aspects of the request, including security hardening (linting, testing, prod mode verification) and trust features (deterministic replay bundles), while workflow B focuses almost exclusively on the benchmark itself."}

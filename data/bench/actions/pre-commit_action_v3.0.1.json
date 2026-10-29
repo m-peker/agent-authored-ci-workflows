@@ -1,0 +1,1 @@
+{"action": "pre-commit/action", "ref": "v3.0.1", "exists": true, "name": "pre-commit", "description": "run pre-commit", "inputs": {"extra_args": {"required": false, "default": "--all-files", "description": "options to pass to pre-commit run"}}, "outputs": []}

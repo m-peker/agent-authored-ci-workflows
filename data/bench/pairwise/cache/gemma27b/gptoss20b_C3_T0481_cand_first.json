@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request to fix zizmor findings by running zizmor, while workflow B uses a custom script and doesn't demonstrate zizmor integration."}

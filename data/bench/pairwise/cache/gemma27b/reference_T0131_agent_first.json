@@ -1,0 +1,1 @@
+{"winner": "TIE", "reason": "Both workflows correctly implement the requested trigger, jobs, steps, and use of `nix develop` to run the release script, and have the necessary permissions, making them equally viable."}

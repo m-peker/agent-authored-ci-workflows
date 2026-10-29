@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly uses the `changesets/action` with the `publish` option to trigger the full release process including changelog generation, while B only attempts to run the versioning script."}

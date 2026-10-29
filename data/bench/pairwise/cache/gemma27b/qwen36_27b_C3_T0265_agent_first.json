@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A is more aligned with the request's need for multiple CI checks (lint, format, tsc) and a build step, while B only covers lint and typecheck and has a restrictive trigger."}

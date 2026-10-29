@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B checks for changes in rule type parameters and comments on PRs, while Workflow A only comments on changes to a specific snapshot file."}

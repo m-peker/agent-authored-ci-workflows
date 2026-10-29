@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes a complete build and test phase before deployment, and correctly uploads artifacts, while B has an outdated .NET version and lacks a build/test step before publishing."}

@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A includes test and lint result reporting, which is a best practice for CI and provides more visibility into failures, while workflow B lacks this."}

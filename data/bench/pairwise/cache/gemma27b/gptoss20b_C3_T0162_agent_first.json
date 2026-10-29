@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B is more concise, uses caching for pip dependencies, and the Mojo linting check is more efficient and directly checks for missing imports/exports."}

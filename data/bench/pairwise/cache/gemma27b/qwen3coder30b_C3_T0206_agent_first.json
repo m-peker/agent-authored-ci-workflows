@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A directly addresses the request by building and releasing artifacts for multiple targets, including generating bindings and Python wheels, while workflow B focuses on basic CI checks and tests without the requested build and release functionality."}

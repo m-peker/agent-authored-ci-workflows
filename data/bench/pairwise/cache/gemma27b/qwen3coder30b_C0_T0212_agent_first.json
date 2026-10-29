@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the build matrix for both variants and includes a check to conditionally build based on manual triggers, while workflow B has an excessively long dependency list and lacks the conditional build logic."}

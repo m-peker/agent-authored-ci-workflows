@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements all requested steps, including installing Dart/Flutter, running `pub get` for each package, and configuring the Dart workspace, while workflow B only installs Dart/Flutter and runs a single `pub get`."}

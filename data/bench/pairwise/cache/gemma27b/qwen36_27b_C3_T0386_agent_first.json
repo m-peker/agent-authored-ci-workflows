@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly targets the `frontend/**` directory and uses Biome as requested, while workflow B uses ESLint and Prettier which are not mentioned in the request."}

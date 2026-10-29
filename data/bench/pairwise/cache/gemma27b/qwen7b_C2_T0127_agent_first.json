@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the trigger for PRs opened against `main` and supports manual reviews with `@claude review`, while also providing a detailed `project_context` as requested, unlike Workflow B which creates files unnecessarily."}

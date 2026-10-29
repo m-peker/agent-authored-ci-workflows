@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B includes the `autobuild` step which is necessary for CodeQL analysis of JavaScript projects, while Workflow A does not, making it less likely to work without additional configuration."}

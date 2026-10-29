@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly sets up .NET 10.0, builds the solution, and runs tests on PRs with the correct triggers and permissions."}

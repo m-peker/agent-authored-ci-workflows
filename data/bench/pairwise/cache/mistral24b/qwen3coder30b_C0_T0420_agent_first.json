@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly authenticates as octavia-bot using GitHub App credentials and follows the exact steps outlined in the request, including proper PR creation with the required labels."}

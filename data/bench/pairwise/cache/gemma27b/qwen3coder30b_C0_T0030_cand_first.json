@@ -1,0 +1,1 @@
+{"winner": "A", "reason": "Workflow A correctly implements the branch restriction and bot-author check as specified in the request, while B lacks the branch restriction and uses a less direct call to the action."}

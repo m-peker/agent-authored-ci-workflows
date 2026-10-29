@@ -1,0 +1,1 @@
+{"winner": "B", "reason": "Workflow B correctly implements a manual trigger and includes a check for existing candidate branches, and crucially triggers the `release-please` workflow as requested."}
